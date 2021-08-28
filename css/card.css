@@ -198,7 +198,7 @@
 /* Card selection */
 .card-container.selected .card-highlight {
     top: -3px;
-    height: 107px;
+    height: 111px;
 }
 
 .card-selected {
