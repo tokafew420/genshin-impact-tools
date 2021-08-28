@@ -1,0 +1,127 @@
+:root {
+    --content-background-color: rgba(32, 32, 32, .8);
+    --content-text-color: #f5f5f5;
+    --content-text-accent-color: 234, 215, 177;
+    --content-text-dark-primary-color: rgb(73, 83, 102);
+    --content-text-dark-secodnary-color: rgb(160, 167, 171);
+    --content-link-color: rgb(38, 166, 154);
+    --content-link-color-hover: rgb(52, 234, 218);
+}
+
+@font-face {
+    font-family: "Genshin";
+    font-style: normal;
+    font-weight: normal;
+    src: url(./../font/Genshin_Impact_Font.font-woff) format("truetype")
+}
+
+a {
+    color: var(--content-link-color);
+    text-decoration: none;
+    transition: color 0.3s ease 0s;
+}
+
+a:hover {
+    color: #34eada;
+    text-decoration: underline;
+}
+
+.table td {
+    text-align: center;
+}
+
+.font-accent {
+    color: rgb(var(--content-text-accent-color)) !important;
+}
+
+.font-primary-dark {
+    color: var(--content-text-dark-primary-color) !important;
+}
+
+.font-secondary-dark {
+    color: var(--content-text-dark-secodnary-color) !important;
+}
+
+html, body {
+    font-family: "Genshin", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    background-size: cover;
+    overflow-x: hidden;
+    padding-bottom: 55px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(./../img/background.jpg);
+    color: var(--content-text-color);
+}
+
+.page-container {
+    margin-top: 55px;
+}
+
+.section {
+    background-color: var(--content-background-color);
+    padding-top: 10px;
+    z-index: 200;
+}
+
+.section-container {
+    padding: 0px 24px 24px;
+}
+
+.section-header {
+    -webkit-font-smoothing: antialiased;
+    align-items: flex-start;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    z-index: 200;
+    padding: 16px 0px 12px;
+}
+
+.section-header-container {
+    align-self: flex-end;
+    flex-grow: 1;
+    max-width: 100%;
+    min-width: 0px;
+}
+
+.section-header-title {
+    word-wrap: break-word;
+    align-items: flex-end;
+    color: rgb(var(--content-text-accent-color));
+    display: inline-block;
+    line-height: 1;
+    max-width: 100%;
+}
+
+.section-toggle-collapse {
+    font-size: 14px;
+    float: right;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.section-toggle-collapse:before {
+    content: '[';
+    font-size: 14px;
+}
+
+.section-toggle-collapse:after {
+    content: ']';
+    font-size: 14px;
+}
+
+.calculate-level-table {
+    font-size: 12px;
+}
+
+#calculator-calculation .table.calculate-level-table th {
+    background-color: rgb(0 0 0 / 20%);
+}
+
+.calculate-level-table td {
+    padding: 0;
+}

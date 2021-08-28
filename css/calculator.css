@@ -1,0 +1,8 @@
+.calculate-level-table.constellation-3  .constellation-3,
+.calculate-level-table.constellation-4  .constellation-3,
+.calculate-level-table.constellation-5  .constellation-3,
+.calculate-level-table.constellation-5  .constellation-5,
+.calculate-level-table.constellation-6  .constellation-3,
+.calculate-level-table.constellation-6  .constellation-5 {
+    color: var(--content-link-color);
+}

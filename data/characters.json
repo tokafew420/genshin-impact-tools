@@ -1,0 +1,3357 @@
+{
+    "version": "2021-08-05",
+    "data": [{
+        "object_type": "character",
+        "name": "Albedo",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Favonius Bladework - Weiss",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Favonius_Bladework_-_Weiss.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Favonius_Bladework_-_Weiss"
+        }, {
+            "object_type": "talent",
+            "name": "Abiogenesis: Solar Isotoma",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Abiogenesis_Solar_Isotoma.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Abiogenesis:_Solar_Isotoma",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Rite of Progeniture: Tectonic Tide",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Rite_of_Progeniture_Tectonic_Tide.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rite_of_Progeniture:_Tectonic_Tide",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Calcite Might",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Calcite_Might.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Calcite_Might"
+        }, {
+            "object_type": "talent",
+            "name": "Homuncular Nature",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Homuncular_Nature.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Homuncular_Nature"
+        }, {
+            "object_type": "talent",
+            "name": "Flash of Genius (Albedo)",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Flash_of_Genius_(Albedo).png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flash_of_Genius_(Albedo)"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Flower of Eden",
+            "level": 1,
+            "thumbnail": "Constellation_Flower_of_Eden.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flower_of_Eden"
+        }, {
+            "object_type": "constellation",
+            "name": "Opening of Phanerozoic",
+            "level": 2,
+            "thumbnail": "Constellation_Opening_of_Phanerozoic.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Opening_of_Phanerozoic"
+        }, {
+            "object_type": "constellation",
+            "name": "Grace of Helios",
+            "level": 3,
+            "thumbnail": "Constellation_Grace_of_Helios.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Grace_of_Helios"
+        }, {
+            "object_type": "constellation",
+            "name": "Descent of Divinity",
+            "level": 4,
+            "thumbnail": "Constellation_Descent_of_Divinity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Descent_of_Divinity"
+        }, {
+            "object_type": "constellation",
+            "name": "Tide of Hadean",
+            "level": 5,
+            "thumbnail": "Constellation_Tide_of_Hadean.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tide_of_Hadean"
+        }, {
+            "object_type": "constellation",
+            "name": "Dust of Purification",
+            "level": 6,
+            "thumbnail": "Constellation_Dust_of_Purification.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dust_of_Purification"
+        }],
+        "thumbnail": "Character_Albedo_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Albedo"
+    }, {
+        "object_type": "character",
+        "name": "Amber",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Sharpshooter",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Sharpshooter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sharpshooter"
+        }, {
+            "object_type": "talent",
+            "name": "Explosive Puppet",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Explosive_Puppet.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Explosive_Puppet",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Fiery Rain",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Fiery_Rain.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fiery_Rain",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Every Arrow Finds Its Target",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Every_Arrow_Finds_Its_Target.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Every_Arrow_Finds_Its_Target"
+        }, {
+            "object_type": "talent",
+            "name": "Precise Shot",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Precise_Shot.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Precise_Shot"
+        }, {
+            "object_type": "talent",
+            "name": "Gliding Champion",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Gliding_Champion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gliding_Champion"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "One Arrow to Rule Them All",
+            "level": 1,
+            "thumbnail": "Constellation_One_Arrow_to_Rule_Them_All.png",
+            "link": "https://genshin-impact.fandom.com/wiki/One_Arrow_to_Rule_Them_All"
+        }, {
+            "object_type": "constellation",
+            "name": "Bunny Triggered",
+            "level": 2,
+            "thumbnail": "Constellation_Bunny_Triggered.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bunny_Triggered"
+        }, {
+            "object_type": "constellation",
+            "name": "It Burns!",
+            "level": 3,
+            "thumbnail": "Constellation_It_Burns!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/It_Burns!"
+        }, {
+            "object_type": "constellation",
+            "name": "It's Not Just Any Doll...",
+            "level": 4,
+            "thumbnail": "Constellation_It's_Not_Just_Any_Doll....png",
+            "link": "https://genshin-impact.fandom.com/wiki/It's_Not_Just_Any_Doll..."
+        }, {
+            "object_type": "constellation",
+            "name": "It's Baron Bunny!",
+            "level": 5,
+            "thumbnail": "Constellation_It's_Baron_Bunny!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/It's_Baron_Bunny!"
+        }, {
+            "object_type": "constellation",
+            "name": "Wildfire",
+            "level": 6,
+            "thumbnail": "Constellation_Wildfire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wildfire"
+        }],
+        "thumbnail": "Character_Amber_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Amber"
+    }, {
+        "object_type": "character",
+        "name": "Barbara",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Whisper of Water",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Whisper_of_Water.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Whisper_of_Water"
+        }, {
+            "object_type": "talent",
+            "name": "Let the Show Begin♪",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Let_the_Show_Begin♪.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Let_the_Show_Begin♪",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Shining Miracle♪",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Shining_Miracle♪.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shining_Miracle♪",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Glorious Season",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Glorious_Season.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Glorious_Season"
+        }, {
+            "object_type": "talent",
+            "name": "Encore",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Encore.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Encore"
+        }, {
+            "object_type": "talent",
+            "name": "With My Whole Heart♪",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_With_My_Whole_Heart♪.png",
+            "link": "https://genshin-impact.fandom.com/wiki/With_My_Whole_Heart♪"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Gleeful Songs",
+            "level": 1,
+            "thumbnail": "Constellation_Gleeful_Songs.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gleeful_Songs"
+        }, {
+            "object_type": "constellation",
+            "name": "Vitality Burst",
+            "level": 2,
+            "thumbnail": "Constellation_Vitality_Burst.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Vitality_Burst"
+        }, {
+            "object_type": "constellation",
+            "name": "Star of Tomorrow",
+            "level": 3,
+            "thumbnail": "Constellation_Star_of_Tomorrow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Star_of_Tomorrow"
+        }, {
+            "object_type": "constellation",
+            "name": "Attentiveness be My Power",
+            "level": 4,
+            "thumbnail": "Constellation_Attentiveness_be_My_Power.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Attentiveness_be_My_Power"
+        }, {
+            "object_type": "constellation",
+            "name": "The Purest Companionship",
+            "level": 5,
+            "thumbnail": "Constellation_The_Purest_Companionship.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Purest_Companionship"
+        }, {
+            "object_type": "constellation",
+            "name": "Dedicating Everything to You",
+            "level": 6,
+            "thumbnail": "Constellation_Dedicating_Everything_to_You.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dedicating_Everything_to_You"
+        }],
+        "thumbnail": "Character_Barbara_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Barbara"
+    }, {
+        "object_type": "character",
+        "name": "Beidou",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Oceanborne",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Oceanborne.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Oceanborne"
+        }, {
+            "object_type": "talent",
+            "name": "Tidecaller",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Tidecaller.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tidecaller",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Stormbreaker",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Stormbreaker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stormbreaker",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Retribution",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Retribution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Retribution"
+        }, {
+            "object_type": "talent",
+            "name": "Lightning Storm",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Lightning_Storm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lightning_Storm"
+        }, {
+            "object_type": "talent",
+            "name": "Conqueror of Tides",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Conqueror_of_Tides.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Conqueror_of_Tides"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Sea Beast's Scourge",
+            "level": 1,
+            "thumbnail": "Constellation_Sea_Beast's_Scourge.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sea_Beast's_Scourge"
+        }, {
+            "object_type": "constellation",
+            "name": "Upon the Turbulent Sea, the Thunder Arises",
+            "level": 2,
+            "thumbnail": "Constellation_Upon_the_Turbulent_Sea,_the_Thunder_Arises.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Upon_the_Turbulent_Sea,_the_Thunder_Arises"
+        }, {
+            "object_type": "constellation",
+            "name": "Summoner of Storm",
+            "level": 3,
+            "thumbnail": "Constellation_Summoner_of_Storm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Summoner_of_Storm"
+        }, {
+            "object_type": "constellation",
+            "name": "Stunning Revenge",
+            "level": 4,
+            "thumbnail": "Constellation_Stunning_Revenge.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stunning_Revenge"
+        }, {
+            "object_type": "constellation",
+            "name": "Crimson Tidewalker",
+            "level": 5,
+            "thumbnail": "Constellation_Crimson_Tidewalker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crimson_Tidewalker"
+        }, {
+            "object_type": "constellation",
+            "name": "Bane of Evil",
+            "level": 6,
+            "thumbnail": "Constellation_Bane_of_Evil.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bane_of_Evil"
+        }],
+        "thumbnail": "Character_Beidou_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Beidou"
+    }, {
+        "object_type": "character",
+        "name": "Bennett",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Strike of Fortune",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Strike_of_Fortune.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Strike_of_Fortune"
+        }, {
+            "object_type": "talent",
+            "name": "Passion Overload",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Passion_Overload.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Passion_Overload",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Fantastic Voyage",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Fantastic_Voyage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fantastic_Voyage",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Rekindle",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Rekindle.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rekindle"
+        }, {
+            "object_type": "talent",
+            "name": "Fearnaught",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Fearnaught.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fearnaught"
+        }, {
+            "object_type": "talent",
+            "name": "It Should Be Safe...",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_It_Should_Be_Safe....png",
+            "link": "https://genshin-impact.fandom.com/wiki/It_Should_Be_Safe..."
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Grand Expectation",
+            "level": 1,
+            "thumbnail": "Constellation_Grand_Expectation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Grand_Expectation"
+        }, {
+            "object_type": "constellation",
+            "name": "Impasse Conqueror",
+            "level": 2,
+            "thumbnail": "Constellation_Impasse_Conqueror.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Impasse_Conqueror"
+        }, {
+            "object_type": "constellation",
+            "name": "Unstoppable Fervor",
+            "level": 3,
+            "thumbnail": "Constellation_Unstoppable_Fervor.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unstoppable_Fervor"
+        }, {
+            "object_type": "constellation",
+            "name": "Unexpected Odyssey",
+            "level": 4,
+            "thumbnail": "Constellation_Unexpected_Odyssey.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unexpected_Odyssey"
+        }, {
+            "object_type": "constellation",
+            "name": "True Explorer",
+            "level": 5,
+            "thumbnail": "Constellation_True_Explorer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/True_Explorer"
+        }, {
+            "object_type": "constellation",
+            "name": "Fire Ventures with Me",
+            "level": 6,
+            "thumbnail": "Constellation_Fire_Ventures_with_Me.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fire_Ventures_with_Me"
+        }],
+        "thumbnail": "Character_Bennett_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Bennett"
+    }, {
+        "object_type": "character",
+        "name": "Chongyun",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Demonbane",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Demonbane.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Demonbane"
+        }, {
+            "object_type": "talent",
+            "name": "Spirit Blade: Chonghua's Layered Frost",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Spirit_Blade_Chonghua's_Layered_Frost.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit_Blade:_Chonghua's_Layered_Frost",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Spirit Blade: Cloud-Parting Star",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Spirit_Blade_Cloud-Parting_Star.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit_Blade:_Cloud-Parting_Star",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Steady Breathing",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Steady_Breathing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Steady_Breathing"
+        }, {
+            "object_type": "talent",
+            "name": "Rimechaser Blade",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Rimechaser_Blade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rimechaser_Blade"
+        }, {
+            "object_type": "talent",
+            "name": "Gallant Journey",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Gallant_Journey.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gallant_Journey"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Ice Unleashed",
+            "level": 1,
+            "thumbnail": "Constellation_Ice_Unleashed.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ice_Unleashed"
+        }, {
+            "object_type": "constellation",
+            "name": "Atmospheric Revolution",
+            "level": 2,
+            "thumbnail": "Constellation_Atmospheric_Revolution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Atmospheric_Revolution"
+        }, {
+            "object_type": "constellation",
+            "name": "Cloudburst",
+            "level": 3,
+            "thumbnail": "Constellation_Cloudburst.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cloudburst"
+        }, {
+            "object_type": "constellation",
+            "name": "Frozen Skies",
+            "level": 4,
+            "thumbnail": "Constellation_Frozen_Skies.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frozen_Skies"
+        }, {
+            "object_type": "constellation",
+            "name": "The True Path",
+            "level": 5,
+            "thumbnail": "Constellation_The_True_Path.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_True_Path"
+        }, {
+            "object_type": "constellation",
+            "name": "Rally of Four Blades",
+            "level": 6,
+            "thumbnail": "Constellation_Rally_of_Four_Blades.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rally_of_Four_Blades"
+        }],
+        "thumbnail": "Character_Chongyun_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chongyun"
+    }, {
+        "object_type": "character",
+        "name": "Diluc",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Tempered Sword",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Tempered_Sword.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tempered_Sword"
+        }, {
+            "object_type": "talent",
+            "name": "Searing Onslaught",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Searing_Onslaught.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Searing_Onslaught",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Dawn",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Dawn.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dawn",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Relentless",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Relentless.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Relentless"
+        }, {
+            "object_type": "talent",
+            "name": "Blessing of Phoenix",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Blessing_of_Phoenix.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blessing_of_Phoenix"
+        }, {
+            "object_type": "talent",
+            "name": "Tradition of the Dawn Knight",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Tradition_of_the_Dawn_Knight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tradition_of_the_Dawn_Knight"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Conviction",
+            "level": 1,
+            "thumbnail": "Constellation_Conviction.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Conviction"
+        }, {
+            "object_type": "constellation",
+            "name": "Searing Ember",
+            "level": 2,
+            "thumbnail": "Constellation_Searing_Ember.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Searing_Ember"
+        }, {
+            "object_type": "constellation",
+            "name": "Fire and Steel",
+            "level": 3,
+            "thumbnail": "Constellation_Fire_and_Steel.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fire_and_Steel"
+        }, {
+            "object_type": "constellation",
+            "name": "Flowing Flame",
+            "level": 4,
+            "thumbnail": "Constellation_Flowing_Flame.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flowing_Flame"
+        }, {
+            "object_type": "constellation",
+            "name": "Phoenix, Harbinger of Dawn",
+            "level": 5,
+            "thumbnail": "Constellation_Phoenix,_Harbinger_of_Dawn.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Phoenix,_Harbinger_of_Dawn"
+        }, {
+            "object_type": "constellation",
+            "name": "Flaming Sword, Nemesis of the Dark",
+            "level": 6,
+            "thumbnail": "Constellation_Flaming_Sword,_Nemesis_of_the_Dark.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flaming_Sword,_Nemesis_of_the_Dark"
+        }],
+        "thumbnail": "Character_Diluc_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Diluc"
+    }, {
+        "object_type": "character",
+        "name": "Diona",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Kätzlein Style",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Kätzlein_Style.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kätzlein_Style"
+        }, {
+            "object_type": "talent",
+            "name": "Icy Paws",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Icy_Paws.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Icy_Paws",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Signature Mix",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Signature_Mix.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Signature_Mix",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Cat's Tail Secret Menu",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Cat's_Tail_Secret_Menu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cat's_Tail_Secret_Menu"
+        }, {
+            "object_type": "talent",
+            "name": "Drunkards' Farce",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Drunkards'_Farce.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Drunkards'_Farce"
+        }, {
+            "object_type": "talent",
+            "name": "Complimentary Bar Food",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Complimentary_Bar_Food.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Complimentary_Bar_Food"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "A Lingering Flavor",
+            "level": 1,
+            "thumbnail": "Constellation_A_Lingering_Flavor.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Lingering_Flavor"
+        }, {
+            "object_type": "constellation",
+            "name": "Shaken, Not Purred",
+            "level": 2,
+            "thumbnail": "Constellation_Shaken,_Not_Purred.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shaken,_Not_Purred"
+        }, {
+            "object_type": "constellation",
+            "name": "A-Another Round?",
+            "level": 3,
+            "thumbnail": "Constellation_A-Another_Round?.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A-Another_Round?"
+        }, {
+            "object_type": "constellation",
+            "name": "Wine Industry Slayer",
+            "level": 4,
+            "thumbnail": "Constellation_Wine_Industry_Slayer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wine_Industry_Slayer"
+        }, {
+            "object_type": "constellation",
+            "name": "Double Shot, On The Rocks",
+            "level": 5,
+            "thumbnail": "Constellation_Double_Shot,_On_The_Rocks.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Double_Shot,_On_The_Rocks"
+        }, {
+            "object_type": "constellation",
+            "name": "Cat's Tail Closing Time",
+            "level": 6,
+            "thumbnail": "Constellation_Cat's_Tail_Closing_Time.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cat's_Tail_Closing_Time"
+        }],
+        "thumbnail": "Character_Diona_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Diona"
+    }, {
+        "object_type": "character",
+        "name": "Eula",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Favonius Bladework - Edel",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Favonius_Bladework_-_Edel.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Favonius_Bladework_-_Edel"
+        }, {
+            "object_type": "talent",
+            "name": "Icetide Vortex",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Icetide_Vortex.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Icetide_Vortex",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Glacial Illumination",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Glacial_Illumination.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Glacial_Illumination",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Roiling Rime",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Roiling_Rime.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Roiling_Rime"
+        }, {
+            "object_type": "talent",
+            "name": "Wellspring of War-Lust",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Wellspring_of_War-Lust.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wellspring_of_War-Lust"
+        }, {
+            "object_type": "talent",
+            "name": "Aristocratic Introspection",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Aristocratic_Introspection.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Aristocratic_Introspection"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Tidal Illusion",
+            "level": 1,
+            "thumbnail": "Constellation_Tidal_Illusion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tidal_Illusion"
+        }, {
+            "object_type": "constellation",
+            "name": "Lady of Seafoam",
+            "level": 2,
+            "thumbnail": "Constellation_Lady_of_Seafoam.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lady_of_Seafoam"
+        }, {
+            "object_type": "constellation",
+            "name": "Lawrence Pedigree",
+            "level": 3,
+            "thumbnail": "Constellation_Lawrence_Pedigree.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lawrence_Pedigree"
+        }, {
+            "object_type": "constellation",
+            "name": "The Obstinacy of One's Inferiors",
+            "level": 4,
+            "thumbnail": "Constellation_The_Obstinacy_of_One's_Inferiors.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Obstinacy_of_One's_Inferiors"
+        }, {
+            "object_type": "constellation",
+            "name": "Chivalric Quality",
+            "level": 5,
+            "thumbnail": "Constellation_Chivalric_Quality.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Chivalric_Quality"
+        }, {
+            "object_type": "constellation",
+            "name": "Noble Obligation",
+            "level": 6,
+            "thumbnail": "Constellation_Noble_Obligation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Noble_Obligation"
+        }],
+        "thumbnail": "Character_Eula_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Eula"
+    }, {
+        "object_type": "character",
+        "name": "Fischl",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Bolts of Downfall",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Bolts_of_Downfall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bolts_of_Downfall"
+        }, {
+            "object_type": "talent",
+            "name": "Nightrider",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Nightrider.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nightrider",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Midnight Phantasmagoria",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Midnight_Phantasmagoria.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Midnight_Phantasmagoria",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Stellar Predator",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Stellar_Predator.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stellar_Predator"
+        }, {
+            "object_type": "talent",
+            "name": "Undone Be Thy Sinful Hex",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Undone_Be_Thy_Sinful_Hex.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Undone_Be_Thy_Sinful_Hex"
+        }, {
+            "object_type": "talent",
+            "name": "Mein Hausgarten",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Mein_Hausgarten.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mein_Hausgarten"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Gaze of the Deep",
+            "level": 1,
+            "thumbnail": "Constellation_Gaze_of_the_Deep.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gaze_of_the_Deep"
+        }, {
+            "object_type": "constellation",
+            "name": "Devourer of All Sins",
+            "level": 2,
+            "thumbnail": "Constellation_Devourer_of_All_Sins.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Devourer_of_All_Sins"
+        }, {
+            "object_type": "constellation",
+            "name": "Wings of Nightmare",
+            "level": 3,
+            "thumbnail": "Constellation_Wings_of_Nightmare.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wings_of_Nightmare"
+        }, {
+            "object_type": "constellation",
+            "name": "Her Pilgrimage of Bleak",
+            "level": 4,
+            "thumbnail": "Constellation_Her_Pilgrimage_of_Bleak.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Her_Pilgrimage_of_Bleak"
+        }, {
+            "object_type": "constellation",
+            "name": "Against the Fleeing Light",
+            "level": 5,
+            "thumbnail": "Constellation_Against_the_Fleeing_Light.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Against_the_Fleeing_Light"
+        }, {
+            "object_type": "constellation",
+            "name": "Evernight Raven",
+            "level": 6,
+            "thumbnail": "Constellation_Evernight_Raven.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Evernight_Raven"
+        }],
+        "thumbnail": "Character_Fischl_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fischl"
+    }, {
+        "object_type": "character",
+        "name": "Ganyu",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Bow",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Liutian Archery",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Liutian_Archery.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Liutian_Archery"
+        }, {
+            "object_type": "talent",
+            "name": "Trail of the Qilin",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Trail_of_the_Qilin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Trail_of_the_Qilin",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Celestial Shower",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Celestial_Shower.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Celestial_Shower",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Undivided Heart",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Undivided_Heart.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Undivided_Heart"
+        }, {
+            "object_type": "talent",
+            "name": "Harmony between Heaven and Earth",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Harmony_between_Heaven_and_Earth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Harmony_between_Heaven_and_Earth"
+        }, {
+            "object_type": "talent",
+            "name": "Preserved for the Hunt",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Preserved_for_the_Hunt.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Preserved_for_the_Hunt"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Dew-Drinker",
+            "level": 1,
+            "thumbnail": "Constellation_Dew-Drinker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dew-Drinker"
+        }, {
+            "object_type": "constellation",
+            "name": "The Auspicious",
+            "level": 2,
+            "thumbnail": "Constellation_The_Auspicious.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Auspicious"
+        }, {
+            "object_type": "constellation",
+            "name": "Cloud-Strider",
+            "level": 3,
+            "thumbnail": "Constellation_Cloud-Strider.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cloud-Strider"
+        }, {
+            "object_type": "constellation",
+            "name": "Westward Sojourn",
+            "level": 4,
+            "thumbnail": "Constellation_Westward_Sojourn.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Westward_Sojourn"
+        }, {
+            "object_type": "constellation",
+            "name": "The Merciful",
+            "level": 5,
+            "thumbnail": "Constellation_The_Merciful.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Merciful"
+        }, {
+            "object_type": "constellation",
+            "name": "The Clement",
+            "level": 6,
+            "thumbnail": "Constellation_The_Clement.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Clement"
+        }],
+        "thumbnail": "Character_Ganyu_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ganyu"
+    }, {
+        "object_type": "character",
+        "name": "Hu Tao",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Secret Spear of Wangsheng",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Secret_Spear_of_Wangsheng.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Secret_Spear_of_Wangsheng"
+        }, {
+            "object_type": "talent",
+            "name": "Guide to Afterlife",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Guide_to_Afterlife.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Afterlife",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Spirit Soother",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Spirit_Soother.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit_Soother",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Flutter By",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Flutter_By.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flutter_By"
+        }, {
+            "object_type": "talent",
+            "name": "Sanguine Rouge",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Sanguine_Rouge.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sanguine_Rouge"
+        }, {
+            "object_type": "talent",
+            "name": "The More the Merrier",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_More_the_Merrier.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_More_the_Merrier"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Crimson Bouquet",
+            "level": 1,
+            "thumbnail": "Constellation_Crimson_Bouquet.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crimson_Bouquet"
+        }, {
+            "object_type": "constellation",
+            "name": "Ominous Rainfall",
+            "level": 2,
+            "thumbnail": "Constellation_Ominous_Rainfall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ominous_Rainfall"
+        }, {
+            "object_type": "constellation",
+            "name": "Lingering Carmine",
+            "level": 3,
+            "thumbnail": "Constellation_Lingering_Carmine.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lingering_Carmine"
+        }, {
+            "object_type": "constellation",
+            "name": "Garden of Eternal Rest",
+            "level": 4,
+            "thumbnail": "Constellation_Garden_of_Eternal_Rest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Garden_of_Eternal_Rest"
+        }, {
+            "object_type": "constellation",
+            "name": "Floral Incense",
+            "level": 5,
+            "thumbnail": "Constellation_Floral_Incense.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Floral_Incense"
+        }, {
+            "object_type": "constellation",
+            "name": "Butterfly's Embrace",
+            "level": 6,
+            "thumbnail": "Constellation_Butterfly's_Embrace.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Butterfly's_Embrace"
+        }],
+        "thumbnail": "Character_Hu_Tao_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
+    }, {
+        "object_type": "character",
+        "name": "Jean",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Favonius Bladework",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Favonius_Bladework.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Favonius_Bladework"
+        }, {
+            "object_type": "talent",
+            "name": "Gale Blade",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Gale_Blade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gale_Blade",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Dandelion Breeze",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Dandelion_Breeze.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dandelion_Breeze",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Wind Companion",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Wind_Companion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wind_Companion"
+        }, {
+            "object_type": "talent",
+            "name": "Let the Wind Lead",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Let_the_Wind_Lead.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Let_the_Wind_Lead"
+        }, {
+            "object_type": "talent",
+            "name": "Guiding Breeze",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Guiding_Breeze.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guiding_Breeze"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Spiraling Tempest",
+            "level": 1,
+            "thumbnail": "Constellation_Spiraling_Tempest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spiraling_Tempest"
+        }, {
+            "object_type": "constellation",
+            "name": "People's Aegis",
+            "level": 2,
+            "thumbnail": "Constellation_People's_Aegis.png",
+            "link": "https://genshin-impact.fandom.com/wiki/People's_Aegis"
+        }, {
+            "object_type": "constellation",
+            "name": "When the West Wind Arises",
+            "level": 3,
+            "thumbnail": "Constellation_When_the_West_Wind_Arises.png",
+            "link": "https://genshin-impact.fandom.com/wiki/When_the_West_Wind_Arises"
+        }, {
+            "object_type": "constellation",
+            "name": "Lands of Dandelion",
+            "level": 4,
+            "thumbnail": "Constellation_Lands_of_Dandelion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lands_of_Dandelion"
+        }, {
+            "object_type": "constellation",
+            "name": "Outbursting Gust",
+            "level": 5,
+            "thumbnail": "Constellation_Outbursting_Gust.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Outbursting_Gust"
+        }, {
+            "object_type": "constellation",
+            "name": "Lion's Fang, Fair Protector of Mondstadt",
+            "level": 6,
+            "thumbnail": "Constellation_Lion's_Fang,_Fair_Protector_of_Mondstadt.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lion's_Fang,_Fair_Protector_of_Mondstadt"
+        }],
+        "thumbnail": "Character_Jean_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Jean"
+    }, {
+        "object_type": "character",
+        "name": "Kaedehara Kazuha",
+        "type": "Character",
+        "display_name": "Kazuha",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Garyuu Bladework",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Garyuu_Bladework.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Garyuu_Bladework"
+        }, {
+            "object_type": "talent",
+            "name": "Chihayaburu",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Chihayaburu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Chihayaburu",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Kazuha Slash",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Kazuha_Slash.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kazuha_Slash",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Soumon Swordsmanship",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Soumon_Swordsmanship.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Soumon_Swordsmanship"
+        }, {
+            "object_type": "talent",
+            "name": "Poetics of Fuubutsu",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Poetics_of_Fuubutsu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Poetics_of_Fuubutsu"
+        }, {
+            "object_type": "talent",
+            "name": "Cloud Strider",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Cloud_Strider.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cloud_Strider"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Scarlet Hills",
+            "level": 1,
+            "thumbnail": "Constellation_Scarlet_Hills.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Scarlet_Hills"
+        }, {
+            "object_type": "constellation",
+            "name": "Yamaarashi Tailwind",
+            "level": 2,
+            "thumbnail": "Constellation_Yamaarashi_Tailwind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yamaarashi_Tailwind"
+        }, {
+            "object_type": "constellation",
+            "name": "Maple Monogatari",
+            "level": 3,
+            "thumbnail": "Constellation_Maple_Monogatari.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Maple_Monogatari"
+        }, {
+            "object_type": "constellation",
+            "name": "Oozora Genpou",
+            "level": 4,
+            "thumbnail": "Constellation_Oozora_Genpou.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Oozora_Genpou"
+        }, {
+            "object_type": "constellation",
+            "name": "Wisdom of Bansei",
+            "level": 5,
+            "thumbnail": "Constellation_Wisdom_of_Bansei.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wisdom_of_Bansei"
+        }, {
+            "object_type": "constellation",
+            "name": "Crimson Momiji",
+            "level": 6,
+            "thumbnail": "Constellation_Crimson_Momiji.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crimson_Momiji"
+        }],
+        "thumbnail": "Character_Kaedehara_Kazuha_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha"
+    }, {
+        "object_type": "character",
+        "name": "Kaeya",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "MondstadtKhaenri'ah",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Ceremonial Bladework",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Ceremonial_Bladework.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ceremonial_Bladework"
+        }, {
+            "object_type": "talent",
+            "name": "Frostgnaw",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Frostgnaw.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frostgnaw",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Glacial Waltz",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Glacial_Waltz.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Glacial_Waltz",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Cold-Blooded Strike",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Cold-Blooded_Strike.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cold-Blooded_Strike"
+        }, {
+            "object_type": "talent",
+            "name": "Glacial Heart",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Glacial_Heart.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Glacial_Heart"
+        }, {
+            "object_type": "talent",
+            "name": "Hidden Strength",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Hidden_Strength.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hidden_Strength"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Excellent Blood",
+            "level": 1,
+            "thumbnail": "Constellation_Excellent_Blood.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Excellent_Blood"
+        }, {
+            "object_type": "constellation",
+            "name": "Never-Ending Performance",
+            "level": 2,
+            "thumbnail": "Constellation_Never-Ending_Performance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Never-Ending_Performance"
+        }, {
+            "object_type": "constellation",
+            "name": "Dance of Frost",
+            "level": 3,
+            "thumbnail": "Constellation_Dance_of_Frost.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_of_Frost"
+        }, {
+            "object_type": "constellation",
+            "name": "Frozen Kiss",
+            "level": 4,
+            "thumbnail": "Constellation_Frozen_Kiss.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frozen_Kiss"
+        }, {
+            "object_type": "constellation",
+            "name": "Frostbiting Embrace",
+            "level": 5,
+            "thumbnail": "Constellation_Frostbiting_Embrace.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frostbiting_Embrace"
+        }, {
+            "object_type": "constellation",
+            "name": "Glacial Whirlwind",
+            "level": 6,
+            "thumbnail": "Constellation_Glacial_Whirlwind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Glacial_Whirlwind"
+        }],
+        "thumbnail": "Character_Kaeya_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kaeya"
+    }, {
+        "object_type": "character",
+        "name": "Kamisato Ayaka",
+        "display_name": "Ayaka",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Kamisato Art: Kabuki",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Kamisato_Art_Kabuki.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Kabuki"
+        }, {
+            "object_type": "talent",
+            "name": "Kamisato Art: Hyouka",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Kamisato_Art_Hyouka.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Hyouka",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Kamisato Art: Soumetsu",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Kamisato_Art_Soumetsu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Soumetsu",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Kamisato Art: Senho",
+            "type": "Alternate Sprint",
+            "thumbnail": "Talent_Kamisato_Art_Senho.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Senho"
+        }, {
+            "object_type": "talent",
+            "name": "Amatsumi Kunitsumi Sanctification",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Amatsumi_Kunitsumi_Sanctification.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Amatsumi_Kunitsumi_Sanctification"
+        }, {
+            "object_type": "talent",
+            "name": "Kanten Senmyou Blessing",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Kanten_Senmyou_Blessing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kanten_Senmyou_Blessing"
+        }, {
+            "object_type": "talent",
+            "name": "Fruits of Shinsa",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Fruits_of_Shinsa.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fruits_of_Shinsa"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Snowswept Sakura",
+            "level": 1,
+            "thumbnail": "Constellation_Snowswept_Sakura.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Snowswept_Sakura"
+        }, {
+            "object_type": "constellation",
+            "name": "Blizzard Blade Seki no To",
+            "level": 2,
+            "thumbnail": "Constellation_Blizzard_Blade_Seki_no_To.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blizzard_Blade_Seki_no_To"
+        }, {
+            "object_type": "constellation",
+            "name": "Frostbloom Kamifubuki",
+            "level": 3,
+            "thumbnail": "Constellation_Frostbloom_Kamifubuki.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frostbloom_Kamifubuki"
+        }, {
+            "object_type": "constellation",
+            "name": "Ebb and Flow",
+            "level": 4,
+            "thumbnail": "Constellation_Ebb_and_Flow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ebb_and_Flow"
+        }, {
+            "object_type": "constellation",
+            "name": "Blossom Cloud Irutsuki",
+            "level": 5,
+            "thumbnail": "Constellation_Blossom_Cloud_Irutsuki.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blossom_Cloud_Irutsuki"
+        }, {
+            "object_type": "constellation",
+            "name": "Dance of Suigetsu",
+            "level": 6,
+            "thumbnail": "Constellation_Dance_of_Suigetsu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_of_Suigetsu"
+        }],
+        "thumbnail": "Character_Kamisato_Ayaka_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayaka"
+    }, {
+        "object_type": "character",
+        "name": "Keqing",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Yunlai Swordsmanship",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Yunlai_Swordsmanship.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yunlai_Swordsmanship"
+        }, {
+            "object_type": "talent",
+            "name": "Stellar Restoration",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Stellar_Restoration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stellar_Restoration",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Starward Sword",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Starward_Sword.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Starward_Sword",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Thundering Penance",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Thundering_Penance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thundering_Penance"
+        }, {
+            "object_type": "talent",
+            "name": "Aristocratic Dignity",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Aristocratic_Dignity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Aristocratic_Dignity"
+        }, {
+            "object_type": "talent",
+            "name": "Land's Overseer",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Land's_Overseer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Land's_Overseer"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Thundering Might",
+            "level": 1,
+            "thumbnail": "Constellation_Thundering_Might.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thundering_Might"
+        }, {
+            "object_type": "constellation",
+            "name": "Keen Extraction",
+            "level": 2,
+            "thumbnail": "Constellation_Keen_Extraction.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Keen_Extraction"
+        }, {
+            "object_type": "constellation",
+            "name": "Foreseen Reformation",
+            "level": 3,
+            "thumbnail": "Constellation_Foreseen_Reformation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foreseen_Reformation"
+        }, {
+            "object_type": "constellation",
+            "name": "Attunement",
+            "level": 4,
+            "thumbnail": "Constellation_Attunement.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Attunement"
+        }, {
+            "object_type": "constellation",
+            "name": "Beckoning Stars",
+            "level": 5,
+            "thumbnail": "Constellation_Beckoning_Stars.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beckoning_Stars"
+        }, {
+            "object_type": "constellation",
+            "name": "Tenacious Star",
+            "level": 6,
+            "thumbnail": "Constellation_Tenacious_Star.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tenacious_Star"
+        }],
+        "thumbnail": "Character_Keqing_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Keqing"
+    }, {
+        "object_type": "character",
+        "name": "Klee",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Kaboom!",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Kaboom!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kaboom!"
+        }, {
+            "object_type": "talent",
+            "name": "Jumpy Dumpty",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Jumpy_Dumpty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Jumpy_Dumpty",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Sparks 'n' Splash",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Sparks_'n'_Splash.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sparks_'n'_Splash",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Pounding Surprise",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Pounding_Surprise.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pounding_Surprise"
+        }, {
+            "object_type": "talent",
+            "name": "Sparkling Burst",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Sparkling_Burst.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sparkling_Burst"
+        }, {
+            "object_type": "talent",
+            "name": "All Of My Treasures!",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_All_Of_My_Treasures!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_Of_My_Treasures!"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Chained Reactions",
+            "level": 1,
+            "thumbnail": "Constellation_Chained_Reactions.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Chained_Reactions"
+        }, {
+            "object_type": "constellation",
+            "name": "Explosive Frags",
+            "level": 2,
+            "thumbnail": "Constellation_Explosive_Frags.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Explosive_Frags"
+        }, {
+            "object_type": "constellation",
+            "name": "Exquisite Compound",
+            "level": 3,
+            "thumbnail": "Constellation_Exquisite_Compound.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Exquisite_Compound"
+        }, {
+            "object_type": "constellation",
+            "name": "Sparkly Explosion",
+            "level": 4,
+            "thumbnail": "Constellation_Sparkly_Explosion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sparkly_Explosion"
+        }, {
+            "object_type": "constellation",
+            "name": "Nova Burst",
+            "level": 5,
+            "thumbnail": "Constellation_Nova_Burst.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nova_Burst"
+        }, {
+            "object_type": "constellation",
+            "name": "Blazing Delight",
+            "level": 6,
+            "thumbnail": "Constellation_Blazing_Delight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blazing_Delight"
+        }],
+        "thumbnail": "Character_Klee_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Klee"
+    }, {
+        "object_type": "character",
+        "name": "Lisa",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Lightning Touch",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Lightning_Touch.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lightning_Touch"
+        }, {
+            "object_type": "talent",
+            "name": "Violet Arc",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Violet_Arc.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Violet_Arc",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Lightning Rose",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Lightning_Rose.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lightning_Rose",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Induced Aftershock",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Induced_Aftershock.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Induced_Aftershock"
+        }, {
+            "object_type": "talent",
+            "name": "Static Electricity Field",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Static_Electricity_Field.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Static_Electricity_Field"
+        }, {
+            "object_type": "talent",
+            "name": "General Pharmaceutics",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_General_Pharmaceutics.png",
+            "link": "https://genshin-impact.fandom.com/wiki/General_Pharmaceutics"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Infinite Circuit",
+            "level": 1,
+            "thumbnail": "Constellation_Infinite_Circuit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Infinite_Circuit"
+        }, {
+            "object_type": "constellation",
+            "name": "Electromagnetic Field",
+            "level": 2,
+            "thumbnail": "Constellation_Electromagnetic_Field.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Electromagnetic_Field"
+        }, {
+            "object_type": "constellation",
+            "name": "Resonant Thunder",
+            "level": 3,
+            "thumbnail": "Constellation_Resonant_Thunder.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Resonant_Thunder"
+        }, {
+            "object_type": "constellation",
+            "name": "Plasma Eruption",
+            "level": 4,
+            "thumbnail": "Constellation_Plasma_Eruption.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Plasma_Eruption"
+        }, {
+            "object_type": "constellation",
+            "name": "Electrocute",
+            "level": 5,
+            "thumbnail": "Constellation_Electrocute.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Electrocute"
+        }, {
+            "object_type": "constellation",
+            "name": "Pulsating Witch",
+            "level": 6,
+            "thumbnail": "Constellation_Pulsating_Witch.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pulsating_Witch"
+        }],
+        "thumbnail": "Character_Lisa_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lisa"
+    }, {
+        "object_type": "character",
+        "name": "Mona",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Ripple of Fate",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Ripple_of_Fate.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ripple_of_Fate"
+        }, {
+            "object_type": "talent",
+            "name": "Mirror Reflection of Doom",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Mirror_Reflection_of_Doom.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mirror_Reflection_of_Doom",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Stellaris Phantasm",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Stellaris_Phantasm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stellaris_Phantasm",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Illusory Torrent",
+            "type": "Alternate Sprint",
+            "thumbnail": "Talent_Illusory_Torrent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Illusory_Torrent"
+        }, {
+            "object_type": "talent",
+            "name": "Come 'n' Get Me, Hag!",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Come_'n'_Get_Me,_Hag!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Come_'n'_Get_Me,_Hag!"
+        }, {
+            "object_type": "talent",
+            "name": "Waterborne Destiny",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Waterborne_Destiny.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Waterborne_Destiny"
+        }, {
+            "object_type": "talent",
+            "name": "Principium of Astrology",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Principium_of_Astrology.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Principium_of_Astrology"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Prophecy of Submersion",
+            "level": 1,
+            "thumbnail": "Constellation_Prophecy_of_Submersion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Prophecy_of_Submersion"
+        }, {
+            "object_type": "constellation",
+            "name": "Lunar Chain",
+            "level": 2,
+            "thumbnail": "Constellation_Lunar_Chain.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lunar_Chain"
+        }, {
+            "object_type": "constellation",
+            "name": "Restless Revolution",
+            "level": 3,
+            "thumbnail": "Constellation_Restless_Revolution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Restless_Revolution"
+        }, {
+            "object_type": "constellation",
+            "name": "Prophecy of Oblivion",
+            "level": 4,
+            "thumbnail": "Constellation_Prophecy_of_Oblivion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Prophecy_of_Oblivion"
+        }, {
+            "object_type": "constellation",
+            "name": "Mockery of Fortuna",
+            "level": 5,
+            "thumbnail": "Constellation_Mockery_of_Fortuna.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mockery_of_Fortuna"
+        }, {
+            "object_type": "constellation",
+            "name": "Rhetorics of Calamitas",
+            "level": 6,
+            "thumbnail": "Constellation_Rhetorics_of_Calamitas.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rhetorics_of_Calamitas"
+        }],
+        "thumbnail": "Character_Mona_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mona"
+    }, {
+        "object_type": "character",
+        "name": "Ningguang",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Geo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Sparkling Scatter",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Sparkling_Scatter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sparkling_Scatter"
+        }, {
+            "object_type": "talent",
+            "name": "Jade Screen",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Jade_Screen.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Jade_Screen",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Starshatter",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Starshatter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Starshatter",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Backup Plan",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Backup_Plan.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Backup_Plan"
+        }, {
+            "object_type": "talent",
+            "name": "Strategic Reserve",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Strategic_Reserve.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Strategic_Reserve"
+        }, {
+            "object_type": "talent",
+            "name": "Trove of Marvelous Treasures",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Trove_of_Marvelous_Treasures.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Trove_of_Marvelous_Treasures"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Piercing Fragments",
+            "level": 1,
+            "thumbnail": "Constellation_Piercing_Fragments.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Piercing_Fragments"
+        }, {
+            "object_type": "constellation",
+            "name": "Shock Effect",
+            "level": 2,
+            "thumbnail": "Constellation_Shock_Effect.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shock_Effect"
+        }, {
+            "object_type": "constellation",
+            "name": "Majesty be the Array of Stars",
+            "level": 3,
+            "thumbnail": "Constellation_Majesty_be_the_Array_of_Stars.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Majesty_be_the_Array_of_Stars"
+        }, {
+            "object_type": "constellation",
+            "name": "Exquisite be the Jade, Outshining All Beneath",
+            "level": 4,
+            "thumbnail": "Constellation_Exquisite_be_the_Jade,_Outshining_All_Beneath.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Exquisite_be_the_Jade,_Outshining_All_Beneath"
+        }, {
+            "object_type": "constellation",
+            "name": "Invincible be the Jade Screen",
+            "level": 5,
+            "thumbnail": "Constellation_Invincible_be_the_Jade_Screen.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Invincible_be_the_Jade_Screen"
+        }, {
+            "object_type": "constellation",
+            "name": "Grandeur be the Seven Stars",
+            "level": 6,
+            "thumbnail": "Constellation_Grandeur_be_the_Seven_Stars.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Grandeur_be_the_Seven_Stars"
+        }],
+        "thumbnail": "Character_Ningguang_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ningguang"
+    }, {
+        "object_type": "character",
+        "name": "Noelle",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Geo",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Favonius Bladework - Maid",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Favonius_Bladework_-_Maid.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Favonius_Bladework_-_Maid"
+        }, {
+            "object_type": "talent",
+            "name": "Breastplate",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Breastplate.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Breastplate",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Sweeping Time",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Sweeping_Time.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sweeping_Time",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Devotion",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Devotion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Devotion"
+        }, {
+            "object_type": "talent",
+            "name": "Nice and Clean",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Nice_and_Clean.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nice_and_Clean"
+        }, {
+            "object_type": "talent",
+            "name": "Maid's Knighthood",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Maid's_Knighthood.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Maid's_Knighthood"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "I Got Your Back",
+            "level": 1,
+            "thumbnail": "Constellation_I_Got_Your_Back.png",
+            "link": "https://genshin-impact.fandom.com/wiki/I_Got_Your_Back"
+        }, {
+            "object_type": "constellation",
+            "name": "Combat Maid",
+            "level": 2,
+            "thumbnail": "Constellation_Combat_Maid.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Combat_Maid"
+        }, {
+            "object_type": "constellation",
+            "name": "Invulnerable Maid",
+            "level": 3,
+            "thumbnail": "Constellation_Invulnerable_Maid.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Invulnerable_Maid"
+        }, {
+            "object_type": "constellation",
+            "name": "To Be Cleaned",
+            "level": 4,
+            "thumbnail": "Constellation_To_Be_Cleaned.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Be_Cleaned"
+        }, {
+            "object_type": "constellation",
+            "name": "Favonius Sweeper Master",
+            "level": 5,
+            "thumbnail": "Constellation_Favonius_Sweeper_Master.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Favonius_Sweeper_Master"
+        }, {
+            "object_type": "constellation",
+            "name": "Must Be Spotless",
+            "level": 6,
+            "thumbnail": "Constellation_Must_Be_Spotless.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Must_Be_Spotless"
+        }],
+        "thumbnail": "Character_Noelle_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Noelle"
+    }, {
+        "object_type": "character",
+        "name": "Qiqi",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Ancient Sword Art",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Ancient_Sword_Art.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ancient_Sword_Art"
+        }, {
+            "object_type": "talent",
+            "name": "Adeptus Art: Herald of Frost",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Adeptus_Art_Herald_of_Frost.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Adeptus_Art:_Herald_of_Frost",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Adeptus Art: Preserver of Fortune",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Adeptus_Art_Preserver_of_Fortune.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Adeptus_Art:_Preserver_of_Fortune",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Life-Prolonging Methods",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Life-Prolonging_Methods.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Life-Prolonging_Methods"
+        }, {
+            "object_type": "talent",
+            "name": "A Glimpse into Arcanum",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_A_Glimpse_into_Arcanum.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Glimpse_into_Arcanum"
+        }, {
+            "object_type": "talent",
+            "name": "Former Life Memories",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Former_Life_Memories.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Former_Life_Memories"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Ascetics of Frost",
+            "level": 1,
+            "thumbnail": "Constellation_Ascetics_of_Frost.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ascetics_of_Frost"
+        }, {
+            "object_type": "constellation",
+            "name": "Frozen to the Bone",
+            "level": 2,
+            "thumbnail": "Constellation_Frozen_to_the_Bone.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frozen_to_the_Bone"
+        }, {
+            "object_type": "constellation",
+            "name": "Ascendant Praise",
+            "level": 3,
+            "thumbnail": "Constellation_Ascendant_Praise.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ascendant_Praise"
+        }, {
+            "object_type": "constellation",
+            "name": "Divine Suppression",
+            "level": 4,
+            "thumbnail": "Constellation_Divine_Suppression.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Divine_Suppression"
+        }, {
+            "object_type": "constellation",
+            "name": "Crimson Lotus Bloom",
+            "level": 5,
+            "thumbnail": "Constellation_Crimson_Lotus_Bloom.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crimson_Lotus_Bloom"
+        }, {
+            "object_type": "constellation",
+            "name": "Rite of Resurrection",
+            "level": 6,
+            "thumbnail": "Constellation_Rite_of_Resurrection.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rite_of_Resurrection"
+        }],
+        "thumbnail": "Character_Qiqi_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Qiqi"
+    }, {
+        "object_type": "character",
+        "name": "Razor",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Steel Fang",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Steel_Fang.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Steel_Fang"
+        }, {
+            "object_type": "talent",
+            "name": "Claw and Thunder",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Claw_and_Thunder.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Claw_and_Thunder",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Lightning Fang",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Lightning_Fang.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lightning_Fang",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Awakening",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Awakening.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Awakening"
+        }, {
+            "object_type": "talent",
+            "name": "Hunger",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Hunger.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hunger"
+        }, {
+            "object_type": "talent",
+            "name": "Wolvensprint",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Wolvensprint.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wolvensprint"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Wolf's Instinct",
+            "level": 1,
+            "thumbnail": "Constellation_Wolf's_Instinct.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wolf's_Instinct"
+        }, {
+            "object_type": "constellation",
+            "name": "Suppression",
+            "level": 2,
+            "thumbnail": "Constellation_Suppression.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Suppression"
+        }, {
+            "object_type": "constellation",
+            "name": "Soul Companion",
+            "level": 3,
+            "thumbnail": "Constellation_Soul_Companion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Soul_Companion"
+        }, {
+            "object_type": "constellation",
+            "name": "Bite",
+            "level": 4,
+            "thumbnail": "Constellation_Bite.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bite"
+        }, {
+            "object_type": "constellation",
+            "name": "Sharpened Claws",
+            "level": 5,
+            "thumbnail": "Constellation_Sharpened_Claws.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sharpened_Claws"
+        }, {
+            "object_type": "constellation",
+            "name": "Lupus Fulguris",
+            "level": 6,
+            "thumbnail": "Constellation_Lupus_Fulguris.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lupus_Fulguris"
+        }],
+        "thumbnail": "Character_Razor_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Razor"
+    }, {
+        "object_type": "character",
+        "name": "Rosaria",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Spear of the Church",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Spear_of_the_Church.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spear_of_the_Church"
+        }, {
+            "object_type": "talent",
+            "name": "Ravaging Confession",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Ravaging_Confession.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ravaging_Confession",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Rites of Termination",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Rites_of_Termination.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rites_of_Termination",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Regina Probationum",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Regina_Probationum.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Regina_Probationum"
+        }, {
+            "object_type": "talent",
+            "name": "Shadow Samaritan",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Shadow_Samaritan.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shadow_Samaritan"
+        }, {
+            "object_type": "talent",
+            "name": "Night Walk",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Night_Walk.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Night_Walk"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Unholy Revelation",
+            "level": 1,
+            "thumbnail": "Constellation_Unholy_Revelation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unholy_Revelation"
+        }, {
+            "object_type": "constellation",
+            "name": "Land Without Promise",
+            "level": 2,
+            "thumbnail": "Constellation_Land_Without_Promise.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Land_Without_Promise"
+        }, {
+            "object_type": "constellation",
+            "name": "The Wages of Sin",
+            "level": 3,
+            "thumbnail": "Constellation_The_Wages_of_Sin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Wages_of_Sin"
+        }, {
+            "object_type": "constellation",
+            "name": "Painful Grace",
+            "level": 4,
+            "thumbnail": "Constellation_Painful_Grace.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Painful_Grace"
+        }, {
+            "object_type": "constellation",
+            "name": "Last Rites",
+            "level": 5,
+            "thumbnail": "Constellation_Last_Rites.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Last_Rites"
+        }, {
+            "object_type": "constellation",
+            "name": "Divine Retribution",
+            "level": 6,
+            "thumbnail": "Constellation_Divine_Retribution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Divine_Retribution"
+        }],
+        "thumbnail": "Character_Rosaria_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Rosaria"
+    }, {
+        "object_type": "character",
+        "name": "Sayu",
+        "type": "Character",
+        "displayName": "Sayu",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Shuumatsuban Ninja Blade",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Shuumatsuban_Ninja_Blade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Ninja_Blade"
+        }, {
+            "object_type": "talent",
+            "name": "Yoohoo Art: Fuuin Dash",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Yoohoo_Art_Fuuin_Dash.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yoohoo_Art:_Fuuin_Dash",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Yoohoo Art: Mujina Flurry",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Yoohoo_Art_Mujina_Flurry.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yoohoo_Art:_Mujina_Flurry",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Someone More Capable",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Someone_More_Capable.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Someone_More_Capable"
+        }, {
+            "object_type": "talent",
+            "name": "No Work Today!",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_No_Work_Today!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/No_Work_Today!"
+        }, {
+            "object_type": "talent",
+            "name": "Yoohoo Art: Silencer's Secret",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Yoohoo_Art_Silencer's_Secret.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yoohoo_Art:_Silencer's_Secret"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Multi-Task no Jutsu",
+            "level": 1,
+            "thumbnail": "Constellation_Multi-Task_no_Jutsu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Multi-Task_no_Jutsu"
+        }, {
+            "object_type": "constellation",
+            "name": "Egress Prep",
+            "level": 2,
+            "thumbnail": "Constellation_Egress_Prep.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Egress_Prep"
+        }, {
+            "object_type": "constellation",
+            "name": "Eh, the Bunshin Can Handle It",
+            "level": 3,
+            "thumbnail": "Constellation_Eh,_the_Bunshin_Can_Handle_It.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Eh,_the_Bunshin_Can_Handle_It"
+        }, {
+            "object_type": "constellation",
+            "name": "Skiving: New and Improved",
+            "level": 4,
+            "thumbnail": "Constellation_Skiving_New_and_Improved.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Skiving:_New_and_Improved"
+        }, {
+            "object_type": "constellation",
+            "name": "Speed Comes First",
+            "level": 5,
+            "thumbnail": "Constellation_Speed_Comes_First.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Speed_Comes_First"
+        }, {
+            "object_type": "constellation",
+            "name": "Sleep O'Clock",
+            "level": 6,
+            "thumbnail": "Constellation_Sleep_O'Clock.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sleep_O'Clock"
+        }],
+        "thumbnail": "Character_Sayu_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sayu"
+    }, {
+        "object_type": "character",
+        "name": "Sucrose",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Wind Spirit Creation",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Wind_Spirit_Creation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wind_Spirit_Creation"
+        }, {
+            "object_type": "talent",
+            "name": "Astable Anemohypostasis Creation - 6308",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Astable_Anemohypostasis_Creation_-_6308.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Astable_Anemohypostasis_Creation_-_6308",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Forbidden Creation - Isomer 75 / Type II",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Forbidden_Creation_-_Isomer_75_Type_II.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Forbidden_Creation_-_Isomer_75_/_Type_II",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Catalyst Conversion",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Catalyst_Conversion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Catalyst_Conversion"
+        }, {
+            "object_type": "talent",
+            "name": "Mollis Favonius",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Mollis_Favonius.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mollis_Favonius"
+        }, {
+            "object_type": "talent",
+            "name": "Astable Invention",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Astable_Invention.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Astable_Invention"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Clustered Vacuum Field",
+            "level": 1,
+            "thumbnail": "Constellation_Clustered_Vacuum_Field.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Clustered_Vacuum_Field"
+        }, {
+            "object_type": "constellation",
+            "name": "Beth: Unbound Form",
+            "level": 2,
+            "thumbnail": "Constellation_Beth_Unbound_Form.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beth:_Unbound_Form"
+        }, {
+            "object_type": "constellation",
+            "name": "Flawless Alchemistress",
+            "level": 3,
+            "thumbnail": "Constellation_Flawless_Alchemistress.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flawless_Alchemistress"
+        }, {
+            "object_type": "constellation",
+            "name": "Alchemania",
+            "level": 4,
+            "thumbnail": "Constellation_Alchemania.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Alchemania"
+        }, {
+            "object_type": "constellation",
+            "name": "Caution: Standard Flask",
+            "level": 5,
+            "thumbnail": "Constellation_Caution_Standard_Flask.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Caution:_Standard_Flask"
+        }, {
+            "object_type": "constellation",
+            "name": "Chaotic Entropy",
+            "level": 6,
+            "thumbnail": "Constellation_Chaotic_Entropy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Chaotic_Entropy"
+        }],
+        "thumbnail": "Character_Sucrose_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sucrose"
+    }, {
+        "object_type": "character",
+        "name": "Tartaglia",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Bow",
+        "region": "Snezhnaya",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Cutting Torrent",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Cutting_Torrent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cutting_Torrent"
+        }, {
+            "object_type": "talent",
+            "name": "Foul Legacy: Raging Tide",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Foul_Legacy_Raging_Tide.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foul_Legacy:_Raging_Tide",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Havoc: Obliteration",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Havoc_Obliteration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Havoc:_Obliteration",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Never Ending",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Never_Ending.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Never_Ending"
+        }, {
+            "object_type": "talent",
+            "name": "Sword of Torrents",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Sword_of_Torrents.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sword_of_Torrents"
+        }, {
+            "object_type": "talent",
+            "name": "Master of Weaponry",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Master_of_Weaponry.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Master_of_Weaponry"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Foul Legacy: Tide Withholder",
+            "level": 1,
+            "thumbnail": "Constellation_Foul_Legacy_Tide_Withholder.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foul_Legacy:_Tide_Withholder"
+        }, {
+            "object_type": "constellation",
+            "name": "Foul Legacy: Understream",
+            "level": 2,
+            "thumbnail": "Constellation_Foul_Legacy_Understream.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foul_Legacy:_Understream"
+        }, {
+            "object_type": "constellation",
+            "name": "Abyssal Mayhem: Vortex of Turmoil",
+            "level": 3,
+            "thumbnail": "Constellation_Abyssal_Mayhem_Vortex_of_Turmoil.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Abyssal_Mayhem:_Vortex_of_Turmoil"
+        }, {
+            "object_type": "constellation",
+            "name": "Abyssal Mayhem: Hydrospout",
+            "level": 4,
+            "thumbnail": "Constellation_Abyssal_Mayhem_Hydrospout.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Abyssal_Mayhem:_Hydrospout"
+        }, {
+            "object_type": "constellation",
+            "name": "Havoc: Formless Blade",
+            "level": 5,
+            "thumbnail": "Constellation_Havoc_Formless_Blade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Havoc:_Formless_Blade"
+        }, {
+            "object_type": "constellation",
+            "name": "Havoc: Annihilation",
+            "level": 6,
+            "thumbnail": "Constellation_Havoc_Annihilation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Havoc:_Annihilation"
+        }],
+        "thumbnail": "Character_Tartaglia_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tartaglia"
+    }, {
+        "object_type": "character",
+        "name": "Traveler (Anemo)",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Outlander",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Foreign Ironwind",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Foreign_Ironwind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foreign_Ironwind"
+        }, {
+            "object_type": "talent",
+            "name": "Palm Vortex",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Palm_Vortex.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Palm_Vortex",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Gust Surge",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Gust_Surge.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gust_Surge",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Slitting Wind",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Slitting_Wind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Slitting_Wind"
+        }, {
+            "object_type": "talent",
+            "name": "Second Wind",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Second_Wind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Second_Wind"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Raging Vortex",
+            "level": 1,
+            "thumbnail": "Constellation_Raging_Vortex.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Raging_Vortex"
+        }, {
+            "object_type": "constellation",
+            "name": "Uprising Whirlwind",
+            "level": 2,
+            "thumbnail": "Constellation_Uprising_Whirlwind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Uprising_Whirlwind"
+        }, {
+            "object_type": "constellation",
+            "name": "Sweeping Gust",
+            "level": 3,
+            "thumbnail": "Constellation_Sweeping_Gust.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sweeping_Gust"
+        }, {
+            "object_type": "constellation",
+            "name": "Cherishing Breezes",
+            "level": 4,
+            "thumbnail": "Constellation_Cherishing_Breezes.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cherishing_Breezes"
+        }, {
+            "object_type": "constellation",
+            "name": "Vortex Stellaris",
+            "level": 5,
+            "thumbnail": "Constellation_Vortex_Stellaris.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Vortex_Stellaris"
+        }, {
+            "object_type": "constellation",
+            "name": "Intertwined Winds",
+            "level": 6,
+            "thumbnail": "Constellation_Intertwined_Winds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Intertwined_Winds"
+        }],
+        "thumbnail": "Character_Traveler_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Traveler"
+    }, {
+        "object_type": "character",
+        "name": "Traveler (Electro)",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Sword",
+        "region": "Outlander",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Foreign Thundershock",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Foreign_Thundershock.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foreign_Thundershock"
+        }, {
+            "object_type": "talent",
+            "name": "Lightning Blade",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Lightning_Blade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lightning_Blade",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Bellowing Thunder",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Bellowing_Thunder.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bellowing_Thunder",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Thunderflash",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Thunderflash.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thunderflash"
+        }, {
+            "object_type": "talent",
+            "name": "Resounding Roar",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Resounding_Roar.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Resounding_Roar"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Spring Thunder of Fertility",
+            "level": 1,
+            "thumbnail": "Constellation_Spring_Thunder_of_Fertility.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spring_Thunder_of_Fertility"
+        }, {
+            "object_type": "constellation",
+            "name": "Violet Vehemence",
+            "level": 2,
+            "thumbnail": "Constellation_Violet_Vehemence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Violet_Vehemence"
+        }, {
+            "object_type": "constellation",
+            "name": "Distant Crackling",
+            "level": 3,
+            "thumbnail": "Constellation_Distant_Crackling.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Distant_Crackling"
+        }, {
+            "object_type": "constellation",
+            "name": "Fickle Cloudstrike",
+            "level": 4,
+            "thumbnail": "Constellation_Fickle_Cloudstrike.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fickle_Cloudstrike"
+        }, {
+            "object_type": "constellation",
+            "name": "Clamor in the Wilds",
+            "level": 5,
+            "thumbnail": "Constellation_Clamor_in_the_Wilds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Clamor_in_the_Wilds"
+        }, {
+            "object_type": "constellation",
+            "name": "World-Shaker",
+            "level": 6,
+            "thumbnail": "Constellation_World-Shaker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/World-Shaker"
+        }],
+        "thumbnail": "Character_Traveler_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Traveler"
+    }, {
+        "object_type": "character",
+        "name": "Traveler (Geo)",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Outlander",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Foreign Rockblade",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Foreign_Rockblade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foreign_Rockblade"
+        }, {
+            "object_type": "talent",
+            "name": "Starfell Sword",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Starfell_Sword.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Starfell_Sword",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Wake of Earth",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Wake_of_Earth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wake_of_Earth",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Shattered Darkrock",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Shattered_Darkrock.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shattered_Darkrock"
+        }, {
+            "object_type": "talent",
+            "name": "Frenzied Rockslide",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Frenzied_Rockslide.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frenzied_Rockslide"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Invincible Stonewall",
+            "level": 1,
+            "thumbnail": "Constellation_Invincible_Stonewall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Invincible_Stonewall"
+        }, {
+            "object_type": "constellation",
+            "name": "Rockcore Meltdown",
+            "level": 2,
+            "thumbnail": "Constellation_Rockcore_Meltdown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rockcore_Meltdown"
+        }, {
+            "object_type": "constellation",
+            "name": "Will of the Rock",
+            "level": 3,
+            "thumbnail": "Constellation_Will_of_the_Rock.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Will_of_the_Rock"
+        }, {
+            "object_type": "constellation",
+            "name": "Reaction Force",
+            "level": 4,
+            "thumbnail": "Constellation_Reaction_Force.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Reaction_Force"
+        }, {
+            "object_type": "constellation",
+            "name": "Meteorite Impact",
+            "level": 5,
+            "thumbnail": "Constellation_Meteorite_Impact.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Meteorite_Impact"
+        }, {
+            "object_type": "constellation",
+            "name": "Everlasting Boulder",
+            "level": 6,
+            "thumbnail": "Constellation_Everlasting_Boulder.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Everlasting_Boulder"
+        }],
+        "thumbnail": "Character_Traveler_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Traveler"
+    }, {
+        "object_type": "character",
+        "name": "Venti",
+        "type": "Character",
+        "displayName": "Venti",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Divine Marksmanship",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Divine_Marksmanship.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Divine_Marksmanship"
+        }, {
+            "object_type": "talent",
+            "name": "Skyward Sonnet",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Skyward_Sonnet.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Skyward_Sonnet",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Wind's Grand Ode",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Wind's_Grand_Ode.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wind's_Grand_Ode",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Embrace of Winds",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Embrace_of_Winds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Embrace_of_Winds"
+        }, {
+            "object_type": "talent",
+            "name": "Stormeye",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Stormeye.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stormeye"
+        }, {
+            "object_type": "talent",
+            "name": "Windrider",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Windrider.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Windrider"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Splitting Gales",
+            "level": 1,
+            "thumbnail": "Constellation_Splitting_Gales.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Splitting_Gales"
+        }, {
+            "object_type": "constellation",
+            "name": "Breeze of Reminiscence",
+            "level": 2,
+            "thumbnail": "Constellation_Breeze_of_Reminiscence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Breeze_of_Reminiscence"
+        }, {
+            "object_type": "constellation",
+            "name": "Ode to Thousand Winds",
+            "level": 3,
+            "thumbnail": "Constellation_Ode_to_Thousand_Winds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ode_to_Thousand_Winds"
+        }, {
+            "object_type": "constellation",
+            "name": "Hurricane of Freedom",
+            "level": 4,
+            "thumbnail": "Constellation_Hurricane_of_Freedom.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hurricane_of_Freedom"
+        }, {
+            "object_type": "constellation",
+            "name": "Concerto dal Cielo",
+            "level": 5,
+            "thumbnail": "Constellation_Concerto_dal_Cielo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Concerto_dal_Cielo"
+        }, {
+            "object_type": "constellation",
+            "name": "Storm of Defiance",
+            "level": 6,
+            "thumbnail": "Constellation_Storm_of_Defiance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Storm_of_Defiance"
+        }],
+        "thumbnail": "Character_Venti_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Venti"
+    }, {
+        "object_type": "character",
+        "name": "Xiangling",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Dough-Fu",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Dough-Fu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dough-Fu"
+        }, {
+            "object_type": "talent",
+            "name": "Guoba Attack",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Guoba_Attack.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guoba_Attack",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Pyronado",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Pyronado.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pyronado",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Crossfire",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Crossfire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crossfire"
+        }, {
+            "object_type": "talent",
+            "name": "Beware, It's Super Hot!",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Beware,_It's_Super_Hot!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beware,_It's_Super_Hot!"
+        }, {
+            "object_type": "talent",
+            "name": "Chef de Cuisine",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Chef_de_Cuisine.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Chef_de_Cuisine"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Crispy Outside, Tender Inside",
+            "level": 1,
+            "thumbnail": "Constellation_Crispy_Outside,_Tender_Inside.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crispy_Outside,_Tender_Inside"
+        }, {
+            "object_type": "constellation",
+            "name": "Oil Meets Fire",
+            "level": 2,
+            "thumbnail": "Constellation_Oil_Meets_Fire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Oil_Meets_Fire"
+        }, {
+            "object_type": "constellation",
+            "name": "Deepfry",
+            "level": 3,
+            "thumbnail": "Constellation_Deepfry.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Deepfry"
+        }, {
+            "object_type": "constellation",
+            "name": "Slowbake",
+            "level": 4,
+            "thumbnail": "Constellation_Slowbake.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Slowbake"
+        }, {
+            "object_type": "constellation",
+            "name": "Guoba Mad",
+            "level": 5,
+            "thumbnail": "Constellation_Guoba_Mad.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guoba_Mad"
+        }, {
+            "object_type": "constellation",
+            "name": "Condensed Pyronado",
+            "level": 6,
+            "thumbnail": "Constellation_Condensed_Pyronado.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Condensed_Pyronado"
+        }],
+        "thumbnail": "Character_Xiangling_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Xiangling"
+    }, {
+        "object_type": "character",
+        "name": "Xiao",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Whirlwind Thrust",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Whirlwind_Thrust.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Whirlwind_Thrust"
+        }, {
+            "object_type": "talent",
+            "name": "Lemniscatic Wind Cycling",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Lemniscatic_Wind_Cycling.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lemniscatic_Wind_Cycling",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Bane of All Evil",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Bane_of_All_Evil.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bane_of_All_Evil",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Conqueror of Evil: Tamer of Demons",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Conqueror_of_Evil_Tamer_of_Demons.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Conqueror_of_Evil:_Tamer_of_Demons"
+        }, {
+            "object_type": "talent",
+            "name": "Dissolution Eon: Heaven Fall",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Dissolution_Eon_Heaven_Fall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dissolution_Eon:_Heaven_Fall"
+        }, {
+            "object_type": "talent",
+            "name": "Transcension: Gravity Defier",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Transcension_Gravity_Defier.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Transcension:_Gravity_Defier"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Dissolution Eon: Destroyer of Worlds",
+            "level": 1,
+            "thumbnail": "Constellation_Dissolution_Eon_-_Destroyer_of_Worlds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dissolution_Eon:_Destroyer_of_Worlds"
+        }, {
+            "object_type": "constellation",
+            "name": "Annihilation Eon: Blossom of Kaleidos",
+            "level": 2,
+            "thumbnail": "Constellation_Annihilation_Eon_-_Blossom_of_Kaleidos.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Annihilation_Eon:_Blossom_of_Kaleidos"
+        }, {
+            "object_type": "constellation",
+            "name": "Conqueror of Evil: Wrath Deity",
+            "level": 3,
+            "thumbnail": "Constellation_Conqueror_of_Evil_-_Wrath_Deity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Conqueror_of_Evil:_Wrath_Deity"
+        }, {
+            "object_type": "constellation",
+            "name": "Transcension: Extinction of Suffering",
+            "level": 4,
+            "thumbnail": "Constellation_Transcension_-_Extinction_of_Suffering.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Transcension:_Extinction_of_Suffering"
+        }, {
+            "object_type": "constellation",
+            "name": "Evolution Eon: Origin of Ignorance",
+            "level": 5,
+            "thumbnail": "Constellation_Evolution_Eon_-_Origin_of_Ignorance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Evolution_Eon:_Origin_of_Ignorance"
+        }, {
+            "object_type": "constellation",
+            "name": "Conqueror of Evil: Guardian Yaksha",
+            "level": 6,
+            "thumbnail": "Constellation_Conqueror_of_Evil_-_Guardian_Yaksha.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Conqueror_of_Evil:_Guardian_Yaksha"
+        }],
+        "thumbnail": "Character_Xiao_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Xiao"
+    }, {
+        "object_type": "character",
+        "name": "Xingqiu",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Guhua Style",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Guhua_Style.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guhua_Style"
+        }, {
+            "object_type": "talent",
+            "name": "Guhua Sword: Fatal Rainscreen",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Guhua_Sword_Fatal_Rainscreen.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guhua_Sword:_Fatal_Rainscreen",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Guhua Sword: Raincutter",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Guhua_Sword_Raincutter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guhua_Sword:_Raincutter",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Hydropathic",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Hydropathic.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hydropathic"
+        }, {
+            "object_type": "talent",
+            "name": "Blades Amidst Raindrops",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Blades_Amidst_Raindrops.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blades_Amidst_Raindrops"
+        }, {
+            "object_type": "talent",
+            "name": "Flash of Genius",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Flash_of_Genius.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flash_of_Genius"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "The Scent Remained",
+            "level": 1,
+            "thumbnail": "Constellation_The_Scent_Remained.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Scent_Remained"
+        }, {
+            "object_type": "constellation",
+            "name": "Rainbow Upon the Azure Sky",
+            "level": 2,
+            "thumbnail": "Constellation_Rainbow_Upon_the_Azure_Sky.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rainbow_Upon_the_Azure_Sky"
+        }, {
+            "object_type": "constellation",
+            "name": "Weaver of Verses",
+            "level": 3,
+            "thumbnail": "Constellation_Weaver_of_Verses.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Weaver_of_Verses"
+        }, {
+            "object_type": "constellation",
+            "name": "Evilsoother",
+            "level": 4,
+            "thumbnail": "Constellation_Evilsoother.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Evilsoother"
+        }, {
+            "object_type": "constellation",
+            "name": "Embrace of Rain",
+            "level": 5,
+            "thumbnail": "Constellation_Embrace_of_Rain.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Embrace_of_Rain"
+        }, {
+            "object_type": "constellation",
+            "name": "Hence, Call Them My Own Verses",
+            "level": 6,
+            "thumbnail": "Constellation_Hence,_Call_Them_My_Own_Verses.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hence,_Call_Them_My_Own_Verses"
+        }],
+        "thumbnail": "Character_Xingqiu_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Xingqiu"
+    }, {
+        "object_type": "character",
+        "name": "Xinyan",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Dance on Fire",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Dance_on_Fire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_on_Fire"
+        }, {
+            "object_type": "talent",
+            "name": "Sweeping Fervor",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Sweeping_Fervor.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sweeping_Fervor",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Riff Revolution",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Riff_Revolution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Riff_Revolution",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "\"The Show Goes On, Even Without an Audience...\"",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_&quot;The_Show_Goes_On,_Even_Without_an_Audience...&quot;.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"The_Show_Goes_On,_Even_Without_an_Audience...\""
+        }, {
+            "object_type": "talent",
+            "name": "\"...Now That's Rock 'N' Roll!\"",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_&quot;...Now_That's_Rock_'N'_Roll!&quot;.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"...Now_That's_Rock_'N'_Roll!\""
+        }, {
+            "object_type": "talent",
+            "name": "A Rad Recipe",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_A_Rad_Recipe.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Rad_Recipe"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Fatal Acceleration",
+            "level": 1,
+            "thumbnail": "Constellation_Fatal_Acceleration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fatal_Acceleration"
+        }, {
+            "object_type": "constellation",
+            "name": "Impromptu Opening",
+            "level": 2,
+            "thumbnail": "Constellation_Impromptu_Opening.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Impromptu_Opening"
+        }, {
+            "object_type": "constellation",
+            "name": "Double-Stop",
+            "level": 3,
+            "thumbnail": "Constellation_Double-Stop.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Double-Stop"
+        }, {
+            "object_type": "constellation",
+            "name": "Wildfire Rhythm",
+            "level": 4,
+            "thumbnail": "Constellation_Wildfire_Rhythm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wildfire_Rhythm"
+        }, {
+            "object_type": "constellation",
+            "name": "Screamin' for an Encore",
+            "level": 5,
+            "thumbnail": "Constellation_Screamin'_for_an_Encore.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Screamin'_for_an_Encore"
+        }, {
+            "object_type": "constellation",
+            "name": "Rockin' in a Flaming World",
+            "level": 6,
+            "thumbnail": "Constellation_Rockin'_in_a_Flaming_World.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rockin'_in_a_Flaming_World"
+        }],
+        "thumbnail": "Character_Xinyan_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Xinyan"
+    }, {
+        "object_type": "character",
+        "name": "Yanfei",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Seal of Approval",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Seal_of_Approval.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Seal_of_Approval"
+        }, {
+            "object_type": "talent",
+            "name": "Signed Edict",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Signed_Edict.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Signed_Edict",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Done Deal",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Done_Deal.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Done_Deal",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Proviso",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Proviso.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Proviso"
+        }, {
+            "object_type": "talent",
+            "name": "Blazing Eye",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Blazing_Eye.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blazing_Eye"
+        }, {
+            "object_type": "talent",
+            "name": "Encyclopedic Expertise",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Encyclopedic_Expertise.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Encyclopedic_Expertise"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "The Law Knows No Kindness",
+            "level": 1,
+            "thumbnail": "Constellation_The_Law_Knows_No_Kindness.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Law_Knows_No_Kindness"
+        }, {
+            "object_type": "constellation",
+            "name": "Right of Final Interpretation",
+            "level": 2,
+            "thumbnail": "Constellation_Right_of_Final_Interpretation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Right_of_Final_Interpretation"
+        }, {
+            "object_type": "constellation",
+            "name": "Samadhi Fire-Forged",
+            "level": 3,
+            "thumbnail": "Constellation_Samadhi_Fire-Forged.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Samadhi_Fire-Forged"
+        }, {
+            "object_type": "constellation",
+            "name": "Supreme Amnesty",
+            "level": 4,
+            "thumbnail": "Constellation_Supreme_Amnesty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Supreme_Amnesty"
+        }, {
+            "object_type": "constellation",
+            "name": "Abiding Affidavit",
+            "level": 5,
+            "thumbnail": "Constellation_Abiding_Affidavit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Abiding_Affidavit"
+        }, {
+            "object_type": "constellation",
+            "name": "Extra Clause",
+            "level": 6,
+            "thumbnail": "Constellation_Extra_Clause.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Extra_Clause"
+        }],
+        "thumbnail": "Character_Yanfei_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Yanfei"
+    }, {
+        "object_type": "character",
+        "name": "Yoimiya",
+        "type": "Character",
+        "displayName": "Yoimiya",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Firework Flare-Up",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Firework_Flare-Up.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Firework_Flare-Up"
+        }, {
+            "object_type": "talent",
+            "name": "Niwabi Fire-Dance",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Niwabi_Fire-Dance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Niwabi_Fire-Dance",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Ryuukin Saxifrage",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Ryuukin_Saxifrage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ryuukin_Saxifrage",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Tricks of the Trouble-Maker",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Tricks_of_the_Trouble-Maker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tricks_of_the_Trouble-Maker"
+        }, {
+            "object_type": "talent",
+            "name": "Summer Night's Dawn",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Summer_Night's_Dawn.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Summer_Night's_Dawn"
+        }, {
+            "object_type": "talent",
+            "name": "Blazing Match",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Blazing_Match.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blazing_Match"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Agate Ryuukin",
+            "level": 1,
+            "thumbnail": "Constellation_Agate_Ryuukin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Agate_Ryuukin"
+        }, {
+            "object_type": "constellation",
+            "name": "A Procession of Bonfires",
+            "level": 2,
+            "thumbnail": "Constellation_A_Procession_of_Bonfires.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Procession_of_Bonfires"
+        }, {
+            "object_type": "constellation",
+            "name": "Trickster's Flare",
+            "level": 3,
+            "thumbnail": "Constellation_Trickster's_Flare.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Trickster's_Flare"
+        }, {
+            "object_type": "constellation",
+            "name": "Pyrotechnic Professional",
+            "level": 4,
+            "thumbnail": "Constellation_Pyrotechnic_Professional.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pyrotechnic_Professional"
+        }, {
+            "object_type": "constellation",
+            "name": "A Summer Festival's Eve",
+            "level": 5,
+            "thumbnail": "Constellation_A_Summer_Festival's_Eve.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Summer_Festival's_Eve"
+        }, {
+            "object_type": "constellation",
+            "name": "Naganohara Meteor Swarm",
+            "level": 6,
+            "thumbnail": "Constellation_Naganohara_Meteor_Swarm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Naganohara_Meteor_Swarm"
+        }],
+        "thumbnail": "Character_Yoimiya_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Yoimiya"
+    }, {
+        "object_type": "character",
+        "name": "Zhongli",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Rain of Stone",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Rain_of_Stone.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rain_of_Stone"
+        }, {
+            "object_type": "talent",
+            "name": "Dominus Lapidis",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Dominus_Lapidis.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dominus_Lapidis",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Planet Befall",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Planet_Befall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Planet_Befall",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Resonant Waves",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Resonant_Waves.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Resonant_Waves"
+        }, {
+            "object_type": "talent",
+            "name": "Dominance of Earth",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Dominance_of_Earth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dominance_of_Earth"
+        }, {
+            "object_type": "talent",
+            "name": "Arcanum of Crystal",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Arcanum_of_Crystal.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Arcanum_of_Crystal"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Rock, the Backbone of Earth",
+            "level": 1,
+            "thumbnail": "Constellation_Rock,_the_Backbone_of_Earth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rock,_the_Backbone_of_Earth"
+        }, {
+            "object_type": "constellation",
+            "name": "Stone, the Cradle of Jade",
+            "level": 2,
+            "thumbnail": "Constellation_Stone,_the_Cradle_of_Jade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stone,_the_Cradle_of_Jade"
+        }, {
+            "object_type": "constellation",
+            "name": "Jade, Shimmering through Darkness",
+            "level": 3,
+            "thumbnail": "Constellation_Jade,_Shimmering_through_Darkness.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Jade,_Shimmering_through_Darkness"
+        }, {
+            "object_type": "constellation",
+            "name": "Topaz, Unbreakable and Fearless",
+            "level": 4,
+            "thumbnail": "Constellation_Topaz,_Unbreakable_and_Fearless.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Topaz,_Unbreakable_and_Fearless"
+        }, {
+            "object_type": "constellation",
+            "name": "Lazuli, Herald of the Order",
+            "level": 5,
+            "thumbnail": "Constellation_Lazuli,_Herald_of_the_Order.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lazuli,_Herald_of_the_Order"
+        }, {
+            "object_type": "constellation",
+            "name": "Chrysos, Bounty of Dominator",
+            "level": 6,
+            "thumbnail": "Constellation_Chrysos,_Bounty_of_Dominator.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Chrysos,_Bounty_of_Dominator"
+        }],
+        "thumbnail": "Character_Zhongli_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Zhongli"
+    }]
+}

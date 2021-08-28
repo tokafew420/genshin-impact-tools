@@ -1,0 +1,236 @@
+.card-container {
+    position: relative;
+    width: 74px;
+    height: 90px;
+    margin: 5px 2px;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    transition: 0.1s ease 0s;
+}
+
+.card-container .card-background-image {
+    width: 74px;
+    height: 90px;
+}
+.card-container:hover, .card-container:active, .card-container:focus {
+    transform: scale(1.08);
+}
+
+.card-2 {
+    background: #5D8C81;
+    background: linear-gradient(0deg, #5D8C81 0%, #4E7E6C 100%)
+}
+
+.card-3 {
+    background: #6faaca;
+    background: linear-gradient(0deg, #6faaca 0%, #697b9b 100%)
+}
+
+.card-4 {
+    background: #917ab1;
+    background: linear-gradient(0deg, #917ab1 0%, #6c6192 100%)
+}
+
+.card-5 {
+    background: #9a6d43;
+    background: linear-gradient(0deg, #de9552 0%, #9a6d43 100%)
+}
+
+.card-image {
+    position: absolute;
+    top: 0px;
+    width: 74px;
+    height: 74px;
+    border-radius: 5px 5px 0px 0px
+}
+
+.card-image img {
+    border-radius: 5px 5px 0px 0px;
+}
+
+.card-text {
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    height: 16px;
+    line-height: 14px;
+    background: #E9E5DC;
+    text-align: center;
+    border-radius: 0 0 5px 5px;
+    min-height: 1;
+}
+
+.card-font {
+    color: #495366;
+    font-size: 12px;
+    margin: auto;
+    font-family: "Genshin"
+}
+
+.card-icon {
+    position: absolute;
+    top: 1px;
+    left: 1px
+}
+
+.card-stars {
+    position: absolute;
+    bottom: 16px;
+    height: 16px
+}
+
+.card-stars.star-1 {
+    left: 29px;
+    width: 16px
+}
+
+.card-stars.star-2 {
+    left: 24px;
+    width: 27.73px
+}
+
+.card-stars.star-3 {
+    left: 17px;
+    width: 39.57px
+}
+
+.card-stars.star-4 {
+    left: 12px;
+    width: 50.91px
+}
+
+.card-stars.star-5 {
+    left: 6px;
+    width: 62.55px
+}
+
+.element-anemo {
+    background: #49B8AD;
+    background: linear-gradient(180deg, #49B8AD 0%, #217468 100%)
+}
+
+.element-cryo {
+    background: #75D5F1;
+    background: linear-gradient(180deg, #75D5F1 0%, #20668F 100%)
+}
+
+.element-dendro {
+    background: #4FBD1D;
+    background: linear-gradient(180deg, #4FBD1D 0%, #5A771C 100%)
+}
+
+.element-electro {
+    background: #B36BD2;
+    background: linear-gradient(180deg, #B36BD2 0%, #652B85 100%)
+}
+
+.element-geo {
+    background: #C1A550;
+    background: linear-gradient(180deg, #C1A550 0%, #705523 100%)
+}
+
+.element-hydro {
+    background: #2E81BF;
+    background: linear-gradient(180deg, #2E81BF 0%, #1E4294 100%)
+}
+
+.element-none {
+    background: #929292;
+    background: linear-gradient(180deg, #929292 0%, #2A2A2A 100%)
+}
+
+.element-pyro {
+    background: #AB614B;
+    background: linear-gradient(180deg, #AB614B 0%, #501B23 100%)
+}
+
+.card-caption {
+    margin: 2px 5px 5px;
+    line-height: 1;
+    font-size: 11px;
+}
+
+.card-with-caption {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    width: min-content;
+    height: fit-content;
+    text-align: center
+}
+
+.card-corner {
+    display: flex;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+/* Card double line text */
+.card-container.double-line-text {
+    height: 106px;
+}
+
+.card-container.double-line-text .card-text {
+    height: 32px;
+}
+
+/* Card hover */
+.card-highlight {
+    border-radius: 3px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.card-container:hover .card-highlight, .card-container:active .card-highlight, .card-container:focus .card-highlight {
+    border: solid 2px #fff;
+}
+
+.card-container:active .card-highlight {
+    box-shadow: 0 0 5px #ffffff;
+}
+
+/* Card selection */
+.card-container.selected .card-highlight {
+    top: -3px;
+    height: 107px;
+}
+
+.card-selected {
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    top: -3px;
+    width: 100%;
+    display: none;
+}
+
+.card-selected .card-selected-top {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.card-selected .card-selected-bottom {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.card-container.selected .card-selected {
+    display: block;
+}
+
+.card-selected .selected-check {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 10px;
+    color: var(--content-text-dark-primary-color);
+    margin: 3px;
+}

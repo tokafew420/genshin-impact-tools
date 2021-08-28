@@ -1,0 +1,46 @@
+{
+    "version": "2021-08-06",
+    "data": [{
+        "name": "Anemo",
+        "type": "Element",
+        "thumbnail": "Element_Anemo.png",
+        "image": "",
+        "link": "https://genshin-impact.fandom.com/wiki/Anemo"
+    }, {
+        "name": "Cryo",
+        "type": "Element",
+        "thumbnail": "Element_Cryo.png",
+        "image": "",
+        "link": "https://genshin-impact.fandom.com/wiki/Cryo"
+    }, {
+        "name": "Dendro",
+        "type": "Element",
+        "thumbnail": "Element_Dendro.png",
+        "image": "",
+        "link": "https://genshin-impact.fandom.com/wiki/Dendro"
+    }, {
+        "name": "Electro",
+        "type": "Element",
+        "thumbnail": "Element_Electro.png",
+        "image": "",
+        "link": "https://genshin-impact.fandom.com/wiki/Electro"
+    }, {
+        "name": "Geo",
+        "type": "Element",
+        "thumbnail": "Element_Geo.png",
+        "image": "",
+        "link": "https://genshin-impact.fandom.com/wiki/Geo"
+    }, {
+        "name": "Hydro",
+        "type": "Element",
+        "thumbnail": "Element_Hydro.png",
+        "image": "",
+        "link": "https://genshin-impact.fandom.com/wiki/Hydro"
+    }, {
+        "name": "Pyro",
+        "type": "Element",
+        "thumbnail": "Element_Pyro.png",
+        "image": "",
+        "link": "https://genshin-impact.fandom.com/wiki/Pyro"
+    }]
+}

@@ -1,0 +1,4652 @@
+{
+    "version": "2021-08-10",
+    "data": [{
+        "object_type": "character-ascension",
+        "name": "Albedo",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Prithiva Topaz Sliver",
+                "count": 1
+            }, {
+                "name": "Cecilia",
+                "count": 3
+            }, {
+                "name": "Divining Scroll",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Prithiva Topaz Fragment",
+                "count": 3
+            }, {
+                "name": "Basalt Pillar",
+                "count": 2
+            }, {
+                "name": "Cecilia",
+                "count": 10
+            }, {
+                "name": "Divining Scroll",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Prithiva Topaz Fragment",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 4
+            }, {
+                "name": "Cecilia",
+                "count": 20
+            }, {
+                "name": "Sealed Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Prithiva Topaz Chunk",
+                "count": 3
+            }, {
+                "name": "Basalt Pillar",
+                "count": 8
+            }, {
+                "name": "Cecilia",
+                "count": 30
+            }, {
+                "name": "Sealed Scroll",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Prithiva Topaz Chunk",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 12
+            }, {
+                "name": "Cecilia",
+                "count": 45
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Prithiva Topaz Gemstone",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 20
+            }, {
+                "name": "Cecilia",
+                "count": 60
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Amber",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 3
+            }, {
+                "name": "Firm Arrowhead",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 2
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 10
+            }, {
+                "name": "Firm Arrowhead",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 4
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 20
+            }, {
+                "name": "Sharp Arrowhead",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 8
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 30
+            }, {
+                "name": "Sharp Arrowhead",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 12
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 45
+            }, {
+                "name": "Weathered Arrowhead",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 20
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 60
+            }, {
+                "name": "Weathered Arrowhead",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Barbara",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Varunada Lazurite Sliver",
+                "count": 1
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 3
+            }, {
+                "name": "Divining Scroll",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 3
+            }, {
+                "name": "Cleansing Heart",
+                "count": 2
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 10
+            }, {
+                "name": "Divining Scroll",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 4
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 20
+            }, {
+                "name": "Sealed Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 3
+            }, {
+                "name": "Cleansing Heart",
+                "count": 8
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 30
+            }, {
+                "name": "Sealed Scroll",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 12
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 45
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Varunada Lazurite Gemstone",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 20
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 60
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Beidou",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vajrada Amethyst Sliver",
+                "count": 1
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 3
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 2
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 10
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 4
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 20
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 8
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 30
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 12
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 45
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vajrada Amethyst Gemstone",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 20
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 60
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Bennett",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Windwheel Aster",
+                "count": 3
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 2
+            }, {
+                "name": "Windwheel Aster",
+                "count": 10
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 4
+            }, {
+                "name": "Windwheel Aster",
+                "count": 20
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 8
+            }, {
+                "name": "Windwheel Aster",
+                "count": 30
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 12
+            }, {
+                "name": "Windwheel Aster",
+                "count": 45
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 20
+            }, {
+                "name": "Windwheel Aster",
+                "count": 60
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Chongyun",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Shivada Jade Sliver",
+                "count": 1
+            }, {
+                "name": "Cor Lapis",
+                "count": 3
+            }, {
+                "name": "Damaged Mask",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 2
+            }, {
+                "name": "Cor Lapis",
+                "count": 10
+            }, {
+                "name": "Damaged Mask",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 4
+            }, {
+                "name": "Cor Lapis",
+                "count": 20
+            }, {
+                "name": "Stained Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 8
+            }, {
+                "name": "Cor Lapis",
+                "count": 30
+            }, {
+                "name": "Stained Mask",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 12
+            }, {
+                "name": "Cor Lapis",
+                "count": 45
+            }, {
+                "name": "Ominous Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Shivada Jade Gemstone",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 20
+            }, {
+                "name": "Cor Lapis",
+                "count": 60
+            }, {
+                "name": "Ominous Mask",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Diluc",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 3
+            }, {
+                "name": "Recruit's Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 2
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 10
+            }, {
+                "name": "Recruit's Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 4
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 20
+            }, {
+                "name": "Sergeant's Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 8
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 30
+            }, {
+                "name": "Sergeant's Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 12
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 45
+            }, {
+                "name": "Lieutenant's Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 20
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 60
+            }, {
+                "name": "Lieutenant's Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Diona",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Shivada Jade Sliver",
+                "count": 1
+            }, {
+                "name": "Calla Lily",
+                "count": 3
+            }, {
+                "name": "Firm Arrowhead",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 2
+            }, {
+                "name": "Calla Lily",
+                "count": 10
+            }, {
+                "name": "Firm Arrowhead",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 4
+            }, {
+                "name": "Calla Lily",
+                "count": 20
+            }, {
+                "name": "Sharp Arrowhead",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 8
+            }, {
+                "name": "Calla Lily",
+                "count": 30
+            }, {
+                "name": "Sharp Arrowhead",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 12
+            }, {
+                "name": "Calla Lily",
+                "count": 45
+            }, {
+                "name": "Weathered Arrowhead",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Shivada Jade Gemstone",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 20
+            }, {
+                "name": "Calla Lily",
+                "count": 60
+            }, {
+                "name": "Weathered Arrowhead",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Eula",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Shivada Jade Sliver",
+                "count": 1
+            }, {
+                "name": "Dandelion Seed",
+                "count": 3
+            }, {
+                "name": "Damaged Mask",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 3
+            }, {
+                "name": "Crystalline Bloom",
+                "count": 2
+            }, {
+                "name": "Dandelion Seed",
+                "count": 10
+            }, {
+                "name": "Damaged Mask",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 6
+            }, {
+                "name": "Crystalline Bloom",
+                "count": 4
+            }, {
+                "name": "Dandelion Seed",
+                "count": 20
+            }, {
+                "name": "Stained Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 3
+            }, {
+                "name": "Crystalline Bloom",
+                "count": 8
+            }, {
+                "name": "Dandelion Seed",
+                "count": 30
+            }, {
+                "name": "Stained Mask",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 6
+            }, {
+                "name": "Crystalline Bloom",
+                "count": 12
+            }, {
+                "name": "Dandelion Seed",
+                "count": 45
+            }, {
+                "name": "Ominous Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Shivada Jade Gemstone",
+                "count": 6
+            }, {
+                "name": "Crystalline Bloom",
+                "count": 20
+            }, {
+                "name": "Dandelion Seed",
+                "count": 60
+            }, {
+                "name": "Ominous Mask",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Fischl",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vajrada Amethyst Sliver",
+                "count": 1
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 3
+            }, {
+                "name": "Firm Arrowhead",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 2
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 10
+            }, {
+                "name": "Firm Arrowhead",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 4
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 20
+            }, {
+                "name": "Sharp Arrowhead",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 8
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 30
+            }, {
+                "name": "Sharp Arrowhead",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 12
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 45
+            }, {
+                "name": "Weathered Arrowhead",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vajrada Amethyst Gemstone",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 20
+            }, {
+                "name": "Small Lamp Grass",
+                "count": 60
+            }, {
+                "name": "Weathered Arrowhead",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Ganyu",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Shivada Jade Sliver",
+                "count": 1
+            }, {
+                "name": "Qingxin",
+                "count": 3
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 2
+            }, {
+                "name": "Qingxin",
+                "count": 10
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 4
+            }, {
+                "name": "Qingxin",
+                "count": 20
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 8
+            }, {
+                "name": "Qingxin",
+                "count": 30
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 12
+            }, {
+                "name": "Qingxin",
+                "count": 45
+            }, {
+                "name": "Energy Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Shivada Jade Gemstone",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 20
+            }, {
+                "name": "Qingxin",
+                "count": 60
+            }, {
+                "name": "Energy Nectar",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Hu Tao",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Silk Flower",
+                "count": 3
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Juvenile Jade",
+                "count": 2
+            }, {
+                "name": "Silk Flower",
+                "count": 10
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 4
+            }, {
+                "name": "Silk Flower",
+                "count": 20
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Juvenile Jade",
+                "count": 8
+            }, {
+                "name": "Silk Flower",
+                "count": 30
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 12
+            }, {
+                "name": "Silk Flower",
+                "count": 45
+            }, {
+                "name": "Energy Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 20
+            }, {
+                "name": "Silk Flower",
+                "count": 60
+            }, {
+                "name": "Energy Nectar",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Jean",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vayuda Turquoise Sliver",
+                "count": 1
+            }, {
+                "name": "Dandelion Seed",
+                "count": 3
+            }, {
+                "name": "Damaged Mask",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 3
+            }, {
+                "name": "Hurricane Seed",
+                "count": 2
+            }, {
+                "name": "Dandelion Seed",
+                "count": 10
+            }, {
+                "name": "Damaged Mask",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 4
+            }, {
+                "name": "Dandelion Seed",
+                "count": 20
+            }, {
+                "name": "Stained Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 3
+            }, {
+                "name": "Hurricane Seed",
+                "count": 8
+            }, {
+                "name": "Dandelion Seed",
+                "count": 30
+            }, {
+                "name": "Stained Mask",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 12
+            }, {
+                "name": "Dandelion Seed",
+                "count": 45
+            }, {
+                "name": "Ominous Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vayuda Turquoise Gemstone",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 20
+            }, {
+                "name": "Dandelion Seed",
+                "count": 60
+            }, {
+                "name": "Ominous Mask",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Kaedehara Kazuha",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vayuda Turquoise Sliver",
+                "count": 1
+            }, {
+                "name": "Sea Ganoderma",
+                "count": 3
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 3
+            }, {
+                "name": "Marionette Core",
+                "count": 2
+            }, {
+                "name": "Sea Ganoderma",
+                "count": 10
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 6
+            }, {
+                "name": "Marionette Core",
+                "count": 4
+            }, {
+                "name": "Sea Ganoderma",
+                "count": 20
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 3
+            }, {
+                "name": "Marionette Core",
+                "count": 8
+            }, {
+                "name": "Sea Ganoderma",
+                "count": 30
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 6
+            }, {
+                "name": "Marionette Core",
+                "count": 12
+            }, {
+                "name": "Sea Ganoderma",
+                "count": 45
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vayuda Turquoise Gemstone",
+                "count": 6
+            }, {
+                "name": "Marionette Core",
+                "count": 20
+            }, {
+                "name": "Sea Ganoderma",
+                "count": 60
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Kaeya",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Shivada Jade Sliver",
+                "count": 1
+            }, {
+                "name": "Calla Lily",
+                "count": 3
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 2
+            }, {
+                "name": "Calla Lily",
+                "count": 10
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 4
+            }, {
+                "name": "Calla Lily",
+                "count": 20
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 8
+            }, {
+                "name": "Calla Lily",
+                "count": 30
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 12
+            }, {
+                "name": "Calla Lily",
+                "count": 45
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Shivada Jade Gemstone",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 20
+            }, {
+                "name": "Calla Lily",
+                "count": 60
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Kamisato Ayaka",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Shivada Jade Sliver",
+                "count": 1
+            }, {
+                "name": "Sakura Bloom",
+                "count": 3
+            }, {
+                "name": "Old Handguard",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 3
+            }, {
+                "name": "Perpetual Heart",
+                "count": 2
+            }, {
+                "name": "Sakura Bloom",
+                "count": 10
+            }, {
+                "name": "Old Handguard",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 6
+            }, {
+                "name": "Perpetual Heart",
+                "count": 4
+            }, {
+                "name": "Sakura Bloom",
+                "count": 20
+            }, {
+                "name": "Kageuchi Handguard",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 3
+            }, {
+                "name": "Perpetual Heart",
+                "count": 8
+            }, {
+                "name": "Sakura Bloom",
+                "count": 30
+            }, {
+                "name": "Kageuchi Handguard",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 6
+            }, {
+                "name": "Perpetual Heart",
+                "count": 12
+            }, {
+                "name": "Sakura Bloom",
+                "count": 45
+            }, {
+                "name": "Famed Handguard",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Shivada Jade Gemstone",
+                "count": 6
+            }, {
+                "name": "Perpetual Heart",
+                "count": 20
+            }, {
+                "name": "Sakura Bloom",
+                "count": 60
+            }, {
+                "name": "Famed Handguard",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Keqing",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vajrada Amethyst Sliver",
+                "count": 1
+            }, {
+                "name": "Cor Lapis",
+                "count": 3
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 2
+            }, {
+                "name": "Cor Lapis",
+                "count": 10
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 4
+            }, {
+                "name": "Cor Lapis",
+                "count": 20
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 8
+            }, {
+                "name": "Cor Lapis",
+                "count": 30
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 12
+            }, {
+                "name": "Cor Lapis",
+                "count": 45
+            }, {
+                "name": "Energy Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vajrada Amethyst Gemstone",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 20
+            }, {
+                "name": "Cor Lapis",
+                "count": 60
+            }, {
+                "name": "Energy Nectar",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Klee",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 3
+            }, {
+                "name": "Divining Scroll",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 2
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 10
+            }, {
+                "name": "Divining Scroll",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 4
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 20
+            }, {
+                "name": "Sealed Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 8
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 30
+            }, {
+                "name": "Sealed Scroll",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 12
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 45
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 20
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 60
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Lisa",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vajrada Amethyst Sliver",
+                "count": 1
+            }, {
+                "name": "Valberry",
+                "count": 3
+            }, {
+                "name": "Slime Condensate",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 2
+            }, {
+                "name": "Valberry",
+                "count": 10
+            }, {
+                "name": "Slime Condensate",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 4
+            }, {
+                "name": "Valberry",
+                "count": 20
+            }, {
+                "name": "Slime Secretions",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 8
+            }, {
+                "name": "Valberry",
+                "count": 30
+            }, {
+                "name": "Slime Secretions",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 12
+            }, {
+                "name": "Valberry",
+                "count": 45
+            }, {
+                "name": "Slime Concentrate",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vajrada Amethyst Gemstone",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 20
+            }, {
+                "name": "Valberry",
+                "count": 60
+            }, {
+                "name": "Slime Concentrate",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Mona",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Varunada Lazurite Sliver",
+                "count": 1
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 3
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 3
+            }, {
+                "name": "Cleansing Heart",
+                "count": 2
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 10
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 4
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 20
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 3
+            }, {
+                "name": "Cleansing Heart",
+                "count": 8
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 30
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 12
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 45
+            }, {
+                "name": "Energy Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Varunada Lazurite Gemstone",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 20
+            }, {
+                "name": "Philanemo Mushroom",
+                "count": 60
+            }, {
+                "name": "Energy Nectar",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Ningguang",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Prithiva Topaz Sliver",
+                "count": 1
+            }, {
+                "name": "Glaze Lily",
+                "count": 3
+            }, {
+                "name": "Recruit's Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Prithiva Topaz Fragment",
+                "count": 3
+            }, {
+                "name": "Basalt Pillar",
+                "count": 2
+            }, {
+                "name": "Glaze Lily",
+                "count": 10
+            }, {
+                "name": "Recruit's Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Prithiva Topaz Fragment",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 4
+            }, {
+                "name": "Glaze Lily",
+                "count": 20
+            }, {
+                "name": "Sergeant's Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Prithiva Topaz Chunk",
+                "count": 3
+            }, {
+                "name": "Basalt Pillar",
+                "count": 8
+            }, {
+                "name": "Glaze Lily",
+                "count": 30
+            }, {
+                "name": "Sergeant's Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Prithiva Topaz Chunk",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 12
+            }, {
+                "name": "Glaze Lily",
+                "count": 45
+            }, {
+                "name": "Lieutenant's Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Prithiva Topaz Gemstone",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 20
+            }, {
+                "name": "Glaze Lily",
+                "count": 60
+            }, {
+                "name": "Lieutenant's Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Noelle",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Prithiva Topaz Sliver",
+                "count": 1
+            }, {
+                "name": "Valberry",
+                "count": 3
+            }, {
+                "name": "Damaged Mask",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Prithiva Topaz Fragment",
+                "count": 3
+            }, {
+                "name": "Basalt Pillar",
+                "count": 2
+            }, {
+                "name": "Valberry",
+                "count": 10
+            }, {
+                "name": "Damaged Mask",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Prithiva Topaz Fragment",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 4
+            }, {
+                "name": "Valberry",
+                "count": 20
+            }, {
+                "name": "Stained Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Prithiva Topaz Chunk",
+                "count": 3
+            }, {
+                "name": "Basalt Pillar",
+                "count": 8
+            }, {
+                "name": "Valberry",
+                "count": 30
+            }, {
+                "name": "Stained Mask",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Prithiva Topaz Chunk",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 12
+            }, {
+                "name": "Valberry",
+                "count": 45
+            }, {
+                "name": "Ominous Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Prithiva Topaz Gemstone",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 20
+            }, {
+                "name": "Valberry",
+                "count": 60
+            }, {
+                "name": "Ominous Mask",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Qiqi",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Shivada Jade Sliver",
+                "count": 1
+            }, {
+                "name": "Violetgrass",
+                "count": 3
+            }, {
+                "name": "Divining Scroll",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 2
+            }, {
+                "name": "Violetgrass",
+                "count": 10
+            }, {
+                "name": "Divining Scroll",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 4
+            }, {
+                "name": "Violetgrass",
+                "count": 20
+            }, {
+                "name": "Sealed Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 8
+            }, {
+                "name": "Violetgrass",
+                "count": 30
+            }, {
+                "name": "Sealed Scroll",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 12
+            }, {
+                "name": "Violetgrass",
+                "count": 45
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Shivada Jade Gemstone",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 20
+            }, {
+                "name": "Violetgrass",
+                "count": 60
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Razor",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vajrada Amethyst Sliver",
+                "count": 1
+            }, {
+                "name": "Wolfhook",
+                "count": 3
+            }, {
+                "name": "Damaged Mask",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 2
+            }, {
+                "name": "Wolfhook",
+                "count": 10
+            }, {
+                "name": "Damaged Mask",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vajrada Amethyst Fragment",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 4
+            }, {
+                "name": "Wolfhook",
+                "count": 20
+            }, {
+                "name": "Stained Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 3
+            }, {
+                "name": "Lightning Prism",
+                "count": 8
+            }, {
+                "name": "Wolfhook",
+                "count": 30
+            }, {
+                "name": "Stained Mask",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vajrada Amethyst Chunk",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 12
+            }, {
+                "name": "Wolfhook",
+                "count": 45
+            }, {
+                "name": "Ominous Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vajrada Amethyst Gemstone",
+                "count": 6
+            }, {
+                "name": "Lightning Prism",
+                "count": 20
+            }, {
+                "name": "Wolfhook",
+                "count": 60
+            }, {
+                "name": "Ominous Mask",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Rosaria",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Shivada Jade Sliver",
+                "count": 1
+            }, {
+                "name": "Valberry",
+                "count": 3
+            }, {
+                "name": "Recruit's Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 2
+            }, {
+                "name": "Valberry",
+                "count": 10
+            }, {
+                "name": "Recruit's Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Shivada Jade Fragment",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 4
+            }, {
+                "name": "Valberry",
+                "count": 20
+            }, {
+                "name": "Sergeant's Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 3
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 8
+            }, {
+                "name": "Valberry",
+                "count": 30
+            }, {
+                "name": "Sergeant's Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Shivada Jade Chunk",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 12
+            }, {
+                "name": "Valberry",
+                "count": 45
+            }, {
+                "name": "Lieutenant's Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Shivada Jade Gemstone",
+                "count": 6
+            }, {
+                "name": "Hoarfrost Core",
+                "count": 20
+            }, {
+                "name": "Valberry",
+                "count": 60
+            }, {
+                "name": "Lieutenant's Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Sayu",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 3
+            }, {
+                "name": "Marionette Core",
+                "count": 2
+            }, {
+                "name": "Crystal Marrow",
+                "count": 10
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 6
+            }, {
+                "name": "Marionette Core",
+                "count": 4
+            }, {
+                "name": "Crystal Marrow",
+                "count": 20
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 3
+            }, {
+                "name": "Marionette Core",
+                "count": 8
+            }, {
+                "name": "Crystal Marrow",
+                "count": 30
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 6
+            }, {
+                "name": "Marionette Core",
+                "count": 12
+            }, {
+                "name": "Crystal Marrow",
+                "count": 45
+            }, {
+                "name": "Energy Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Vayuda Turquoise Gemstone",
+                "count": 6
+            }, {
+                "name": "Marionette Core",
+                "count": 20
+            }, {
+                "name": "Crystal Marrow",
+                "count": 60
+            }, {
+                "name": "Energy Nectar",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Sucrose",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vayuda Turquoise Sliver",
+                "count": 1
+            }, {
+                "name": "Windwheel Aster",
+                "count": 3
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 3
+            }, {
+                "name": "Hurricane Seed",
+                "count": 2
+            }, {
+                "name": "Windwheel Aster",
+                "count": 10
+            }, {
+                "name": "Whopperflower Nectar",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 4
+            }, {
+                "name": "Windwheel Aster",
+                "count": 20
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 3
+            }, {
+                "name": "Hurricane Seed",
+                "count": 8
+            }, {
+                "name": "Windwheel Aster",
+                "count": 30
+            }, {
+                "name": "Shimmering Nectar",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 12
+            }, {
+                "name": "Windwheel Aster",
+                "count": 45
+            }, {
+                "name": "Energy Nectar",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vayuda Turquoise Gemstone",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 20
+            }, {
+                "name": "Windwheel Aster",
+                "count": 60
+            }, {
+                "name": "Energy Nectar",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Tartaglia",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Varunada Lazurite Sliver",
+                "count": 1
+            }, {
+                "name": "Starconch",
+                "count": 3
+            }, {
+                "name": "Recruit's Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 3
+            }, {
+                "name": "Cleansing Heart",
+                "count": 2
+            }, {
+                "name": "Starconch",
+                "count": 10
+            }, {
+                "name": "Recruit's Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 4
+            }, {
+                "name": "Starconch",
+                "count": 20
+            }, {
+                "name": "Sergeant's Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 3
+            }, {
+                "name": "Cleansing Heart",
+                "count": 8
+            }, {
+                "name": "Starconch",
+                "count": 30
+            }, {
+                "name": "Sergeant's Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 12
+            }, {
+                "name": "Starconch",
+                "count": 45
+            }, {
+                "name": "Lieutenant's Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Varunada Lazurite Gemstone",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 20
+            }, {
+                "name": "Starconch",
+                "count": 60
+            }, {
+                "name": "Lieutenant's Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Traveler",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Brilliant Diamond Sliver",
+                "count": 1
+            }, {
+                "name": "Windwheel Aster",
+                "count": 3
+            }, {
+                "name": "Damaged Mask",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Brilliant Diamond Fragment",
+                "count": 3
+            }, {
+                "name": "Windwheel Aster",
+                "count": 10
+            }, {
+                "name": "Damaged Mask",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Brilliant Diamond Fragment",
+                "count": 6
+            }, {
+                "name": "Windwheel Aster",
+                "count": 20
+            }, {
+                "name": "Stained Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Brilliant Diamond Chunk",
+                "count": 3
+            }, {
+                "name": "Windwheel Aster",
+                "count": 30
+            }, {
+                "name": "Stained Mask",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Brilliant Diamond Chunk",
+                "count": 6
+            }, {
+                "name": "Windwheel Aster",
+                "count": 45
+            }, {
+                "name": "Ominous Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Brilliant Diamond Gemstone",
+                "count": 6
+            }, {
+                "name": "Windwheel Aster",
+                "count": 60
+            }, {
+                "name": "Ominous Mask",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Venti",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vayuda Turquoise Sliver",
+                "count": 1
+            }, {
+                "name": "Cecilia",
+                "count": 3
+            }, {
+                "name": "Slime Condensate",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 3
+            }, {
+                "name": "Hurricane Seed",
+                "count": 2
+            }, {
+                "name": "Cecilia",
+                "count": 10
+            }, {
+                "name": "Slime Condensate",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 4
+            }, {
+                "name": "Cecilia",
+                "count": 20
+            }, {
+                "name": "Slime Secretions",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 3
+            }, {
+                "name": "Hurricane Seed",
+                "count": 8
+            }, {
+                "name": "Cecilia",
+                "count": 30
+            }, {
+                "name": "Slime Secretions",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 12
+            }, {
+                "name": "Cecilia",
+                "count": 45
+            }, {
+                "name": "Slime Concentrate",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vayuda Turquoise Gemstone",
+                "count": 6
+            }, {
+                "name": "Hurricane Seed",
+                "count": 20
+            }, {
+                "name": "Cecilia",
+                "count": 60
+            }, {
+                "name": "Slime Concentrate",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Xiangling",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Jueyun Chili",
+                "count": 3
+            }, {
+                "name": "Slime Condensate",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 2
+            }, {
+                "name": "Jueyun Chili",
+                "count": 10
+            }, {
+                "name": "Slime Condensate",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 4
+            }, {
+                "name": "Jueyun Chili",
+                "count": 20
+            }, {
+                "name": "Slime Secretions",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 8
+            }, {
+                "name": "Jueyun Chili",
+                "count": 30
+            }, {
+                "name": "Slime Secretions",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 12
+            }, {
+                "name": "Jueyun Chili",
+                "count": 45
+            }, {
+                "name": "Slime Concentrate",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 20
+            }, {
+                "name": "Jueyun Chili",
+                "count": 60
+            }, {
+                "name": "Slime Concentrate",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Xiao",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Vayuda Turquoise Sliver",
+                "count": 1
+            }, {
+                "name": "Qingxin",
+                "count": 3
+            }, {
+                "name": "Slime Condensate",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 3
+            }, {
+                "name": "Juvenile Jade",
+                "count": 2
+            }, {
+                "name": "Qingxin",
+                "count": 10
+            }, {
+                "name": "Slime Condensate",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Vayuda Turquoise Fragment",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 4
+            }, {
+                "name": "Qingxin",
+                "count": 20
+            }, {
+                "name": "Slime Secretions",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 3
+            }, {
+                "name": "Juvenile Jade",
+                "count": 8
+            }, {
+                "name": "Qingxin",
+                "count": 30
+            }, {
+                "name": "Slime Secretions",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Vayuda Turquoise Chunk",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 12
+            }, {
+                "name": "Qingxin",
+                "count": 45
+            }, {
+                "name": "Slime Concentrate",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Vayuda Turquoise Gemstone",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 20
+            }, {
+                "name": "Qingxin",
+                "count": 60
+            }, {
+                "name": "Slime Concentrate",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Xingqiu",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Varunada Lazurite Sliver",
+                "count": 1
+            }, {
+                "name": "Silk Flower",
+                "count": 3
+            }, {
+                "name": "Damaged Mask",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 3
+            }, {
+                "name": "Cleansing Heart",
+                "count": 2
+            }, {
+                "name": "Silk Flower",
+                "count": 10
+            }, {
+                "name": "Damaged Mask",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 4
+            }, {
+                "name": "Silk Flower",
+                "count": 20
+            }, {
+                "name": "Stained Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 3
+            }, {
+                "name": "Cleansing Heart",
+                "count": 8
+            }, {
+                "name": "Silk Flower",
+                "count": 30
+            }, {
+                "name": "Stained Mask",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 12
+            }, {
+                "name": "Silk Flower",
+                "count": 45
+            }, {
+                "name": "Ominous Mask",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Varunada Lazurite Gemstone",
+                "count": 6
+            }, {
+                "name": "Cleansing Heart",
+                "count": 20
+            }, {
+                "name": "Silk Flower",
+                "count": 60
+            }, {
+                "name": "Ominous Mask",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Xinyan",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Violetgrass",
+                "count": 3
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 2
+            }, {
+                "name": "Violetgrass",
+                "count": 10
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 4
+            }, {
+                "name": "Violetgrass",
+                "count": 20
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Everflame Seed",
+                "count": 8
+            }, {
+                "name": "Violetgrass",
+                "count": 30
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 12
+            }, {
+                "name": "Violetgrass",
+                "count": 45
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Everflame Seed",
+                "count": 20
+            }, {
+                "name": "Violetgrass",
+                "count": 60
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Yanfei",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 3
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Juvenile Jade",
+                "count": 2
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 10
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 4
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 20
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Juvenile Jade",
+                "count": 8
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 30
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 12
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 45
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Juvenile Jade",
+                "count": 20
+            }, {
+                "name": "Noctilucous Jade",
+                "count": 60
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Yoimiya",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 2
+            }, {
+                "name": "Naku Weed",
+                "count": 10
+            }, {
+                "name": "Divining Scroll",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 4
+            }, {
+                "name": "Naku Weed",
+                "count": 20
+            }, {
+                "name": "Sealed Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 8
+            }, {
+                "name": "Naku Weed",
+                "count": 30
+            }, {
+                "name": "Sealed Scroll",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 12
+            }, {
+                "name": "Naku Weed",
+                "count": 45
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": null
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 20
+            }, {
+                "name": "Naku Weed",
+                "count": 60
+            }, {
+                "name": "Forbidden Curse Scroll",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Zhongli",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Prithiva Topaz Sliver",
+                "count": 1
+            }, {
+                "name": "Cor Lapis",
+                "count": 3
+            }, {
+                "name": "Slime Condensate",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Prithiva Topaz Fragment",
+                "count": 3
+            }, {
+                "name": "Basalt Pillar",
+                "count": 2
+            }, {
+                "name": "Cor Lapis",
+                "count": 10
+            }, {
+                "name": "Slime Condensate",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Prithiva Topaz Fragment",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 4
+            }, {
+                "name": "Cor Lapis",
+                "count": 20
+            }, {
+                "name": "Slime Secretions",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Prithiva Topaz Chunk",
+                "count": 3
+            }, {
+                "name": "Basalt Pillar",
+                "count": 8
+            }, {
+                "name": "Cor Lapis",
+                "count": 30
+            }, {
+                "name": "Slime Secretions",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Prithiva Topaz Chunk",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 12
+            }, {
+                "name": "Cor Lapis",
+                "count": 45
+            }, {
+                "name": "Slime Concentrate",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Prithiva Topaz Gemstone",
+                "count": 6
+            }, {
+                "name": "Basalt Pillar",
+                "count": 20
+            }, {
+                "name": "Cor Lapis",
+                "count": 60
+            }, {
+                "name": "Slime Concentrate",
+                "count": 24
+            }]
+        }]
+    }]
+}
