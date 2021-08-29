@@ -51,7 +51,7 @@ html, body {
     background-position: top;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image: url(./../img/background.jpg);
+    background-image: url(./../img/Background_Main.jpg);
     color: var(--content-text-color);
 }
 
