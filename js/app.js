@@ -34,7 +34,8 @@
         <img alt="Card Corner.png" src="./img/Card_Corner.png" width="14" height="14" />
     </div>
 </div>`,
-            cardText: (text) => `<div class="card-text"><span class="card-font">${text}</span></div>`,
+            cardText: (text) =>
+                `<div class="card-text"><span class="card-font ${text && text.length > 18 ? 'card-font-sm' : ''}">${text}</span></div>`,
             cardIcon: (src, name, link) => `
 <div class="card-icon"><span class="d-inline-block">
     <a href="${link}" title="${name}" target="_blank" tabindex="-1">
@@ -70,7 +71,7 @@
             var $container = $(app.templates.cardContainer(character.rarity, {
                 doubleLineText: true
             }));
-            $container.append(app.templates.cardImg(character.thumbnail, character.displayName || character.name, character.link))
+            $container.append(app.templates.cardImg(character.thumbnail, character.name, character.link))
                 .append(app.templates.cardText(character.name))
                 .append(app.templates.cardIcon(character.element.thumbnail, character.element.name, character.element.link));
 
@@ -84,6 +85,32 @@
             $container.data('resource', character)
                 .attr('data-resource-type', character.type)
                 .attr('data-resource-name', character.name);
+
+            return $container;
+        }
+    };
+
+    app.makeResourceCard = (name, highlight, selectable) => {
+        var resource = app.getResource(name);
+
+        if (resource) {
+            var $container = $(app.templates.cardContainer(resource.rarity, {
+                doubleLineText: true
+            }));
+            $container.append(app.templates.cardImg(resource.thumbnail, resource.name, resource.link))
+                .append(app.templates.cardText(resource.name))
+                .append(app.templates.cardStar(resource.rarity));
+
+            if (selectable) {
+                $container.append(app.templates.cardSelect())
+            }
+
+            if (highlight) {
+                $container.append(app.templates.cardHighlight())
+            }
+            $container.data('resource', resource)
+                .attr('data-resource-type', resource.type)
+                .attr('data-resource-name', resource.name);
 
             return $container;
         }

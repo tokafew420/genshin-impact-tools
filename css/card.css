@@ -13,7 +13,10 @@
     width: 74px;
     height: 90px;
 }
-.card-container:hover, .card-container:active, .card-container:focus {
+
+.card-container:hover,
+.card-container:active,
+.card-container:focus {
     transform: scale(1.08);
 }
 
@@ -60,6 +63,7 @@
     text-align: center;
     border-radius: 0 0 5px 5px;
     min-height: 1;
+    overflow: hidden;
 }
 
 .card-font {
@@ -77,7 +81,7 @@
 
 .card-stars {
     position: absolute;
-    bottom: 16px;
+    top: 58px;
     height: 16px
 }
 
@@ -177,6 +181,10 @@
     height: 32px;
 }
 
+.card-font-sm {
+    font-size: 0.7em;
+}
+
 /* Card hover */
 .card-highlight {
     border-radius: 3px;
@@ -187,7 +195,9 @@
     height: 100%;
 }
 
-.card-container:hover .card-highlight, .card-container:active .card-highlight, .card-container:focus .card-highlight {
+.card-container:hover .card-highlight,
+.card-container:active .card-highlight,
+.card-container:focus .card-highlight {
     border: solid 2px #fff;
 }
 

@@ -1584,5 +1584,329 @@
         "rarity": 5,
         "thumbnail": "Item_Crown_of_Insight.png",
         "link": "https://genshin-impact.fandom.com/wiki/Crown_of_Insight"
+    }, {
+        "object_type": "item",
+        "name": "Tile of Decarabian's Tower",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Decarabian Tiles",
+        "rarity": 2,
+        "thumbnail": "Item_Tile_of_Decarabian's_Tower.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tile_of_Decarabian's_Tower"
+    }, {
+        "object_type": "item",
+        "name": "Debris of Decarabian's City",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Decarabian Tiles",
+        "rarity": 3,
+        "thumbnail": "Item_Debris_of_Decarabian's_City.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Debris_of_Decarabian's_City"
+    }, {
+        "object_type": "item",
+        "name": "Fragment of Decarabian's Epic",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Decarabian Tiles",
+        "rarity": 4,
+        "thumbnail": "Item_Fragment_of_Decarabian's_Epic.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fragment_of_Decarabian's_Epic"
+    }, {
+        "object_type": "item",
+        "name": "Scattered Piece of Decarabian's Dream",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Decarabian Tiles",
+        "rarity": 5,
+        "thumbnail": "Item_Scattered_Piece_of_Decarabian's_Dream.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Scattered_Piece_of_Decarabian's_Dream"
+    }, {
+        "object_type": "item",
+        "name": "Boreal Wolf's Milk Tooth",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Boreal Wolf Teeth",
+        "rarity": 2,
+        "thumbnail": "Item_Boreal_Wolf's_Milk_Tooth.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Milk_Tooth"
+    }, {
+        "object_type": "item",
+        "name": "Boreal Wolf's Cracked Tooth",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Boreal Wolf Teeth",
+        "rarity": 3,
+        "thumbnail": "Item_Boreal_Wolf's_Cracked_Tooth.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Cracked_Tooth"
+    }, {
+        "object_type": "item",
+        "name": "Boreal Wolf's Broken Fang",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Boreal Wolf Teeth",
+        "rarity": 4,
+        "thumbnail": "Item_Boreal_Wolf's_Broken_Fang.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Broken_Fang"
+    }, {
+        "object_type": "item",
+        "name": "Boreal Wolf's Nostalgia",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Boreal Wolf Teeth",
+        "rarity": 5,
+        "thumbnail": "Item_Boreal_Wolf's_Nostalgia.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Nostalgia"
+    }, {
+        "object_type": "item",
+        "name": "Fetters of the Dandelion Gladiator",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Gladiator Shackles",
+        "rarity": 2,
+        "thumbnail": "Item_Fetters_of_the_Dandelion_Gladiator.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fetters_of_the_Dandelion_Gladiator"
+    }, {
+        "object_type": "item",
+        "name": "Chains of the Dandelion Gladiator",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Gladiator Shackles",
+        "rarity": 3,
+        "thumbnail": "Item_Chains_of_the_Dandelion_Gladiator.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chains_of_the_Dandelion_Gladiator"
+    }, {
+        "object_type": "item",
+        "name": "Shackles of the Dandelion Gladiator",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Gladiator Shackles",
+        "rarity": 4,
+        "thumbnail": "Item_Shackles_of_the_Dandelion_Gladiator.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Shackles_of_the_Dandelion_Gladiator"
+    }, {
+        "object_type": "item",
+        "name": "Dream of the Dandelion Gladiator",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Gladiator Shackles",
+        "rarity": 5,
+        "thumbnail": "Item_Dream_of_the_Dandelion_Gladiator.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dream_of_the_Dandelion_Gladiator"
+    }, {
+        "object_type": "item",
+        "name": "Luminous Sands from Guyun",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Guyun Pillars",
+        "rarity": 2,
+        "thumbnail": "Item_Luminous_Sands_from_Guyun.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Luminous_Sands_from_Guyun"
+    }, {
+        "object_type": "item",
+        "name": "Lustrous Stone from Guyun",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Guyun Pillars",
+        "rarity": 3,
+        "thumbnail": "Item_Lustrous_Stone_from_Guyun.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lustrous_Stone_from_Guyun"
+    }, {
+        "object_type": "item",
+        "name": "Relic from Guyun",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Guyun Pillars",
+        "rarity": 4,
+        "thumbnail": "Item_Relic_from_Guyun.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Relic_from_Guyun"
+    }, {
+        "object_type": "item",
+        "name": "Divine Body from Guyun",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Guyun Pillars",
+        "rarity": 5,
+        "thumbnail": "Item_Divine_Body_from_Guyun.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Divine_Body_from_Guyun"
+    }, {
+        "object_type": "item",
+        "name": "Mist Veiled Lead Elixir",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Elixirs",
+        "rarity": 2,
+        "thumbnail": "Item_Mist_Veiled_Lead_Elixir.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Lead_Elixir"
+    }, {
+        "object_type": "item",
+        "name": "Mist Veiled Mercury Elixir",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Elixirs",
+        "rarity": 3,
+        "thumbnail": "Item_Mist_Veiled_Mercury_Elixir.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Mercury_Elixir"
+    }, {
+        "object_type": "item",
+        "name": "Mist Veiled Gold Elixir",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Elixirs",
+        "rarity": 4,
+        "thumbnail": "Item_Mist_Veiled_Gold_Elixir.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Gold_Elixir"
+    }, {
+        "object_type": "item",
+        "name": "Mist Veiled Primo Elixir",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Elixirs",
+        "rarity": 5,
+        "thumbnail": "Item_Mist_Veiled_Primo_Elixir.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Primo_Elixir"
+    }, {
+        "object_type": "item",
+        "name": "Grain of Aerosiderite",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Aerosiderite",
+        "rarity": 2,
+        "thumbnail": "Item_Grain_of_Aerosiderite.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Grain_of_Aerosiderite"
+    }, {
+        "object_type": "item",
+        "name": "Piece of Aerosiderite",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Aerosiderite",
+        "rarity": 3,
+        "thumbnail": "Item_Piece_of_Aerosiderite.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Piece_of_Aerosiderite"
+    }, {
+        "object_type": "item",
+        "name": "Bit of Aerosiderite",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Aerosiderite",
+        "rarity": 4,
+        "thumbnail": "Item_Bit_of_Aerosiderite.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Bit_of_Aerosiderite"
+    }, {
+        "object_type": "item",
+        "name": "Chunk of Aerosiderite",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Aerosiderite",
+        "rarity": 5,
+        "thumbnail": "Item_Chunk_of_Aerosiderite.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chunk_of_Aerosiderite"
+    }, {
+        "object_type": "item",
+        "name": "Coral Branch of a Distant Sea",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Branches of a Distant Sea",
+        "rarity": 2,
+        "thumbnail": "Item_Coral_Branch_of_a_Distant_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Coral_Branch_of_a_Distant_Sea"
+    }, {
+        "object_type": "item",
+        "name": "Jeweled Branch of a Distant Sea",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Branches of a Distant Sea",
+        "rarity": 3,
+        "thumbnail": "Item_Jeweled_Branch_of_a_Distant_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Jeweled_Branch_of_a_Distant_Sea"
+    }, {
+        "object_type": "item",
+        "name": "Jade Branch of a Distant Sea",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Branches of a Distant Sea",
+        "rarity": 4,
+        "thumbnail": "Item_Jade_Branch_of_a_Distant_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Jade_Branch_of_a_Distant_Sea"
+    }, {
+        "object_type": "item",
+        "name": "Golden Branch of a Distant Sea",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Branches of a Distant Sea",
+        "rarity": 5,
+        "thumbnail": "Item_Golden_Branch_of_a_Distant_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Golden_Branch_of_a_Distant_Sea"
+    }, {
+        "object_type": "item",
+        "name": "Narukami's Wisdom",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Narukami's Magatamas",
+        "rarity": 2,
+        "thumbnail": "Item_Narukami's_Wisdom.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Narukami's_Wisdom"
+    }, {
+        "object_type": "item",
+        "name": "Narukami's Joy",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Narukami's Magatamas",
+        "rarity": 3,
+        "thumbnail": "Item_Narukami's_Joy.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Narukami's_Joy"
+    }, {
+        "object_type": "item",
+        "name": "Narukami's Affection",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Narukami's Magatamas",
+        "rarity": 4,
+        "thumbnail": "Item_Narukami's_Affection.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Narukami's_Affection"
+    }, {
+        "object_type": "item",
+        "name": "Narukami's Valor",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Narukami's Magatamas",
+        "rarity": 5,
+        "thumbnail": "Item_Narukami's_Valor.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Narukami's_Valor"
+    }, {
+        "object_type": "item",
+        "name": "Mask of the Wicked Lieutenant",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Oni Masks",
+        "rarity": 2,
+        "thumbnail": "Item_Mask_of_the_Wicked_Lieutenant.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mask_of_the_Wicked_Lieutenant"
+    }, {
+        "object_type": "item",
+        "name": "Mask of the Tiger's Bite",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Oni Masks",
+        "rarity": 3,
+        "thumbnail": "Item_Mask_of_the_Tiger's_Bite.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mask_of_the_Tiger's_Bite"
+    }, {
+        "object_type": "item",
+        "name": "Mask of the One-Horned",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Oni Masks",
+        "rarity": 4,
+        "thumbnail": "Item_Mask_of_the_One-Horned.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mask_of_the_One-Horned"
+    }, {
+        "object_type": "item",
+        "name": "Mask of the Kijin",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Oni Masks",
+        "rarity": 5,
+        "thumbnail": "Item_Mask_of_the_Kijin.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mask_of_the_Kijin"
     }]
 }

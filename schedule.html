@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <title>Genshin Impact Tools</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="description" content="Genshin Impact Tools - Simple tools for Genshin Impact.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/card.css">
+    <link rel="stylesheet" href="./css/schedule.css">
+</head>
+
+<body>
+    <div class="page">
+        <div class="container page-container">
+            <section class="section">
+                <div class="section-container">
+                    <header class="section-header">
+                        <div class="section-header-container">
+                            <h1 class="section-header-title">Schedule</h1>
+                        </div>
+                    </header>
+                    <hr class="section-header-separator">
+                    <div id="calculator-content" class="content collapse show">
+                        <article class="content-container">
+                            <p>
+                                A quick reference for resources and which days they are available.
+                            </p>
+                            <header class="section-header">
+                                <div class="section-header-container">
+                                    <span class="section-toggle-collapse" role="button" tabindex="0"><a data-bs-toggle="collapse" href="#talent-books" role="button" aria-expanded="true" aria-controls="talent-books">Collapse</a></span>
+                                    <h3 class="section-header-title">Talent Books</h3>
+                                </div>
+                            </header>
+                            <div id="talent-books" class="content collapse show">
+                                <article class="content-container">
+                                    <table class="table table-bordered table-striped align-middle bg-light">
+                                        <thead>
+                                            <tr>
+                                                <th style="width: 106px;">Days</th>
+                                                <th style="width: 260px;">Materials</th>
+                                                <th>Characters</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td rowspan="3">
+                                                    Monday/<br>Thursday
+                                                </td>
+                                                <td>
+                                                    <label>Mondstadt</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Freedom"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Freedom"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Freedom"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Klee"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Tartaglia"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Anemo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Amber"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Barbara"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Diona"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Sucrose"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Liyue</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Prosperity"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Prosperity"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Prosperity"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Keqing"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Qiqi"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Xiao"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Ningguang"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Inazuma</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Transience"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Transience"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Transience"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Electro)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Yoimiya"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="3">
+                                                    Tuesday/<br>Friday
+                                                </td>
+                                                <td>
+                                                    <label>Mondstadt</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Resistance"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Resistance"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Resistance"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Diluc"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Eula"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Jean"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Mona"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Anemo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Bennett"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Noelle"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Razor"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Liyue</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Diligence"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Diligence"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Diligence"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Ganyu"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Hu Tao"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Kaedehara Kazuha"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Chongyun"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Xiangling"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Inazuma</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Elegance"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Elegance"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Elegance"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Kamisato Ayaka"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Electro)"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="3">Wednesday/<br>Saturday
+                                                </td>
+                                                <td>
+                                                    <label>Mondstadt</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Ballad"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Ballad"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Ballad"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Albedo"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Anemo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Venti"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Fischl"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Kaeya"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Lisa"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Rosaria"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Liyue</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Gold"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Gold"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Gold"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Zhongli"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Beidou"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Xingqiu"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Yanfei"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Inazuma</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Teachings of Light"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Guide to Light"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Philosophies of Light"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Sayu"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Electro)"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Sunday
+                                                </td>
+                                                <td colspan="2"><b>ALL</b>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </article>
+                            </div>
+
+                            <header class="section-header">
+                                <div class="section-header-container">
+                                    <span class="section-toggle-collapse" role="button" tabindex="0"><a data-bs-toggle="collapse" href="#weapon-materials" role="button" aria-expanded="true" aria-controls="weapon-materials">Collapse</a></span>
+                                    <h3 class="section-header-title">Weapon Materials</h3>
+                                </div>
+                            </header>
+                            <div id="weapon-materials" class="content collapse show">
+                                <article class="content-container">
+                                    <table class="table table-bordered table-striped align-middle bg-light">
+                                        <thead>
+                                            <tr>
+                                                <th style="width: 106px;">Days</th>
+                                                <th style="width: 350px;">Materials</th>
+                                                <th>Weapons</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td rowspan="3">
+                                                    Monday/<br>Thursday
+                                                </td>
+                                                <td>
+                                                    <label>Mondstadt</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Tile of Decarabian's Tower"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Debris of Decarabian's City"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Fragment of Decarabian's Epic"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Scattered Piece of Decarabian's Dream"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Liyue</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Luminous Sands from Guyun"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Lustrous Stone from Guyun"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Relic from Guyun"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Divine Body from Guyun"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Inazuma</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Coral Branch of a Distant Sea"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Jeweled Branch of a Distant Sea"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Jade Branch of a Distant Sea"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Golden Branch of a Distant Sea"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="3">
+                                                    Tuesday/<br>Friday
+                                                </td>
+                                                <td>
+                                                    <label>Mondstadt</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Boreal Wolf's Milk Tooth"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Boreal Wolf's Cracked Tooth"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Boreal Wolf's Broken Fang"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Boreal Wolf's Nostalgia"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Liyue</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Mist Veiled Lead Elixir"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Mist Veiled Mercury Elixir"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Mist Veiled Gold Elixir"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Mist Veiled Primo Elixir"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Inazuma</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Narukami's Wisdom"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Narukami's Joy"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Narukami's Affection"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Narukami's Valor"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="3">Wednesday/<br>Saturday
+                                                </td>
+                                                <td>
+                                                    <label>Mondstadt</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Fetters of the Dandelion Gladiator"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Chains of the Dandelion Gladiator"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Shackles of the Dandelion Gladiator"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Dream of the Dandelion Gladiator"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Liyue</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Grain of Aerosiderite"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Piece of Aerosiderite"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Bit of Aerosiderite"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Chunk of Aerosiderite"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <label>Inazuma</label>
+                                                    <div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Mask of the Wicked Lieutenant"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Mask of the Tiger's Bite"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Mask of the One-Horned"></div>
+                                                        </div>
+                                                        <div class="d-inline-block">
+                                                            <div data-resource-type="resource" data-resource-name="Mask of the Kijin"></div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <p>Coming Soon...</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Sunday
+                                                </td>
+                                                <td colspan="2"><b>ALL</b>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </article>
+                            </div>
+
+                            <header class="section-header">
+                                <div class="section-header-container">
+                                    <span class="section-toggle-collapse" role="button" tabindex="0"><a data-bs-toggle="collapse" href="#weekly-boss-material" role="button" aria-expanded="true" aria-controls="weekly-boss-material">Collapse</a></span>
+                                    <h3 class="section-header-title">Weekly Boss Material</h3>
+                                </div>
+                            </header>
+                            <div id="weekly-boss-material" class="content collapse show">
+                                <article class="content-container">
+                                    <table class="table table-bordered table-striped align-middle bg-light">
+                                        <thead>
+                                            <tr>
+                                                <th style="width: 106px;">Boss</th>
+                                                <th style="width: 106px;">Materials</th>
+                                                <th>Characters</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td rowspan="3">
+                                                    <div>
+                                                        <span>
+                                                            <a href="https://genshin-impact.fandom.com/wiki/Confront_Stormterror" title="Confront Stormterror">
+                                                                <img alt="Dvalin" src="./img/Enemy_Stormterror_Icon.png" width="80" height="80">
+                                                            </a>
+                                                        </span>
+                                                        <span>
+                                                            <a href="https://genshin-impact.fandom.com/wiki/Confront_Stormterror" title="Confront Stormterror">Dvalin</a>
+                                                        </span>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Dvalin's Plume"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Diluc"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Jean"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Bennett"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Dvalin's Claw"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Lisa"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Noelle"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Razor"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Xiangling"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Dvalin's Sigh"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Anemo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Amber"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Beidou"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Chongyun"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="3">
+                                                    <div>
+                                                        <span>
+                                                            <a href="https://genshin-impact.fandom.com/wiki/Wolf_of_the_North_Challenge" title="Wolf of the North Challenge">
+                                                                <img alt="Andrius" src="./img/Enemy_Andrius_Icon.png" width="80" height="80" />
+                                                            </a>
+                                                        </span>
+                                                        <span>
+                                                            <a href="https://genshin-impact.fandom.com/wiki/Wolf_of_the_North_Challenge" title="Wolf of the North Challenge">Andrius</a>
+                                                        </span>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Tail of Boreas"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Qiqi"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Venti"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Xingqiu"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Ring of Boreas"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Keqing"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Klee"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Mona"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Barbara"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Spirit Locket of Boreas"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Fischl"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Kaeya"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Ningguang"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Sucrose"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="3">
+                                                    <div>
+                                                        <span>
+                                                            <a href="https://genshin-impact.fandom.com/wiki/Enter_the_Golden_House" title="Enter the Golden House">
+                                                                <img alt="Childe" src="./img/Enemy_Childe_P3_Icon.png" width="80" height="80" />
+                                                            </a>
+                                                        </span>
+                                                        <span>
+                                                            <a href="https://genshin-impact.fandom.com/wiki/Enter_the_Golden_House" title="Enter the Golden House">Childe</a>
+                                                        </span>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Tusk of Monoceros Caeli"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Albedo"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Zhongli"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Xinyan"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Shard of a Foul Legacy"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Hu Tao"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Tartaglia"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Diona"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Shadow of the Warrior"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Ganyu"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Xiao"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Rosaria"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td rowspan="3">
+                                                    <div>
+                                                        <span>
+                                                            <a href="https://genshin-impact.fandom.com/wiki/Beneath_the_Dragon-Queller" title="Beneath the Dragon-Queller">
+                                                                <img alt="Azhdaha" src="./img/Enemy_Azhdaha_Icon.png" width="80" height="80">
+                                                            </a>
+                                                        </span>
+                                                        <span>
+                                                            <a href="https://genshin-impact.fandom.com/wiki/Beneath_the_Dragon-Queller" title="Beneath the Dragon-Queller">Azhdaha</a>
+                                                        </span>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Dragon Lord's Crown"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Eula"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Yoimiya"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Traveler (Electro)"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Bloodjade Branch"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Kamisato Ayaka"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Yanfei"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="resource" data-resource-name="Gilded Scale"></div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Kaedehara Kazuha"></div>
+                                                    </div>
+                                                    <div class="d-inline-block">
+                                                        <div data-resource-type="character" data-resource-name="Sayu"></div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </article>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="./js/app.js"></script>
+    <script src="./js/schedule.js"></script>
+</body>
+
+</html>
