@@ -1,5 +1,5 @@
 {
-    "version": "2021-08-27",
+    "version": "2021-09-01",
     "data": [{
         "object_type": "item",
         "name": "Mora",
@@ -407,6 +407,17 @@
         "source": ["Perpetual Mechanical Arrays"],
         "thumbnail": "Item_Perpetual_Heart.png",
         "link": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart"
+    }, {
+        "object_type": "item",
+        "name": "Storm Beads",
+        "type": "Character Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Boss Material",
+        "rarity": 4,
+        "region": "Inazuma",
+        "source": ["Thunder Manifestations"],
+        "thumbnail": "Item_Storm_Beads.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Storm_Beads"
     }, {
         "object_type": "item",
         "name": "Amakumo Fruit",
@@ -1432,6 +1443,36 @@
         "link": "https://genshin-impact.fandom.com/wiki/Polarizing_Prism"
     }, {
         "object_type": "item",
+        "name": "Spectral Husk",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Spectral",
+        "rarity": 2,
+        "source": ["Specters"],
+        "thumbnail": "Item_Spectral_Husk.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Spectral_Husk"
+    }, {
+        "object_type": "item",
+        "name": "Spectral Heart",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Spectral",
+        "rarity": 3,
+        "source": ["Specters"],
+        "thumbnail": "Item_Spectral_Heart.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Spectral_Heart"
+    }, {
+        "object_type": "item",
+        "name": "Spectral Nucleus",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Spectral",
+        "rarity": 4,
+        "source": ["Specters"],
+        "thumbnail": "Item_Spectral_Nucleus.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Spectral_Nucleus"
+    }, {
+        "object_type": "item",
         "group_type": "dvalin-material",
         "name": "Dvalin's Plume",
         "type": "Character Level-Up Material",
@@ -1574,6 +1615,42 @@
         "source": ["Azhdaha"],
         "thumbnail": "Item_Gilded_Scale.png",
         "link": "https://genshin-impact.fandom.com/wiki/Gilded_Scale"
+    }, {
+        "object_type": "item",
+        "group_type": "signora-material",
+        "name": "Molten Moment",
+        "type": "Character Level-Up Material",
+        "subtype": "Weekly Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Inazuma",
+        "source": ["Signora"],
+        "thumbnail": "Item_Molten_Moment.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Molten_Moment"
+    }, {
+        "object_type": "item",
+        "group_type": "signora-material",
+        "name": "Hellfire Butterfly",
+        "type": "Character Level-Up Material",
+        "subtype": "Weekly Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Inazuma",
+        "source": ["Signora"],
+        "thumbnail": "Item_Hellfire_Butterfly.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Hellfire_Butterfly"
+    }, {
+        "object_type": "item",
+        "group_type": "signora-material",
+        "name": "Ashen Heart",
+        "type": "Character Level-Up Material",
+        "subtype": "Weekly Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Inazuma",
+        "source": ["Signora"],
+        "thumbnail": "Item_Ashen_Heart.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ashen_Heart"
     }, {
         "object_type": "item",
         "group_type": "special-item",

@@ -1,5 +1,5 @@
 {
-    "version": "2021-08-27",
+    "version": "2021-09-01",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -86,6 +86,54 @@
         }],
         "thumbnail": "Character_Albedo_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Albedo"
+    }, {
+        "object_type": "character",
+        "name": "Aloy",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Bow",
+        "region": "Crossover",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Rapid Fire",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Rapid_Fire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rapid_Fire"
+        }, {
+            "object_type": "talent",
+            "name": "Frozen Wilds",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Frozen_Wilds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frozen_Wilds"
+        }, {
+            "object_type": "talent",
+            "name": "Prophecies of Dawn",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Prophecies_of_Dawn.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Prophecies_of_Dawn"
+        }, {
+            "object_type": "talent",
+            "name": "Combat Override",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Combat_Override.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Combat_Override"
+        }, {
+            "object_type": "talent",
+            "name": "Strong Strike",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Strong_Strike.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Strong_Strike"
+        }, {
+            "object_type": "talent",
+            "name": "Easy Does It",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Easy_Does_It.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Easy_Does_It"
+        }],
+        "constellations": [],
+        "thumbnail": "Character_Aloy_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Aloy"
     }, {
         "object_type": "character",
         "name": "Amber",
@@ -1558,6 +1606,92 @@
         "link": "https://genshin-impact.fandom.com/wiki/Klee"
     }, {
         "object_type": "character",
+        "name": "Kujou Sara",
+        "type": "Character",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Tengu Bowmanship",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Tengu_Bowmanship.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tengu_Bowmanship"
+        }, {
+            "object_type": "talent",
+            "name": "Tengu Stormcall",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Tengu_Stormcall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tengu_Stormcall",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Subjugation: Koukou Sendou",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Subjugation_Koukou_Sendou.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Subjugation:_Koukou_Sendou",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Immovable Will",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Immovable_Will.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Immovable_Will"
+        }, {
+            "object_type": "talent",
+            "name": "Decorum",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Decorum.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Decorum"
+        }, {
+            "object_type": "talent",
+            "name": "Land Survey",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Land_Survey.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Land_Survey"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Crow's Eye",
+            "level": 1,
+            "thumbnail": "Constellation_Crow's_Eye.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crow's_Eye"
+        }, {
+            "object_type": "constellation",
+            "name": "Dark Wings",
+            "level": 2,
+            "thumbnail": "Constellation_Dark_Wings.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dark_Wings"
+        }, {
+            "object_type": "constellation",
+            "name": "The War Within",
+            "level": 3,
+            "thumbnail": "Constellation_The_War_Within.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_War_Within"
+        }, {
+            "object_type": "constellation",
+            "name": "Conclusive Proof",
+            "level": 4,
+            "thumbnail": "Constellation_Conclusive_Proof.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Conclusive_Proof"
+        }, {
+            "object_type": "constellation",
+            "name": "Spellsinger",
+            "level": 5,
+            "thumbnail": "Constellation_Spellsinger.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spellsinger"
+        }, {
+            "object_type": "constellation",
+            "name": "Sin of Pride",
+            "level": 6,
+            "thumbnail": "Constellation_Sin_of_Pride.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sin_of_Pride"
+        }],
+        "thumbnail": "Character_Kujou_Sara_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kujou_Sara"
+    }, {
+        "object_type": "character",
         "name": "Lisa",
         "type": "Character",
         "rarity": 4,
@@ -1994,6 +2128,92 @@
         "link": "https://genshin-impact.fandom.com/wiki/Qiqi"
     }, {
         "object_type": "character",
+        "name": "Raiden Shogun",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Origin",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Origin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Origin"
+        }, {
+            "object_type": "talent",
+            "name": "Transcendence: Baleful Omen",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Transcendence_Baleful_Omen.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Transcendence:_Baleful_Omen",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Secret Art: Musou Shinsetsu",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Secret_Art_Musou_Shinsetsu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Secret_Art:_Musou_Shinsetsu",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Wishes Unnumbered",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Wishes_Unnumbered.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wishes_Unnumbered"
+        }, {
+            "object_type": "talent",
+            "name": "Enlightened One",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Enlightened_One.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Enlightened_One"
+        }, {
+            "object_type": "talent",
+            "name": "All-Preserver",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_All-Preserver.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All-Preserver"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Ominous Inscription",
+            "level": 1,
+            "thumbnail": "Constellation_Ominous_Inscription.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ominous_Inscription"
+        }, {
+            "object_type": "constellation",
+            "name": "Steelbreaker",
+            "level": 2,
+            "thumbnail": "Constellation_Steelbreaker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Steelbreaker"
+        }, {
+            "object_type": "constellation",
+            "name": "Shinkage Bygones",
+            "level": 3,
+            "thumbnail": "Constellation_Shinkage_Bygones.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shinkage_Bygones"
+        }, {
+            "object_type": "constellation",
+            "name": "Pledge of Propriety",
+            "level": 4,
+            "thumbnail": "Constellation_Pledge_of_Propriety.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pledge_of_Propriety"
+        }, {
+            "object_type": "constellation",
+            "name": "Shogun's Descent",
+            "level": 5,
+            "thumbnail": "Constellation_Shogun's_Descent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shogun's_Descent"
+        }, {
+            "object_type": "constellation",
+            "name": "Wishbearer",
+            "level": 6,
+            "thumbnail": "Constellation_Wishbearer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wishbearer"
+        }],
+        "thumbnail": "Character_Raiden_Shogun_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Raiden_Shogun"
+    }, {
+        "object_type": "character",
         "name": "Razor",
         "type": "Character",
         "rarity": 4,
@@ -2168,7 +2388,6 @@
         "object_type": "character",
         "name": "Sayu",
         "type": "Character",
-        "displayName": "Sayu",
         "rarity": 4,
         "element": "Anemo",
         "weapon": "Claymore",
@@ -2667,7 +2886,6 @@
         "object_type": "character",
         "name": "Venti",
         "type": "Character",
-        "displayName": "Venti",
         "rarity": 5,
         "element": "Anemo",
         "weapon": "Bow",
@@ -3184,7 +3402,6 @@
         "object_type": "character",
         "name": "Yoimiya",
         "type": "Character",
-        "displayName": "Yoimiya",
         "rarity": 5,
         "element": "Pyro",
         "weapon": "Bow",

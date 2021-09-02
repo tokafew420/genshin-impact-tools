@@ -40,6 +40,11 @@
     background: linear-gradient(0deg, #de9552 0%, #9a6d43 100%)
 }
 
+.card-5s {
+    background: #be4f56;
+    background: linear-gradient(0deg, #e22f3b 0%, #be4f56 100%)
+}
+
 .card-image {
     position: absolute;
     top: 0px;
@@ -179,6 +184,7 @@
 
 .card-container.double-line-text .card-text {
     height: 32px;
+    padding-top: 3px;
 }
 
 .card-font-sm {

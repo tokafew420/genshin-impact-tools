@@ -19,9 +19,13 @@
     (() => {
         app.templates = {
             cardContainer: (rarity, opts) => {
+                opts = opts || {};
                 rarity = rarity || 1;
+                if (opts.special) {
+                    rarity = rarity + 's';
+                }
                 return `
-<div class="card-container card-${rarity} ${opts && opts.doubleLineText ? 'double-line-text' : ''}" role="button" tabindex="0">
+<div class="card-container card-${rarity} ${opts.doubleLineText ? 'double-line-text' : ''}" role="button" tabindex="0">
     <img class="card-background-image" alt="${rarity} Star" src="./img/Rarity_${rarity}_background.png" />
 </div>`
             },
@@ -69,7 +73,8 @@
 
         if (character) {
             var $container = $(app.templates.cardContainer(character.rarity, {
-                doubleLineText: true
+                doubleLineText: true,
+                special: character.region === 'Crossover'
             }));
             $container.append(app.templates.cardImg(character.thumbnail, character.name, character.link))
                 .append(app.templates.cardText(character.name))
