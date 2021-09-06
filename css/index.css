@@ -95,6 +95,15 @@ html, body {
     max-width: 100%;
 }
 
+.home-link {
+    font-size: 14px;
+    float: right;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
 .section-toggle-collapse {
     font-size: 14px;
     float: right;
