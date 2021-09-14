@@ -189,6 +189,7 @@
             }
         }
     };
+    app.rgba2hex = (rgba) => `#${rgba.match(/^rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*(\d+\.{0,1}\d*))?\)$/).slice(1).map((n, i) => (i === 3 ? Math.round(parseFloat(n) * 255) : parseFloat(n)).toString(16).padStart(2, '0').replace('NaN', '')).join('')}`;
     app.sortBy = (prop, desc) => {
         desc = desc ? -1 : 1;
         return (a, b) => {
@@ -256,5 +257,21 @@
         set: (key, data) => {
             window.localStorage.setItem(key, JSON.stringify(data));
         }
+    };
+
+    app.getQueryParam = (name) => {
+        const urlSearchParams = new URLSearchParams(window.location.href.split('?')[1]);
+        return urlSearchParams.get(name);
+    };
+
+    app.sortCharacters = (characters) => {
+        characters.sort(app.sortBy('name'));
+        characters.sort(app.sortBy('rarity', true));
+        characters.sort((a, b) => {
+            var ar = a.region === 'Crossover' ? 0 : 1;
+            var br = b.region === 'Crossover' ? 0 : 1;
+
+            return ar - br;
+        });
     };
 })(window.app = window.app || {});

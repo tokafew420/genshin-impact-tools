@@ -42,7 +42,8 @@ a:hover {
     color: var(--content-text-dark-secodnary-color) !important;
 }
 
-html, body {
+html,
+body {
     font-family: "Genshin", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     background-size: cover;

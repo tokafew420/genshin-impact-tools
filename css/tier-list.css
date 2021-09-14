@@ -1,0 +1,161 @@
+html,
+body {
+    background-image: url(./../img/Background_Inazuma.jpg);
+}
+
+.card-drag-container {
+    height: 80px;
+    width: 80px;
+    position: relative;
+}
+
+.character-card-img {
+    width: 100%;
+    height: 100%;
+}
+
+.card-drag-container.ui-sortable-placeholder::after {
+    content: " ";
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.tier-list {
+    position: relative;
+}
+
+.tier-list td {
+    height: 80px;
+    position: relative;
+    text-align: left;
+    padding: 0;
+    background-color: #000;
+}
+
+.tier-list td:first-child {
+    width: 80px;
+}
+
+.tier-list-row-name {
+    border: 1px solid #f8f9fa;
+    min-height: 80px;
+}
+
+.tier-list .tier-list-row-ctrls {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 5px;
+    background-color: var(--content-background-color);
+    color: #f8f9fa;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tier-list-row:hover .tier-list-row-ctrls {
+    display: flex;
+}
+
+.tier-list .tier-list-row-ctrls .dropdown-menu li {
+    position: relative;
+}
+
+.tier-list .tier-list-row-ctrls .dropdown-menu li:hover .dropdown-item {
+    color: #1e2125;
+    background-color: #e9ecef;
+    text-decoration: underline;
+}
+
+.tier-list-bg-color,
+.tier-list-fg-color,
+.tier-list-font-size {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.tier-list-ctrl.move {
+    color: #f8f9fa;
+    cursor: move;
+}
+
+.tier-list-ctrl.menu {
+    color: #f8f9fa;
+}
+
+.tier-list-row-name {
+    height: 80px;
+    width: 80px;
+    white-space: normal;
+    text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+    vertical-align: middle;
+    resize: none;
+    font-size: 50px;
+    background-color: #f8f9fa;
+    color: #000;
+    overflow: hidden;
+    border: none;
+}
+
+.tier-list-ctrl.bg-color i {
+    color: #f8f9fa;
+}
+
+
+.tier-list-ctrl.fg-color i {
+    color: #000;
+}
+
+.tier-list-row-characters {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+#characters {
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    min-height: 80px;
+    position: relative;
+}
+
+#share-link {
+    padding-right: 6rem;
+}
+
+.alert-actions {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: inline-block;
+    z-index: 2;
+}
+
+.alert-actions .action-btn {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: .25em .25em;
+    color: #000;
+    border: 0;
+    border-radius: .25rem;
+    opacity: .5;
+    display: inline-block;
+    font-size: 1.25em;
+    padding: 1rem 1rem;
+}
+
+.alert-actions .action-btn:hover {
+    color: #000;
+    text-decoration: none;
+    opacity: .75;
+}

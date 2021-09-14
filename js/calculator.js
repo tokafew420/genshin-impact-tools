@@ -202,14 +202,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             "Mask of the Kijin": 197
         };
 
-        characters.sort(app.sortBy('name'));
-        characters.sort(app.sortBy('rarity', true));
-        characters.sort((a, b) => {
-            var ar = a.region === 'Crossover' ? 0 : 1;
-            var br = b.region === 'Crossover' ? 0 : 1;
-
-            return ar - br;
-        });
+        app.sortCharacters(characters);
         const totalRequirements = {};
 
         app.calculateRequiredResources = (name, stat, current, goal) => {
