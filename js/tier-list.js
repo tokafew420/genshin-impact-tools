@@ -1,6 +1,6 @@
 app.require(['characters', 'elements', 'resources'],
     function (characters, elements, resources) {
-        const defaults = 'S-ffef0a-000--~A-1bb12c-000--~B-1bdeb7-000--~C-0967e1-000--~D-e01a1a-000--';
+        const defaults = 'S-ffd454-000--~A-af7ff5-000--~B-4bb4f3-000--~C-23f188-000--~D-b5b5b5-000--';
         const mapping = {
             "Aloy": "mcb",
             "Albedo": "bdc",
