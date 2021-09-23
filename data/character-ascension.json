@@ -1,5 +1,5 @@
 {
-    "version": "2021-09-01",
+    "version": "2021-09-22",
     "data": [{
         "object_type": "character-ascension",
         "name": "Albedo",
@@ -3553,6 +3553,133 @@
                 "count": 60
             }, {
                 "name": "Lieutenant's Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Sangonomiya Kokomi",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Varunada Lazurite Sliver",
+                "count": 1
+            }, {
+                "name": "Sango Pearl",
+                "count": 3
+            }, {
+                "name": "Spectral Husk",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 3
+            }, {
+                "name": "Dew of Repudiation",
+                "count": 2
+            }, {
+                "name": "Sango Pearl",
+                "count": 10
+            }, {
+                "name": "Spectral Husk",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Varunada Lazurite Fragment",
+                "count": 6
+            }, {
+                "name": "Dew of Repudiation",
+                "count": 4
+            }, {
+                "name": "Sango Pearl",
+                "count": 20
+            }, {
+                "name": "Spectral Heart",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 3
+            }, {
+                "name": "Dew of Repudiation",
+                "count": 8
+            }, {
+                "name": "Sango Pearl",
+                "count": 30
+            }, {
+                "name": "Spectral Heart",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Varunada Lazurite Chunk",
+                "count": 6
+            }, {
+                "name": "Dew of Repudiation",
+                "count": 12
+            }, {
+                "name": "Sango Pearl",
+                "count": 45
+            }, {
+                "name": "Spectral Nucleus",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Varunada Lazurite Gemstone",
+                "count": 6
+            }, {
+                "name": "Dew of Repudiation",
+                "count": 20
+            }, {
+                "name": "Sango Pearl",
+                "count": 60
+            }, {
+                "name": "Spectral Nucleus",
                 "count": 24
             }]
         }]

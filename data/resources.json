@@ -1,5 +1,5 @@
 {
-    "version": "2021-09-01",
+    "version": "2021-09-22",
     "data": [{
         "object_type": "item",
         "name": "Mora",
@@ -341,6 +341,17 @@
         "source": ["Pyro Hypostases"],
         "thumbnail": "Item_Smoldering_Pearl.png",
         "link": "https://genshin-impact.fandom.com/wiki/Smoldering_Pearl"
+    }, {
+        "object_type": "item",
+        "name": "Dew of Repudiation",
+        "type": "Character Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Boss Material",
+        "rarity": 4,
+        "region": "Inazuma",
+        "source": ["Hydro Hypostases"],
+        "thumbnail": "Item_Dew_of_Repudiation.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dew_of_Repudiation"
     }, {
         "object_type": "item",
         "name": "Hoarfrost Core",

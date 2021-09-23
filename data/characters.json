@@ -1,5 +1,5 @@
 {
-    "version": "2021-09-01",
+    "version": "2021-09-22",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -2384,6 +2384,98 @@
         }],
         "thumbnail": "Character_Rosaria_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Rosaria"
+    }, {
+        "object_type": "character",
+        "name": "Sangonomiya Kokomi",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "The Shape of Water",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_The_Shape_of_Water.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Shape_of_Water"
+        }, {
+            "object_type": "talent",
+            "name": "Kurage's Oath",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Kurage's_Oath.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kurage's_Oath",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Nereid's Ascension",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Nereid's_Ascension.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nereid's_Ascension",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Tamanooya's Casket",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Tamanooya's_Casket.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tamanooya's_Casket"
+        }, {
+            "object_type": "talent",
+            "name": "Song of Pearls",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Song_of_Pearls.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Song_of_Pearls"
+        }, {
+            "object_type": "talent",
+            "name": "Princess of Watatsumi",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Princess_of_Watatsumi.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Princess_of_Watatsumi"
+        }, {
+            "object_type": "talent",
+            "name": "Flawless Strategy",
+            "type": "Passive",
+            "thumbnail": "Talent_Flawless_Strategy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flawless_Strategy"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "At Water's Edge",
+            "level": 1,
+            "thumbnail": "Constellation_At_Water's_Edge.png",
+            "link": "https://genshin-impact.fandom.com/wiki/At_Water's_Edge"
+        }, {
+            "object_type": "constellation",
+            "name": "The Clouds Like Waves Rippling",
+            "level": 2,
+            "thumbnail": "Constellation_The_Clouds_Like_Waves_Rippling.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Clouds_Like_Waves_Rippling"
+        }, {
+            "object_type": "constellation",
+            "name": "The Moon, A Ship O'er the Seas",
+            "level": 3,
+            "thumbnail": "Constellation_The_Moon,_A_Ship_O'er_the_Seas.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Moon,_A_Ship_O'er_the_Seas"
+        }, {
+            "object_type": "constellation",
+            "name": "The Moon Overlooks the Waters",
+            "level": 4,
+            "thumbnail": "Constellation_The_Moon_Overlooks_the_Waters.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Moon_Overlooks_the_Waters"
+        }, {
+            "object_type": "constellation",
+            "name": "All Streams Flow to the Sea",
+            "level": 5,
+            "thumbnail": "Constellation_All_Streams_Flow_to_the_Sea.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_Streams_Flow_to_the_Sea"
+        }, {
+            "object_type": "constellation",
+            "name": "Sango Isshin",
+            "level": 6,
+            "thumbnail": "Constellation_Sango_Isshin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sango_Isshin"
+        }],
+        "thumbnail": "Character_Sangonomiya_Kokomi_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi"
     }, {
         "object_type": "character",
         "name": "Sayu",

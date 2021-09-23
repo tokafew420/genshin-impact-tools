@@ -38,8 +38,14 @@
         <img alt="Card Corner.png" src="./img/Card_Corner.png" width="14" height="14" />
     </div>
 </div>`,
-            cardText: (text) =>
-                `<div class="card-text"><span class="card-font ${text && text.length > 18 ? 'card-font-sm' : ''}">${text}</span></div>`,
+            cardText: (text) => {
+                var style = '';
+                var width = app.getTextWidth(text, '12px Genshin');
+                if (width > 70) {
+                    style = `font-size: ${(70 / width).toFixed(2)}em;`;
+                }
+                return `<div class="card-text"><span class="card-font" style="${style}">${text}</span></div>`
+            },
             cardIcon: (src, name, link) => `
 <div class="card-icon"><span class="d-inline-block">
     <a href="${link}" title="${name}" target="_blank" tabindex="-1">
@@ -219,7 +225,17 @@
 
         return final;
     };
-
+    const canvas = document.createElement("canvas");
+    app.getTextWidth = (text, font) => {
+        if (!text) return 0;
+        const context = canvas.getContext("2d");
+        context.font = font;
+        const longestWord = text.split(' ').reduce((acc, txt) => {
+            return acc.length > txt.length ? acc : txt;
+        }, '');
+        const metrics = context.measureText(longestWord);
+        return +(metrics.width).toFixed(2);
+    };
     app.getResource = (name) => {
         return app.cloneByName(app.data.resources, name);
     };
