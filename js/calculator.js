@@ -1,5 +1,5 @@
-app.require(['characters', 'elements', 'resources', 'character-ascension', 'character-talent-level-up'],
-    function (characters, elements, resources, characterAscension, characterTalentLeventUp) {
+app.require(['characters', 'elements', 'resources', 'character-ascension', 'character-level', 'character-talent-level-up'],
+    function (characters, elements, resources, characterAscension, characterLevel, characterTalentLeventUp) {
 
         var sortOrder = {
             "Mora": 0,
@@ -204,6 +204,10 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
         };
 
         app.sortCharacters(characters);
+
+        const wanderersAdvice = app.getByName(resources, "Wanderer's Advice");
+        const adventurersExperience = app.getByName(resources, "Adventurer's Experience");
+        const herosWit = app.getByName(resources, "Hero's Wit");
         const totalRequirements = {};
 
         app.calculateRequiredResources = (name, stat, current, goal) => {
@@ -219,6 +223,18 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                 needs = ascension.phases.filter((phase) => {
                     return phase.min_level >= current && phase.min_level < goal;
                 });
+
+                // Required experience points
+                const totalExpNeeded = characterLevel.filter((level) => level.level >= Math.floor(current) && level.level < Math.floor(goal))
+                    .reduce((acc, level) => acc + level.to_next, 0);
+
+                needs.push({
+                    object_type: 'character-experience-material',
+                    materials: [{
+                        name: 'Experience Materials',
+                        count: totalExpNeeded
+                    }]
+                });
             } else {
                 const talentLevelUp = app.cloneByName(characterTalentLeventUp, name);
                 if (!talentLevelUp) return;
@@ -231,17 +247,39 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             return app.sumCountByName.apply(null, needs.map((need) => need.materials));
         };
 
+        function addCard($container, name, count) {
+            $container.append($(`<div class="d-inline-block"></div>`).append(app.makeCountCard(name, count)));
+        }
         app.renderMaterials = ($container, materials) => {
-            $container.empty()
-            materials.sort((a, b) => {
+            var mats = materials.slice(0);
+            var experience = app.removeByName(mats, 'Experience Materials');
+            if (experience) {
+                let expNeeded = experience.count;
+                [herosWit, adventurersExperience, wanderersAdvice].forEach((exp, idx) => {
+                    let itemCount = Math.floor(expNeeded / exp.points);
+                    expNeeded = expNeeded % exp.points;
+
+                    if (idx === 2 && expNeeded > 0) itemCount++;
+                    if (itemCount) {
+                        mats.push({
+                            name: exp.name,
+                            count: itemCount
+                        });
+                    }
+                });
+            }
+
+            $container.empty();
+            mats.sort((a, b) => {
                 const aIdx = sortOrder[a.name] || 0;
                 const bIdx = sortOrder[b.name] || 0;
 
                 return aIdx - bIdx;
             });
 
-            materials.forEach((mat) => {
-                $container.append($(`<div class="d-inline-block"></div>`).append(app.makeCountCard(mat.name, mat.count)));
+            mats.forEach((mat) => {
+                const _addCard = addCard.bind(this, $container, mat.name, mat.count);
+                window.requestAnimationFrame(_addCard);
             });
         };
 
