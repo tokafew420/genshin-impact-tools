@@ -1,12 +1,34 @@
-html, body {
+html,
+body {
     background-image: url(./../img/Background_Mondstadt.jpg);
 }
 
-.calculate-level-table.constellation-3  .constellation-3,
-.calculate-level-table.constellation-4  .constellation-3,
-.calculate-level-table.constellation-5  .constellation-3,
-.calculate-level-table.constellation-5  .constellation-5,
-.calculate-level-table.constellation-6  .constellation-3,
-.calculate-level-table.constellation-6  .constellation-5 {
+.calculate-level-table.constellation-3 .constellation-3,
+.calculate-level-table.constellation-4 .constellation-3,
+.calculate-level-table.constellation-5 .constellation-3,
+.calculate-level-table.constellation-5 .constellation-5,
+.calculate-level-table.constellation-6 .constellation-3,
+.calculate-level-table.constellation-6 .constellation-5 {
     color: var(--content-link-color);
+}
+
+.form-check {
+    color: var(--content-link-color);
+    text-decoration: none;
+    transition: color 0.3s ease 0s;
+
+}
+
+.form-check:hover {
+    color: #34eada;
+    text-decoration: underline;
+}
+
+.form-check .form-check-input,
+.form-check .form-check-label {
+    cursor: pointer;
+}
+
+#calculator-character-select-table thead th {
+    border-bottom-color: inherit;
 }

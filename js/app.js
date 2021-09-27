@@ -95,7 +95,35 @@
             }
             $container.data('resource', character)
                 .attr('data-resource-type', character.type)
-                .attr('data-resource-name', character.name);
+                .attr('data-resource-name', character.name)
+                .attr('data-resource-rarity', character.rarity)
+                .attr('data-resource-element', character.element.name);
+
+            return $container;
+        }
+    };
+
+    app.makeWeaponCard = (name, highlight, selectable) => {
+        var weapon = app.getWeapon(name);
+
+        if (weapon) {
+            var $container = $(app.templates.cardContainer(weapon.rarity, {
+                doubleLineText: true
+            }));
+            $container.append(app.templates.cardImg(weapon.thumbnail, weapon.name, weapon.link))
+                .append(app.templates.cardText(weapon.name));
+
+            if (selectable) {
+                $container.append(app.templates.cardSelect())
+            }
+
+            if (highlight) {
+                $container.append(app.templates.cardHighlight())
+            }
+            $container.data('resource', weapon)
+                .attr('data-resource-type', weapon.type)
+                .attr('data-resource-name', weapon.name)
+                .attr('data-resource-rarity', weapon.rarity);
 
             return $container;
         }
@@ -269,6 +297,12 @@
         }
 
         return character;
+    };
+
+    app.getWeapon = (name) => {
+        var weapon = app.cloneByName(app.data.weapons, name);
+
+        return weapon;
     };
 
     app.localStorage = {
