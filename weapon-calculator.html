@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <title>Genshin Impact Tools - Weapon Calculator</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="description" content="Genshin Impact Tools - Simple tools for Genshin Impact. - Weapong Calculator - Calculate the resources required to level up your weapons.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0">
+
+  <link rel="icon" href="./favicon.ico" type="image/x-icon" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="./css/index.css">
+  <link rel="stylesheet" href="./css/card.css">
+  <link rel="stylesheet" href="./css/weapon-calculator.css">
+</head>
+
+<body>
+  <div class="page">
+    <div class="container page-container">
+      <section class="section">
+        <div class="section-container">
+          <header class="section-header">
+            <div class="section-header-container">
+              <span class="home-link" role="button" tabindex="0"><a href="./index.html" role="button">Home</a>&nbsp;<i class="fas fa-arrow-right"></i></span>
+              <h1 class="section-header-title">Weapon Calculator</h1>
+            </div>
+          </header>
+          <hr class="section-header-separator">
+          <div id="calculator-content" class="content collapse show">
+            <article class="content-container">
+              <p>
+                Use this calculator to see how much of each resource you will need to level up your weapons.
+              </p>
+              <header class="section-header">
+                <div class="section-header-container">
+                  <span class="section-toggle-collapse" role="button" tabindex="0"><a data-bs-toggle="collapse" href="#calculator-weapon-select" role="button" aria-expanded="true" aria-controls="calculator-weapon-select">Collapse</a></span>
+                  <h3 class="section-header-title">Select your weapons</h3>
+                </div>
+              </header>
+              <div id="calculator-weapon-select" class="content collapse show">
+                <article class="content-container">
+                  <table id="calculator-weapon-select-table" class="table ">
+                    <thead>
+                      <tr>
+                        <th>
+                          <span class="text-light me-2">Show:</span>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input show-toggle" type="checkbox" id="show-swords" data-type="Sword" checked />
+                            <label class="form-check-label" for="show-swords">Swords</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input show-toggle" type="checkbox" id="show-claymores" data-type="Claymore" checked />
+                            <label class="form-check-label" for="show-claymores">Claymores</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input show-toggle" type="checkbox" id="show-polearms" data-type="Polearm" checked />
+                            <label class="form-check-label" for="show-polearms">Polearms</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input show-toggle" type="checkbox" id="show-catalysts" data-type="Catalyst" checked />
+                            <label class="form-check-label" for="show-catalysts">Catalysts</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input show-toggle" type="checkbox" id="show-bows" data-type="Bow" checked />
+                            <label class="form-check-label" for="show-bows">Bows</label>
+                          </div>
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </article>
+              </div>
+              <header class="section-header">
+                <div class="section-header-container">
+                  <span class="section-toggle-collapse" role="button" tabindex="0"><a data-bs-toggle="collapse" href="#calculator-calculation" role="button" aria-expanded="true" aria-controls="calculator-calculation">Collapse</a></span>
+                  <h3 class="section-header-title">Calculation</h3>
+                </div>
+              </header>
+              <div id="calculator-calculation" class="content collapse show">
+                <article class="content-container">
+                  <table id="level-up-resource-calculator-table" class="table table-bordered table-striped align-middle bg-light">
+                    <thead>
+                      <tr>
+                        <th scope="col">Weapons</th>
+                        <th scope="col">Levels</th>
+                        <th scope="col">Requirements</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Total</td>
+                        <td colspan="2" class="total-level-requirement-table"></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </article>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="./js/app.js"></script>
+  <script src="./js/weapon-calculator.js"></script>
+</body>
+
+</html>

@@ -167,7 +167,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             "Crown of Insight": 165
         };
 
-        app.sortCharacters(characters);
+        app.sortByCharacters(characters);
 
         const wanderersAdvice = app.getByName(resources, "Wanderer's Advice");
         const adventurersExperience = app.getByName(resources, "Adventurer's Experience");
@@ -311,9 +311,10 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
 
                 $this.toggleClass('selected', selection.selected);
 
+                const nameId = app.id(selection.name);
                 if (selection.selected) {
-                    const nameId = selection.name.replace(' ', '-');
-                    const $tr = $(`<tr data-resource-name="${character.name}" data-resource-rarity="${character.rarity}"></tr>`);
+                    const $tr = $(`<tr data-resource-id="${character.id}"></tr>`)
+                        .data('resource', character);
 
                     const $card = app.makeCharacterCard(character.name);
                     $tr.append($('<td></td>')
@@ -385,23 +386,15 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                     $tr.append('<td class="level-requirement-table"></td>');
                     $calculatorTable.append($tr);
 
-                    $('tr[data-resource-name]', $calculatorTable).sort(function (a, b) {
-                        var aname = $(a).attr('data-resource-name');
-                        var bname = $(b).attr('data-resource-name');
-                        return aname < bname ? -1 :
-                            aname === bname ? 0 : 1;
-                    }).sort((a, b) => {
-                        var ararity = $(a).attr('data-resource-rarity');
-                        var brarity = $(b).attr('data-resource-rarity');
-                        return ararity < brarity ? 1 :
-                            ararity === brarity ? 0 : -1;
-                    }).prependTo($calculatorTable);
+                    app.sortByCharacters($('tr[data-resource-id]', $calculatorTable), (item) => $(item).data('resource'))
+                        .prependTo($calculatorTable);
+
 
                     disableAscendedCheck($('.current-level.character-level', $tr));
                     disableAscendedCheck($('.goal-level.character-level', $tr));
                     $(':input', $tr).eq(0).change();
                 } else {
-                    $(`tr[data-resource-name="${selection.name}"]`, $calculatorTable).remove();
+                    $(`tr[data-resource-id="${nameId}"]`, $calculatorTable).remove();
                     totalRequirements[selection.name] = null;
                     app.updateTotalRequirements();
                 }
@@ -423,7 +416,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             const $this = $(this);
             const constellation = $this.val();
             const $card = $('.card-container', $this.closest('td'));
-            const selection = app.getByName(app.selections, $card.attr('data-resource-name'));
+            const selection = app.getByName(app.selections, $card.data('resource').name);
 
             var previousConstellation = +$this.attr('data-current-value') || 0;
             selection.constellation = constellation >= 0 || constellation <= 6 ? constellation : 0;
@@ -472,7 +465,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
         // handle level change
         $calculatorTable.on('change', '.calculate-level-table :input', function () {
             const $tr = $(this).closest('.calculate-level-table').closest('tr');
-            const selection = app.getByName(app.selections, $tr.attr('data-resource-name'));
+            const selection = app.getByName(app.selections, $tr.data('resource').name);
 
             let requirements = [];
 
@@ -543,11 +536,9 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             app.selections.sort(app.sortByName);
 
             app.selections.forEach((selection) => {
-                if (selection.name) {
-                    if (selection.selected) {
-                        selection.selected = false;
-                        $(`[data-resource-name="${selection.name}"]`, $characterSelectContainer).click();
-                    }
+                if (selection.name && selection.selected) {
+                    selection.selected = false;
+                    $(`[data-resource-id="${app.id(selection.name)}"]`, $characterSelectContainer).click();
                 }
             });
         } else {

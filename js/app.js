@@ -94,8 +94,8 @@
                 $container.append(app.templates.cardHighlight())
             }
             $container.data('resource', character)
+                .attr('data-resource-id', character.id)
                 .attr('data-resource-type', character.type)
-                .attr('data-resource-name', character.name)
                 .attr('data-resource-rarity', character.rarity)
                 .attr('data-resource-element', character.element.name);
 
@@ -121,8 +121,8 @@
                 $container.append(app.templates.cardHighlight())
             }
             $container.data('resource', weapon)
+                .attr('data-resource-id', weapon.id)
                 .attr('data-resource-type', weapon.type)
-                .attr('data-resource-name', weapon.name)
                 .attr('data-resource-rarity', weapon.rarity);
 
             return $container;
@@ -148,8 +148,8 @@
                 $container.append(app.templates.cardHighlight())
             }
             $container.data('resource', resource)
-                .attr('data-resource-type', resource.type)
-                .attr('data-resource-name', resource.name);
+                .attr('data-resource-id', resource.id)
+                .attr('data-resource-type', resource.type);
 
             return $container;
         }
@@ -169,8 +169,8 @@
                 .append(app.templates.cardStar(resource.rarity));
 
             $container.data('resource', resource)
-                .attr('data-resource-type', resource.type)
-                .attr('data-resource-name', resource.name);
+                .attr('data-resource-id', resource.id)
+                .attr('data-resource-type', resource.type);
 
             return $container;
         }
@@ -214,6 +214,7 @@
     };
 
     app.indexByName = (arr, name) => app.indexBy(arr, 'name', name);
+    app.id = (str) => String(str).toLowerCase().replace(/[^a-z0-9]/g, ' ').replace(/\s+/g, '-');
     app.getByName = (arr, name) => app.getBy(arr, 'name', name);
     app.cloneByName = (arr, name) => app.cloneBy(arr, 'name', name);
     app.firstProp = (obj, ...args) => {
@@ -260,10 +261,10 @@
 
         return final;
     };
-    const canvas = document.createElement("canvas");
+    const canvas = document.createElement('canvas');
     app.getTextWidth = (text, font) => {
         if (!text) return 0;
-        const context = canvas.getContext("2d");
+        const context = canvas.getContext('2d');
         context.font = font;
         const longestWord = text.split(' ').reduce((acc, txt) => {
             return acc.length > txt.length ? acc : txt;
@@ -272,7 +273,10 @@
         return +(metrics.width).toFixed(2);
     };
     app.getResource = (name) => {
-        return app.cloneByName(app.data.resources, name);
+        const res = app.cloneByName(app.data.resources, name);
+        res.id = app.id(res.name);
+
+        return res;
     };
 
     app.applyResource = (source) => {
@@ -290,9 +294,10 @@
     };
 
     app.getCharacter = (name) => {
-        var character = app.cloneByName(app.data.characters, name);
+        const character = app.cloneByName(app.data.characters, name);
 
         if (character) {
+            character.id = app.id(character.name);
             app.applyResource(character);
         }
 
@@ -300,7 +305,8 @@
     };
 
     app.getWeapon = (name) => {
-        var weapon = app.cloneByName(app.data.weapons, name);
+        const weapon = app.cloneByName(app.data.weapons, name);
+        weapon.id = app.id(weapon.name);
 
         return weapon;
     };
@@ -321,14 +327,26 @@
         return urlSearchParams.get(name);
     };
 
-    app.sortCharacters = (characters) => {
-        characters.sort(app.sortBy('name'));
-        characters.sort(app.sortBy('rarity', true));
-        characters.sort((a, b) => {
+    app.sortByCharacters = (collection, getCharacter) => {
+        getCharacter = getCharacter || ((item) => item);
+
+        collection.sort((a, b) => {
+            var a = getCharacter(a);
+            var b = getCharacter(b);
             var ar = a.region === 'Crossover' ? 0 : 1;
             var br = b.region === 'Crossover' ? 0 : 1;
+            var x = ar - br;
 
-            return ar - br;
+            if (x !== 0) return x;
+
+            x = a.rarity < b.rarity ? 1 :
+                a.rarity === b.rarity ? 0 : -1;
+
+            if (x !== 0) return x;
+
+            return a.name < b.name ? -1 :
+                a.name === b.name ? 0 : 1;
         });
+        return collection;
     };
 })(window.app = window.app || {});

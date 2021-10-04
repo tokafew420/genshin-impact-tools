@@ -1,0 +1,26 @@
+html,
+body {
+    background-image: url(./../img/Background_Mondstadt.jpg);
+}
+
+.form-check {
+    color: var(--content-link-color);
+    text-decoration: none;
+    transition: color 0.3s ease 0s;
+
+}
+
+.form-check:hover {
+    color: #34eada;
+    text-decoration: underline;
+}
+
+.form-check .form-check-input,
+.form-check .form-check-label {
+    cursor: pointer;
+}
+
+
+#calculator-weapon-select-table thead th {
+    border-bottom-color: inherit;
+}
