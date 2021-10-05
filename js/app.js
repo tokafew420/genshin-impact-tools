@@ -15,6 +15,8 @@
     // Load data
     app.require('characters');
 
+    const _escape = (text) => text.replaceAll('"', '&quot;');
+
     // Templates
     (() => {
         app.templates = {
@@ -31,8 +33,8 @@
             },
             cardImg: (src, name, link) => `
 <div class="card-image">
-    <a href="${link}" title="${name}" target="_blank" tabindex="-1">
-        <img alt="${name}" src="./img/${src}" width="74" height="74" />
+    <a href="${encodeURI(link)}" title="${_escape(name)}" target="_blank" tabindex="-1">
+        <img alt="${_escape(name)}" src="./img/${src}" width="74" height="74" />
     </a>
     <div class="card-corner">
         <img alt="Card Corner.png" src="./img/Card_Corner.png" width="14" height="14" />
@@ -48,8 +50,8 @@
             },
             cardIcon: (src, name, link) => `
 <div class="card-icon"><span class="d-inline-block">
-    <a href="${link}" title="${name}" target="_blank" tabindex="-1">
-        <img alt="${name}" src="./img/${src}" width="20" height="20">
+    <a href="${encodeURI(link)}" title="${_escape(name)}" target="_blank" tabindex="-1">
+        <img alt="${_escape(name)}" src="./img/${src}" width="20" height="20">
         </a>
         </span></div>`,
             cardStar: (rarity) => {

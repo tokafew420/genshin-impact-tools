@@ -1,3 +1,29 @@
-html, body {
+html,
+body {
     background-image: url(./../img/Background_Liyue.jpg);
+}
+
+th.talent-book-col,
+th.weapon-material-col,
+th.boss-material-col {
+    width: 102px;
+}
+
+@media (min-width: 768px) {
+
+    th.talent-book-col,
+    th.weapon-material-col {
+        width: 180px;
+    }
+}
+
+@media (min-width: 992px) {
+
+    th.talent-book-col {
+        width: 260px;
+    }
+
+    th.weapon-material-col {
+        width: 350px;
+    }
 }
