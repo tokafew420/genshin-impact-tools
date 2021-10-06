@@ -47,7 +47,7 @@ app.require(['characters', 'elements', 'resources'],
             "Yanfei": "pdc"
         };
 
-        app.sortCharacters(characters);
+        app.sortByCharacters(characters);
 
         const $page = $('.page');
         const $characters = $('#characters', $page);
