@@ -216,7 +216,7 @@
     };
 
     app.indexByName = (arr, name) => app.indexBy(arr, 'name', name);
-    app.id = (str) => String(str).toLowerCase().replace(/[^a-z0-9]/g, ' ').replace(/\s+/g, '-');
+    app.id = (str) => String(str).toLowerCase().replace(/[^a-z0-9]/g, ' ').trim().replace(/\s+/g, '-');
     app.getByName = (arr, name) => app.getBy(arr, 'name', name);
     app.cloneByName = (arr, name) => app.cloneBy(arr, 'name', name);
     app.firstProp = (obj, ...args) => {

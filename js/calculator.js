@@ -203,7 +203,8 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                 const talentLevelUp = app.cloneByName(characterTalentLeventUp, name);
                 if (!talentLevelUp) return;
 
-                needs = talentLevelUp.levels.filter((level) => {
+                const levels = stat === 'Normal Attack' && talentLevelUp.normal_attack_levels || talentLevelUp.levels;
+                needs = levels.filter((level) => {
                     return level.min_level >= current && level.min_level < goal;
                 });
             }
@@ -329,7 +330,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
 
                     $tr.append($(`<td style="padding: 0;">
                     <table class="calculate-level-table table table-bordered table-striped align-middle mb-0">
-                      ${ character.name.startsWith('Traveler ') && character.name !== 'Traveler (Anemo)' ? '' : `<thead>
+                      ${character.name.startsWith('Traveler ') && character.name !== 'Traveler (Anemo)' ? '' : `<thead>
                         <tr>
                           <th scope="col" style="width: 90px">Level</th>
                           <th scope="col" style="width: 90px">Current</th>
@@ -364,17 +365,18 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                           <th scope="col">Current</th>
                           <th scope="col">Goal</th>
                         </tr>
-                        ${selection.talents.map((talent) => {
+                        ${selection.talents.map((t) => {
+                            var talent = app.getByName(character.talents, t.name);
                             var constellation = talent.constellation ? 'constellation-' + talent.constellation : '';
-                        return `<tr>
+                        return `<tr data-talent-type="${talent.type}">
                             <td>
                               <label>${talent.name}</label>
                             </td>
                             <td>
-                              <input class="current-level talent-level form-control form-control-sm ${constellation}" type="number" placeholder="Current" aria-label="Current talent level" min="1" max="10" step="1" value="${talent.currentLvl}" />
+                              <input class="current-level talent-level form-control form-control-sm ${constellation}" type="number" placeholder="Current" aria-label="Current talent level" min="1" max="10" step="1" value="${t.currentLvl}" />
                             </td>
                             <td>
-                              <input class="goal-level talent-level form-control form-control-sm ${constellation}" type="number" placeholder="Goal" aria-label="Talent level goal" min="1" max="10" step="1" value="${talent.goalLvl}" />
+                              <input class="goal-level talent-level form-control form-control-sm ${constellation}" type="number" placeholder="Goal" aria-label="Talent level goal" min="1" max="10" step="1" value="${t.goalLvl}" />
                             </td>
                           </tr>`;
                     }).join('')}
@@ -471,7 +473,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
 
             $('.goal-level', $tr).each(function () {
                 const $tr = $(this).closest('tr');
-                const stat = $('td:first-child', $tr).text().trim() ? 'talent' : 'level';
+                const stat = $tr.attr('data-talent-type') ? $tr.attr('data-talent-type') : 'level';
                 let current = +$('.current-level', $tr).val() || 0;
                 let goal = +$('.goal-level', $tr).val() || 0;
                 const currentAscended = $('.current-ascended', $tr).is(':checked');

@@ -1,5 +1,5 @@
 {
-    "version": "2021-09-22",
+    "version": "2021-10-09",
     "data": [{
         "object_type": "character-talent-level-up",
         "name": "Albedo",
@@ -5239,7 +5239,7 @@
     }, {
         "object_type": "character-talent-level-up",
         "name": "Traveler (Geo)",
-        "normal_attach_levels": [{
+        "normal_attack_levels": [{
             "level": 1,
             "min_level": 1,
             "max_level": 2,
