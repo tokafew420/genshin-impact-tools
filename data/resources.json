@@ -1,5 +1,5 @@
 {
-    "version": "2021-09-26",
+    "version": "2021-10-13",
     "data": [{
         "object_type": "item",
         "name": "Mora",
@@ -512,6 +512,14 @@
         "region": "Inazuma",
         "thumbnail": "Item_Dendrobium.png",
         "link": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+    }, {
+        "object_type": "item",
+        "name": "Fluorescent Fungus",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Inazuma",
+        "thumbnail": "Item_Fluorescent_Fungus.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus"
     }, {
         "object_type": "item",
         "name": "Glaze Lily",
@@ -1509,6 +1517,36 @@
         "source": ["Specters"],
         "thumbnail": "Item_Spectral_Nucleus.png",
         "link": "https://genshin-impact.fandom.com/wiki/Spectral_Nucleus"
+    }, {
+        "object_type": "item",
+        "name": "Concealed Claw",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Rifthounds",
+        "rarity": 2,
+        "source": ["Rifthounds"],
+        "thumbnail": "Item_Concealed_Claw.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+    }, {
+        "object_type": "item",
+        "name": "Concealed Unguis",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Rifthounds",
+        "rarity": 3,
+        "source": ["Rifthounds"],
+        "thumbnail": "Item_Concealed_Unguis.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Concealed_Unguis"
+    }, {
+        "object_type": "item",
+        "name": "Concealed Talon",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Rifthounds",
+        "rarity": 4,
+        "source": ["Rifthounds"],
+        "thumbnail": "Item_Concealed_Talon.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Concealed_Talon"
     }, {
         "object_type": "item",
         "group_type": "dvalin-material",

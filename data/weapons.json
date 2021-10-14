@@ -1,5 +1,5 @@
 {
-    "version": "2021-10-03",
+    "version": "2021-10-13",
     "data": [{
         "object_type": "weapon",
         "name": "Amos' Bow",
@@ -63,6 +63,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Mistsplitter_Reforged.png",
         "link": "https://genshin-impact.fandom.com/wiki/Mistsplitter_Reforged"
+    }, {
+        "object_type": "weapon",
+        "name": "Polar Star",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Polar_Star.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Polar_Star"
     }, {
         "object_type": "weapon",
         "name": "Primordial Jade Cutter",
@@ -168,6 +175,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_The_Catch.png",
         "link": "https://genshin-impact.fandom.com/wiki/\"The_Catch\""
+    }, {
+        "object_type": "weapon",
+        "name": "Akuoumaru",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Akuoumaru.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Akuoumaru"
     }, {
         "object_type": "weapon",
         "name": "Alley Hunter",
@@ -394,6 +408,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Mitternachts_Waltz"
     }, {
         "object_type": "weapon",
+        "name": "Mouun's Moon",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Mouun's_Moon.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mouun's_Moon"
+    }, {
+        "object_type": "weapon",
         "name": "Predator",
         "type": "Bow",
         "rarity": 4,
@@ -588,6 +609,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_The_Widsith.png",
         "link": "https://genshin-impact.fandom.com/wiki/The_Widsith"
+    }, {
+        "object_type": "weapon",
+        "name": "Wavebreaker's Fin",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Wavebreaker's_Fin.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Wavebreaker's_Fin"
     }, {
         "object_type": "weapon",
         "name": "Whiteblind",
