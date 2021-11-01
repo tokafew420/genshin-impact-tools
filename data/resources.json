@@ -2,6 +2,13 @@
     "version": "2021-10-13",
     "data": [{
         "object_type": "item",
+        "name": "Primogem",
+        "type": "Common Currency",
+        "rarity": 5,
+        "thumbnail": "Item_Primogem.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Primogem"
+    }, {
+        "object_type": "item",
         "name": "Mora",
         "type": "Common Currency",
         "rarity": 3,

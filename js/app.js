@@ -161,9 +161,12 @@
         var resource = app.getResource(name);
 
         if (resource) {
-            var text = count.toLocaleString('en-US', {
-                minimumFractionDigits: 0
-            });
+            let text = count;
+            if (typeof count === 'number') {
+                text = count.toLocaleString('en-US', {
+                    minimumFractionDigits: 0
+                });
+            }
 
             var $container = $(app.templates.cardContainer(resource.rarity));
             $container.append(app.templates.cardImg(resource.thumbnail, resource.name, resource.link))
@@ -311,6 +314,30 @@
         weapon.id = app.id(weapon.name);
 
         return weapon;
+    };
+
+    const chars = 'abcdefghjkmnpqrstuwxyz0123456789';
+    app.generateCodeCache = {};
+    app.generateCode = (str, len) => {
+        var name = str || '';
+        var code = 0;
+        len = len || 3;
+        for (var i = 0, ii = name.length; i < ii; i++) {
+            code += name.charCodeAt(i) * (i + 1);
+        }
+        let x = code & 31;
+        let y = chars[x];
+        for (var i = 1; i < len; i++) {
+            code >>= 5;
+            x = code & 31;
+            y += chars[x];
+        }
+
+        if (app.generateCodeCache[y]) {
+            y += chars[app.generateCodeCache[y] - 1];
+        }
+        app.generateCodeCache[y] = (app.generateCodeCache[y] || 0) + 1;
+        return y;
     };
 
     app.localStorage = {
