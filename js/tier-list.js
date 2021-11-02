@@ -1,51 +1,10 @@
 app.require(['characters', 'elements', 'resources'],
     function (characters, elements, resources) {
         const defaults = 'S-ffd454-000--~A-af7ff5-000--~B-4bb4f3-000--~C-23f188-000--~D-b5b5b5-000--';
-        const mapping = {
-            "Aloy": "mcb",
-            "Albedo": "bdc",
-            "Diluc": "7tb",
-            "Eula": "19a",
-            "Ganyu": "ayb",
-            "Hu Tao": "b5b",
-            "Jean": "s9a",
-            "Kaedehara Kazuha": "46p",
-            "Kamisato Ayaka": "h4k",
-            "Keqing": "6ec",
-            "Klee": "g9a",
-            "Mona": "39a",
-            "Qiqi": "4ab",
-            "Raiden Shogun": "b5j",
-            "Sangonomiya Kokomi": "01t",
-            "Tartaglia": "tue",
-            "Traveler (Anemo)": "wrn",
-            "Traveler (Electro)": "0ds",
-            "Traveler (Geo)": "bnj",
-            "Venti": "hwb",
-            "Xiao": "kab",
-            "Yoimiya": "t7c",
-            "Zhongli": "36c",
-            "Amber": "stb",
-            "Barbara": "42c",
-            "Beidou": "agc",
-            "Bennett": "n9c",
-            "Chongyun": "y6d",
-            "Diona": "atb",
-            "Fischl": "qec",
-            "Kaeya": "ftb",
-            "Kujou Sara": "ucf",
-            "Lisa": "59a",
-            "Ningguang": "7xe",
-            "Noelle": "fec",
-            "Razor": "2xb",
-            "Rosaria": "e5c",
-            "Sayu": "ycb",
-            "Sucrose": "r8c",
-            "Xiangling": "8xe",
-            "Xingqiu": "r9c",
-            "Xinyan": "ugc",
-            "Yanfei": "pdc"
-        };
+        const mapping = characters.reduce((m, character) => {
+            m[character.name] = app.generateCode(character.name);
+            return m;
+        }, {});
 
         app.sortByCharacters(characters);
 
