@@ -6498,6 +6498,118 @@
         }]
     }, {
         "object_type": "weapon-ascension",
+        "name": "Mouun's Moon",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 5000
+            }, {
+                "name": "Narukami's Wisdom",
+                "count": 3
+            }, {
+                "name": "Dismal Prism",
+                "count": 3
+            }, {
+                "name": "Spectral Husk",
+                "count": 2
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 15000
+            }, {
+                "name": "Narukami's Joy",
+                "count": 3
+            }, {
+                "name": "Dismal Prism",
+                "count": 12
+            }, {
+                "name": "Spectral Husk",
+                "count": 8
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Narukami's Joy",
+                "count": 6
+            }, {
+                "name": "Crystal Prism",
+                "count": 6
+            }, {
+                "name": "Spectral Heart",
+                "count": 6
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 30000
+            }, {
+                "name": "Narukami's Affection",
+                "count": 3
+            }, {
+                "name": "Crystal Prism",
+                "count": 12
+            }, {
+                "name": "Spectral Heart",
+                "count": 9
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 35000
+            }, {
+                "name": "Narukami's Affection",
+                "count": 6
+            }, {
+                "name": "Polarizing Prism",
+                "count": 9
+            }, {
+                "name": "Spectral Nucleus",
+                "count": 6
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 45000
+            }, {
+                "name": "Narukami's Valor",
+                "count": 4
+            }, {
+                "name": "Polarizing Prism",
+                "count": 18
+            }, {
+                "name": "Spectral Nucleus",
+                "count": 12
+            }]
+        }]
+    }, {
+        "object_type": "weapon-ascension",
         "name": "Predator",
         "phases": [{
             "object_type": "ascension-phase",
@@ -9629,6 +9741,118 @@
                 "count": 18
             }, {
                 "name": "Ominous Mask",
+                "count": 12
+            }]
+        }]
+    }, {
+        "object_type": "weapon-ascension",
+        "name": "Wavebreaker's Fin",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 5000
+            }, {
+                "name": "Mask of the Wicked Lieutenant",
+                "count": 3
+            }, {
+                "name": "Concealed Claw",
+                "count": 3
+            }, {
+                "name": "Old Handguard",
+                "count": 2
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 15000
+            }, {
+                "name": "Mask of the Tiger's Bite",
+                "count": 3
+            }, {
+                "name": "Concealed Claw",
+                "count": 12
+            }, {
+                "name": "Old Handguard",
+                "count": 8
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Mask of the Tiger's Bite",
+                "count": 6
+            }, {
+                "name": "Concealed Unguis",
+                "count": 6
+            }, {
+                "name": "Kageuchi Handguard",
+                "count": 6
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 30000
+            }, {
+                "name": "Mask of the One-Horned",
+                "count": 3
+            }, {
+                "name": "Concealed Unguis",
+                "count": 12
+            }, {
+                "name": "Kageuchi Handguard",
+                "count": 9
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 35000
+            }, {
+                "name": "Mask of the One-Horned",
+                "count": 6
+            }, {
+                "name": "Concealed Talon",
+                "count": 9
+            }, {
+                "name": "Famed Handguard",
+                "count": 6
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 45000
+            }, {
+                "name": "Mask of the Kijin",
+                "count": 4
+            }, {
+                "name": "Concealed Talon",
+                "count": 18
+            }, {
+                "name": "Famed Handguard",
                 "count": 12
             }]
         }]

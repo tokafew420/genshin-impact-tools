@@ -1,5 +1,5 @@
 {
-    "version": "2021-09-22",
+    "version": "2021-11-02",
     "data": [{
         "object_type": "character-ascension",
         "name": "Albedo",
@@ -4043,6 +4043,133 @@
                 "count": 60
             }, {
                 "name": "Lieutenant's Insignia",
+                "count": 24
+            }]
+        }]
+    }, {
+        "object_type": "character-ascension",
+        "name": "Thoma",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Agnidus Agate Sliver",
+                "count": 1
+            }, {
+                "name": "Fluorescent Fungus",
+                "count": 3
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 40000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 3
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 2
+            }, {
+                "name": "Fluorescent Fungus",
+                "count": 10
+            }, {
+                "name": "Treasure Hoarder Insignia",
+                "count": 15
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 60000
+            }, {
+                "name": "Agnidus Agate Fragment",
+                "count": 6
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 4
+            }, {
+                "name": "Fluorescent Fungus",
+                "count": 20
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 80000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 3
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 8
+            }, {
+                "name": "Fluorescent Fungus",
+                "count": 30
+            }, {
+                "name": "Silver Raven Insignia",
+                "count": 18
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 100000
+            }, {
+                "name": "Agnidus Agate Chunk",
+                "count": 6
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 12
+            }, {
+                "name": "Fluorescent Fungus",
+                "count": 45
+            }, {
+                "name": "Golden Raven Insignia",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Agnidus Agate Gemstone",
+                "count": 6
+            }, {
+                "name": "Smoldering Pearl",
+                "count": 20
+            }, {
+                "name": "Fluorescent Fungus",
+                "count": 60
+            }, {
+                "name": "Golden Raven Insignia",
                 "count": 24
             }]
         }]

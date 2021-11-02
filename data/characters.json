@@ -1,5 +1,5 @@
 {
-    "version": "2021-09-22",
+    "version": "2021-11-02",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -2734,6 +2734,93 @@
         }],
         "thumbnail": "Character_Tartaglia_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Tartaglia"
+    }, {
+        "object_type": "character",
+        "name": "Thoma",
+        "type": "Character",
+        "display_name": "Thoma",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Swiftshatter Spear",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Swiftshatter_Spear.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Swiftshatter_Spear"
+        }, {
+            "object_type": "talent",
+            "name": "Blazing Blessing",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Blazing_Blessing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blazing_Blessing",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Crimson Ooyoroi",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Crimson_Ooyoroi.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crimson_Ooyoroi",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Imbricated Armor",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Imbricated_Armor.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Imbricated_Armor"
+        }, {
+            "object_type": "talent",
+            "name": "Flaming Assault",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Flaming_Assault.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flaming_Assault"
+        }, {
+            "object_type": "talent",
+            "name": "Snap and Swing",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Snap_and_Swing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Snap_and_Swing"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "A Comrade's Duty",
+            "level": 1,
+            "thumbnail": "Constellation_A_Comrade's_Duty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Comrade's_Duty"
+        }, {
+            "object_type": "constellation",
+            "name": "A Subordinate's Skills",
+            "level": 2,
+            "thumbnail": "Constellation_A_Subordinate's_Skills.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Subordinate's_Skills"
+        }, {
+            "object_type": "constellation",
+            "name": "Fortified Resolve",
+            "level": 3,
+            "thumbnail": "Constellation_Fortified_Resolve.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fortified_Resolve"
+        }, {
+            "object_type": "constellation",
+            "name": "Long-Term Planning",
+            "level": 4,
+            "thumbnail": "Constellation_Long-Term_Planning.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Long-Term_Planning"
+        }, {
+            "object_type": "constellation",
+            "name": "Raging Wildfire",
+            "level": 5,
+            "thumbnail": "Constellation_Raging_Wildfire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Raging_Wildfire"
+        }, {
+            "object_type": "constellation",
+            "name": "Burning Heart",
+            "level": 6,
+            "thumbnail": "Constellation_Burning_Heart.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Burning_Heart"
+        }],
+        "thumbnail": "Character_Thoma_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/Thoma"
     }, {
         "object_type": "character",
         "name": "Traveler (Anemo)",
