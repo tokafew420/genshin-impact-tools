@@ -46,34 +46,43 @@
                     <thead>
                       <tr>
                         <th>
-                          <span class="text-light me-2">Show:</span>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-pyro" data-type="Pyro" checked />
-                            <label class="form-check-label" for="show-pyro">Pyro</label>
+                          <div>
+                            <span class="text-light me-2">Show:</span>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-pyro" data-type="Pyro" checked />
+                              <label class="form-check-label" for="show-pyro">Pyro</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-hydro" data-type="Hydro" checked />
+                              <label class="form-check-label" for="show-hydro">Hydro</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-anemo" data-type="Anemo" checked />
+                              <label class="form-check-label" for="show-anemo">Anemo</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-electro" data-type="Electro" checked />
+                              <label class="form-check-label" for="show-electro">Electro</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-dendro" data-type="Dendro" checked />
+                              <label class="form-check-label" for="show-dendro">Dendro</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-cryo" data-type="Cryo" checked />
+                              <label class="form-check-label" for="show-cryo">Cryo</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-geo" data-type="Geo" checked />
+                              <label class="form-check-label" for="show-geo">Geo</label>
+                            </div>
                           </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-hydro" data-type="Hydro" checked />
-                            <label class="form-check-label" for="show-hydro">Hydro</label>
-                          </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-anemo" data-type="Anemo" checked />
-                            <label class="form-check-label" for="show-anemo">Anemo</label>
-                          </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-electro" data-type="Electro" checked />
-                            <label class="form-check-label" for="show-electro">Electro</label>
-                          </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-dendro" data-type="Dendro" checked />
-                            <label class="form-check-label" for="show-dendro">Dendro</label>
-                          </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-cryo" data-type="Cryo" checked />
-                            <label class="form-check-label" for="show-cryo">Cryo</label>
-                          </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-geo" data-type="Geo" checked />
-                            <label class="form-check-label" for="show-geo">Geo</label>
+                          <div>
+                            <div class="input-group input-group-sm">
+                              <span class="input-group-text" id="search-lbl">Search</span>
+                              <input type="text" id="search" class="form-control" placeholder="Search" data-search-target="#calculator-character-select-table tbody" data-search-item="td > div" aria-label="Search" aria-describedby="search-lbl">
+                              <button class="btn btn-danger" type="button" onclick="$('#search').val('').change();">Clear</button>
+                            </div>
                           </div>
                         </th>
                       </tr>

@@ -55,6 +55,11 @@
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-8">
+                                    <div class="input-group input-group-sm" style="padding-left: 0.25rem; margin-bottom: 4px;">
+                                        <span class="input-group-text" id="search-lbl">Search</span>
+                                        <input type="text" id="search" class="form-control" placeholder="Search" data-search-target="#achievement-list" data-search-item=".achievement" data-search-scroll="true" aria-label="Search" aria-describedby="search-lbl">
+                                        <button class="btn btn-danger" type="button" onclick="$('#search').val('').change();">Clear</button>
+                                    </div>
                                     <div id="achievement-list">
                                     </div>
                                 </div>

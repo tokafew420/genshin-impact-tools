@@ -158,6 +158,6 @@ app.require(['achievements'],
             const offset = 300;
             const newHeight = Math.max(500, window.innerHeight - offset);
             $categories.css('height', newHeight);
-            $list.css('height', newHeight);
+            $list.css('height', newHeight - 31);
         }).trigger('resize');
     });

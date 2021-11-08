@@ -378,4 +378,37 @@
         });
         return collection;
     };
+
+    // Init
+    $(() => {
+        $('[data-search-target]').each(function () {
+            var $input = $(this);
+            var $target = $($input.attr('data-search-target'));
+            var item = $input.attr('data-search-item');
+            var scrollIntoView = $input.attr('data-search-scroll') === 'true';
+
+            if ($target.length && item) {
+                $input.on('change keyup input', app.debounce(function () {
+                    var term = $input.val().trim().toLowerCase();
+                    let first = true;
+                    if (!term) {
+                        $(item, $target).removeClass('non-match');
+                    } else {
+                        $(item, $target).each(function () {
+                            const $item = $(this);
+                            const nonMatch = term && $item.text().trim().toLowerCase().indexOf(term) === -1;
+                            $item.toggleClass('non-match', nonMatch);
+                            if (scrollIntoView && first && !nonMatch) {
+                                $item[0].scrollIntoView({
+                                    behavior: 'smooth',
+                                    block: 'start'
+                                });
+                                first = false;
+                            }
+                        });
+                    }
+                }, 200));
+            }
+        });
+    });
 })(window.app = window.app || {});

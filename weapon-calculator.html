@@ -45,26 +45,35 @@
                     <thead>
                       <tr>
                         <th>
-                          <span class="text-light me-2">Show:</span>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-swords" data-type="Sword" checked />
-                            <label class="form-check-label" for="show-swords">Swords</label>
+                          <div>
+                            <span class="text-light me-2">Show:</span>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-swords" data-type="Sword" checked />
+                              <label class="form-check-label" for="show-swords">Swords</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-claymores" data-type="Claymore" checked />
+                              <label class="form-check-label" for="show-claymores">Claymores</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-polearms" data-type="Polearm" checked />
+                              <label class="form-check-label" for="show-polearms">Polearms</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-catalysts" data-type="Catalyst" checked />
+                              <label class="form-check-label" for="show-catalysts">Catalysts</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                              <input class="form-check-input show-toggle" type="checkbox" id="show-bows" data-type="Bow" checked />
+                              <label class="form-check-label" for="show-bows">Bows</label>
+                            </div>
                           </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-claymores" data-type="Claymore" checked />
-                            <label class="form-check-label" for="show-claymores">Claymores</label>
-                          </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-polearms" data-type="Polearm" checked />
-                            <label class="form-check-label" for="show-polearms">Polearms</label>
-                          </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-catalysts" data-type="Catalyst" checked />
-                            <label class="form-check-label" for="show-catalysts">Catalysts</label>
-                          </div>
-                          <div class="form-check form-check-inline">
-                            <input class="form-check-input show-toggle" type="checkbox" id="show-bows" data-type="Bow" checked />
-                            <label class="form-check-label" for="show-bows">Bows</label>
+                          <div>
+                            <div class="input-group input-group-sm">
+                              <span class="input-group-text" id="search-lbl">Search</span>
+                              <input type="text" id="search" class="form-control" placeholder="Search" data-search-target="#calculator-weapon-select-table tbody" data-search-item="td > div" aria-label="Search" aria-describedby="search-lbl">
+                              <button class="btn btn-danger" type="button" onclick="$('#search').val('').change();">Clear</button>
+                            </div>
                           </div>
                         </th>
                       </tr>

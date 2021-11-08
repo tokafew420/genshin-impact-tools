@@ -27,3 +27,7 @@ th.boss-material-col {
         width: 350px;
     }
 }
+
+[data-resource-type] {
+    display: inline-block;
+}
