@@ -428,6 +428,13 @@
         "reward": 5,
         "link": ""
     }, {
+        "name": "Oowazamono",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Defeat Masanori with ease.",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "Second Blooming",
         "type": "Achievement",
         "category": "Wonders of the World",
@@ -946,6 +953,13 @@
         "reward": 10,
         "link": ""
     }, {
+        "name": "Could All Uninvolved Machinery Please Leave Immediately?",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Defeat the Perpetual Mechanical Array without defeating any of its Ruin Sentinels.",
+        "reward": 10,
+        "link": ""
+    }, {
         "name": "Fight Fire With Fire",
         "type": "Achievement",
         "category": "Wonders of the World",
@@ -960,6 +974,20 @@
         "reward": 5,
         "link": ""
     }, {
+        "name": "I Hear Thunder..",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Be struck by the lightning called down by a Crackling Axe Mitachurl...",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Dry Clean",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Defeat the Hydro Hypostasis without destroying a single one of its Water Droplets (except when it is restoring HP.)",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "Bio-Oceanic Weapon",
         "type": "Achievement",
         "category": "Wonders of the World",
@@ -971,6 +999,13 @@
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Defeat a Thunder Manifestation without ever being locked onto.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Thunder Fall",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Defeat a Thunder Manifestation while it is in flight.",
         "reward": 5,
         "link": ""
     }, {
@@ -1303,6 +1338,13 @@
         "reward": 5,
         "link": ""
     }, {
+        "name": "Samurice",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Help Kamei Munehisa collect ingredients from the camps on either side.",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "\"Sorry for the Trouble!\"",
         "type": "Achievement",
         "category": "Wonders of the World",
@@ -1352,13 +1394,6 @@
         "reward": 5,
         "link": ""
     }, {
-        "name": "Oowazamono",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Defeat Masanori with ease.",
-        "reward": 5,
-        "link": ""
-    }, {
         "name": "For the Future of Narukami...",
         "type": "Achievement",
         "category": "Wonders of the World",
@@ -1377,13 +1412,6 @@
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Witness Ryuuji's tale.",
-        "reward": 5,
-        "link": ""
-    }, {
-        "name": "Samurice",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Help Kamei Munehisa collect ingredients from the camps on either side.",
         "reward": 5,
         "link": ""
     }, {
@@ -1594,34 +1622,6 @@
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Collect the entire \"Toki Alley Tales\" series.",
-        "reward": 5,
-        "link": ""
-    }, {
-        "name": "I Hear Thunder..",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Be struck by the lightning called down by a Crackling Axe Mitachurl...",
-        "reward": 5,
-        "link": ""
-    }, {
-        "name": "Could All Uninvolved Machinery Please Leave Immediately?",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Defeat the Perpetual Mechanical Array without defeating any of its Ruin Sentinels.",
-        "reward": 10,
-        "link": ""
-    }, {
-        "name": "Dry Clean",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Defeat the Hydro Hypostasis without destroying a single one of its Water Droplets (except when it is restoring HP.)",
-        "reward": 5,
-        "link": ""
-    }, {
-        "name": "Thunder Fall",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Defeat a Thunder Manifestation while it is in flight.",
         "reward": 5,
         "link": ""
     }, {
