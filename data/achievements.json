@@ -610,7 +610,7 @@
         "reward": 5,
         "link": ""
     }, {
-        "name": "Nihil Sub Caligine Novum ",
+        "name": "Nihil Sub Caligine Novum",
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Seems like you're back to square one...",
@@ -631,7 +631,7 @@
         "reward": 5,
         "link": ""
     }, {
-        "name": "A Tale of Two Cities ",
+        "name": "A Tale of Two Cities",
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Even Tsurumi Island seems to be built atop the wreckage of ancient ruins.",
@@ -645,7 +645,7 @@
         "reward": 5,
         "link": ""
     }, {
-        "name": "Light Up the Fog ",
+        "name": "Light Up the Fog",
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Light up all the Stormstones on the Autake Plains.",
@@ -659,14 +659,14 @@
         "reward": 5,
         "link": ""
     }, {
-        "name": "Guessing Game ",
+        "name": "Guessing Game",
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "From an even more distant past to the present day...",
         "reward": 5,
         "link": ""
     }, {
-        "name": "Thunderbird's Lineage ",
+        "name": "Thunderbird's Lineage",
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Complete all the statue challenges.",
@@ -687,7 +687,7 @@
         "reward": 5,
         "link": ""
     }, {
-        "name": "Across the Misty River ",
+        "name": "Across the Misty River",
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "You finally reach the far side of the Sea of Fog...",
@@ -1800,14 +1800,14 @@
         "reward": 5,
         "link": ""
     }, {
-        "name": "Everyone's Happy ",
+        "name": "Everyone's Happy",
         "type": "Achievement",
         "category": "Memories of the Heart",
         "description": "Complete \"A Housekeeper's Daily Chores\" and unlock all endings.",
         "reward": 20,
         "link": ""
     }, {
-        "name": "Housekeeper Extraordinaire ",
+        "name": "Housekeeper Extraordinaire",
         "type": "Achievement",
         "category": "Memories of the Heart",
         "description": "Complete the big cleanup within the time limit",
@@ -1839,6 +1839,48 @@
         "type": "Achievement",
         "category": "Memories of the Heart",
         "description": "You were unable to prevent Sayu's reckless consumption...",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Honorary Crux Member",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Comlete \"When the Crux Shines Bright\" and unlock all endings.",
+        "reward": 20,
+        "link": ""
+    }, {
+        "name": "Wine Unburdens",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Take part in the Qingce banquet with Beidou.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Guyun Buyers Club",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Find out the truth behind the deal Beidou's making.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "General of Watatsumi",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Complete \"The Canine General's Special Operations\" and unlock all endings",
+        "reward": 20,
+        "link": ""
+    }, {
+        "name": "Changing Times",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Draw all fortune slips at the Grand Narukami Shrine.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "To Tell or Not to Tell, That Is The Question",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Discover Ms. Hina's true identity at the Yae Publishing House.",
         "reward": 5,
         "link": ""
     }, {

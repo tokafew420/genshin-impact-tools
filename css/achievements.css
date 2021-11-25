@@ -53,6 +53,10 @@ body {
     background-color: #ebb954;
 }
 
+.list-group-item .progress .progress-bar[aria-valuenow="100"] {
+    background-color: #7db707;
+}
+
 .list-group-item .inner-border {
     border: 1px solid #747474;
 }
