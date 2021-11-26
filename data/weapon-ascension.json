@@ -3698,6 +3698,118 @@
         }]
     }, {
         "object_type": "weapon-ascension",
+        "name": "Cinnabar Spindle",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 5000
+            }, {
+                "name": "Tile of Decarabian's Tower",
+                "count": 3
+            }, {
+                "name": "Chaos Device",
+                "count": 3
+            }, {
+                "name": "Damaged Mask",
+                "count": 2
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 15000
+            }, {
+                "name": "Debris of Decarabian's City",
+                "count": 3
+            }, {
+                "name": "Chaos Device",
+                "count": 12
+            }, {
+                "name": "Damaged Mask",
+                "count": 8
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Debris of Decarabian's City",
+                "count": 6
+            }, {
+                "name": "Chaos Circuit",
+                "count": 6
+            }, {
+                "name": "Stained Mask",
+                "count": 6
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 30000
+            }, {
+                "name": "Fragment of Decarabian's Epic",
+                "count": 3
+            }, {
+                "name": "Chaos Circuit",
+                "count": 12
+            }, {
+                "name": "Stained Mask",
+                "count": 9
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 35000
+            }, {
+                "name": "Fragment of Decarabian's Epic",
+                "count": 6
+            }, {
+                "name": "Chaos Core",
+                "count": 9
+            }, {
+                "name": "Ominous Mask",
+                "count": 6
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 45000
+            }, {
+                "name": "Scattered Piece of Decarabian's Dream",
+                "count": 4
+            }, {
+                "name": "Chaos Core",
+                "count": 18
+            }, {
+                "name": "Ominous Mask",
+                "count": 12
+            }]
+        }]
+    }, {
+        "object_type": "weapon-ascension",
         "name": "Compound Bow",
         "phases": [{
             "object_type": "ascension-phase",

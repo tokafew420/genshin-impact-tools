@@ -233,6 +233,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Blackcliff_Warbow"
     }, {
         "object_type": "weapon",
+        "name": "Cinnabar Spindle",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Cinnabar_Spindle.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Cinnabar_Spindle"
+    }, {
+        "object_type": "weapon",
         "name": "Compound Bow",
         "type": "Bow",
         "rarity": 4,
