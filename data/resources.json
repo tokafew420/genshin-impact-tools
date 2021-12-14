@@ -1500,7 +1500,7 @@
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Spectral",
-        "rarity": 2,
+        "rarity": 1,
         "source": ["Specters"],
         "thumbnail": "Item_Spectral_Husk.png",
         "link": "https://genshin-impact.fandom.com/wiki/Spectral_Husk"
@@ -1510,7 +1510,7 @@
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Spectral",
-        "rarity": 3,
+        "rarity": 2,
         "source": ["Specters"],
         "thumbnail": "Item_Spectral_Heart.png",
         "link": "https://genshin-impact.fandom.com/wiki/Spectral_Heart"
@@ -1520,7 +1520,7 @@
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Spectral",
-        "rarity": 4,
+        "rarity": 3,
         "source": ["Specters"],
         "thumbnail": "Item_Spectral_Nucleus.png",
         "link": "https://genshin-impact.fandom.com/wiki/Spectral_Nucleus"
