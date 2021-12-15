@@ -1,5 +1,5 @@
 {
-    "version": "2021-10-13",
+    "version": "2021-12-14",
     "data": [{
         "object_type": "weapon-ascension",
         "name": "Amos' Bow",
@@ -1341,6 +1341,118 @@
                 "count": 27
             }, {
                 "name": "Lieutenant's Insignia",
+                "count": 18
+            }]
+        }]
+    }, {
+        "object_type": "weapon-ascension",
+        "name": "Redhorn Stonethresher",
+        "phases": [{
+            "object_type": "ascension-phase",
+            "level": 1,
+            "min_level": 20,
+            "max_level": 40,
+            "materials": [{
+                "name": "Mora",
+                "count": 10000
+            }, {
+                "name": "Narukami's Wisdom",
+                "count": 5
+            }, {
+                "name": "Concealed Claw",
+                "count": 5
+            }, {
+                "name": "Old Handguard",
+                "count": 3
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 2,
+            "min_level": 40,
+            "max_level": 50,
+            "materials": [{
+                "name": "Mora",
+                "count": 20000
+            }, {
+                "name": "Narukami's Joy",
+                "count": 5
+            }, {
+                "name": "Concealed Claw",
+                "count": 18
+            }, {
+                "name": "Old Handguard",
+                "count": 12
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 3,
+            "min_level": 50,
+            "max_level": 60,
+            "materials": [{
+                "name": "Mora",
+                "count": 30000
+            }, {
+                "name": "Narukami's Joy",
+                "count": 9
+            }, {
+                "name": "Concealed Unguis",
+                "count": 9
+            }, {
+                "name": "Kageuchi Handguard",
+                "count": 9
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 4,
+            "min_level": 60,
+            "max_level": 70,
+            "materials": [{
+                "name": "Mora",
+                "count": 45000
+            }, {
+                "name": "Narukami's Affection",
+                "count": 5
+            }, {
+                "name": "Concealed Unguis",
+                "count": 18
+            }, {
+                "name": "Kageuchi Handguard",
+                "count": 14
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 5,
+            "min_level": 70,
+            "max_level": 80,
+            "materials": [{
+                "name": "Mora",
+                "count": 55000
+            }, {
+                "name": "Narukami's Affection",
+                "count": 9
+            }, {
+                "name": "Concealed Talon",
+                "count": 14
+            }, {
+                "name": "Famed Handguard",
+                "count": 9
+            }]
+        }, {
+            "object_type": "ascension-phase",
+            "level": 6,
+            "min_level": 80,
+            "max_level": 90,
+            "materials": [{
+                "name": "Mora",
+                "count": 65000
+            }, {
+                "name": "Narukami's Valor",
+                "count": 6
+            }, {
+                "name": "Concealed Talon",
+                "count": 27
+            }, {
+                "name": "Famed Handguard",
                 "count": 18
             }]
         }]

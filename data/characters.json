@@ -1,5 +1,5 @@
 {
-    "version": "2021-11-02",
+    "version": "2021-12-14",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -220,6 +220,93 @@
         }],
         "thumbnail": "Character_Amber_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Amber"
+    }, {
+        "object_type": "character",
+        "name": "Arataki Itto",
+        "type": "Character",
+        "display_name": "Arataki Itto",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Claymore",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Fight Club Legend",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Fight_Club_Legend.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fight_Club_Legend"
+        }, {
+            "object_type": "talent",
+            "name": "Masatsu Zetsugi: Akaushi Burst!",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Masatsu_Zetsugi_Akaushi_Burst!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Masatsu_Zetsugi:_Akaushi_Burst!",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Royal Descent: Behold, Itto the Evil!",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Royal_Descent_Behold,_Itto_the_Evil!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Royal_Descent:_Behold,_Itto_the_Evil!",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Arataki Ichiban",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Arataki_Ichiban.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Arataki_Ichiban"
+        }, {
+            "object_type": "talent",
+            "name": "Bloodline of the Crimson Oni",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Bloodline_of_the_Crimson_Oni.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bloodline_of_the_Crimson_Oni"
+        }, {
+            "object_type": "talent",
+            "name": "Woodchuck Chucked",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Woodchuck_Chucked.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Woodchuck_Chucked"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Stay a While and Listen Up",
+            "level": 1,
+            "thumbnail": "Constellation_Stay_a_While_and_Listen_Up.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stay_a_While_and_Listen_Up"
+        }, {
+            "object_type": "constellation",
+            "name": "Gather 'Round, It's a Brawl!",
+            "level": 2,
+            "thumbnail": "Constellation_Gather_'Round,_It's_a_Brawl!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gather_'Round,_It's_a_Brawl!"
+        }, {
+            "object_type": "constellation",
+            "name": "Horns Lowered, Coming Through",
+            "level": 3,
+            "thumbnail": "Constellation_Horns_Lowered,_Coming_Through.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Horns_Lowered,_Coming_Through"
+        }, {
+            "object_type": "constellation",
+            "name": "Jailhouse Bread and Butter",
+            "level": 4,
+            "thumbnail": "Constellation_Jailhouse_Bread_and_Butter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Jailhouse_Bread_and_Butter"
+        }, {
+            "object_type": "constellation",
+            "name": "10 Years of Hanamizaka Fame",
+            "level": 5,
+            "thumbnail": "Constellation_10_Years_of_Hanamizaka_Fame.png",
+            "link": "https://genshin-impact.fandom.com/wiki/10_Years_of_Hanamizaka_Fame"
+        }, {
+            "object_type": "constellation",
+            "name": "Arataki Itto, Present!",
+            "level": 6,
+            "thumbnail": "Constellation_Arataki_Itto,_Present!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Arataki_Itto,_Present!"
+        }],
+        "thumbnail": "Character_Arataki_Itto_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
     }, {
         "object_type": "character",
         "name": "Barbara",
@@ -994,6 +1081,93 @@
         }],
         "thumbnail": "Character_Ganyu_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Ganyu"
+    }, {
+        "object_type": "character",
+        "name": "Gorou",
+        "type": "Character",
+        "display_name": "Gorou",
+        "rarity": 4,
+        "element": "Geo",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Ripping Fang Fletching",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Ripping_Fang_Fletching.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ripping_Fang_Fletching"
+        }, {
+            "object_type": "talent",
+            "name": "Inuzaka All-Round Defense",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Inuzaka_All-Round_Defense.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Inuzaka_All-Round_Defense",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Juuga: Forward Unto Victory",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Juuga_Forward_Unto_Victory.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Juuga:_Forward_Unto_Victory",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Heedless of the Wind and Weather",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Heedless_of_the_Wind_and_Weather.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heedless_of_the_Wind_and_Weather"
+        }, {
+            "object_type": "talent",
+            "name": "A Favor Repaid",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_A_Favor_Repaid.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Favor_Repaid"
+        }, {
+            "object_type": "talent",
+            "name": "Seeker of Shinies",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Seeker_of_Shinies.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Seeker_of_Shinies"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Rushing Hound: Swift as the Wind",
+            "level": 1,
+            "thumbnail": "Constellation_Rushing_Hound_Swift_as_the_Wind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rushing_Hound:_Swift_as_the_Wind"
+        }, {
+            "object_type": "constellation",
+            "name": "Sitting Hound: Steady as a Clock",
+            "level": 2,
+            "thumbnail": "Constellation_Sitting_Hound_Steady_as_a_Clock.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sitting_Hound:_Steady_as_a_Clock"
+        }, {
+            "object_type": "constellation",
+            "name": "Mauling Hound: Fierce as Fire",
+            "level": 3,
+            "thumbnail": "Constellation_Mauling_Hound_Fierce_as_Fire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mauling_Hound:_Fierce_as_Fire"
+        }, {
+            "object_type": "constellation",
+            "name": "Lapping Hound: Warm as Water",
+            "level": 4,
+            "thumbnail": "Constellation_Lapping_Hound_Warm_as_Water.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lapping_Hound:_Warm_as_Water"
+        }, {
+            "object_type": "constellation",
+            "name": "Striking Hound: Thunderous Force",
+            "level": 5,
+            "thumbnail": "Constellation_Striking_Hound_Thunderous_Force.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Striking_Hound:_Thunderous_Force"
+        }, {
+            "object_type": "constellation",
+            "name": "Valiant Hound: Mountainous Fealty",
+            "level": 6,
+            "thumbnail": "Constellation_Valiant_Hound_Mountainous_Fealty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Valiant_Hound:_Mountainous_Fealty"
+        }],
+        "thumbnail": "Character_Gorou_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Gorou"
     }, {
         "object_type": "character",
         "name": "Hu Tao",

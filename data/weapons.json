@@ -1,5 +1,5 @@
 {
-    "version": "2021-10-13",
+    "version": "2021-12-14",
     "data": [{
         "object_type": "weapon",
         "name": "Amos' Bow",
@@ -84,6 +84,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Primordial_Jade_Winged-Spear.png",
         "link": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear"
+    }, {
+        "object_type": "weapon",
+        "name": "Redhorn Stonethresher",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_Redhorn_Stonethresher.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Redhorn_Stonethresher"
     }, {
         "object_type": "weapon",
         "name": "Skyward Atlas",

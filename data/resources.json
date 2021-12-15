@@ -1,5 +1,5 @@
 {
-    "version": "2021-10-13",
+    "version": "2021-12-14",
     "data": [{
         "object_type": "item",
         "name": "Primogem",
@@ -452,6 +452,17 @@
         "source": ["Perpetual Mechanical Arrays"],
         "thumbnail": "Item_Perpetual_Heart.png",
         "link": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart"
+    }, {
+        "object_type": "item",
+        "name": "Riftborn Regalia",
+        "type": "Character Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Boss Material",
+        "rarity": 4,
+        "region": "Inazuma",
+        "source": ["Golden Wolflords"],
+        "thumbnail": "Item_Riftborn_Regalia.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Riftborn_Regalia"
     }, {
         "object_type": "item",
         "name": "Storm Beads",
