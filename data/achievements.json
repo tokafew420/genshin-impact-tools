@@ -694,6 +694,41 @@
         "reward": 5,
         "link": ""
     }, {
+        "name": "\"Trying to Tame Me?\"",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Use the Omni-Ubiquity Net item to capture 1 wild animal.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Natural Born Hunter",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Use the Omni-Ubiquity Net item to capture 30 wild animal.",
+        "reward": 10,
+        "link": ""
+    }, {
+        "name": "Zoo Tycoon",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Use the Omni-Ubiquity Net item to capture 100 wild animal.",
+        "reward": 20,
+        "link": ""
+    }, {
+        "name": "\"Not Flyin' Away This Time!\"",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Use the Omni-Ubiquity Net item to capture 1 Crystalfly.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Net Closes In",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Use the Omni-Ubiquity Net item to capture 1 Finch.",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "Juggernaut",
         "type": "Achievement",
         "category": "Wonders of the World",
