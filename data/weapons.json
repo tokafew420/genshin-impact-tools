@@ -107,6 +107,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Bloodtainted_Greatsword"
     }, {
         "object_type": "weapon",
+        "name": "Calamity Queller",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Calamity_Queller.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Calamity_Queller"
+    }, {
+        "object_type": "weapon",
         "name": "Cinnabar Spindle",
         "type": "Sword",
         "rarity": 4,

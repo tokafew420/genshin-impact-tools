@@ -565,1106 +565,6 @@
         }]
     }, {
         "object_type": "weapon-material",
-        "name": "Amos' Bow",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Core"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Aquila Favonia",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Scattered Piece of Decarabian's Dream"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Elegy for the End",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Recruit's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sergeant's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Lieutenant's Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Engulfing Lightning",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Old Handguard"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Kageuchi Handguard"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Famed Handguard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Gear"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Axis"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Oculus"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mask of the Wicked Lieutenant"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mask of the Tiger's Bite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mask of the One-Horned"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mask of the Kijin"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Everlasting Moonglow",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Spectral Husk"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Spectral Heart"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Spectral Nucleus"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dismal Prism"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Crystal Prism"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Polarizing Prism"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Coral Branch of a Distant Sea"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Jeweled Branch of a Distant Sea"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Jade Branch of a Distant Sea"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Golden Branch of a Distant Sea"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Freedom-Sworn",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Divining Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sealed Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Forbidden Curse Scroll"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Core"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Lost Prayer to the Sacred Winds",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Core"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Memory of Dust",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Ominous Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Fragile Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Sturdy Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Fossilized Bone Shard"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Grain of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Piece of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Bit of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Chunk of Aerosiderite"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Mistsplitter Reforged",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Old Handguard"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Kageuchi Handguard"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Famed Handguard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Gear"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Axis"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Oculus"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Coral Branch of a Distant Sea"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Jeweled Branch of a Distant Sea"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Jade Branch of a Distant Sea"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Golden Branch of a Distant Sea"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Polar Star",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Spectral Husk"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Spectral Heart"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Spectral Nucleus"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Concealed Claw"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Concealed Unguis"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Concealed Talon"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mask of the Wicked Lieutenant"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mask of the Tiger's Bite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mask of the One-Horned"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mask of the Kijin"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Primordial Jade Cutter",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Golden Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Grass Pollen"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Grass"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Grass Wick"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Veiled Lead Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Veiled Mercury Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Veiled Gold Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mist Veiled Primo Elixir"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Primordial Jade Winged-Spear",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Recruit's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sergeant's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Lieutenant's Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Hunter's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Agent's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Inspector's Sacrificial Knife"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Luminous Sands from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Lustrous Stone from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Relic from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Divine Body from Guyun"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Redhorn Stonethresher",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Old Handguard"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Kageuchi Handguard"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Famed Handguard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Concealed Claw"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Concealed Unguis"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Concealed Talon"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Narukami's Wisdom"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Narukami's Joy"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Narukami's Affection"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Narukami's Valor"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Skyward Atlas",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Skyward Blade",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Skyward Harp",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Skyward Pride",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Skyward Spine",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Divining Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sealed Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Forbidden Curse Scroll"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Core"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Song of Broken Pines",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Ominous Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Scattered Piece of Decarabian's Dream"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Staff of Homa",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Grain of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Piece of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Bit of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Chunk of Aerosiderite"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Summit Shaper",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Ominous Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Hunter's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Agent's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Inspector's Sacrificial Knife"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Luminous Sands from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Lustrous Stone from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Relic from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Divine Body from Guyun"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "The Unforged",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Golden Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Grass Pollen"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Grass"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Grass Wick"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Veiled Lead Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Veiled Mercury Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Veiled Gold Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mist Veiled Primo Elixir"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Thundering Pulse",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dismal Prism"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Crystal Prism"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Polarizing Prism"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Narukami's Wisdom"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Narukami's Joy"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Narukami's Affection"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Narukami's Valor"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Vortex Vanquisher",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Golden Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Fragile Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Sturdy Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Fossilized Bone Shard"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Grain of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Piece of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Bit of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Chunk of Aerosiderite"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Wolf's Gravestone",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Divining Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sealed Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Forbidden Curse Scroll"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Core"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
         "name": "\"The Catch\"",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1838,6 +738,202 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Golden Branch of a Distant Sea"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Amos' Bow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Apprentice's Notes",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Aquila Favonia",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Beginner's Protector",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Black Tassel",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Fragile Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sturdy Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Fossilized Bone Shard"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Grain of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Piece of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Bit of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Chunk of Aerosiderite"
         }]
     }, {
         "object_type": "weapon-material",
@@ -2061,6 +1157,94 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Bloodtainted Greatsword",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Calamity Queller",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Whopperflower Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shimmering Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Energy Nectar"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Veiled Lead Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Veiled Mercury Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Veiled Gold Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Cinnabar Spindle",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2149,6 +1333,50 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Cool Steel",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Crescent Pike",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2162,6 +1390,50 @@
             "type": "Common Ascension Materials",
             "rarity": 3,
             "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Hunter's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Agent's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Inspector's Sacrificial Knife"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Dark Iron Sword",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 2,
@@ -2234,6 +1506,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Debate Club",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Veiled Lead Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Veiled Mercury Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Veiled Gold Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mist Veiled Primo Elixir"
         }]
     }, {
         "object_type": "weapon-material",
@@ -2366,6 +1682,214 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Dull Blade",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Elegy for the End",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Emerald Orb",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Hunter's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Agent's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Inspector's Sacrificial Knife"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Engulfing Lightning",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Gear"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Axis"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Oculus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mask of the Wicked Lieutenant"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mask of the Tiger's Bite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mask of the One-Horned"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mask of the Kijin"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Everlasting Moonglow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Spectral Husk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Spectral Heart"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Spectral Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dismal Prism"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystal Prism"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Polarizing Prism"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Coral Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Jeweled Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Jade Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Branch of a Distant Sea"
         }]
     }, {
         "object_type": "weapon-material",
@@ -2633,6 +2157,50 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Ferrous Shadow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Whopperflower Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shimmering Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Energy Nectar"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Festering Desire",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2658,6 +2226,94 @@
             "type": "Elite Common Ascension Materials",
             "rarity": 4,
             "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Fillet Blade",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Veiled Lead Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Veiled Mercury Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Veiled Gold Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Freedom-Sworn",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
         }, {
             "type": "Weapon Ascension Materials",
             "rarity": 2,
@@ -2765,6 +2421,50 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Halberd",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Whopperflower Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shimmering Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Energy Nectar"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Veiled Lead Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Veiled Mercury Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Veiled Gold Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Hamayumi",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2806,6 +2506,114 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Narukami's Valor"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Harbinger of Dawn",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Hunter's Bow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Iron Point",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
         }]
     }, {
         "object_type": "weapon-material",
@@ -3073,6 +2881,50 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Lost Prayer to the Sacred Winds",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Luxurious Sea-Lord",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3117,6 +2969,50 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Magic Guide",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Mappa Mare",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3158,6 +3054,138 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Memory of Dust",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Fragile Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sturdy Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Fossilized Bone Shard"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Grain of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Piece of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Bit of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Messenger",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Veiled Lead Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Veiled Mercury Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Veiled Gold Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Mistsplitter Reforged",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Gear"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Axis"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Oculus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Coral Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Jeweled Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Jade Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Branch of a Distant Sea"
         }]
     }, {
         "object_type": "weapon-material",
@@ -3249,6 +3277,158 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Old Merc's Pal",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Otherworldly Story",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Pocket Grimoire",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Polar Star",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Spectral Husk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Spectral Heart"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Spectral Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Concealed Claw"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Concealed Unguis"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Concealed Talon"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mask of the Wicked Lieutenant"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mask of the Tiger's Bite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mask of the One-Horned"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mask of the Kijin"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Predator",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3290,6 +3470,94 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Narukami's Valor"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Primordial Jade Cutter",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Veiled Lead Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Veiled Mercury Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Veiled Gold Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Primordial Jade Winged-Spear",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Hunter's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Agent's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Inspector's Sacrificial Knife"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
         }]
     }, {
         "object_type": "weapon-material",
@@ -3554,6 +3822,138 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Raven Bow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Recurve Bow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Redhorn Stonethresher",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Concealed Claw"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Concealed Unguis"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Concealed Talon"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Narukami's Wisdom"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Narukami's Joy"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Narukami's Affection"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Narukami's Valor"
         }]
     }, {
         "object_type": "weapon-material",
@@ -3997,6 +4397,38 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Seasoned Hunter's Bow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Serpent Spine",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4038,6 +4470,434 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Sharpshooter's Oath",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Silver Sword",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Skyrider Greatsword",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Fragile Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sturdy Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Fossilized Bone Shard"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Grain of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Piece of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Bit of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Skyrider Sword",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Fragile Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sturdy Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Fossilized Bone Shard"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Grain of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Piece of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Bit of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Skyward Atlas",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Skyward Blade",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Skyward Harp",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Skyward Pride",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Skyward Spine",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Slingshot",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Hunter's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Agent's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Inspector's Sacrificial Knife"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
         }]
     }, {
         "object_type": "weapon-material",
@@ -4098,6 +4958,138 @@
             "type": "Common Ascension Materials",
             "rarity": 3,
             "name": "Energy Nectar"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Hunter's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Agent's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Inspector's Sacrificial Knife"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Song of Broken Pines",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Staff of Homa",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Grain of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Piece of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Bit of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Summit Shaper",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 2,
@@ -4393,6 +5385,50 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "The Unforged",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Veiled Lead Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Veiled Mercury Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Veiled Gold Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "The Viridescent Hunt",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4481,6 +5517,258 @@
         }]
     }, {
         "object_type": "weapon-material",
+        "name": "Thrilling Tales of Dragon Slayers",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ley Line Sprout"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Thundering Pulse",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dismal Prism"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystal Prism"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Polarizing Prism"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Narukami's Wisdom"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Narukami's Joy"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Narukami's Affection"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Narukami's Valor"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Traveler's Handy Sword",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Twin Nephrite",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Veiled Lead Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Veiled Mercury Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Veiled Gold Elixir"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Vortex Vanquisher",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Fragile Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sturdy Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Fossilized Bone Shard"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Grain of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Piece of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Bit of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "Waster Greatsword",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Dead Ley Line Branch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dead Ley Line Leaves"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }]
+    }, {
+        "object_type": "weapon-material",
         "name": "Wavebreaker's Fin",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4522,6 +5810,94 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Mask of the Kijin"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "White Iron Greatsword",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "weapon-material",
+        "name": "White Tassel",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Hunter's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Agent's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Inspector's Sacrificial Knife"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
         }]
     }, {
         "object_type": "weapon-material",
@@ -4657,623 +6033,7 @@
         }]
     }, {
         "object_type": "weapon-material",
-        "name": "Black Tassel",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Fragile Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Sturdy Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Fossilized Bone Shard"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Grain of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Piece of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Bit of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Chunk of Aerosiderite"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Bloodtainted Greatsword",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Cool Steel",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Scattered Piece of Decarabian's Dream"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Dark Iron Sword",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Ominous Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Hunter's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Agent's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Inspector's Sacrificial Knife"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Luminous Sands from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Lustrous Stone from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Relic from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Divine Body from Guyun"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Debate Club",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Ominous Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Grass Pollen"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Grass"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Grass Wick"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Veiled Lead Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Veiled Mercury Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Veiled Gold Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mist Veiled Primo Elixir"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Emerald Orb",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Golden Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Hunter's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Agent's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Inspector's Sacrificial Knife"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Luminous Sands from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Lustrous Stone from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Relic from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Divine Body from Guyun"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Ferrous Shadow",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Whopperflower Nectar"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Shimmering Nectar"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Energy Nectar"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Scattered Piece of Decarabian's Dream"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Fillet Blade",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Golden Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Grass Pollen"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Grass"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Grass Wick"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Veiled Lead Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Veiled Mercury Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Veiled Gold Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mist Veiled Primo Elixir"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Halberd",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Whopperflower Nectar"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Shimmering Nectar"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Energy Nectar"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Grass Pollen"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Grass"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Grass Wick"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Veiled Lead Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Veiled Mercury Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Veiled Gold Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mist Veiled Primo Elixir"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Harbinger of Dawn",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Magic Guide",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Scattered Piece of Decarabian's Dream"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Messenger",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Golden Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Grass Pollen"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Grass"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Grass Wick"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Veiled Lead Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Veiled Mercury Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Veiled Gold Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mist Veiled Primo Elixir"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Otherworldly Story",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Ominous Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Core"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Raven Bow",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Scattered Piece of Decarabian's Dream"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Recurve Bow",
+        "name": "Wolf's Gravestone",
         "materials": [{
             "type": "Common Ascension Materials",
             "rarity": 1,
@@ -5314,722 +6074,6 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Sharpshooter's Oath",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Skyrider Greatsword",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Golden Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Fragile Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Sturdy Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Fossilized Bone Shard"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Grain of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Piece of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Bit of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Chunk of Aerosiderite"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Skyrider Sword",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Recruit's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sergeant's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Lieutenant's Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Fragile Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Sturdy Bone Shard"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Fossilized Bone Shard"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Grain of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Piece of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Bit of Aerosiderite"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Chunk of Aerosiderite"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Slingshot",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Ominous Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Hunter's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Agent's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Inspector's Sacrificial Knife"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Luminous Sands from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Lustrous Stone from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Relic from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Divine Body from Guyun"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Thrilling Tales of Dragon Slayers",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Divining Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sealed Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Forbidden Curse Scroll"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Ley Line Sprout"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Boreal Wolf's Nostalgia"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Traveler's Handy Sword",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Divining Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sealed Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Forbidden Curse Scroll"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Core"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Twin Nephrite",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Recruit's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sergeant's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Lieutenant's Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Grass Pollen"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Grass"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Grass Wick"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Mist Veiled Lead Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Mist Veiled Mercury Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Mist Veiled Gold Elixir"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Mist Veiled Primo Elixir"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "White Iron Greatsword",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Slime Concentrate"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Chaos Core"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Dream of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "White Tassel",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Recruit's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sergeant's Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Lieutenant's Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Hunter's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Agent's Sacrificial Knife"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Inspector's Sacrificial Knife"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Luminous Sands from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Lustrous Stone from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Relic from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Divine Body from Guyun"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Iron Point",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Divining Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sealed Scroll"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Old Merc's Pal",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Pocket Grimoire",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Seasoned Hunter's Bow",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Silver Sword",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Apprentice's Notes",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Damaged Mask"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Stained Mask"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Beginner's Protector",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Divining Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sealed Scroll"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Chaos Device"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chaos Circuit"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Fetters of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Chains of the Dandelion Gladiator"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Shackles of the Dandelion Gladiator"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Dull Blade",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Hunter's Bow",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Treasure Hoarder Insignia"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Silver Raven Insignia"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
-        }]
-    }, {
-        "object_type": "weapon-material",
-        "name": "Waster Greatsword",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Slime Condensate"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Slime Secretions"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Dead Ley Line Branch"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Dead Ley Line Leaves"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Boreal Wolf's Milk Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Boreal Wolf's Cracked Tooth"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Boreal Wolf's Broken Fang"
         }]
     }]
 }
