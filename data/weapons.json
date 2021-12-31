@@ -2,181 +2,6 @@
     "version": "2021-12-14",
     "data": [{
         "object_type": "weapon",
-        "name": "Amos' Bow",
-        "type": "Bow",
-        "rarity": 5,
-        "thumbnail": "Weapon_Amos'_Bow.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Amos'_Bow"
-    }, {
-        "object_type": "weapon",
-        "name": "Aquila Favonia",
-        "type": "Sword",
-        "rarity": 5,
-        "thumbnail": "Weapon_Aquila_Favonia.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
-    }, {
-        "object_type": "weapon",
-        "name": "Elegy for the End",
-        "type": "Bow",
-        "rarity": 5,
-        "thumbnail": "Weapon_Elegy_for_the_End.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Elegy_for_the_End"
-    }, {
-        "object_type": "weapon",
-        "name": "Engulfing Lightning",
-        "type": "Polearm",
-        "rarity": 5,
-        "thumbnail": "Weapon_Engulfing_Lightning.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Engulfing_Lightning"
-    }, {
-        "object_type": "weapon",
-        "name": "Everlasting Moonglow",
-        "type": "Catalyst",
-        "rarity": 5,
-        "thumbnail": "Weapon_Everlasting_Moonglow.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Everlasting_Moonglow"
-    }, {
-        "object_type": "weapon",
-        "name": "Freedom-Sworn",
-        "type": "Sword",
-        "rarity": 5,
-        "thumbnail": "Weapon_Freedom-Sworn.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Freedom-Sworn"
-    }, {
-        "object_type": "weapon",
-        "name": "Lost Prayer to the Sacred Winds",
-        "type": "Catalyst",
-        "rarity": 5,
-        "thumbnail": "Weapon_Lost_Prayer_to_the_Sacred_Winds.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Lost_Prayer_to_the_Sacred_Winds"
-    }, {
-        "object_type": "weapon",
-        "name": "Memory of Dust",
-        "type": "Catalyst",
-        "rarity": 5,
-        "thumbnail": "Weapon_Memory_of_Dust.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Memory_of_Dust"
-    }, {
-        "object_type": "weapon",
-        "name": "Mistsplitter Reforged",
-        "type": "Sword",
-        "rarity": 5,
-        "thumbnail": "Weapon_Mistsplitter_Reforged.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Mistsplitter_Reforged"
-    }, {
-        "object_type": "weapon",
-        "name": "Polar Star",
-        "type": "Bow",
-        "rarity": 5,
-        "thumbnail": "Weapon_Polar_Star.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Polar_Star"
-    }, {
-        "object_type": "weapon",
-        "name": "Primordial Jade Cutter",
-        "type": "Sword",
-        "rarity": 5,
-        "thumbnail": "Weapon_Primordial_Jade_Cutter.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Cutter"
-    }, {
-        "object_type": "weapon",
-        "name": "Primordial Jade Winged-Spear",
-        "type": "Polearm",
-        "rarity": 5,
-        "thumbnail": "Weapon_Primordial_Jade_Winged-Spear.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear"
-    }, {
-        "object_type": "weapon",
-        "name": "Redhorn Stonethresher",
-        "type": "Claymore",
-        "rarity": 5,
-        "thumbnail": "Weapon_Redhorn_Stonethresher.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Redhorn_Stonethresher"
-    }, {
-        "object_type": "weapon",
-        "name": "Skyward Atlas",
-        "type": "Catalyst",
-        "rarity": 5,
-        "thumbnail": "Weapon_Skyward_Atlas.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Atlas"
-    }, {
-        "object_type": "weapon",
-        "name": "Skyward Blade",
-        "type": "Sword",
-        "rarity": 5,
-        "thumbnail": "Weapon_Skyward_Blade.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Blade"
-    }, {
-        "object_type": "weapon",
-        "name": "Skyward Harp",
-        "type": "Bow",
-        "rarity": 5,
-        "thumbnail": "Weapon_Skyward_Harp.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Harp"
-    }, {
-        "object_type": "weapon",
-        "name": "Skyward Pride",
-        "type": "Claymore",
-        "rarity": 5,
-        "thumbnail": "Weapon_Skyward_Pride.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Pride"
-    }, {
-        "object_type": "weapon",
-        "name": "Skyward Spine",
-        "type": "Polearm",
-        "rarity": 5,
-        "thumbnail": "Weapon_Skyward_Spine.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Spine"
-    }, {
-        "object_type": "weapon",
-        "name": "Song of Broken Pines",
-        "type": "Claymore",
-        "rarity": 5,
-        "thumbnail": "Weapon_Song_of_Broken_Pines.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Song_of_Broken_Pines"
-    }, {
-        "object_type": "weapon",
-        "name": "Staff of Homa",
-        "type": "Polearm",
-        "rarity": 5,
-        "thumbnail": "Weapon_Staff_of_Homa.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Staff_of_Homa"
-    }, {
-        "object_type": "weapon",
-        "name": "Summit Shaper",
-        "type": "Sword",
-        "rarity": 5,
-        "thumbnail": "Weapon_Summit_Shaper.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Summit_Shaper"
-    }, {
-        "object_type": "weapon",
-        "name": "The Unforged",
-        "type": "Claymore",
-        "rarity": 5,
-        "thumbnail": "Weapon_The_Unforged.png",
-        "link": "https://genshin-impact.fandom.com/wiki/The_Unforged"
-    }, {
-        "object_type": "weapon",
-        "name": "Thundering Pulse",
-        "type": "Bow",
-        "rarity": 5,
-        "thumbnail": "Weapon_Thundering_Pulse.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Thundering_Pulse"
-    }, {
-        "object_type": "weapon",
-        "name": "Vortex Vanquisher",
-        "type": "Polearm",
-        "rarity": 5,
-        "thumbnail": "Weapon_Vortex_Vanquisher.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Vortex_Vanquisher"
-    }, {
-        "object_type": "weapon",
-        "name": "Wolf's Gravestone",
-        "type": "Claymore",
-        "rarity": 5,
-        "thumbnail": "Weapon_Wolf's_Gravestone.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Wolf's_Gravestone"
-    }, {
-        "object_type": "weapon",
         "name": "\"The Catch\"",
         "type": "Polearm",
         "rarity": 4,
@@ -203,6 +28,41 @@
         "rarity": 4,
         "thumbnail": "Weapon_Amenoma_Kageuchi.png",
         "link": "https://genshin-impact.fandom.com/wiki/Amenoma_Kageuchi"
+    }, {
+        "object_type": "weapon",
+        "name": "Amos' Bow",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Amos'_Bow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Amos'_Bow"
+    }, {
+        "object_type": "weapon",
+        "name": "Apprentice's Notes",
+        "type": "Catalyst",
+        "rarity": 1,
+        "thumbnail": "Weapon_Apprentice's_Notes.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Apprentice's_Notes"
+    }, {
+        "object_type": "weapon",
+        "name": "Aquila Favonia",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Aquila_Favonia.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
+    }, {
+        "object_type": "weapon",
+        "name": "Beginner's Protector",
+        "type": "Polearm",
+        "rarity": 1,
+        "thumbnail": "Weapon_Beginner's_Protector.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Beginner's_Protector"
+    }, {
+        "object_type": "weapon",
+        "name": "Black Tassel",
+        "type": "Polearm",
+        "rarity": 3,
+        "thumbnail": "Weapon_Black_Tassel.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Black_Tassel"
     }, {
         "object_type": "weapon",
         "name": "Blackcliff Agate",
@@ -240,6 +100,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Blackcliff_Warbow"
     }, {
         "object_type": "weapon",
+        "name": "Bloodtainted Greatsword",
+        "type": "Claymore",
+        "rarity": 3,
+        "thumbnail": "Weapon_Bloodtainted_Greatsword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Bloodtainted_Greatsword"
+    }, {
+        "object_type": "weapon",
         "name": "Cinnabar Spindle",
         "type": "Sword",
         "rarity": 4,
@@ -254,6 +121,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Compound_Bow"
     }, {
         "object_type": "weapon",
+        "name": "Cool Steel",
+        "type": "Sword",
+        "rarity": 3,
+        "thumbnail": "Weapon_Cool_Steel.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Cool_Steel"
+    }, {
+        "object_type": "weapon",
         "name": "Crescent Pike",
         "type": "Polearm",
         "rarity": 4,
@@ -261,11 +135,25 @@
         "link": "https://genshin-impact.fandom.com/wiki/Crescent_Pike"
     }, {
         "object_type": "weapon",
+        "name": "Dark Iron Sword",
+        "type": "Sword",
+        "rarity": 3,
+        "thumbnail": "Weapon_Dark_Iron_Sword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dark_Iron_Sword"
+    }, {
+        "object_type": "weapon",
         "name": "Deathmatch",
         "type": "Polearm",
         "rarity": 4,
         "thumbnail": "Weapon_Deathmatch.png",
         "link": "https://genshin-impact.fandom.com/wiki/Deathmatch"
+    }, {
+        "object_type": "weapon",
+        "name": "Debate Club",
+        "type": "Claymore",
+        "rarity": 3,
+        "thumbnail": "Weapon_Debate_Club.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Debate_Club"
     }, {
         "object_type": "weapon",
         "name": "Dodoco Tales",
@@ -287,6 +175,41 @@
         "rarity": 4,
         "thumbnail": "Weapon_Dragonspine_Spear.png",
         "link": "https://genshin-impact.fandom.com/wiki/Dragonspine_Spear"
+    }, {
+        "object_type": "weapon",
+        "name": "Dull Blade",
+        "type": "Sword",
+        "rarity": 1,
+        "thumbnail": "Weapon_Dull_Blade.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dull_Blade"
+    }, {
+        "object_type": "weapon",
+        "name": "Elegy for the End",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Elegy_for_the_End.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Elegy_for_the_End"
+    }, {
+        "object_type": "weapon",
+        "name": "Emerald Orb",
+        "type": "Catalyst",
+        "rarity": 3,
+        "thumbnail": "Weapon_Emerald_Orb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Emerald_Orb"
+    }, {
+        "object_type": "weapon",
+        "name": "Engulfing Lightning",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Engulfing_Lightning.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Engulfing_Lightning"
+    }, {
+        "object_type": "weapon",
+        "name": "Everlasting Moonglow",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Everlasting_Moonglow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Everlasting_Moonglow"
     }, {
         "object_type": "weapon",
         "name": "Eye of Perception",
@@ -331,11 +254,32 @@
         "link": "https://genshin-impact.fandom.com/wiki/Favonius_Warbow"
     }, {
         "object_type": "weapon",
+        "name": "Ferrous Shadow",
+        "type": "Claymore",
+        "rarity": 3,
+        "thumbnail": "Weapon_Ferrous_Shadow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ferrous_Shadow"
+    }, {
+        "object_type": "weapon",
         "name": "Festering Desire",
         "type": "Sword",
         "rarity": 4,
         "thumbnail": "Weapon_Festering_Desire.png",
         "link": "https://genshin-impact.fandom.com/wiki/Festering_Desire"
+    }, {
+        "object_type": "weapon",
+        "name": "Fillet Blade",
+        "type": "Sword",
+        "rarity": 3,
+        "thumbnail": "Weapon_Fillet_Blade.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fillet_Blade"
+    }, {
+        "object_type": "weapon",
+        "name": "Freedom-Sworn",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Freedom-Sworn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Freedom-Sworn"
     }, {
         "object_type": "weapon",
         "name": "Frostbearer",
@@ -352,11 +296,39 @@
         "link": "https://genshin-impact.fandom.com/wiki/Hakushin_Ring"
     }, {
         "object_type": "weapon",
+        "name": "Halberd",
+        "type": "Polearm",
+        "rarity": 3,
+        "thumbnail": "Weapon_Halberd.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Halberd"
+    }, {
+        "object_type": "weapon",
         "name": "Hamayumi",
         "type": "Bow",
         "rarity": 4,
         "thumbnail": "Weapon_Hamayumi.png",
         "link": "https://genshin-impact.fandom.com/wiki/Hamayumi"
+    }, {
+        "object_type": "weapon",
+        "name": "Harbinger of Dawn",
+        "type": "Sword",
+        "rarity": 3,
+        "thumbnail": "Weapon_Harbinger_of_Dawn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Harbinger_of_Dawn"
+    }, {
+        "object_type": "weapon",
+        "name": "Hunter's Bow",
+        "type": "Bow",
+        "rarity": 1,
+        "thumbnail": "Weapon_Hunter's_Bow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Hunter's_Bow"
+    }, {
+        "object_type": "weapon",
+        "name": "Iron Point",
+        "type": "Polearm",
+        "rarity": 2,
+        "thumbnail": "Weapon_Iron_Point.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Iron_Point"
     }, {
         "object_type": "weapon",
         "name": "Iron Sting",
@@ -401,6 +373,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Lithic_Spear"
     }, {
         "object_type": "weapon",
+        "name": "Lost Prayer to the Sacred Winds",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Lost_Prayer_to_the_Sacred_Winds.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lost_Prayer_to_the_Sacred_Winds"
+    }, {
+        "object_type": "weapon",
         "name": "Luxurious Sea-Lord",
         "type": "Claymore",
         "rarity": 4,
@@ -408,11 +387,39 @@
         "link": "https://genshin-impact.fandom.com/wiki/Luxurious_Sea-Lord"
     }, {
         "object_type": "weapon",
+        "name": "Magic Guide",
+        "type": "Catalyst",
+        "rarity": 3,
+        "thumbnail": "Weapon_Magic_Guide.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Magic_Guide"
+    }, {
+        "object_type": "weapon",
         "name": "Mappa Mare",
         "type": "Catalyst",
         "rarity": 4,
         "thumbnail": "Weapon_Mappa_Mare.png",
         "link": "https://genshin-impact.fandom.com/wiki/Mappa_Mare"
+    }, {
+        "object_type": "weapon",
+        "name": "Memory of Dust",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Memory_of_Dust.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Memory_of_Dust"
+    }, {
+        "object_type": "weapon",
+        "name": "Messenger",
+        "type": "Bow",
+        "rarity": 3,
+        "thumbnail": "Weapon_Messenger.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Messenger"
+    }, {
+        "object_type": "weapon",
+        "name": "Mistsplitter Reforged",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Mistsplitter_Reforged.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mistsplitter_Reforged"
     }, {
         "object_type": "weapon",
         "name": "Mitternachts Waltz",
@@ -429,11 +436,53 @@
         "link": "https://genshin-impact.fandom.com/wiki/Mouun's_Moon"
     }, {
         "object_type": "weapon",
+        "name": "Old Merc's Pal",
+        "type": "Claymore",
+        "rarity": 2,
+        "thumbnail": "Weapon_Old_Merc's_Pal.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Old_Merc's_Pal"
+    }, {
+        "object_type": "weapon",
+        "name": "Otherworldly Story",
+        "type": "Catalyst",
+        "rarity": 3,
+        "thumbnail": "Weapon_Otherworldly_Story.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Otherworldly_Story"
+    }, {
+        "object_type": "weapon",
+        "name": "Pocket Grimoire",
+        "type": "Catalyst",
+        "rarity": 2,
+        "thumbnail": "Weapon_Pocket_Grimoire.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Pocket_Grimoire"
+    }, {
+        "object_type": "weapon",
+        "name": "Polar Star",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Polar_Star.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Polar_Star"
+    }, {
+        "object_type": "weapon",
         "name": "Predator",
         "type": "Bow",
         "rarity": 4,
         "thumbnail": "Weapon_Predator.png",
         "link": "https://genshin-impact.fandom.com/wiki/Predator"
+    }, {
+        "object_type": "weapon",
+        "name": "Primordial Jade Cutter",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Primordial_Jade_Cutter.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Cutter"
+    }, {
+        "object_type": "weapon",
+        "name": "Primordial Jade Winged-Spear",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Primordial_Jade_Winged-Spear.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear"
     }, {
         "object_type": "weapon",
         "name": "Prototype Amber",
@@ -476,6 +525,27 @@
         "rarity": 4,
         "thumbnail": "Weapon_Rainslasher.png",
         "link": "https://genshin-impact.fandom.com/wiki/Rainslasher"
+    }, {
+        "object_type": "weapon",
+        "name": "Raven Bow",
+        "type": "Bow",
+        "rarity": 3,
+        "thumbnail": "Weapon_Raven_Bow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Raven_Bow"
+    }, {
+        "object_type": "weapon",
+        "name": "Recurve Bow",
+        "type": "Bow",
+        "rarity": 3,
+        "thumbnail": "Weapon_Recurve_Bow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Recurve_Bow"
+    }, {
+        "object_type": "weapon",
+        "name": "Redhorn Stonethresher",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_Redhorn_Stonethresher.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Redhorn_Stonethresher"
     }, {
         "object_type": "weapon",
         "name": "Royal Bow",
@@ -548,11 +618,88 @@
         "link": "https://genshin-impact.fandom.com/wiki/Sacrificial_Sword"
     }, {
         "object_type": "weapon",
+        "name": "Seasoned Hunter's Bow",
+        "type": "Bow",
+        "rarity": 2,
+        "thumbnail": "Weapon_Seasoned_Hunter's_Bow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Seasoned_Hunter's_Bow"
+    }, {
+        "object_type": "weapon",
         "name": "Serpent Spine",
         "type": "Claymore",
         "rarity": 4,
         "thumbnail": "Weapon_Serpent_Spine.png",
         "link": "https://genshin-impact.fandom.com/wiki/Serpent_Spine"
+    }, {
+        "object_type": "weapon",
+        "name": "Sharpshooter's Oath",
+        "type": "Bow",
+        "rarity": 3,
+        "thumbnail": "Weapon_Sharpshooter's_Oath.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sharpshooter's_Oath"
+    }, {
+        "object_type": "weapon",
+        "name": "Silver Sword",
+        "type": "Sword",
+        "rarity": 2,
+        "thumbnail": "Weapon_Silver_Sword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Silver_Sword"
+    }, {
+        "object_type": "weapon",
+        "name": "Skyrider Greatsword",
+        "type": "Claymore",
+        "rarity": 3,
+        "thumbnail": "Weapon_Skyrider_Greatsword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skyrider_Greatsword"
+    }, {
+        "object_type": "weapon",
+        "name": "Skyrider Sword",
+        "type": "Sword",
+        "rarity": 3,
+        "thumbnail": "Weapon_Skyrider_Sword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skyrider_Sword"
+    }, {
+        "object_type": "weapon",
+        "name": "Skyward Atlas",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Skyward_Atlas.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Atlas"
+    }, {
+        "object_type": "weapon",
+        "name": "Skyward Blade",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Skyward_Blade.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Blade"
+    }, {
+        "object_type": "weapon",
+        "name": "Skyward Harp",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Skyward_Harp.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Harp"
+    }, {
+        "object_type": "weapon",
+        "name": "Skyward Pride",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_Skyward_Pride.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Pride"
+    }, {
+        "object_type": "weapon",
+        "name": "Skyward Spine",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Skyward_Spine.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skyward_Spine"
+    }, {
+        "object_type": "weapon",
+        "name": "Slingshot",
+        "type": "Bow",
+        "rarity": 3,
+        "thumbnail": "Weapon_Slingshot.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Slingshot"
     }, {
         "object_type": "weapon",
         "name": "Snow-Tombed Starsilver",
@@ -567,6 +714,27 @@
         "rarity": 4,
         "thumbnail": "Weapon_Solar_Pearl.png",
         "link": "https://genshin-impact.fandom.com/wiki/Solar_Pearl"
+    }, {
+        "object_type": "weapon",
+        "name": "Song of Broken Pines",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_Song_of_Broken_Pines.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Song_of_Broken_Pines"
+    }, {
+        "object_type": "weapon",
+        "name": "Staff of Homa",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Staff_of_Homa.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Staff_of_Homa"
+    }, {
+        "object_type": "weapon",
+        "name": "Summit Shaper",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Summit_Shaper.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Summit_Shaper"
     }, {
         "object_type": "weapon",
         "name": "Sword of Descension",
@@ -611,6 +779,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/The_Stringless"
     }, {
         "object_type": "weapon",
+        "name": "The Unforged",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_The_Unforged.png",
+        "link": "https://genshin-impact.fandom.com/wiki/The_Unforged"
+    }, {
+        "object_type": "weapon",
         "name": "The Viridescent Hunt",
         "type": "Bow",
         "rarity": 4,
@@ -625,11 +800,67 @@
         "link": "https://genshin-impact.fandom.com/wiki/The_Widsith"
     }, {
         "object_type": "weapon",
+        "name": "Thrilling Tales of Dragon Slayers",
+        "type": "Catalyst",
+        "rarity": 3,
+        "thumbnail": "Weapon_Thrilling_Tales_of_Dragon_Slayers.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Thrilling_Tales_of_Dragon_Slayers"
+    }, {
+        "object_type": "weapon",
+        "name": "Thundering Pulse",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Thundering_Pulse.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Thundering_Pulse"
+    }, {
+        "object_type": "weapon",
+        "name": "Traveler's Handy Sword",
+        "type": "Sword",
+        "rarity": 3,
+        "thumbnail": "Weapon_Traveler's_Handy_Sword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Traveler's_Handy_Sword"
+    }, {
+        "object_type": "weapon",
+        "name": "Twin Nephrite",
+        "type": "Catalyst",
+        "rarity": 3,
+        "thumbnail": "Weapon_Twin_Nephrite.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Twin_Nephrite"
+    }, {
+        "object_type": "weapon",
+        "name": "Vortex Vanquisher",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Vortex_Vanquisher.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Vortex_Vanquisher"
+    }, {
+        "object_type": "weapon",
+        "name": "Waster Greatsword",
+        "type": "Claymore",
+        "rarity": 1,
+        "thumbnail": "Weapon_Waster_Greatsword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Waster_Greatsword"
+    }, {
+        "object_type": "weapon",
         "name": "Wavebreaker's Fin",
         "type": "Polearm",
         "rarity": 4,
         "thumbnail": "Weapon_Wavebreaker's_Fin.png",
         "link": "https://genshin-impact.fandom.com/wiki/Wavebreaker's_Fin"
+    }, {
+        "object_type": "weapon",
+        "name": "White Iron Greatsword",
+        "type": "Claymore",
+        "rarity": 3,
+        "thumbnail": "Weapon_White_Iron_Greatsword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/White_Iron_Greatsword"
+    }, {
+        "object_type": "weapon",
+        "name": "White Tassel",
+        "type": "Polearm",
+        "rarity": 3,
+        "thumbnail": "Weapon_White_Tassel.png",
+        "link": "https://genshin-impact.fandom.com/wiki/White_Tassel"
     }, {
         "object_type": "weapon",
         "name": "Whiteblind",
@@ -653,241 +884,10 @@
         "link": "https://genshin-impact.fandom.com/wiki/Wine_and_Song"
     }, {
         "object_type": "weapon",
-        "name": "Black Tassel",
-        "type": "Polearm",
-        "rarity": 3,
-        "thumbnail": "Weapon_Black_Tassel.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Black_Tassel"
-    }, {
-        "object_type": "weapon",
-        "name": "Bloodtainted Greatsword",
+        "name": "Wolf's Gravestone",
         "type": "Claymore",
-        "rarity": 3,
-        "thumbnail": "Weapon_Bloodtainted_Greatsword.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Bloodtainted_Greatsword"
-    }, {
-        "object_type": "weapon",
-        "name": "Cool Steel",
-        "type": "Sword",
-        "rarity": 3,
-        "thumbnail": "Weapon_Cool_Steel.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Cool_Steel"
-    }, {
-        "object_type": "weapon",
-        "name": "Dark Iron Sword",
-        "type": "Sword",
-        "rarity": 3,
-        "thumbnail": "Weapon_Dark_Iron_Sword.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Dark_Iron_Sword"
-    }, {
-        "object_type": "weapon",
-        "name": "Debate Club",
-        "type": "Claymore",
-        "rarity": 3,
-        "thumbnail": "Weapon_Debate_Club.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Debate_Club"
-    }, {
-        "object_type": "weapon",
-        "name": "Emerald Orb",
-        "type": "Catalyst",
-        "rarity": 3,
-        "thumbnail": "Weapon_Emerald_Orb.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Emerald_Orb"
-    }, {
-        "object_type": "weapon",
-        "name": "Ferrous Shadow",
-        "type": "Claymore",
-        "rarity": 3,
-        "thumbnail": "Weapon_Ferrous_Shadow.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Ferrous_Shadow"
-    }, {
-        "object_type": "weapon",
-        "name": "Fillet Blade",
-        "type": "Sword",
-        "rarity": 3,
-        "thumbnail": "Weapon_Fillet_Blade.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Fillet_Blade"
-    }, {
-        "object_type": "weapon",
-        "name": "Halberd",
-        "type": "Polearm",
-        "rarity": 3,
-        "thumbnail": "Weapon_Halberd.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Halberd"
-    }, {
-        "object_type": "weapon",
-        "name": "Harbinger of Dawn",
-        "type": "Sword",
-        "rarity": 3,
-        "thumbnail": "Weapon_Harbinger_of_Dawn.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Harbinger_of_Dawn"
-    }, {
-        "object_type": "weapon",
-        "name": "Magic Guide",
-        "type": "Catalyst",
-        "rarity": 3,
-        "thumbnail": "Weapon_Magic_Guide.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Magic_Guide"
-    }, {
-        "object_type": "weapon",
-        "name": "Messenger",
-        "type": "Bow",
-        "rarity": 3,
-        "thumbnail": "Weapon_Messenger.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Messenger"
-    }, {
-        "object_type": "weapon",
-        "name": "Otherworldly Story",
-        "type": "Catalyst",
-        "rarity": 3,
-        "thumbnail": "Weapon_Otherworldly_Story.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Otherworldly_Story"
-    }, {
-        "object_type": "weapon",
-        "name": "Raven Bow",
-        "type": "Bow",
-        "rarity": 3,
-        "thumbnail": "Weapon_Raven_Bow.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Raven_Bow"
-    }, {
-        "object_type": "weapon",
-        "name": "Recurve Bow",
-        "type": "Bow",
-        "rarity": 3,
-        "thumbnail": "Weapon_Recurve_Bow.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Recurve_Bow"
-    }, {
-        "object_type": "weapon",
-        "name": "Sharpshooter's Oath",
-        "type": "Bow",
-        "rarity": 3,
-        "thumbnail": "Weapon_Sharpshooter's_Oath.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Sharpshooter's_Oath"
-    }, {
-        "object_type": "weapon",
-        "name": "Skyrider Greatsword",
-        "type": "Claymore",
-        "rarity": 3,
-        "thumbnail": "Weapon_Skyrider_Greatsword.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Skyrider_Greatsword"
-    }, {
-        "object_type": "weapon",
-        "name": "Skyrider Sword",
-        "type": "Sword",
-        "rarity": 3,
-        "thumbnail": "Weapon_Skyrider_Sword.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Skyrider_Sword"
-    }, {
-        "object_type": "weapon",
-        "name": "Slingshot",
-        "type": "Bow",
-        "rarity": 3,
-        "thumbnail": "Weapon_Slingshot.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Slingshot"
-    }, {
-        "object_type": "weapon",
-        "name": "Thrilling Tales of Dragon Slayers",
-        "type": "Catalyst",
-        "rarity": 3,
-        "thumbnail": "Weapon_Thrilling_Tales_of_Dragon_Slayers.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Thrilling_Tales_of_Dragon_Slayers"
-    }, {
-        "object_type": "weapon",
-        "name": "Traveler's Handy Sword",
-        "type": "Sword",
-        "rarity": 3,
-        "thumbnail": "Weapon_Traveler's_Handy_Sword.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Traveler's_Handy_Sword"
-    }, {
-        "object_type": "weapon",
-        "name": "Twin Nephrite",
-        "type": "Catalyst",
-        "rarity": 3,
-        "thumbnail": "Weapon_Twin_Nephrite.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Twin_Nephrite"
-    }, {
-        "object_type": "weapon",
-        "name": "White Iron Greatsword",
-        "type": "Claymore",
-        "rarity": 3,
-        "thumbnail": "Weapon_White_Iron_Greatsword.png",
-        "link": "https://genshin-impact.fandom.com/wiki/White_Iron_Greatsword"
-    }, {
-        "object_type": "weapon",
-        "name": "White Tassel",
-        "type": "Polearm",
-        "rarity": 3,
-        "thumbnail": "Weapon_White_Tassel.png",
-        "link": "https://genshin-impact.fandom.com/wiki/White_Tassel"
-    }, {
-        "object_type": "weapon",
-        "name": "Iron Point",
-        "type": "Polearm",
-        "rarity": 2,
-        "thumbnail": "Weapon_Iron_Point.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Iron_Point"
-    }, {
-        "object_type": "weapon",
-        "name": "Old Merc's Pal",
-        "type": "Claymore",
-        "rarity": 2,
-        "thumbnail": "Weapon_Old_Merc's_Pal.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Old_Merc's_Pal"
-    }, {
-        "object_type": "weapon",
-        "name": "Pocket Grimoire",
-        "type": "Catalyst",
-        "rarity": 2,
-        "thumbnail": "Weapon_Pocket_Grimoire.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Pocket_Grimoire"
-    }, {
-        "object_type": "weapon",
-        "name": "Seasoned Hunter's Bow",
-        "type": "Bow",
-        "rarity": 2,
-        "thumbnail": "Weapon_Seasoned_Hunter's_Bow.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Seasoned_Hunter's_Bow"
-    }, {
-        "object_type": "weapon",
-        "name": "Silver Sword",
-        "type": "Sword",
-        "rarity": 2,
-        "thumbnail": "Weapon_Silver_Sword.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Silver_Sword"
-    }, {
-        "object_type": "weapon",
-        "name": "Apprentice's Notes",
-        "type": "Catalyst",
-        "rarity": 1,
-        "thumbnail": "Weapon_Apprentice's_Notes.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Apprentice's_Notes"
-    }, {
-        "object_type": "weapon",
-        "name": "Beginner's Protector",
-        "type": "Polearm",
-        "rarity": 1,
-        "thumbnail": "Weapon_Beginner's_Protector.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Beginner's_Protector"
-    }, {
-        "object_type": "weapon",
-        "name": "Dull Blade",
-        "type": "Sword",
-        "rarity": 1,
-        "thumbnail": "Weapon_Dull_Blade.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Dull_Blade"
-    }, {
-        "object_type": "weapon",
-        "name": "Hunter's Bow",
-        "type": "Bow",
-        "rarity": 1,
-        "thumbnail": "Weapon_Hunter's_Bow.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Hunter's_Bow"
-    }, {
-        "object_type": "weapon",
-        "name": "Waster Greatsword",
-        "type": "Claymore",
-        "rarity": 1,
-        "thumbnail": "Weapon_Waster_Greatsword.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Waster_Greatsword"
+        "rarity": 5,
+        "thumbnail": "Weapon_Wolf's_Gravestone.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Wolf's_Gravestone"
     }]
 }

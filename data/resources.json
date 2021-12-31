@@ -1147,156 +1147,6 @@
         "link": "https://genshin-impact.fandom.com/wiki/Weathered_Arrowhead"
     }, {
         "object_type": "item",
-        "name": "Heavy Horn",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Horn",
-        "rarity": 2,
-        "source": ["Mitachurls"],
-        "thumbnail": "Item_Heavy_Horn.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Heavy_Horn"
-    }, {
-        "object_type": "item",
-        "name": "Black Bronze Horn",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Horn",
-        "rarity": 3,
-        "source": ["Mitachurls"],
-        "thumbnail": "Item_Black_Bronze_Horn.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Black_Bronze_Horn"
-    }, {
-        "object_type": "item",
-        "name": "Black Crystal Horn",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Horn",
-        "rarity": 4,
-        "source": ["Mitachurls"],
-        "thumbnail": "Item_Black_Crystal_Horn.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Black_Crystal_Horn"
-    }, {
-        "object_type": "item",
-        "name": "Dead Ley Line Branch",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ley Line Material",
-        "rarity": 2,
-        "source": ["Abyss Mages"],
-        "thumbnail": "Item_Dead_Ley_Line_Branch.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Dead_Ley_Line_Branch"
-    }, {
-        "object_type": "item",
-        "name": "Dead Ley Line Leaves",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ley Line Material",
-        "rarity": 3,
-        "source": ["Abyss Mages"],
-        "thumbnail": "Item_Dead_Ley_Line_Leaves.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Dead_Ley_Line_Leaves"
-    }, {
-        "object_type": "item",
-        "name": "Ley Line Sprout",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ley Line Material",
-        "rarity": 4,
-        "source": ["Abyss Mages"],
-        "thumbnail": "Item_Ley_Line_Sprout.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Ley_Line_Sprout"
-    }, {
-        "object_type": "item",
-        "name": "Chaos Device",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ruin Machines Material",
-        "rarity": 2,
-        "source": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"],
-        "thumbnail": "Item_Chaos_Device.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Device"
-    }, {
-        "object_type": "item",
-        "name": "Chaos Circuit",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ruin Machines Material",
-        "rarity": 3,
-        "source": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"],
-        "thumbnail": "Item_Chaos_Circuit.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Circuit"
-    }, {
-        "object_type": "item",
-        "name": "Chaos Core",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ruin Machines Material",
-        "rarity": 4,
-        "source": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"],
-        "thumbnail": "Item_Chaos_Core.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Core"
-    }, {
-        "object_type": "item",
-        "name": "Mist Grass Pollen",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Mist Grass",
-        "rarity": 2,
-        "source": ["Fatui Cicin Mages"],
-        "thumbnail": "Item_Mist_Grass_Pollen.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Pollen"
-    }, {
-        "object_type": "item",
-        "name": "Mist Grass",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Mist Grass",
-        "rarity": 3,
-        "source": ["Fatui Cicin Mages"],
-        "thumbnail": "Item_Mist_Grass.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Mist_Grass"
-    }, {
-        "object_type": "item",
-        "name": "Mist Grass Wick",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Mist Grass",
-        "rarity": 4,
-        "source": ["Fatui Cicin Mages"],
-        "thumbnail": "Item_Mist_Grass_Wick.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Wick"
-    }, {
-        "object_type": "item",
-        "name": "Hunter's Sacrificial Knife",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Sacrificial Knife",
-        "rarity": 2,
-        "source": ["Fatui Agents"],
-        "thumbnail": "Item_Hunter's_Sacrificial_Knife.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Hunter's_Sacrificial_Knife"
-    }, {
-        "object_type": "item",
-        "name": "Agent's Sacrificial Knife",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Sacrificial Knife",
-        "rarity": 3,
-        "source": ["Fatui Agents"],
-        "thumbnail": "Item_Agent's_Sacrificial_Knife.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Agent's_Sacrificial_Knife"
-    }, {
-        "object_type": "item",
-        "name": "Inspector's Sacrificial Knife",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Sacrificial Knife",
-        "rarity": 4,
-        "source": ["Fatui Agents"],
-        "thumbnail": "Item_Inspector's_Sacrificial_Knife.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Inspector's_Sacrificial_Knife"
-    }, {
-        "object_type": "item",
         "name": "Recruit's Insignia",
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
@@ -1387,36 +1237,6 @@
         "link": "https://genshin-impact.fandom.com/wiki/Energy_Nectar"
     }, {
         "object_type": "item",
-        "name": "Fragile Bone Shard",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Geovishap Bone",
-        "rarity": 2,
-        "source": ["Geovishaps"],
-        "thumbnail": "Item_Fragile_Bone_Shard.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Fragile_Bone_Shard"
-    }, {
-        "object_type": "item",
-        "name": "Sturdy Bone Shard",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Geovishap Bone",
-        "rarity": 3,
-        "source": ["Geovishaps"],
-        "thumbnail": "Item_Sturdy_Bone_Shard.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Sturdy_Bone_Shard"
-    }, {
-        "object_type": "item",
-        "name": "Fossilized Bone Shard",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Geovishap Bone",
-        "rarity": 4,
-        "source": ["Geovishaps"],
-        "thumbnail": "Item_Fossilized_Bone_Shard.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Fossilized_Bone_Shard"
-    }, {
-        "object_type": "item",
         "name": "Old Handguard",
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
@@ -1445,66 +1265,6 @@
         "source": ["Nobushi", "Kairagi"],
         "thumbnail": "Item_Famed_Handguard.png",
         "link": "https://genshin-impact.fandom.com/wiki/Famed_Handguard"
-    }, {
-        "object_type": "item",
-        "name": "Chaos Gear",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ruin Sentinels Material",
-        "rarity": 2,
-        "source": ["Ruin Sentinels"],
-        "thumbnail": "Item_Chaos_Gear.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Gear"
-    }, {
-        "object_type": "item",
-        "name": "Chaos Axis",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ruin Sentinels Material",
-        "rarity": 3,
-        "source": ["Ruin Sentinels"],
-        "thumbnail": "Item_Chaos_Axis.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Axis"
-    }, {
-        "object_type": "item",
-        "name": "Chaos Oculus",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Ruin Sentinels Material",
-        "rarity": 4,
-        "source": ["Ruin Sentinels"],
-        "thumbnail": "Item_Chaos_Oculus.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Oculus"
-    }, {
-        "object_type": "item",
-        "name": "Dismal Prism",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Mirror Maidens Prism",
-        "rarity": 2,
-        "source": ["Mirror Maidens"],
-        "thumbnail": "Item_Dismal_Prism.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Dismal_Prism"
-    }, {
-        "object_type": "item",
-        "name": "Crystal Prism",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Mirror Maidens Prism",
-        "rarity": 3,
-        "source": ["Mirror Maidens"],
-        "thumbnail": "Item_Crystal_Prism.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Crystal_Prism"
-    }, {
-        "object_type": "item",
-        "name": "Polarizing Prism",
-        "type": "Common Ascension Materials",
-        "category": "Character Development Items",
-        "group": "Mirror Maidens Prism",
-        "rarity": 4,
-        "source": ["Mirror Maidens"],
-        "thumbnail": "Item_Polarizing_Prism.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Polarizing_Prism"
     }, {
         "object_type": "item",
         "name": "Spectral Husk",
@@ -1537,8 +1297,248 @@
         "link": "https://genshin-impact.fandom.com/wiki/Spectral_Nucleus"
     }, {
         "object_type": "item",
+        "name": "Heavy Horn",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Horn",
+        "rarity": 2,
+        "source": ["Mitachurls"],
+        "thumbnail": "Item_Heavy_Horn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Heavy_Horn"
+    }, {
+        "object_type": "item",
+        "name": "Black Bronze Horn",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Horn",
+        "rarity": 3,
+        "source": ["Mitachurls"],
+        "thumbnail": "Item_Black_Bronze_Horn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Black_Bronze_Horn"
+    }, {
+        "object_type": "item",
+        "name": "Black Crystal Horn",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Horn",
+        "rarity": 4,
+        "source": ["Mitachurls"],
+        "thumbnail": "Item_Black_Crystal_Horn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Black_Crystal_Horn"
+    }, {
+        "object_type": "item",
+        "name": "Dead Ley Line Branch",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ley Line Material",
+        "rarity": 2,
+        "source": ["Abyss Mages"],
+        "thumbnail": "Item_Dead_Ley_Line_Branch.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dead_Ley_Line_Branch"
+    }, {
+        "object_type": "item",
+        "name": "Dead Ley Line Leaves",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ley Line Material",
+        "rarity": 3,
+        "source": ["Abyss Mages"],
+        "thumbnail": "Item_Dead_Ley_Line_Leaves.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dead_Ley_Line_Leaves"
+    }, {
+        "object_type": "item",
+        "name": "Ley Line Sprout",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ley Line Material",
+        "rarity": 4,
+        "source": ["Abyss Mages"],
+        "thumbnail": "Item_Ley_Line_Sprout.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ley_Line_Sprout"
+    }, {
+        "object_type": "item",
+        "name": "Chaos Device",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ruin Machines Material",
+        "rarity": 2,
+        "source": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"],
+        "thumbnail": "Item_Chaos_Device.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Device"
+    }, {
+        "object_type": "item",
+        "name": "Chaos Circuit",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ruin Machines Material",
+        "rarity": 3,
+        "source": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"],
+        "thumbnail": "Item_Chaos_Circuit.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Circuit"
+    }, {
+        "object_type": "item",
+        "name": "Chaos Core",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ruin Machines Material",
+        "rarity": 4,
+        "source": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"],
+        "thumbnail": "Item_Chaos_Core.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Core"
+    }, {
+        "object_type": "item",
+        "name": "Mist Grass Pollen",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Mist Grass",
+        "rarity": 2,
+        "source": ["Fatui Cicin Mages"],
+        "thumbnail": "Item_Mist_Grass_Pollen.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Pollen"
+    }, {
+        "object_type": "item",
+        "name": "Mist Grass",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Mist Grass",
+        "rarity": 3,
+        "source": ["Fatui Cicin Mages"],
+        "thumbnail": "Item_Mist_Grass.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mist_Grass"
+    }, {
+        "object_type": "item",
+        "name": "Mist Grass Wick",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Mist Grass",
+        "rarity": 4,
+        "source": ["Fatui Cicin Mages"],
+        "thumbnail": "Item_Mist_Grass_Wick.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Wick"
+    }, {
+        "object_type": "item",
+        "name": "Hunter's Sacrificial Knife",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Sacrificial Knife",
+        "rarity": 2,
+        "source": ["Fatui Agents"],
+        "thumbnail": "Item_Hunter's_Sacrificial_Knife.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Hunter's_Sacrificial_Knife"
+    }, {
+        "object_type": "item",
+        "name": "Agent's Sacrificial Knife",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Sacrificial Knife",
+        "rarity": 3,
+        "source": ["Fatui Agents"],
+        "thumbnail": "Item_Agent's_Sacrificial_Knife.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Agent's_Sacrificial_Knife"
+    }, {
+        "object_type": "item",
+        "name": "Inspector's Sacrificial Knife",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Sacrificial Knife",
+        "rarity": 4,
+        "source": ["Fatui Agents"],
+        "thumbnail": "Item_Inspector's_Sacrificial_Knife.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Inspector's_Sacrificial_Knife"
+    }, {
+        "object_type": "item",
+        "name": "Fragile Bone Shard",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Geovishap Bone",
+        "rarity": 2,
+        "source": ["Geovishaps"],
+        "thumbnail": "Item_Fragile_Bone_Shard.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fragile_Bone_Shard"
+    }, {
+        "object_type": "item",
+        "name": "Sturdy Bone Shard",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Geovishap Bone",
+        "rarity": 3,
+        "source": ["Geovishaps"],
+        "thumbnail": "Item_Sturdy_Bone_Shard.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sturdy_Bone_Shard"
+    }, {
+        "object_type": "item",
+        "name": "Fossilized Bone Shard",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Geovishap Bone",
+        "rarity": 4,
+        "source": ["Geovishaps"],
+        "thumbnail": "Item_Fossilized_Bone_Shard.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fossilized_Bone_Shard"
+    }, {
+        "object_type": "item",
+        "name": "Chaos Gear",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ruin Sentinels Material",
+        "rarity": 2,
+        "source": ["Ruin Sentinels"],
+        "thumbnail": "Item_Chaos_Gear.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Gear"
+    }, {
+        "object_type": "item",
+        "name": "Chaos Axis",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ruin Sentinels Material",
+        "rarity": 3,
+        "source": ["Ruin Sentinels"],
+        "thumbnail": "Item_Chaos_Axis.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Axis"
+    }, {
+        "object_type": "item",
+        "name": "Chaos Oculus",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ruin Sentinels Material",
+        "rarity": 4,
+        "source": ["Ruin Sentinels"],
+        "thumbnail": "Item_Chaos_Oculus.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chaos_Oculus"
+    }, {
+        "object_type": "item",
+        "name": "Dismal Prism",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Mirror Maidens Prism",
+        "rarity": 2,
+        "source": ["Mirror Maidens"],
+        "thumbnail": "Item_Dismal_Prism.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dismal_Prism"
+    }, {
+        "object_type": "item",
+        "name": "Crystal Prism",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Mirror Maidens Prism",
+        "rarity": 3,
+        "source": ["Mirror Maidens"],
+        "thumbnail": "Item_Crystal_Prism.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Crystal_Prism"
+    }, {
+        "object_type": "item",
+        "name": "Polarizing Prism",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Mirror Maidens Prism",
+        "rarity": 4,
+        "source": ["Mirror Maidens"],
+        "thumbnail": "Item_Polarizing_Prism.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Polarizing_Prism"
+    }, {
+        "object_type": "item",
         "name": "Concealed Claw",
-        "type": "Common Ascension Materials",
+        "type": "Elite Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Rifthounds",
         "rarity": 2,
@@ -1548,7 +1548,7 @@
     }, {
         "object_type": "item",
         "name": "Concealed Unguis",
-        "type": "Common Ascension Materials",
+        "type": "Elite Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Rifthounds",
         "rarity": 3,
@@ -1558,7 +1558,7 @@
     }, {
         "object_type": "item",
         "name": "Concealed Talon",
-        "type": "Common Ascension Materials",
+        "type": "Elite Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Rifthounds",
         "rarity": 4,

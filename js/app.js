@@ -200,9 +200,17 @@
     };
     app.isNullOrUndefined = (obj) => typeof (obj) === 'undefined' || obj === null;
     app.indexBy = (arr, key, val) => {
-        for (var i = 0, ii = arr.length; i < ii; i++) {
-            if (arr[i][key] === val) {
-                return i;
+        if (typeof key === 'function') {
+            for (let i = 0, ii = arr.length; i < ii; i++) {
+                if (key.apply(val, [arr[i], i, arr])) {
+                    return i;
+                }
+            }
+        } else {
+            for (let i = 0, ii = arr.length; i < ii; i++) {
+                if (arr[i][key] === val) {
+                    return i;
+                }
             }
         }
         return -1;
@@ -279,7 +287,10 @@
     };
     app.getResource = (name) => {
         const res = app.cloneByName(app.data.resources, name);
-        res.id = app.id(res.name);
+        if(res) {
+            res.id = app.id(res.name);
+            res.thumbnail = res.thumbnail || 'Icon_Inventory.png';
+        }
 
         return res;
     };
@@ -312,6 +323,7 @@
     app.getWeapon = (name) => {
         const weapon = app.cloneByName(app.data.weapons, name);
         weapon.id = app.id(weapon.name);
+        weapon.thumbnail = weapon.thumbnail || 'Icon_Inventory_Weapons.png';
 
         return weapon;
     };

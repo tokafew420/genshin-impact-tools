@@ -5,6 +5,7 @@ app.require(['weapons', 'resources', 'weapon-ascension', 'weapon-level'],
             if (['Common Currency',
                 'Weapon Enhancement Materials',
                 'Common Ascension Materials',
+                'Elite Common Ascension Materials',
                 'Weapon Ascension Materials'].indexOf(r.type) !== -1) {
                 a[r.name] = i;
             }
@@ -18,13 +19,38 @@ app.require(['weapons', 'resources', 'weapon-ascension', 'weapon-level'],
         const mysticEnhancementOre = app.getByName(resources, "Mystic Enhancement Ore");
         const totalRequirements = {};
 
+        let weaponAscensionCache = {};
+        const getWeaponAscension = (weapon) => {
+            if (typeof weapon === 'string') {
+                weapon = app.getWeapon(weapon);
+            }
+            if (!weapon) return;
+    
+            if (weaponAscensionCache[weapon.name]) return weaponAscensionCache[weapon.name];
+    
+            let ascension = app.getBy(weaponAscension, (a) => a.object_type === 'weapon-ascension' && a.rarity === weapon.rarity);
+            let materials = app.getBy(weaponAscension, (a) => a.object_type === 'weapon-material' && a.name === weapon.name);
+            if (ascension && materials) {
+                ascension = app.clone(ascension);
+                ascension.phases.forEach((p) => {
+                    p.materials.forEach((m) => {
+                        var mat = app.getBy(materials.materials, (x) => x.type === m.type && x.rarity === m.rarity);
+                        if(mat) {
+                            m.name = mat.name;
+                        }
+                    });
+                });
+            }
+            return ascension;
+        };
+
         app.calculateRequiredResources = (name, current, goal) => {
             const weapon = app.getWeapon(name);
             if (!weapon) return;
 
             let needs;
 
-            const ascension = app.cloneByName(weaponAscension, name);
+            const ascension = getWeaponAscension(weapon);
             if (!ascension) return;
 
             needs = ascension.phases.filter((phase) => {
