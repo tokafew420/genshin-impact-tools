@@ -3,11 +3,15 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
 
         var sortOrder = resources.reduce((a, r, i) => {
             if (['Common Currency',
-                'Character EXP Material',
-                'Character Ascension Materials',
-                'Local Specialties',
-                'Talent Level-Up Material',
-                'Common Ascension Materials'].indexOf(r.type) !== -1) {
+                    'Character EXP Material',
+                    'Character Ascension Materials',
+                    'Boss Material',
+                    'Local Specialties',
+                    'Talent Level-Up Material',
+                    'Common Ascension Materials',
+                    'Elite Boss Material',
+                    'Limited-duration Event Materials'
+                ].indexOf(r.type) !== -1) {
                 a[r.name] = i;
             }
             return a;
@@ -20,6 +24,53 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
         const herosWit = app.getByName(resources, "Hero's Wit");
         const totalRequirements = {};
 
+        let characterAscensionCache = {};
+        const getCharacterAscension = (name) => {
+            if (!name) return;
+            if (characterAscensionCache[name]) return characterAscensionCache[name];
+
+            let ascension = app.getBy(characterAscension, (a) => a.object_type === 'ascension-phases');
+            let materials = app.getBy(characterAscension, (a) => a.object_type === 'ascension-materials' && a.name === name);
+            if (ascension && materials) {
+                ascension = app.clone(ascension);
+                ascension.phases.forEach((p) => {
+                    p.materials.forEach((m) => {
+                        var mat = app.getBy(materials.materials, (x) => x.type === m.type && x.rarity === m.rarity);
+                        if (mat) {
+                            m.name = mat.name;
+                        }
+                    });
+                });
+            }
+            characterAscensionCache[name] = ascension;
+            return ascension;
+        };
+
+        let characterTalentLeventUpCache = {};
+        const getCharacterTalentLeventUp = (name) => {
+            if (!name) return;
+            if (characterTalentLeventUpCache[name]) return characterTalentLeventUpCache[name];
+
+            let talentLevelUp = app.getBy(characterTalentLeventUp, (l) => l.object_type === 'talent-level-up-levels');
+            let materials = app.getBy(characterTalentLeventUp, (m) => m.object_type === 'talent-level-up-materials' && m.name === name);
+
+            if (name.startsWith('Traveler')) return materials;
+
+            if (talentLevelUp && materials) {
+                talentLevelUp = app.clone(talentLevelUp);
+                talentLevelUp.levels.forEach((l) => {
+                    l.materials.forEach((m) => {
+                        var mat = app.getBy(materials.materials, (x) => x.type === m.type && x.rarity === m.rarity);
+                        if (mat) {
+                            m.name = mat.name;
+                        }
+                    });
+                });
+            }
+            characterTalentLeventUpCache[name] = talentLevelUp;
+            return talentLevelUp;
+        };
+
         app.calculateRequiredResources = (name, stat, current, goal) => {
             if (!app.getCharacter(name)) return;
 
@@ -27,7 +78,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
 
             if (stat === 'level') {
                 if (name.startsWith('Traveler ')) name = "Traveler";
-                const ascension = app.cloneByName(characterAscension, name);
+                const ascension = getCharacterAscension(name);
                 if (!ascension) return;
 
                 needs = ascension.phases.filter((phase) => {
@@ -46,7 +97,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                     }]
                 });
             } else {
-                const talentLevelUp = app.cloneByName(characterTalentLeventUp, name);
+                const talentLevelUp = getCharacterTalentLeventUp(name);
                 if (!talentLevelUp) return;
 
                 const levels = stat === 'Normal Attack' && talentLevelUp.normal_attack_levels || talentLevelUp.levels;

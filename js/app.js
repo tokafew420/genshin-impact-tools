@@ -289,7 +289,7 @@
         const res = app.cloneByName(app.data.resources, name);
         if(res) {
             res.id = app.id(res.name);
-            res.thumbnail = res.thumbnail || 'Icon_Inventory.png';
+            res.thumbnail = res.thumbnail || 'Icon_Unknown.png';
         }
 
         return res;
@@ -314,6 +314,7 @@
 
         if (character) {
             character.id = app.id(character.name);
+            character.thumbnail = character.thumbnail || 'Icon_Characters.png';
             app.applyResource(character);
         }
 

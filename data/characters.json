@@ -1,5 +1,5 @@
 {
-    "version": "2021-12-14",
+    "version": "2021-12-31",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -2738,6 +2738,55 @@
         "link": "https://genshin-impact.fandom.com/wiki/Sayu"
     }, {
         "object_type": "character",
+        "name": "Shenhe",
+        "type": "Character",
+        "display_name": "Shenhe",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Dawnstar Piercer",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Dawnstar_Piercer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dawnstar_Piercer"
+        }, {
+            "object_type": "talent",
+            "name": "Spring Spirit Summoning",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Spring_Spirit_Summoning.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spring_Spirit_Summoning"
+        }, {
+            "object_type": "talent",
+            "name": "Divine Maiden's Deliverance",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Divine_Maiden's_Deliverance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Divine_Maiden's_Deliverance"
+        }, {
+            "object_type": "talent",
+            "name": "Precise Comings and Goings",
+            "type": "Utility Passive",
+            "thumbnail": "",
+            "link": "https://genshin-impact.fandom.com/wiki/Precise_Comings_and_Goings"
+        }, {
+            "object_type": "talent",
+            "name": "Deific Embrace",
+            "type": "Passive",
+            "thumbnail": "",
+            "link": "https://genshin-impact.fandom.com/wiki/Deific_Embrace"
+        }, {
+            "object_type": "talent",
+            "name": "Spirit Communion Seal",
+            "type": "Passive",
+            "thumbnail": "",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit_Communion_Seal"
+        }],
+        "constellations": [],
+        "thumbnail": "Character_Shenhe_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Shenhe"
+    }, {
+        "object_type": "character",
         "name": "Sucrose",
         "type": "Character",
         "rarity": 4,
@@ -3837,6 +3886,37 @@
         }],
         "thumbnail": "Character_Yoimiya_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Yoimiya"
+    }, {
+        "object_type": "character",
+        "name": "Yun Jin",
+        "type": "Character",
+        "display_name": "Yun Jin",
+        "rarity": 4,
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Opening Flourish",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Opening_Flourish.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Opening_Flourish"
+        }, {
+            "object_type": "talent",
+            "name": "Cliffbreaker's Banner",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Cliffbreaker's_Banner.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cliffbreaker's_Banner"
+        }, {
+            "object_type": "talent",
+            "name": "True to Oneself",
+            "type": "Passive",
+            "thumbnail": "Talent_Geo_Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/True_to_Oneself"
+        }],
+        "constellations": [],
+        "thumbnail": "Character_Yun_Jin_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Yun_Jin"
     }, {
         "object_type": "character",
         "name": "Zhongli",

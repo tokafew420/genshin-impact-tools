@@ -28,8 +28,8 @@ app.require(['weapons', 'resources', 'weapon-ascension', 'weapon-level'],
     
             if (weaponAscensionCache[weapon.name]) return weaponAscensionCache[weapon.name];
     
-            let ascension = app.getBy(weaponAscension, (a) => a.object_type === 'weapon-ascension' && a.rarity === weapon.rarity);
-            let materials = app.getBy(weaponAscension, (a) => a.object_type === 'weapon-material' && a.name === weapon.name);
+            let ascension = app.getBy(weaponAscension, (a) => a.object_type === 'ascension-phases' && a.rarity === weapon.rarity);
+            let materials = app.getBy(weaponAscension, (a) => a.object_type === 'ascension-materials' && a.name === weapon.name);
             if (ascension && materials) {
                 ascension = app.clone(ascension);
                 ascension.phases.forEach((p) => {

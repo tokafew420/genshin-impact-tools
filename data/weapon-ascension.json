@@ -1,7 +1,7 @@
 {
     "version": "2021-12-31",
     "data": [{
-        "object_type": "weapon-ascension",
+        "object_type": "ascension-phases",
         "rarity": 1,
         "phases": [{
             "object_type": "ascension-phase",
@@ -86,7 +86,7 @@
             }]
         }]
     }, {
-        "object_type": "weapon-ascension",
+        "object_type": "ascension-phases",
         "rarity": 2,
         "phases": [{
             "object_type": "ascension-phase",
@@ -174,7 +174,7 @@
             }]
         }]
     }, {
-        "object_type": "weapon-ascension",
+        "object_type": "ascension-phases",
         "rarity": 3,
         "phases": [{
             "object_type": "ascension-phase",
@@ -304,7 +304,7 @@
             }]
         }]
     }, {
-        "object_type": "weapon-ascension",
+        "object_type": "ascension-phases",
         "rarity": 4,
         "phases": [{
             "object_type": "ascension-phase",
@@ -434,7 +434,7 @@
             }]
         }]
     }, {
-        "object_type": "weapon-ascension",
+        "object_type": "ascension-phases",
         "rarity": 5,
         "phases": [{
             "object_type": "ascension-phase",
@@ -564,7 +564,7 @@
             }]
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "\"The Catch\"",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -608,7 +608,7 @@
             "name": "Mask of the Kijin"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Akuoumaru",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -652,7 +652,7 @@
             "name": "Golden Branch of a Distant Sea"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Alley Hunter",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -696,7 +696,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Amenoma Kageuchi",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -740,7 +740,7 @@
             "name": "Golden Branch of a Distant Sea"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Amos' Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -784,7 +784,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Apprentice's Notes",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -816,7 +816,7 @@
             "name": "Fragment of Decarabian's Epic"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Aquila Favonia",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -860,7 +860,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Beginner's Protector",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -892,7 +892,7 @@
             "name": "Shackles of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Black Tassel",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -936,7 +936,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Blackcliff Agate",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -980,7 +980,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Blackcliff Longsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1024,7 +1024,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Blackcliff Pole",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1068,7 +1068,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Blackcliff Slasher",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1112,7 +1112,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Blackcliff Warbow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1156,7 +1156,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Bloodtainted Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1200,7 +1200,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Calamity Queller",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1244,7 +1244,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Cinnabar Spindle",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1288,7 +1288,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Compound Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1332,7 +1332,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Cool Steel",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1376,7 +1376,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Crescent Pike",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1420,7 +1420,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Dark Iron Sword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1464,7 +1464,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Deathmatch",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1508,7 +1508,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Debate Club",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1552,7 +1552,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Dodoco Tales",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1596,7 +1596,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Dragon's Bane",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1640,7 +1640,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Dragonspine Spear",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1684,7 +1684,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Dull Blade",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1716,7 +1716,7 @@
             "name": "Fragment of Decarabian's Epic"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Elegy for the End",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1760,7 +1760,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Emerald Orb",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1804,7 +1804,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Engulfing Lightning",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1848,7 +1848,7 @@
             "name": "Mask of the Kijin"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Everlasting Moonglow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1892,7 +1892,7 @@
             "name": "Golden Branch of a Distant Sea"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Eye of Perception",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1936,7 +1936,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Favonius Codex",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1980,7 +1980,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Favonius Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2024,7 +2024,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Favonius Lance",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2068,7 +2068,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Favonius Sword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2112,7 +2112,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Favonius Warbow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2156,7 +2156,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Ferrous Shadow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2200,7 +2200,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Festering Desire",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2244,7 +2244,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Fillet Blade",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2288,7 +2288,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Freedom-Sworn",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2332,7 +2332,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Frostbearer",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2376,7 +2376,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Hakushin Ring",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2420,7 +2420,7 @@
             "name": "Golden Branch of a Distant Sea"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Halberd",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2464,7 +2464,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Hamayumi",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2508,7 +2508,7 @@
             "name": "Narukami's Valor"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Harbinger of Dawn",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2552,7 +2552,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Hunter's Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2584,7 +2584,7 @@
             "name": "Boreal Wolf's Broken Fang"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Iron Point",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2616,7 +2616,7 @@
             "name": "Shackles of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Iron Sting",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2660,7 +2660,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Katsuragikiri Nagamasa",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2704,7 +2704,7 @@
             "name": "Narukami's Valor"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Kitain Cross Spear",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2748,7 +2748,7 @@
             "name": "Mask of the Kijin"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Lion's Roar",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2792,7 +2792,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Lithic Blade",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2836,7 +2836,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Lithic Spear",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2880,7 +2880,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Lost Prayer to the Sacred Winds",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2924,7 +2924,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Luxurious Sea-Lord",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2968,7 +2968,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Magic Guide",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3012,7 +3012,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Mappa Mare",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3056,7 +3056,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Memory of Dust",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3100,7 +3100,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Messenger",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3144,7 +3144,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Mistsplitter Reforged",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3188,7 +3188,7 @@
             "name": "Golden Branch of a Distant Sea"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Mitternachts Waltz",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3232,7 +3232,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Mouun's Moon",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3276,7 +3276,7 @@
             "name": "Narukami's Valor"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Old Merc's Pal",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3308,7 +3308,7 @@
             "name": "Boreal Wolf's Broken Fang"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Otherworldly Story",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3352,7 +3352,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Pocket Grimoire",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3384,7 +3384,7 @@
             "name": "Fragment of Decarabian's Epic"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Polar Star",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3428,7 +3428,7 @@
             "name": "Mask of the Kijin"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Predator",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3472,7 +3472,7 @@
             "name": "Narukami's Valor"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Primordial Jade Cutter",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3516,7 +3516,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Primordial Jade Winged-Spear",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3560,7 +3560,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Prototype Amber",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3604,7 +3604,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Prototype Archaic",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3648,7 +3648,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Prototype Crescent",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3692,7 +3692,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Prototype Rancour",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3736,7 +3736,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Prototype Starglitter",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3780,7 +3780,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Rainslasher",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3824,7 +3824,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Raven Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3868,7 +3868,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Recurve Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3912,7 +3912,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Redhorn Stonethresher",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3956,7 +3956,7 @@
             "name": "Narukami's Valor"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Royal Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4000,7 +4000,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Royal Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4044,7 +4044,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Royal Grimoire",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4088,7 +4088,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Royal Longsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4132,7 +4132,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Royal Spear",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4176,7 +4176,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Rust",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4220,7 +4220,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Sacrificial Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4264,7 +4264,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Sacrificial Fragments",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4308,7 +4308,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Sacrificial Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4352,7 +4352,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Sacrificial Sword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4396,7 +4396,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Seasoned Hunter's Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4428,7 +4428,7 @@
             "name": "Boreal Wolf's Broken Fang"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Serpent Spine",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4472,7 +4472,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Sharpshooter's Oath",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4516,7 +4516,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Silver Sword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4548,7 +4548,7 @@
             "name": "Fragment of Decarabian's Epic"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Skyrider Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4592,7 +4592,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Skyrider Sword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4636,7 +4636,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Skyward Atlas",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4680,7 +4680,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Skyward Blade",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4724,7 +4724,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Skyward Harp",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4768,7 +4768,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Skyward Pride",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4812,7 +4812,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Skyward Spine",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4856,7 +4856,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Slingshot",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4900,7 +4900,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Snow-Tombed Starsilver",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4944,7 +4944,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Solar Pearl",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4988,7 +4988,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Song of Broken Pines",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5032,7 +5032,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Staff of Homa",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5076,7 +5076,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Summit Shaper",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5120,7 +5120,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Sword of Descension",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5164,7 +5164,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "The Alley Flash",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5208,7 +5208,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "The Bell",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5252,7 +5252,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "The Black Sword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5296,7 +5296,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "The Flute",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5340,7 +5340,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "The Stringless",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5384,7 +5384,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "The Unforged",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5428,7 +5428,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "The Viridescent Hunt",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5472,7 +5472,7 @@
             "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "The Widsith",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5516,7 +5516,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Thrilling Tales of Dragon Slayers",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5560,7 +5560,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Thundering Pulse",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5604,7 +5604,7 @@
             "name": "Narukami's Valor"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Traveler's Handy Sword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5648,7 +5648,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Twin Nephrite",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5692,7 +5692,7 @@
             "name": "Mist Veiled Primo Elixir"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Vortex Vanquisher",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5736,7 +5736,7 @@
             "name": "Chunk of Aerosiderite"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Waster Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5768,7 +5768,7 @@
             "name": "Boreal Wolf's Broken Fang"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Wavebreaker's Fin",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5812,7 +5812,7 @@
             "name": "Mask of the Kijin"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "White Iron Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5856,7 +5856,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "White Tassel",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5900,7 +5900,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Whiteblind",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5944,7 +5944,7 @@
             "name": "Divine Body from Guyun"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Windblume Ode",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5988,7 +5988,7 @@
             "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Wine and Song",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -6032,7 +6032,7 @@
             "name": "Boreal Wolf's Nostalgia"
         }]
     }, {
-        "object_type": "weapon-material",
+        "object_type": "ascension-materials",
         "name": "Wolf's Gravestone",
         "materials": [{
             "type": "Common Ascension Materials",
