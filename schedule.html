@@ -42,7 +42,7 @@
                             <div id="talent-books" class="content collapse show">
                                 <div class="input-group input-group-sm mb-3">
                                     <span class="input-group-text" id="search-lbl">Search</span>
-                                    <input type="text" id="search-character-talent" class="form-control" placeholder="Search" data-search-target="#talent-books tbody" data-search-item="[data-resource-type='character']" aria-label="Search" aria-describedby="search-lbl">
+                                    <input type="text" id="search-character-talent" class="form-control" placeholder="Search" data-search-target="#talent-books tbody" data-search-item=".searchable" aria-label="Search" aria-describedby="search-lbl">
                                     <button class="btn btn-danger" type="button" onclick="$('#search-character-talent').val('').change();">Clear</button>
                                 </div>
                                 <article class="content-container">
@@ -67,15 +67,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Freedom"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Aloy"></div>
-                                                    <div data-resource-type="character" data-resource-name="Klee"></div>
-                                                    <div data-resource-type="character" data-resource-name="Tartaglia"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Anemo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Amber"></div>
-                                                    <div data-resource-type="character" data-resource-name="Barbara"></div>
-                                                    <div data-resource-type="character" data-resource-name="Diona"></div>
-                                                    <div data-resource-type="character" data-resource-name="Sucrose"></div>
+                                                <td data-character-resource="Teachings of Freedom,Guide to Freedom,Philosophies of Freedom">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -87,12 +79,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Prosperity"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Keqing"></div>
-                                                    <div data-resource-type="character" data-resource-name="Qiqi"></div>
-                                                    <div data-resource-type="character" data-resource-name="Xiao"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Ningguang"></div>
+                                                <td data-character-resource="Teachings of Prosperity,Guide to Prosperity,Philosophies of Prosperity">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -104,11 +91,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Transience"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Sangonomiya Kokomi"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Electro)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Yoimiya"></div>
-
+                                                <td data-character-resource="Teachings of Transience,Guide to Transience,Philosophies of Transience">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -123,15 +106,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Resistance"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Diluc"></div>
-                                                    <div data-resource-type="character" data-resource-name="Eula"></div>
-                                                    <div data-resource-type="character" data-resource-name="Jean"></div>
-                                                    <div data-resource-type="character" data-resource-name="Mona"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Anemo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Bennett"></div>
-                                                    <div data-resource-type="character" data-resource-name="Noelle"></div>
-                                                    <div data-resource-type="character" data-resource-name="Razor"></div>
+                                                <td data-character-resource="Teachings of Resistance,Guide to Resistance,Philosophies of Resistance">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -143,13 +118,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Diligence"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Ganyu"></div>
-                                                    <div data-resource-type="character" data-resource-name="Hu Tao"></div>
-                                                    <div data-resource-type="character" data-resource-name="Kaedehara Kazuha"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Chongyun"></div>
-                                                    <div data-resource-type="character" data-resource-name="Xiangling"></div>
+                                                <td data-character-resource="Teachings of Diligence,Guide to Diligence,Philosophies of Diligence">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -161,11 +130,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Elegance"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Arataki Itto"></div>
-                                                    <div data-resource-type="character" data-resource-name="Kamisato Ayaka"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Electro)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Kujou Sara"></div>
+                                                <td data-character-resource="Teachings of Elegance,Guide to Elegance,Philosophies of Elegance">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -179,14 +144,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Ballad"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Albedo"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Anemo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Venti"></div>
-                                                    <div data-resource-type="character" data-resource-name="Fischl"></div>
-                                                    <div data-resource-type="character" data-resource-name="Kaeya"></div>
-                                                    <div data-resource-type="character" data-resource-name="Lisa"></div>
-                                                    <div data-resource-type="character" data-resource-name="Rosaria"></div>
+                                                <td data-character-resource="Teachings of Ballad,Guide to Ballad,Philosophies of Ballad">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -198,12 +156,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Gold"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Zhongli"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Beidou"></div>
-                                                    <div data-resource-type="character" data-resource-name="Xingqiu"></div>
-                                                    <div data-resource-type="character" data-resource-name="Yanfei"></div>
+                                                <td data-character-resource="Teachings of Gold,Guide to Gold,Philosophies of Gold">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -215,11 +168,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Philosophies of Light"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Raiden Shogun"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Electro)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Gorou"></div>
-                                                    <div data-resource-type="character" data-resource-name="Sayu"></div>
+                                                <td data-character-resource="Teachings of Light,Guide to Light,Philosophies of Light">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -242,7 +191,7 @@
                             <div id="weapon-materials" class="content collapse show">
                                 <div class="input-group input-group-sm mb-3">
                                     <span class="input-group-text" id="search-lbl">Search</span>
-                                    <input type="text" id="search-weapon" class="form-control" placeholder="Search" data-search-target="#weapon-materials tbody" data-search-item="[data-resource-type='weapon']" aria-label="Search" aria-describedby="search-lbl">
+                                    <input type="text" id="search-weapon" class="form-control" placeholder="Search" data-search-target="#weapon-materials tbody" data-search-item=".searchable" aria-label="Search" aria-describedby="search-lbl">
                                     <button class="btn btn-danger" type="button" onclick="$('#search-weapon').val('').change();">Clear</button>
                                 </div>
                                 <article class="content-container">
@@ -268,27 +217,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Scattered Piece of Decarabian's Dream"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Aquila Favonia"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Song of Broken Pines"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Favonius Codex"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Favonius Sword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Mitternachts Waltz"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Royal Grimoire"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Royal Longsword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Snow-Tombed Starsilver"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="The Alley Flash"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="The Bell"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="The Stringless"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="The Viridescent Hunt"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Cool Steel"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Ferrous Shadow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Magic Guide"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Raven Bow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Pocket Grimoire"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Silver Sword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Apprentice's Notes"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Dull Blade"></div>
+                                                <td data-weapon-resource="Tile of Decarabian's Tower,Debris of Decarabian's City,Fragment of Decarabian's Epic,Scattered Piece of Decarabian's Dream">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -301,22 +230,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Divine Body from Guyun"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Primordial Jade Winged-Spear"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Summit Shaper"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Blackcliff Agate"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Blackcliff Longsword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Blackcliff Warbow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Crescent Pike"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Lion's Roar"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Lithic Blade"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Rust"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Solar Pearl"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Whiteblind"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Dark Iron Sword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Emerald Orb"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Slingshot"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="White Tassel"></div>
+                                                <td data-weapon-resource="Luminous Sands from Guyun,Lustrous Stone from Guyun,Relic from Guyun,Divine Body from Guyun">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -329,12 +243,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Golden Branch of a Distant Sea"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Everlasting Moonglow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Mistsplitter Reforged"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Akuoumaru"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Amenoma Kageuchi"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Hakushin Ring"></div>
+                                                <td data-weapon-resource="Coral Branch of a Distant Sea,Jeweled Branch of a Distant Sea,Jade Branch of a Distant Sea,Golden Branch of a Distant Sea">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -350,30 +259,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Boreal Wolf's Nostalgia"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Elegy for the End"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Skyward Atlas"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Skyward Blade"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Skyward Harp"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Skyward Pride"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Deathmatch"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Dodoco Tales"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Dragonspine Spear"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Sacrificial Bow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Sacrificial Greatsword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Sword of Descension"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="The Black Sword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="The Flute"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="The Widsith"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Wine and Song"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Bloodtainted Greatsword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Harbinger of Dawn"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Sharpshooter's Oath"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Thrilling Tales of Dragon Slayers"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Old Merc's Pal"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Seasoned Hunter's Bow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Hunter's Bow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Waster Greatsword"></div>
+                                                <td data-weapon-resource="Boreal Wolf's Milk Tooth,Boreal Wolf's Cracked Tooth,Boreal Wolf's Broken Fang,Boreal Wolf's Nostalgia">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -386,23 +272,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Mist Veiled Primo Elixir"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Primordial Jade Cutter"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="The Unforged"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Blackcliff Pole"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Blackcliff Slasher"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Dragon's Bane"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Eye of Perception"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Prototype Amber"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Prototype Crescent"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Prototype Rancour"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Rainslasher"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Royal Spear"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Debate Club"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Fillet Blade"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Halberd"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Messenger"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Twin Nephrite"></div>
+                                                <td data-weapon-resource="Mist Veiled Lead Elixir,Mist Veiled Mercury Elixir,Mist Veiled Gold Elixir,Mist Veiled Primo Elixir">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -415,13 +285,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Narukami's Valor"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Redhorn Stonethresher"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Thundering Pulse"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Hamayumi"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Katsuragikiri Nagamasa"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Mouun's Moon"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Predator"></div>
+                                                <td data-weapon-resource="Narukami's Wisdom,Narukami's Joy,Narukami's Affection,Narukami's Valor">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -436,29 +300,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Dream of the Dandelion Gladiator"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Amos' Bow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Freedom-Sworn"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Lost Prayer to the Sacred Winds"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Skyward Spine"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Wolf's Gravestone"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Alley Hunter"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Favonius Greatsword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Favonius Lance"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Favonius Warbow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Festering Desire"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Frostbearer"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Royal Bow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Royal Greatsword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Sacrificial Fragments"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Sacrificial Sword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Windblume Ode"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Otherworldly Story"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Recurve Bow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Traveler's Handy Sword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="White Iron Greatsword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Iron Point"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Beginner's Protector"></div>
+                                                <td data-weapon-resource="Fetters of the Dandelion Gladiator,Chains of the Dandelion Gladiator,Shackles of the Dandelion Gladiator,Dream of the Dandelion Gladiator">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -471,21 +313,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Chunk of Aerosiderite"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Memory of Dust"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Staff of Homa"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Vortex Vanquisher"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Compound Bow"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Iron Sting"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Lithic Spear"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Luxurious Sea-Lord"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Mappa Mare"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Prototype Archaic"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Prototype Starglitter"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Serpent Spine"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Black Tassel"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Skyrider Greatsword"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Skyrider Sword"></div>
+                                                <td data-weapon-resource="Grain of Aerosiderite,Piece of Aerosiderite,Bit of Aerosiderite,Chunk of Aerosiderite">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -498,12 +326,7 @@
                                                         <div data-resource-type="resource" data-resource-name="Mask of the Kijin"></div>
                                                     </div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="weapon" data-resource-name="Engulfing Lightning"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Polar Star"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="&quot;The Catch&quot;"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Kitain Cross Spear"></div>
-                                                    <div data-resource-type="weapon" data-resource-name="Wavebreaker's Fin"></div>
+                                                <td data-weapon-resource="Mask of the Wicked Lieutenant,Mask of the Tiger's Bite,Mask of the One-Horned,Mask of the Kijin">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -526,7 +349,7 @@
                             <div id="weekly-boss-material" class="content collapse show">
                                 <div class="input-group input-group-sm mb-3">
                                     <span class="input-group-text" id="search-lbl">Search</span>
-                                    <input type="text" id="search-character-boss" class="form-control" placeholder="Search" data-search-target="#weekly-boss-material tbody" data-search-item="[data-resource-type='character']" aria-label="Search" aria-describedby="search-lbl">
+                                    <input type="text" id="search-character-boss" class="form-control" placeholder="Search" data-search-target="#weekly-boss-material tbody" data-search-item=".searchable" aria-label="Search" aria-describedby="search-lbl">
                                     <button class="btn btn-danger" type="button" onclick="$('#search-character-boss').val('').change();">Clear</button>
                                 </div>
                                 <article class="content-container">
@@ -555,33 +378,21 @@
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Dvalin's Plume"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Diluc"></div>
-                                                    <div data-resource-type="character" data-resource-name="Jean"></div>
-                                                    <div data-resource-type="character" data-resource-name="Bennett"></div>
+                                                <td data-character-resource="Dvalin's Plume">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Dvalin's Claw"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Lisa"></div>
-                                                    <div data-resource-type="character" data-resource-name="Noelle"></div>
-                                                    <div data-resource-type="character" data-resource-name="Razor"></div>
-                                                    <div data-resource-type="character" data-resource-name="Xiangling"></div>
+                                                <td data-character-resource="Dvalin's Claw">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Dvalin's Sigh"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Anemo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Amber"></div>
-                                                    <div data-resource-type="character" data-resource-name="Beidou"></div>
-                                                    <div data-resource-type="character" data-resource-name="Chongyun"></div>
+                                                <td data-character-resource="Dvalin's Sigh">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -600,33 +411,21 @@
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Tail of Boreas"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Qiqi"></div>
-                                                    <div data-resource-type="character" data-resource-name="Venti"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Geo)"></div>
-                                                    <div data-resource-type="character" data-resource-name="Xingqiu"></div>
+                                                <td data-character-resource="Tail of Boreas">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Ring of Boreas"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Keqing"></div>
-                                                    <div data-resource-type="character" data-resource-name="Klee"></div>
-                                                    <div data-resource-type="character" data-resource-name="Mona"></div>
-                                                    <div data-resource-type="character" data-resource-name="Barbara"></div>
+                                                <td data-character-resource="Ring of Boreas">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Spirit Locket of Boreas"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Fischl"></div>
-                                                    <div data-resource-type="character" data-resource-name="Kaeya"></div>
-                                                    <div data-resource-type="character" data-resource-name="Ningguang"></div>
-                                                    <div data-resource-type="character" data-resource-name="Sucrose"></div>
+                                                <td data-character-resource="Spirit Locket of Boreas">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -645,30 +444,21 @@
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Tusk of Monoceros Caeli"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Albedo"></div>
-                                                    <div data-resource-type="character" data-resource-name="Zhongli"></div>
-                                                    <div data-resource-type="character" data-resource-name="Xinyan"></div>
+                                                <td data-character-resource="Tusk of Monoceros Caeli">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Shard of a Foul Legacy"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Hu Tao"></div>
-                                                    <div data-resource-type="character" data-resource-name="Tartaglia"></div>
-                                                    <div data-resource-type="character" data-resource-name="Diona"></div>
+                                                <td data-character-resource="Shard of a Foul Legacy">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Shadow of the Warrior"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Ganyu"></div>
-                                                    <div data-resource-type="character" data-resource-name="Xiao"></div>
-                                                    <div data-resource-type="character" data-resource-name="Rosaria"></div>
+                                                <td data-character-resource="Shadow of the Warrior">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -687,28 +477,21 @@
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Dragon Lord's Crown"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Eula"></div>
-                                                    <div data-resource-type="character" data-resource-name="Yoimiya"></div>
-                                                    <div data-resource-type="character" data-resource-name="Traveler (Electro)"></div>
+                                                <td data-character-resource="Dragon Lord's Crown">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Bloodjade Branch"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Kamisato Ayaka"></div>
-                                                    <div data-resource-type="character" data-resource-name="Yanfei"></div>
+                                                <td data-character-resource="Bloodjade Branch">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Gilded Scale"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Kaedehara Kazuha"></div>
-                                                    <div data-resource-type="character" data-resource-name="Sayu"></div>
+                                                <td data-character-resource="Gilded Scale">
                                                 </td>
                                             </tr>
                                             <tr>
@@ -727,28 +510,21 @@
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Molten Moment"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Aloy"></div>
-                                                    <div data-resource-type="character" data-resource-name="Raiden Shogun"></div>
-                                                    <div data-resource-type="character" data-resource-name="Gorou"></div>
+                                                <td data-character-resource="Molten Moment">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Hellfire Butterfly"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Sangonomiya Kokomi"></div>
-                                                    <div data-resource-type="character" data-resource-name="Thoma"></div>
+                                                <td data-character-resource="Hellfire Butterfly">
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <div data-resource-type="resource" data-resource-name="Ashen Heart"></div>
                                                 </td>
-                                                <td>
-                                                    <div data-resource-type="character" data-resource-name="Arataki Itto"></div>
-                                                    <div data-resource-type="character" data-resource-name="Kujou Sara"></div>
+                                                <td data-character-resource="Ashen Heart">
                                                 </td>
                                             </tr>
                                         </tbody>

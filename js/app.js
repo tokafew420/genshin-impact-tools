@@ -182,6 +182,16 @@
     };
 
     /***** Utils *****/
+    app.any = (arr, fn, context) => {
+        if (arr) {
+            for (let i = 0, ii = arr.length; i < ii; i++) {
+                if (fn.apply(context, [arr[i], i, arr]) === true) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    };
     app.clone = (obj) => JSON.parse(JSON.stringify(obj));
     app.debounce = function debounce(func, wait, immediate) {
         var timeout;
@@ -230,6 +240,10 @@
     app.id = (str) => String(str).toLowerCase().replace(/[^a-z0-9]/g, ' ').trim().replace(/\s+/g, '-');
     app.getByName = (arr, name) => app.getBy(arr, 'name', name);
     app.cloneByName = (arr, name) => app.cloneBy(arr, 'name', name);
+    app.filters = {
+        distinct: (val, idx, self) => self.indexOf(val) === idx,
+        notNullOrUndefined: (val) => val !== null && val !== undefined
+    };
     app.firstProp = (obj, ...args) => {
         if (obj) {
             for (let i = 0, ii = args.length; i < ii; i++) {
@@ -287,7 +301,7 @@
     };
     app.getResource = (name) => {
         const res = app.cloneByName(app.data.resources, name);
-        if(res) {
+        if (res) {
             res.id = app.id(res.name);
             res.thumbnail = res.thumbnail || 'Icon_Unknown.png';
         }
