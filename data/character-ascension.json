@@ -1,5 +1,5 @@
 {
-    "version": "2021-12-31",
+    "version": "2022-01-05",
     "data": [{
         "object_type": "ascension-phases",
         "phases": [{
@@ -1429,6 +1429,10 @@
         "object_type": "ascension-materials",
         "name": "Shenhe",
         "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Dragonheir's False Fin"
+        }, {
             "type": "Character Ascension Materials",
             "rarity": 2,
             "name": "Shivada Jade Sliver"
@@ -1896,7 +1900,43 @@
     }, {
         "object_type": "ascension-materials",
         "name": "Yun Jin",
-        "materials": []
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Riftborn Regalia"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Prithiva Topaz Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Prithiva Topaz Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Prithiva Topaz Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Prithiva Topaz Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Glaze Lily"
+        }]
     }, {
         "object_type": "ascension-materials",
         "name": "Zhongli",

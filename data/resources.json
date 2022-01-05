@@ -1,5 +1,5 @@
 {
-    "version": "2021-12-31",
+    "version": "2022-01-05",
     "data": [{
         "object_type": "item",
         "name": "Primogem",
@@ -410,6 +410,16 @@
         "source": ["Oceanids"],
         "thumbnail": "Item_Cleansing_Heart.png",
         "link": "https://genshin-impact.fandom.com/wiki/Cleansing_Heart"
+    }, {
+        "object_type": "item",
+        "name": "Dragonheir's False Fin",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Inazuma",
+        "source": ["Bathysmal Vishap Herds"],
+        "thumbnail": "Item_Dragonheir's_False_Fin.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dragonheir's_False_Fin"
     }, {
         "object_type": "item",
         "name": "Juvenile Jade",

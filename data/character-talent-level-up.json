@@ -1,5 +1,5 @@
 {
-    "version": "2021-12-31",
+    "version": "2022-01-05",
     "data": [{
         "object_type": "talent-level-up-levels",
         "levels": [{
@@ -2167,7 +2167,35 @@
     }, {
         "object_type": "talent-level-up-materials",
         "name": "Yun Jin",
-        "materials": []
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Ashen Heart"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Diligence"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Diligence"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Diligence"
+        }]
     }, {
         "object_type": "talent-level-up-materials",
         "name": "Zhongli",

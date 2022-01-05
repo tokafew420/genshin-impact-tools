@@ -1,5 +1,5 @@
 {
-    "version": "2021-12-31",
+    "version": "2022-01-05",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -2756,33 +2756,71 @@
             "name": "Spring Spirit Summoning",
             "type": "Elemental Skill",
             "thumbnail": "Talent_Spring_Spirit_Summoning.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Spring_Spirit_Summoning"
+            "link": "https://genshin-impact.fandom.com/wiki/Spring_Spirit_Summoning",
+            "constellation": 3
         }, {
             "object_type": "talent",
             "name": "Divine Maiden's Deliverance",
             "type": "Elemental Burst",
             "thumbnail": "Talent_Divine_Maiden's_Deliverance.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Divine_Maiden's_Deliverance"
-        }, {
-            "object_type": "talent",
-            "name": "Precise Comings and Goings",
-            "type": "Utility Passive",
-            "thumbnail": "",
-            "link": "https://genshin-impact.fandom.com/wiki/Precise_Comings_and_Goings"
+            "link": "https://genshin-impact.fandom.com/wiki/Divine_Maiden's_Deliverance",
+            "constellation": 5
         }, {
             "object_type": "talent",
             "name": "Deific Embrace",
-            "type": "Passive",
-            "thumbnail": "",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Deific_Embrace.png",
             "link": "https://genshin-impact.fandom.com/wiki/Deific_Embrace"
         }, {
             "object_type": "talent",
             "name": "Spirit Communion Seal",
-            "type": "Passive",
-            "thumbnail": "",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Spirit_Communion_Seal.png",
             "link": "https://genshin-impact.fandom.com/wiki/Spirit_Communion_Seal"
+        }, {
+            "object_type": "talent",
+            "name": "Precise Comings and Goings",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Precise_Comings_and_Goings.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Precise_Comings_and_Goings"
         }],
-        "constellations": [],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Clarity of Heart",
+            "level": 1,
+            "thumbnail": "Constellation_Clarity_of_Heart.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Clarity_of_Heart"
+        }, {
+            "object_type": "constellation",
+            "name": "Centered Spirit",
+            "level": 2,
+            "thumbnail": "Constellation_Centered_Spirit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Centered_Spirit"
+        }, {
+            "object_type": "constellation",
+            "name": "Seclusion",
+            "level": 3,
+            "thumbnail": "Constellation_Seclusion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Seclusion"
+        }, {
+            "object_type": "constellation",
+            "name": "Insight",
+            "level": 4,
+            "thumbnail": "Constellation_Insight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Insight"
+        }, {
+            "object_type": "constellation",
+            "name": "Divine Attainment",
+            "level": 5,
+            "thumbnail": "Constellation_Divine_Attainment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Divine_Attainment"
+        }, {
+            "object_type": "constellation",
+            "name": "Mystical Abandon",
+            "level": 6,
+            "thumbnail": "Constellation_Mystical_Abandon.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mystical_Abandon"
+        }],
         "thumbnail": "Character_Shenhe_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Shenhe"
     }, {
@@ -3897,24 +3935,80 @@
         "region": "Liyue",
         "talents": [{
             "object_type": "talent",
+            "name": "Cloud-Grazing Strike",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Cloud-Grazing_Strike.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cloud-Grazing_Strike"
+        }, {
+            "object_type": "talent",
             "name": "Opening Flourish",
             "type": "Elemental Skill",
             "thumbnail": "Talent_Opening_Flourish.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Opening_Flourish"
+            "link": "https://genshin-impact.fandom.com/wiki/Opening_Flourish",
+            "constellation": 5
         }, {
             "object_type": "talent",
             "name": "Cliffbreaker's Banner",
             "type": "Elemental Burst",
             "thumbnail": "Talent_Cliffbreaker's_Banner.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Cliffbreaker's_Banner"
+            "link": "https://genshin-impact.fandom.com/wiki/Cliffbreaker's_Banner",
+            "constellation": 3
         }, {
             "object_type": "talent",
             "name": "True to Oneself",
-            "type": "Passive",
-            "thumbnail": "Talent_Geo_Unknown.png",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_True_to_Oneself.png",
             "link": "https://genshin-impact.fandom.com/wiki/True_to_Oneself"
+        }, {
+            "object_type": "talent",
+            "name": "Breaking Conventions",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Breaking_Conventions.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Breaking_Conventions"
+        }, {
+            "object_type": "talent",
+            "name": "Light Nourishment",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Light_Nourishment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Light_Nourishment"
         }],
-        "constellations": [],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Thespian Gallop",
+            "level": 1,
+            "thumbnail": "Constellation_Thespian_Gallop.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thespian_Gallop"
+        }, {
+            "object_type": "constellation",
+            "name": "Myriad Mise-En-Scène",
+            "level": 2,
+            "thumbnail": "Constellation_Myriad_Mise-En-Scène.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Myriad_Mise-En-Scène"
+        }, {
+            "object_type": "constellation",
+            "name": "Seafaring General",
+            "level": 3,
+            "thumbnail": "Constellation_Seafaring_General.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Seafaring_General"
+        }, {
+            "object_type": "constellation",
+            "name": "Flower and a Fighter",
+            "level": 4,
+            "thumbnail": "Constellation_Flower_and_a_Fighter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flower_and_a_Fighter"
+        }, {
+            "object_type": "constellation",
+            "name": "Famed Throughout the Land",
+            "level": 5,
+            "thumbnail": "Constellation_Famed_Throughout_the_Land.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Famed_Throughout_the_Land"
+        }, {
+            "object_type": "constellation",
+            "name": "Decorous Harmony",
+            "level": 6,
+            "thumbnail": "Constellation_Decorous_Harmony.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Decorous_Harmony"
+        }],
         "thumbnail": "Character_Yun_Jin_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Yun_Jin"
     }, {
