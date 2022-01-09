@@ -1,5 +1,5 @@
 {
-    "version": "2021-10-31",
+    "version": "2022-01-09",
     "data": [{
         "name": "Overlooking View",
         "type": "Achievement",
@@ -3287,7 +3287,7 @@
         "name": "Kairos' Constancy",
         "type": "Achievement",
         "category": "The Light of Day",
-        "description": "Complete 3 Open World mechanism-activated Time Trial Challenges in Enkanomiya.",
+        "description": "Complete 3/6/12 Open World mechanism-activated Time Trial Challenges in Enkanomiya.",
         "reward": [5, 10, 20],
         "link": ""
     }, {
