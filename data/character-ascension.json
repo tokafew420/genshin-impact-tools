@@ -1,5 +1,5 @@
 {
-    "version": "2022-01-05",
+    "version": "2022-02-14",
     "data": [{
         "object_type": "ascension-phases",
         "phases": [{
@@ -1820,6 +1820,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Violetgrass"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Yae Miko",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Dragonheir's False Fin"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vajrada Amethyst Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vajrada Amethyst Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vajrada Amethyst Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vajrada Amethyst Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Sea Ganoderma"
         }]
     }, {
         "object_type": "ascension-materials",

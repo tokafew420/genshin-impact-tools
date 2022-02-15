@@ -1,5 +1,5 @@
 {
-    "version": "2022-01-05",
+    "version": "2022-02-14",
     "data": [{
         "object_type": "talent-level-up-levels",
         "levels": [{
@@ -2099,6 +2099,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Gold"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Yae Miko",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Unknown"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Light"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Light"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Light"
         }]
     }, {
         "object_type": "talent-level-up-materials",

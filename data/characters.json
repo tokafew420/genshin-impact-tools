@@ -1,5 +1,5 @@
 {
-    "version": "2022-01-05",
+    "version": "2022-02-14",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -3752,6 +3752,55 @@
         }],
         "thumbnail": "Character_Xinyan_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Xinyan"
+    }, {
+        "object_type": "character",
+        "name": "Yae Miko",
+        "type": "Character",
+        "display_name": "Yae Miko",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Spiritfox Sin-Eater",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Spiritfox_Sin-Eater.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spiritfox_Sin-Eater"
+        }, {
+            "object_type": "talent",
+            "name": "Yakan Evocation: Sesshou Sakura",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Yakan_Evocation_Sesshou_Sakura.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yakan_Evocation:_Sesshou_Sakura"
+        }, {
+            "object_type": "talent",
+            "name": "Great Secret Art: Tenko Kenshin",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Great_Secret_Art_Tenko_Kenshin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Great_Secret_Art:_Tenko_Kenshin"
+        }, {
+            "object_type": "talent",
+            "name": "Meditations of a Yako",
+            "type": "Utility Passive",
+            "thumbnail": "",
+            "link": "https://genshin-impact.fandom.com/wiki/Meditations_of_a_Yako"
+        }, {
+            "object_type": "talent",
+            "name": "Enlightened Blessing",
+            "type": "Passive",
+            "thumbnail": "",
+            "link": "https://genshin-impact.fandom.com/wiki/Enlightened_Blessing"
+        }, {
+            "object_type": "talent",
+            "name": "The Shrine's Sacred Shade",
+            "type": "Passive",
+            "thumbnail": "",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Shrine's_Sacred_Shade"
+        }],
+        "constellations": [],
+        "thumbnail": "Character_Yae_Miko_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Yae_Miko"
     }, {
         "object_type": "character",
         "name": "Yanfei",

@@ -1,5 +1,5 @@
 {
-    "version": "2021-12-14",
+    "version": "2022-02-14",
     "data": [{
         "object_type": "weapon",
         "name": "\"The Catch\"",
@@ -350,6 +350,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Katsuragikiri_Nagamasa.png",
         "link": "https://genshin-impact.fandom.com/wiki/Katsuragikiri_Nagamasa"
+    }, {
+        "object_type": "weapon",
+        "name": "Kagura's Verity",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Kagura's_Verity.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kagura's_Verity"
     }, {
         "object_type": "weapon",
         "name": "Kitain Cross Spear",
