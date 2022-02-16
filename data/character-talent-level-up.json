@@ -1,5 +1,5 @@
 {
-    "version": "2022-02-14",
+    "version": "2022-02-16",
     "data": [{
         "object_type": "talent-level-up-levels",
         "levels": [{
@@ -2118,7 +2118,7 @@
         }, {
             "type": "Elite Boss Material",
             "rarity": 5,
-            "name": "Unknown"
+            "name": "The Meaning of Aeons"
         }, {
             "type": "Talent Level-Up Material",
             "rarity": 2,

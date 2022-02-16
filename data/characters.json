@@ -1,5 +1,5 @@
 {
-    "version": "2022-02-14",
+    "version": "2022-02-16",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -3772,33 +3772,71 @@
             "name": "Yakan Evocation: Sesshou Sakura",
             "type": "Elemental Skill",
             "thumbnail": "Talent_Yakan_Evocation_Sesshou_Sakura.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Yakan_Evocation:_Sesshou_Sakura"
+            "link": "https://genshin-impact.fandom.com/wiki/Yakan_Evocation:_Sesshou_Sakura",
+            "constellation": 3
         }, {
             "object_type": "talent",
             "name": "Great Secret Art: Tenko Kenshin",
             "type": "Elemental Burst",
             "thumbnail": "Talent_Great_Secret_Art_Tenko_Kenshin.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Great_Secret_Art:_Tenko_Kenshin"
+            "link": "https://genshin-impact.fandom.com/wiki/Great_Secret_Art:_Tenko_Kenshin",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "The Shrine's Sacred Shade",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_The_Shrine's_Sacred_Shade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Shrine's_Sacred_Shade"
+        }, {
+            "object_type": "talent",
+            "name": "Enlightened Blessing",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Enlightened_Blessing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Enlightened_Blessing"
         }, {
             "object_type": "talent",
             "name": "Meditations of a Yako",
             "type": "Utility Passive",
-            "thumbnail": "",
+            "thumbnail": "Talent_Meditations_of_a_Yako.png",
             "link": "https://genshin-impact.fandom.com/wiki/Meditations_of_a_Yako"
-        }, {
-            "object_type": "talent",
-            "name": "Enlightened Blessing",
-            "type": "Passive",
-            "thumbnail": "",
-            "link": "https://genshin-impact.fandom.com/wiki/Enlightened_Blessing"
-        }, {
-            "object_type": "talent",
-            "name": "The Shrine's Sacred Shade",
-            "type": "Passive",
-            "thumbnail": "",
-            "link": "https://genshin-impact.fandom.com/wiki/The_Shrine's_Sacred_Shade"
         }],
-        "constellations": [],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Yakan Offering",
+            "level": 1,
+            "thumbnail": "Constellation_Yakan_Offering.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yakan_Offering"
+        }, {
+            "object_type": "constellation",
+            "name": "Fox's Mooncall",
+            "level": 2,
+            "thumbnail": "Constellation_Fox's_Mooncall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fox's_Mooncall"
+        }, {
+            "object_type": "constellation",
+            "name": "The Seven Glamours",
+            "level": 3,
+            "thumbnail": "Constellation_The_Seven_Glamours.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Seven_Glamours"
+        }, {
+            "object_type": "constellation",
+            "name": "Sakura Channeling",
+            "level": 4,
+            "thumbnail": "Constellation_Sakura_Channeling.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sakura_Channeling"
+        }, {
+            "object_type": "constellation",
+            "name": "Mischievous Teasing",
+            "level": 5,
+            "thumbnail": "Constellation_Mischievous_Teasing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mischievous_Teasing"
+        }, {
+            "object_type": "constellation",
+            "name": "Forbidden Art: Daisesshou",
+            "level": 6,
+            "thumbnail": "Constellation_Forbidden_Art_Daisesshou.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Forbidden_Art:_Daisesshou"
+        }],
         "thumbnail": "Character_Yae_Miko_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Yae_Miko"
     }, {

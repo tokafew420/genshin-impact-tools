@@ -1,5 +1,5 @@
 {
-    "version": "2022-02-14",
+    "version": "2022-02-16",
     "data": [{
         "object_type": "weapon",
         "name": "\"The Catch\"",
@@ -448,6 +448,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Mouun's_Moon.png",
         "link": "https://genshin-impact.fandom.com/wiki/Mouun's_Moon"
+    }, {
+        "object_type": "weapon",
+        "name": "Oathsworn Eye",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Oathsworn_Eye.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Oathsworn_Eye"
     }, {
         "object_type": "weapon",
         "name": "Old Merc's Pal",

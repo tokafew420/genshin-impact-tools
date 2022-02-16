@@ -1,5 +1,5 @@
 {
-    "version": "2022-02-14",
+    "version": "2022-02-16",
     "data": [{
         "name": "Overlooking View",
         "type": "Achievement",
@@ -1450,6 +1450,13 @@
         "reward": 5,
         "link": ""
     }, {
+        "name": "Hidden in Plain Sight",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Help Sango and Ryuuji solve the case.",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "Liyue Ichiban",
         "type": "Achievement",
         "category": "Wonders of the World",
@@ -1531,13 +1538,6 @@
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Return the wards needed for the Cleansing Ritual.",
-        "reward": 5,
-        "link": ""
-    }, {
-        "name": "Hidden in Plain Sight",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Help Sango and Ryuuji solve the case.",
         "reward": 5,
         "link": ""
     }, {

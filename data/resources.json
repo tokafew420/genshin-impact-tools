@@ -1,5 +1,5 @@
 {
-    "version": "2022-01-05",
+    "version": "2022-02-16",
     "data": [{
         "object_type": "item",
         "name": "Primogem",
@@ -1726,6 +1726,39 @@
         "source": ["Signora"],
         "thumbnail": "Item_Ashen_Heart.png",
         "link": "https://genshin-impact.fandom.com/wiki/Ashen_Heart"
+    }, {
+        "object_type": "item",
+        "group_type": "raiden-material",
+        "name": "Mudra of the Malefic General",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Inazuma",
+        "source": ["End of the Oneiric Euthymia"],
+        "thumbnail": "Item_Mudra_of_the_Malefic_General.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mudra_of_the_Malefic_General"
+    }, {
+        "object_type": "item",
+        "group_type": "raiden-material",
+        "name": "Tears of the Calamitous God",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Inazuma",
+        "source": ["End of the Oneiric Euthymia"],
+        "thumbnail": "Item_Tears_of_the_Calamitous_God.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tears_of_the_Calamitous_God"
+    }, {
+        "object_type": "item",
+        "group_type": "raiden-material",
+        "name": "The Meaning of Aeons",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Inazuma",
+        "source": ["End of the Oneiric Euthymia"],
+        "thumbnail": "Item_The_Meaning_of_Aeons.png",
+        "link": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Aeons"
     }, {
         "object_type": "item",
         "group_type": "special-item",
