@@ -1,5 +1,5 @@
 {
-    "version": "2022-02-16",
+    "version": "2022-02-19",
     "data": [{
         "name": "Overlooking View",
         "type": "Achievement",
@@ -1154,6 +1154,41 @@
         "category": "Wonders of the World",
         "description": "Defeat Signora without destroying either her Hearts of Flame or Eyes of Frost.",
         "reward": 10,
+        "link": ""
+    }, {
+        "name": "Inugami's End",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Destroy two Rifthound Skulls within a short time.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Hard Landing",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Bring a climbing Bathysmal Vishap down.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Impeccable Judgement",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Only shoot down your real opponent...",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Beware of Angry Dog",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Defeat a roaring Rifthound.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Basically Harmless",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Defeat a Specter that has not accumulated any Fury.",
+        "reward": 5,
         "link": ""
     }, {
         "name": "The End of the Beginning",
