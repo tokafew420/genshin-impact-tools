@@ -2509,6 +2509,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Haran Geppaku Futsu",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Gloomy Statuette"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": ""
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": ""
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Narukami's Wisdom"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Narukami's Joy"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Narukami's Affection"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Narukami's Valor"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Harbinger of Dawn",
         "materials": [{
             "type": "Common Ascension Materials",

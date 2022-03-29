@@ -785,6 +785,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Kamisato Ayato",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Mudra of the Malefic General"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Elegance"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Elegance"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Elegance"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Keqing",
         "materials": [{
             "type": "Common Ascension Materials",

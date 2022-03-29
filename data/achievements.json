@@ -1492,6 +1492,13 @@
         "reward": 5,
         "link": ""
     }, {
+        "name": "Is There But One Truth...?",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Witness Ryuuji's tale.",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "Liyue Ichiban",
         "type": "Achievement",
         "category": "Wonders of the World",
@@ -1573,13 +1580,6 @@
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Return the wards needed for the Cleansing Ritual.",
-        "reward": 5,
-        "link": ""
-    }, {
-        "name": "Is There But One Truth...?",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Witness Ryuuji's tale.",
         "reward": 5,
         "link": ""
     }, {

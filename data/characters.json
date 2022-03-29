@@ -1608,6 +1608,55 @@
         "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayaka"
     }, {
         "object_type": "character",
+        "name": "Kamisato Ayato",
+        "type": "Character",
+        "display_name": "Ayato",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Kamisato Art: Marobashi",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Kamisato_Art_Marobashi.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Marobashi"
+        }, {
+            "object_type": "talent",
+            "name": "Kamisato Art: Kyouka",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Kamisato_Art_Kyouka.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Kyouka"
+        }, {
+            "object_type": "talent",
+            "name": "Kamisato Art: Suiyuu",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Kamisato_Art_Suiyuu.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Suiyuu"
+        }, {
+            "object_type": "talent",
+            "name": "Kamisato Art: Daily Cooking",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Kamisato_Art_Daily_Cooking.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Daily_Cooking"
+        }, {
+            "object_type": "talent",
+            "name": "Kamisato Art: Michiyuku Hagetsu",
+            "type": "Passive",
+            "thumbnail": "Talent_Hydro_Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Michiyuku_Hagetsu"
+        }, {
+            "object_type": "talent",
+            "name": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+            "type": "Passive",
+            "thumbnail": "Talent_Hydro_Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Mine_Wo_Matoishi_Kiyotaki"
+        }],
+        "constellations": [],
+        "thumbnail": "Character_Kamisato_Ayato_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayato"
+    }, {
+        "object_type": "character",
         "name": "Keqing",
         "type": "Character",
         "rarity": 5,

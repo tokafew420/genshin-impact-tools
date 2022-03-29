@@ -1563,6 +1563,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Concealed_Talon"
     }, {
         "object_type": "item",
+        "name": "Gloomy Statuette",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Abyss Elites",
+        "rarity": 2,
+        "source": ["Abyss Heralds", "Abyss Lectors"],
+        "thumbnail": "Item_Gloomy_Statuette.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Gloomy_Statuette"
+    }, {
+        "object_type": "item",
         "group_type": "dvalin-material",
         "name": "Dvalin's Plume",
         "type": "Elite Boss Material",
