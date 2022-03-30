@@ -1626,13 +1626,15 @@
             "name": "Kamisato Art: Kyouka",
             "type": "Elemental Skill",
             "thumbnail": "Talent_Kamisato_Art_Kyouka.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Kyouka"
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Kyouka",
+            "constellation": 3
         }, {
             "object_type": "talent",
             "name": "Kamisato Art: Suiyuu",
             "type": "Elemental Burst",
             "thumbnail": "Talent_Kamisato_Art_Suiyuu.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Suiyuu"
+            "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Suiyuu",
+            "constellation": 5
         }, {
             "object_type": "talent",
             "name": "Kamisato Art: Daily Cooking",
@@ -1652,7 +1654,43 @@
             "thumbnail": "Talent_Hydro_Unknown.png",
             "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Art:_Mine_Wo_Matoishi_Kiyotaki"
         }],
-        "constellations": [],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Kyouka Fuushi",
+            "level": 1,
+            "thumbnail": "Constellation_Kyouka_Fuushi.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kyouka_Fuushi"
+        }, {
+            "object_type": "constellation",
+            "name": "World Source",
+            "level": 2,
+            "thumbnail": "Constellation_World_Source.png",
+            "link": "https://genshin-impact.fandom.com/wiki/World_Source"
+        }, {
+            "object_type": "constellation",
+            "name": "To Admire The Flowers",
+            "level": 3,
+            "thumbnail": "Constellation_To_Admire_The_Flowers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Admire_The_Flowers"
+        }, {
+            "object_type": "constellation",
+            "name": "Endless Flow",
+            "level": 4,
+            "thumbnail": "Constellation_Endless_Flow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Endless_Flow"
+        }, {
+            "object_type": "constellation",
+            "name": "Bansui Ichiro",
+            "level": 5,
+            "thumbnail": "Constellation_Bansui_Ichiro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bansui_Ichiro"
+        }, {
+            "object_type": "constellation",
+            "name": "Boundless Origin",
+            "level": 6,
+            "thumbnail": "Constellation_Boundless_Origin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Boundless_Origin"
+        }],
         "thumbnail": "Character_Kamisato_Ayato_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayato"
     }, {

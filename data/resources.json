@@ -1573,6 +1573,26 @@
         "link": "https://genshin-impact.fandom.com/wiki/Gloomy_Statuette"
     }, {
         "object_type": "item",
+        "name": "Dark Statuette",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Abyss Elites",
+        "rarity": 3,
+        "source": ["Abyss Heralds", "Abyss Lectors"],
+        "thumbnail": "Item_Dark_Statuette.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dark_Statuette"
+    }, {
+        "object_type": "item",
+        "name": "Deathly Statuette",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Abyss Elites",
+        "rarity": 4,
+        "source": ["Abyss Heralds", "Abyss Lectors"],
+        "thumbnail": "Item_Deathly_Statuette.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Deathly_Statuette"
+    }, {
+        "object_type": "item",
         "group_type": "dvalin-material",
         "name": "Dvalin's Plume",
         "type": "Elite Boss Material",
