@@ -1891,6 +1891,209 @@
         "reward": 10,
         "link": ""
     }, {
+        "name": "It's Yesterday Once More",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Active 10/30/60 tunes in the Serenitea Pot using the Euphonium Unbound furnishing series.",
+        "reward": [5, 10, 20],
+        "link": ""
+    }, {
+        "name": "The Lost Valley",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Unlock The Lost Valley.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Chasm Mining Records",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Read all text fragments related to mining in The Chasm.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "People of the Valley of Life",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Find the shriveled seed and do not eat it rashly.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Crede Tenebrae",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Open the secret chamber in the ruins.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Nine-Word Rumor",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Find all the secret messages.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Den of Thieves",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Find the Treasure Hoarder stash.",
+        "reward": 10,
+        "link": ""
+    }, {
+        "name": "Ding Ding Ding, We Have a Winner! Again!",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Get three treasure chests and pass Old Chou's treasure hunt game.",
+        "reward": 10,
+        "link": ""
+    }, {
+        "name": "Of the Human Heart Many Essays Written",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Complete all ecological surveys and gain the recommendation letter from Khedive.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "If Not Us, Then Who?",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Collect the letters of the Fatui in The Chasm.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Maintain Safety Distance",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Use the Safe Blasting Mechanism 2156 to clear the path ahead.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Birth Pains of the Dark Fog",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Defeat the thing that emerged from the dark fog.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Alchemistake",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Rescue Clitopho",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Valor's Afterglow",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Where lies the true meaning of adventure?",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Not for Long-Term Consumption",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Find Uncle He, the missing miner, in The Chasm.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Mushrooms That Asks Too Much",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Complete Xamaran's commission in The Chasm.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Millelith Shall Never Be Moved",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Collect all the offerings the Millelith left behind and obtain the treasure.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Jack of No Trades",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Get to know the story of Tang Wuchou, hero of the cliffs.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Well Done, Stierlitz!",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Help Yanbo complete the Millelith's mission.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Yet the Darkness Did Not Overcome It...",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Use the Lumenstone's Blooming Light to clear the crystallized darkness on an Oozing Concretion for the first time.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "\"...Smells Like Asphalt.\"",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Be brought down by the contaminants within the black mud for the first time.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Light Up the Dark",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Send forth some light.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "\"All We Need Is Some Firewood and Some Vinegar...\"",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "There is not just one secret path to the surface.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Tome of Taliesin",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Obtain Taliesin's gift.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Overflowing Light",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Destroy 2 Oozing Concretions with 1 Blooming Light during a battle against the Ruin Serpent.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "When One Gazes Into the Abyss...",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Though you are reunited with Dain, the Abyss is watching...",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Beautiful and Damned",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Learn the secret behind the Black Serpent Knights and the hilichurls.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Will to Live and the Depths of Lamentation",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Defeat the Abyss Herald.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "May Glory Go With You",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Complete \"Requiem of the Echoing Depths\"",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "Fantastic Voyage: Prologue",
         "type": "Achievement",
         "category": "Memories of the Heart",
@@ -2668,6 +2871,62 @@
         "reward": 10,
         "link": ""
     }, {
+        "name": "Salt for My Foes, and Water for Me",
+        "type": "Achievement",
+        "category": "Challenger: Series V",
+        "description": "Obtain at least three healing orbs fired from the \"water droplets\" during the Hydro Hypostasis fight.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "The Fraught Return",
+        "type": "Achievement",
+        "category": "Challenger: Series V",
+        "description": "Stop the Hydro Hypostasis from reviving itself without destroying any of the \"water droplets\" by placing obstacles or repelling them.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Moment of Destruction",
+        "type": "Achievement",
+        "category": "Challenger: Series V",
+        "description": "Defeat Signora without using any Crimson Lotus Moths.",
+        "reward": 10,
+        "link": ""
+    }, {
+        "name": "Electric Escape",
+        "type": "Achievement",
+        "category": "Challenger: Series V",
+        "description": "Defeat a Thunder Manifestation without being hit by its homing thunder cage attack.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Radio Silence",
+        "type": "Achievement",
+        "category": "Challenger: Series V",
+        "description": "Get locked on by the Thunder Manifestation before you can attack it.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Swimming Prohibited",
+        "type": "Achievement",
+        "category": "Challenger: Series V",
+        "description": "Defeat the Bathysmal Vishap Herd without allowing them to dive into the water.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Death Proof",
+        "type": "Achievement",
+        "category": "Challenger: Series V",
+        "description": "Dodge one entire round of the Baleful Vajra's destructive waves during one battle with Magatsu Mitake Narukami no Mikoto.",
+        "reward": 10,
+        "link": ""
+    }, {
+        "name": "Ouroboros",
+        "type": "Achievement",
+        "category": "Challenger: Series V",
+        "description": "Destroy Oozing Concretions to paralyze the Ruin Serpent while it is gathering energy.",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "Down We Go",
         "type": "Achievement",
         "category": "Domains and Spiral Abyss: Series I",
@@ -3330,6 +3589,69 @@
         "type": "Achievement",
         "category": "The Light of Day",
         "description": "Obtain the coral branch that Tsukuyo requested.",
+        "reward": 10,
+        "link": ""
+    }, {
+        "name": "Chasm Conqueror",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Light up The Chasm surface map.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Perilous Plunge",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Light up The Chasm: Underground Mines map.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Into the Depths",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Unlock all Teleport Waypoints in The Chasm and its Underground Mines.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Gorge Guide",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Follow 6/12/24 Seelie in The Chasm to their Seelie Courts.",
+        "reward": [5, 10, 20],
+        "link": ""
+    }, {
+        "name": "Chasm Treasure Hunter",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Open 50/100/200 chests in The Chasm.",
+        "reward": [5, 10, 20],
+        "link": ""
+    }, {
+        "name": "Chasm Adventurer",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Complete 3/6/12 Open World mechanism-activated Time Trial Challenges in The Chasm.",
+        "reward": [5, 10, 20],
+        "link": ""
+    }, {
+        "name": "Arch-Illuminator",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Enhance the Lumenstone Adjuvant to its highest possible level.",
+        "reward": 20,
+        "link": ""
+    }, {
+        "name": "\"When the Seal Is Broken...\"",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Remove the obstacles to your entry into the mines.",
+        "reward": 10,
+        "link": ""
+    }, {
+        "name": "Exploration Underway",
+        "type": "Achievement",
+        "category": "Chasmlighter",
+        "description": "Complete the exploration commission from the Ministry of Civil Affairs.",
         "reward": 10,
         "link": ""
     }]
