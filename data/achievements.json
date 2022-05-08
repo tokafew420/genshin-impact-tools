@@ -988,6 +988,13 @@
         "reward": 5,
         "link": ""
     }, {
+        "name": "The Tome of Taliesin",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Obtain Taliesin's gift.",
+        "reward": 5,
+        "link": ""
+    }, {
         "name": "Light Up the Dark",
         "type": "Achievement",
         "category": "Wonders of the World",
@@ -1349,6 +1356,13 @@
         "type": "Achievement",
         "category": "Wonders of the World",
         "description": "Defeat a Specter that has not accumulated any Fury.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Overflowing Light",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Destroy 2 Oozing Concretions with 1 Blooming Light during a battle against the Ruin Serpent.",
         "reward": 5,
         "link": ""
     }, {
@@ -2050,20 +2064,6 @@
         "category": "Wonders of the World",
         "description": "Complete \"The Crane Returns on the Wind.\"",
         "reward": 10,
-        "link": ""
-    }, {
-        "name": "The Tome of Taliesin",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Obtain Taliesin's gift.",
-        "reward": 5,
-        "link": ""
-    }, {
-        "name": "Overflowing Light",
-        "type": "Achievement",
-        "category": "Wonders of the World",
-        "description": "Destroy 2 Oozing Concretions with 1 Blooming Light during a battle against the Ruin Serpent.",
-        "reward": 5,
         "link": ""
     }, {
         "name": "When One Gazes Into the Abyss...",

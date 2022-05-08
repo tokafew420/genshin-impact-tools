@@ -462,6 +462,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Riftborn_Regalia"
     }, {
         "object_type": "item",
+        "name": "Runic Fang",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Liyue",
+        "source": ["Ruin Serpent"],
+        "thumbnail": "Item_Runic_Fang.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Runic_Fang"
+    }, {
+        "object_type": "item",
         "name": "Storm Beads",
         "type": "Boss Material",
         "category": "Character Development Items",
@@ -1291,6 +1301,36 @@
         "source": ["Specters"],
         "thumbnail": "Item_Spectral_Nucleus.png",
         "link": "https://genshin-impact.fandom.com/wiki/Spectral_Nucleus"
+    }, {
+        "object_type": "item",
+        "name": "Fungal Spores",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fungal Spore Powder",
+        "rarity": 1,
+        "source": ["Floating Fungi", "Floating Hydro Fungus"],
+        "thumbnail": "Item_Fungal_Spores.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fungal_Spores"
+    }, {
+        "object_type": "item",
+        "name": "Luminescent Pollen",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fungal Spore Powder",
+        "rarity": 2,
+        "source": ["Floating Fungi", "Floating Hydro Fungus"],
+        "thumbnail": "Item_Luminescent_Pollen.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Luminescent_Pollen"
+    }, {
+        "object_type": "item",
+        "name": "Crystalline Cyst Dust",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fungal Spore Powder",
+        "rarity": 3,
+        "source": ["Floating Fungi", "Floating Hydro Fungus"],
+        "thumbnail": "Item_Crystalline_Cyst_Dust.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Crystalline_Cyst_Dust"
     }, {
         "object_type": "item",
         "name": "Heavy Horn",
