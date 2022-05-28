@@ -4014,6 +4014,55 @@
         "link": "https://genshin-impact.fandom.com/wiki/Yanfei"
     }, {
         "object_type": "character",
+        "name": "Yelan",
+        "type": "Character",
+        "display_name": "Yelan",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Bow",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Stealthy Bowshot",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stealthy_Bowshot"
+        }, {
+            "object_type": "talent",
+            "name": "Lingering Lifeline",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Lingering_Lifeline.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lingering_Lifeline"
+        }, {
+            "object_type": "talent",
+            "name": "Depth-Clarion Dice",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Depth-Clarion_Dice.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Depth-Clarion_Dice"
+        }, {
+            "object_type": "talent",
+            "name": "Yelan's Utility Passive",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Hydro_Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yelan's_Utility_Passive"
+        }, {
+            "object_type": "talent",
+            "name": "Adapt With Ease",
+            "type": "Passive",
+            "thumbnail": "Talent_Hydro_Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Adapt_With_Ease"
+        }, {
+            "object_type": "talent",
+            "name": "Turn Control",
+            "type": "Passive",
+            "thumbnail": "Talent_Hydro_Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Turn_Control"
+        }],
+        "constellations": [],
+        "thumbnail": "Character_Yelan_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Yelan"
+    }, {
+        "object_type": "character",
         "name": "Yoimiya",
         "type": "Character",
         "rarity": 5,
