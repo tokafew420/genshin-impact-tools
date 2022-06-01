@@ -817,6 +817,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Aqua Simulacra",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Spectral Husk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Spectral Heart"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Spectral Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Gloomy Statuette"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dark Statuette"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Deathly Statuette"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Aquila Favonia",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1978,6 +2022,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Fading Twilight",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Hunter's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Agent's Sacrificial Knife"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Inspector's Sacrificial Knife"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Grain of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Piece of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Bit of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Chunk of Aerosiderite"
         }]
     }, {
         "object_type": "ascension-materials",

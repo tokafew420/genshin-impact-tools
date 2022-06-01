@@ -44,6 +44,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Apprentice's_Notes"
     }, {
         "object_type": "weapon",
+        "name": "Aqua Simulacra",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Aqua_Simulacra.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Aqua_Simulacra"
+    }, {
+        "object_type": "weapon",
         "name": "Aquila Favonia",
         "type": "Sword",
         "rarity": 5,
@@ -224,6 +231,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Eye_of_Perception.png",
         "link": "https://genshin-impact.fandom.com/wiki/Eye_of_Perception"
+    }, {
+        "object_type": "weapon",
+        "name": "Fading Twilight",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Fading_Twilight.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fading_Twilight"
     }, {
         "object_type": "weapon",
         "name": "Favonius Codex",
