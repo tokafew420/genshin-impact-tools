@@ -2094,6 +2094,27 @@
         "reward": 10,
         "link": ""
     }, {
+        "name": "No Way Home",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Break through the obstacles and meet up with Xiao in \"Perilous Trail.\"",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Layers of Fear",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Escape the mysterious space at the very bottom of The Chasm successfully.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Of Heart and Soul",
+        "type": "Achievement",
+        "category": "Wonders of the World",
+        "description": "Complete \"Perilous Trail.\"",
+        "reward": 10,
+        "link": ""
+    }, {
         "name": "Fantastic Voyage: Prologue",
         "type": "Achievement",
         "category": "Memories of the Heart",
@@ -2343,6 +2364,27 @@
         "type": "Achievement",
         "category": "Memories of the Heart",
         "description": "Complete the practice session without hitting a single blue scarecrow.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "Arataki Gang Chief Advisor",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Complete \"The Gang's Daily Deeds\" and unlock all endings.",
+        "reward": 20,
+        "link": ""
+    }, {
+        "name": "One More Look!",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Gaze upon the glory that is Kuki Shinobu in a shrine maiden outfit.",
+        "reward": 5,
+        "link": ""
+    }, {
+        "name": "\"Upstairs...\"",
+        "type": "Achievement",
+        "category": "Memories of the Heart",
+        "description": "Be dissuaded before alerting Kujou Sara and Kuki Shinobu.",
         "reward": 5,
         "link": ""
     }, {
