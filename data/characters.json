@@ -1953,6 +1953,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Kujou_Sara"
     }, {
         "object_type": "character",
+        "name": "Kuki Shinobu",
+        "type": "Character",
+        "display_name": "Kuki Shinobu",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Shinobu's Shadowsword",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shinobu's_Shadowsword"
+        }, {
+            "object_type": "talent",
+            "name": "Sanctifying Ring",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Sanctifying_Ring.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sanctifying_Ring",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Gyoei Narukami Kariyama Rite",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Gyoei_Narukami_Kariyama_Rite.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gyoei_Narukami_Kariyama_Rite",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Breaking Free",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Breaking_Free.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Breaking_Free"
+        }, {
+            "object_type": "talent",
+            "name": "Heart's Repose",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Heart's_Repose.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heart's_Repose"
+        }, {
+            "object_type": "talent",
+            "name": "Protracted Prayers",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Protracted_Prayers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Protracted_Prayers"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "To Cloister Compassion",
+            "level": 1,
+            "thumbnail": "Constellation_To_Cloister_Compassion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Cloister_Compassion"
+        }, {
+            "object_type": "constellation",
+            "name": "To Forsake Fortune",
+            "level": 2,
+            "thumbnail": "Constellation_To_Forsake_Fortune.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Forsake_Fortune"
+        }, {
+            "object_type": "constellation",
+            "name": "To Sequester Sorrow",
+            "level": 3,
+            "thumbnail": "Constellation_To_Sequester_Sorrow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Sequester_Sorrow"
+        }, {
+            "object_type": "constellation",
+            "name": "To Sever Sealing",
+            "level": 4,
+            "thumbnail": "Constellation_To_Sever_Sealing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Sever_Sealing"
+        }, {
+            "object_type": "constellation",
+            "name": "To Cease Courtesies",
+            "level": 5,
+            "thumbnail": "Constellation_To_Cease_Courtesies.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Cease_Courtesies"
+        }, {
+            "object_type": "constellation",
+            "name": "To Ward Weakness",
+            "level": 6,
+            "thumbnail": "Constellation_To_Ward_Weakness.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Ward_Weakness"
+        }],
+        "thumbnail": "Character_Kuki_Shinobu_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kuki_Shinobu"
+    }, {
+        "object_type": "character",
         "name": "Lisa",
         "type": "Character",
         "rarity": 4,
