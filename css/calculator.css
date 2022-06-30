@@ -32,3 +32,16 @@ body {
 #calculator-character-select-table thead th {
     border-bottom-color: inherit;
 }
+
+#import {
+    position: relative;
+    font-size: .875rem;
+    padding-bottom: .1rem;
+    margin-bottom: 4px;
+}
+#unselectAll {
+    position: relative;
+    font-size: .875rem;
+    padding-bottom: .1rem;
+    margin-bottom: 2px;
+}

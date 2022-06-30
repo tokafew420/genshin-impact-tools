@@ -453,4 +453,73 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
         } else {
             app.shown = {};
         }
+
+        $('#import').on('click', async () => {
+            const options = {
+                types: [{
+                    description: "GOOD Json",
+                    accept: {
+                        'application/json': ['.json']
+                    }
+                }],
+                excludeAcceptAllOption: true,
+                multiple: false
+            };
+
+            const file = await app.getFile(options);
+            if (!file) return;
+
+            const json = JSON.parse(await file.text());
+
+            if (json.format === "GOOD")
+            {
+                app.selections = [];
+                json.characters.forEach((gc) => {
+                    const name = gc.key.replace(/([a-z])([A-Z])/g, '$1 $2');
+                    const character = app.getByName(characters, name);
+                    if (!character) return;
+
+                    let selection = app.getByName(app.selections, name);
+                    if (!selection) {
+                        selection = {
+                            name: name,
+                            selected: false,
+                            currentLvl: gc.level,
+                            currentAscended: false, /// TODO
+                            goalLvl: 90,
+                            goalAscended: true,
+                            constellation: gc.constellation,
+                            talents: []
+                        };
+
+                        character.talents.forEach((talent) => {
+                            const type2good = {
+                                'Normal Attack': 'auto',
+                                'Elemental Skill': 'skill',
+                                'Elemental Burst': 'burst'
+                            };
+                            if (!type2good[talent.type])
+                                return;
+
+                            selection.talents.push({
+                                name: talent.name,
+                                currentLvl: gc.talent[type2good[talent.type]],
+                                goalLvl: 9,
+                                constellation: talent.constellation
+                            });
+                        });
+                        app.selections.push(selection);
+                        app.selections.sort(app.sortByName);
+                    }
+                    selection.selected = false;
+                    $(`[data-resource-id="${app.id(name)}"]`, $characterSelectContainer).click();
+                });
+            }
+        });
+
+        $('#unselectAll').on('click', () => {
+            app.selections.forEach((selection) => {
+                $(`[data-resource-id="${app.id(selection.name)}"]`, $characterSelectContainer).click();
+            });
+        });
     });
