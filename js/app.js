@@ -406,6 +406,16 @@
         return collection;
     };
 
+    app.getFile = async function (options) {
+        options = options || { multiple: false };
+        try {
+            const [fileHandle] = await window.showOpenFilePicker(options);
+            return await fileHandle.getFile();
+        } catch (e) {
+            return null;
+        }
+    }
+
     // Init
     $(() => {
         $('[data-search-target]').each(function () {
