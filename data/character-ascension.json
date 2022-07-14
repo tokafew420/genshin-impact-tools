@@ -1478,6 +1478,10 @@
             "name": "Marionette Core"
         }, {
             "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vayuda Turquoise Sliver"
+        }, {
+            "type": "Character Ascension Materials",
             "rarity": 3,
             "name": "Vayuda Turquoise Fragment"
         }, {
@@ -1544,6 +1548,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Qingxin"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Shikanoin Heizou",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Runic Fang"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vayuda Turquoise Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vayuda Turquoise Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vayuda Turquoise Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vayuda Turquoise Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Onikabuto"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -2028,6 +2072,10 @@
             "type": "Boss Material",
             "rarity": 4,
             "name": "Smoldering Pearl"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Agnidus Agate Sliver"
         }, {
             "type": "Character Ascension Materials",
             "rarity": 3,

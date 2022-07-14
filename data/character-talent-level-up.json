@@ -1297,6 +1297,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Shikanoin Heizou",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "The Meaning of Aeons"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Transience"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Transience"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Transience"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Sucrose",
         "materials": [{
             "type": "Common Ascension Materials",

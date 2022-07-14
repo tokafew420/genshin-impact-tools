@@ -366,6 +366,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Iron_Sting"
     }, {
         "object_type": "weapon",
+        "name": "Kagotsurube Isshin",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Kagotsurube_Isshin.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kagotsurube_Isshin"
+    }, {
+        "object_type": "weapon",
         "name": "Katsuragikiri Nagamasa",
         "type": "Claymore",
         "rarity": 4,

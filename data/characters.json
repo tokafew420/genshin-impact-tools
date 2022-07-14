@@ -2999,6 +2999,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Shenhe"
     }, {
         "object_type": "character",
+        "name": "Shikanoin Heizou",
+        "type": "Character",
+        "display_name": "Shikanoin Heizou",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Fudou Style Martial Arts",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fudou_Style_Martial_Arts"
+        }, {
+            "object_type": "talent",
+            "name": "Heartstopper Strike",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Heartstopper_Strike.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heartstopper_Strike",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Windmuster Kick",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Windmuster_Kick.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Windmuster_Kick",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Paradoxical Practice",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Paradoxical_Practice.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Paradoxical_Practice"
+        }, {
+            "object_type": "talent",
+            "name": "Penetrative Reasoning",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Penetrative_Reasoning.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Penetrative_Reasoning"
+        }, {
+            "object_type": "talent",
+            "name": "Pre-Existing Guilt",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Cloud_Strider.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pre-Existing_Guilt"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Named Juvenile Casebook",
+            "level": 1,
+            "thumbnail": "Constellation_Named_Juvenile_Casebook.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Named_Juvenile_Casebook"
+        }, {
+            "object_type": "constellation",
+            "name": "Investigative Collection",
+            "level": 2,
+            "thumbnail": "Constellation_Investigative_Collection.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Investigative_Collection"
+        }, {
+            "object_type": "constellation",
+            "name": "Esoteric Puzzle Book",
+            "level": 3,
+            "thumbnail": "Constellation_Esoteric_Puzzle_Book.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Esoteric_Puzzle_Book"
+        }, {
+            "object_type": "constellation",
+            "name": "Tome of Lies",
+            "level": 4,
+            "thumbnail": "Constellation_Tome_of_Lies.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tome_of_Lies"
+        }, {
+            "object_type": "constellation",
+            "name": "Secret Archive",
+            "level": 5,
+            "thumbnail": "Constellation_Secret_Archive.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Secret_Archive"
+        }, {
+            "object_type": "constellation",
+            "name": "Curious Casefiles",
+            "level": 6,
+            "thumbnail": "Constellation_Curious_Casefiles.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Curious_Casefiles"
+        }],
+        "thumbnail": "Character_Shikanoin_Heizou_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Shikanoin_Heizou"
+    }, {
+        "object_type": "character",
         "name": "Sucrose",
         "type": "Character",
         "rarity": 4,

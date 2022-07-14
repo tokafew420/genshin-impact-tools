@@ -33,15 +33,7 @@ body {
     border-bottom-color: inherit;
 }
 
-#import {
-    position: relative;
-    font-size: .875rem;
-    padding-bottom: .1rem;
-    margin-bottom: 4px;
-}
-#unselectAll {
-    position: relative;
-    font-size: .875rem;
-    padding-bottom: .1rem;
-    margin-bottom: 2px;
+#calculator-character-select-table .btn:focus {
+    outline: none;
+    box-shadow: none;
 }

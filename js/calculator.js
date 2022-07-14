@@ -471,8 +471,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
 
             const json = JSON.parse(await file.text());
 
-            if (json.format === "GOOD")
-            {
+            if (json.format === "GOOD") {
                 app.selections = [];
                 json.characters.forEach((gc) => {
                     const name = gc.key.replace(/([a-z])([A-Z])/g, '$1 $2');
@@ -517,9 +516,10 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             }
         });
 
-        $('#unselectAll').on('click', () => {
-            app.selections.forEach((selection) => {
-                $(`[data-resource-id="${app.id(selection.name)}"]`, $characterSelectContainer).click();
-            });
+        $('#select-all', $characterSelectTable).on('click', () => {
+            $('.card-container[data-resource-type="Character"]:not(.selected)', $characterSelectContainer).click();
+        });
+        $('#unselect-all', $characterSelectTable).on('click', () => {
+            $('.card-container.selected[data-resource-type="Character"]', $characterSelectContainer).click();
         });
     });

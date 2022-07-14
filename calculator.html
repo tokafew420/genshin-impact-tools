@@ -46,7 +46,7 @@
                     <thead>
                       <tr>
                         <th>
-                          <div>
+                          <div class="d-flex">
                             <span class="text-light me-2">Show:</span>
                             <div class="form-check form-check-inline">
                               <input class="form-check-input show-toggle" type="checkbox" id="show-pyro" data-type="Pyro" checked />
@@ -76,8 +76,12 @@
                               <input class="form-check-input show-toggle" type="checkbox" id="show-geo" data-type="Geo" checked />
                               <label class="form-check-label" for="show-geo">Geo</label>
                             </div>
-                            <button class="btn btn-primary" type="button" id="import">Import</button>
-                            <button class="btn btn-danger" type="button" id="unselectAll">Unselect All</button>
+                            <span class="mx-auto"></span>
+                            <div class="btn-group btn-group-sm mb-2 me-2" role="group" aria-label="Toggle All Buttons">
+                              <button class="btn btn-sm btn-success" type="button" id="select-all">Select All</button>
+                              <button class="btn btn-sm btn-danger" type="button" id="unselect-all">Unselect All</button>
+                            </div>
+                            <button class="btn btn-sm btn-primary mb-2" type="button" id="import">Import</button>
                           </div>
                           <div>
                             <div class="input-group input-group-sm">
