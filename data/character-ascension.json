@@ -471,6 +471,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Collei",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Majestic Hooked Beak"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Nagadus Emerald Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Nagadus Emerald Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Nagadus Emerald Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Nagadus Emerald Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Rukkhashava Mushrooms"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Diluc",
         "materials": [{
             "type": "Boss Material",
@@ -1708,6 +1748,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Fluorescent Fungus"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Tighnari",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Majestic Hooked Beak"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Nagadus Emerald Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Nagadus Emerald Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Nagadus Emerald Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Nagadus Emerald Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Nilotpala Lotus"
         }]
     }, {
         "object_type": "ascension-materials",

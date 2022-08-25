@@ -212,6 +212,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Emerald_Orb"
     }, {
         "object_type": "weapon",
+        "name": "End of the Line",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_End_of_the_Line.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Weapon_End_of_the_Line"
+    }, {
+        "object_type": "weapon",
         "name": "Engulfing Lightning",
         "type": "Polearm",
         "rarity": 5,
@@ -296,6 +303,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Fillet_Blade"
     }, {
         "object_type": "weapon",
+        "name": "Forest Regalia",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Forest_Regalia.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Forest_Regalia"
+    }, {
+        "object_type": "weapon",
         "name": "Freedom-Sworn",
         "type": "Sword",
         "rarity": 5,
@@ -308,6 +322,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Frostbearer.png",
         "link": "https://genshin-impact.fandom.com/wiki/Frostbearer"
+    }, {
+        "object_type": "weapon",
+        "name": "Fruit of Fulfillment",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Fruit_of_Fulfillment.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fruit_of_Fulfillment"
     }, {
         "object_type": "weapon",
         "name": "Hakushin Ring",
@@ -352,6 +373,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Hunter's_Bow"
     }, {
         "object_type": "weapon",
+        "name": "Hunter's Path",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Hunter's_Path.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Hunter's_Path"
+    }, {
+        "object_type": "weapon",
         "name": "Iron Point",
         "type": "Polearm",
         "rarity": 2,
@@ -385,6 +413,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Kagura's_Verity.png",
         "link": "https://genshin-impact.fandom.com/wiki/Kagura's_Verity"
+    }, {
+        "object_type": "weapon",
+        "name": "King's Squire",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_King's_Squire.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kitain_King's_Squire"
     }, {
         "object_type": "weapon",
         "name": "Kitain Cross Spear",
@@ -469,6 +504,14 @@
         "rarity": 4,
         "thumbnail": "Weapon_Mitternachts_Waltz.png",
         "link": "https://genshin-impact.fandom.com/wiki/Mitternachts_Waltz"
+    }, {
+        
+        "object_type": "weapon",
+        "name": "Moonpiercer",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Moonpiercer.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Moonpiercer"
     }, {
         "object_type": "weapon",
         "name": "Mouun's Moon",
@@ -665,6 +708,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Sacrificial_Sword.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sacrificial_Sword"
+    }, {
+        "object_type": "weapon",
+        "name": "Sapwood Blade",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Sapwood_Blade.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sapwood_Blade"
     }, {
         "object_type": "weapon",
         "name": "Seasoned Hunter's Bow",

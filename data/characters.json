@@ -653,6 +653,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Chongyun"
     }, {
         "object_type": "character",
+        "name": "Collei",
+        "type": "Character",
+        "display_name": "Collei",
+        "rarity": 4,
+        "element": "Dendro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Supplicant's Bowmanship",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Supplicant's_Bowmanship"
+        }, {
+            "object_type": "talent",
+            "name": "Floral Brush",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Floral_Brush.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Floral_Brush",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Trump-Card Kitty",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Trump-Card_Kitty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Trump-Card_Kitty",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Floral Sidewinder",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Floral_Sidewinder.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Floral_Sidewinder"
+        }, {
+            "object_type": "talent",
+            "name": "The Languid Wood",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_The_Languid_Wood.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Languid_Wood"
+        }, {
+            "object_type": "talent",
+            "name": "Gliding Champion of Sumeru",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Gliding_Champion_of_Sumeru.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gliding_Champion_of_Sumeru"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Deepwood Patrol",
+            "level": 1,
+            "thumbnail": "Constellation_Deepwood_Patrol.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Deepwood_Patrol"
+        }, {
+            "object_type": "constellation",
+            "name": "Through Hill and Copse",
+            "level": 2,
+            "thumbnail": "Constellation_Through_Hill_and_Copse.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Through_Hill_and_Copse"
+        }, {
+            "object_type": "constellation",
+            "name": "Scent of Summer",
+            "level": 3,
+            "thumbnail": "Constellation_Scent_of_Summer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Scent_of_Summer"
+        }, {
+            "object_type": "constellation",
+            "name": "Gift of the Woods",
+            "level": 4,
+            "thumbnail": "Constellation_Gift_of_the_Woods.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gift_of_the_Woods"
+        }, {
+            "object_type": "constellation",
+            "name": "All Embers",
+            "level": 5,
+            "thumbnail": "Constellation_All_Embers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_Embers"
+        }, {
+            "object_type": "constellation",
+            "name": "Forest of Falling Arrows",
+            "level": 6,
+            "thumbnail": "Constellation_Forest_of_Falling_Arrows.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Forest_of_Falling_Arrows"
+        }],
+        "thumbnail": "Character_Collei_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Collei"
+    }, {
+        "object_type": "character",
         "name": "Diluc",
         "type": "Character",
         "rarity": 5,
@@ -3345,6 +3432,93 @@
         "link": "https://genshin-impact.fandom.com/Thoma"
     }, {
         "object_type": "character",
+        "name": "Tighnari",
+        "type": "Character",
+        "display_name": "Tighnari",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Khanda Barrier-Buster",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Khanda_Barrier-Buster"
+        }, {
+            "object_type": "talent",
+            "name": "Vijnana-Phala Mine",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Vijnana-Phala_Mine.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Vijnana-Phala_Mine",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Fashioner's Tanglevine Shaft",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Fashioner's_Tanglevine_Shaft.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fashioner's_Tanglevine_Shaft",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Keen Sight",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Keen_Sight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Keen_Sight"
+        }, {
+            "object_type": "talent",
+            "name": "Scholarly Blade",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Scholarly_Blade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Scholarly_Blade"
+        }, {
+            "object_type": "talent",
+            "name": "Encyclopedic Knowledge",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Encyclopedic_Knowledge.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Encyclopedic_Knowledge"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Beginnings Determined at the Roots",
+            "level": 1,
+            "thumbnail": "Constellation_Beginnings_Determined_at_the_Roots.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beginnings_Determined_at_the_Roots"
+        }, {
+            "object_type": "constellation",
+            "name": "Origins Known From the Stem",
+            "level": 2,
+            "thumbnail": "Constellation_Origins_Known_From_the_Stem.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Origins_Known_From_the_Stem"
+        }, {
+            "object_type": "constellation",
+            "name": "Fortunes Read Amongst the Branches",
+            "level": 3,
+            "thumbnail": "Constellation_Fortunes_Read_Amongst_the_Branches.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fortunes_Read_Amongst_the_Branches"
+        }, {
+            "object_type": "constellation",
+            "name": "Withering Glimpsed in the Leaves",
+            "level": 4,
+            "thumbnail": "Constellation_Withering_Glimpsed_in_the_Leaves.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Withering_Glimpsed_in_the_Leaves"
+        }, {
+            "object_type": "constellation",
+            "name": "Comprehension Amidst the Flowers",
+            "level": 5,
+            "thumbnail": "Constellation_Comprehension_Amidst_the_Flowers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Comprehension_Amidst_the_Flowers"
+        }, {
+            "object_type": "constellation",
+            "name": "Karma Adjudged From the Leaden Fruit",
+            "level": 6,
+            "thumbnail": "Constellation_Karma_Adjudged_From_the_Leaden_Fruit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Karma_Adjudged_From_the_Leaden_Fruit"
+        }],
+        "thumbnail": "Character_Tighnari_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tighnari"
+    }, {
+        "object_type": "character",
         "name": "Traveler (Anemo)",
         "type": "Character",
         "rarity": 5,
@@ -3420,6 +3594,86 @@
             "level": 6,
             "thumbnail": "Constellation_Intertwined_Winds.png",
             "link": "https://genshin-impact.fandom.com/wiki/Intertwined_Winds"
+        }],
+        "thumbnail": "Character_Traveler_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Traveler"
+    }, {
+        "object_type": "character",
+        "name": "Traveler (Dendro)",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Sword",
+        "region": "Outlander",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Foreign Fieldcleaver",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foreign_Fieldcleaver"
+        }, {
+            "object_type": "talent",
+            "name": "Razorgrass Blade",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Razorgrass_Blade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Razorgrass_Blade",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Surgent Manifestation",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Surgent_Manifestation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Surgent_Manifestation",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Verdant Overgrowth",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Verdant_Overgrowth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Verdant_Overgrowth"
+        }, {
+            "object_type": "talent",
+            "name": "Verdant Luxury",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Verdant_Luxury.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Verdant_Luxury"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Symbiotic Creeper",
+            "level": 1,
+            "thumbnail": "Constellation_Symbiotic_Creeper.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Symbiotic_Creeper"
+        }, {
+            "object_type": "constellation",
+            "name": "Green Resilience",
+            "level": 2,
+            "thumbnail": "Constellation_Green_Resilience.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Green_Resilience"
+        }, {
+            "object_type": "constellation",
+            "name": "Whirling Weeds",
+            "level": 3,
+            "thumbnail": "Constellation_Whirling_Weeds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Whirling_Weeds"
+        }, {
+            "object_type": "constellation",
+            "name": "Treacle Grass",
+            "level": 4,
+            "thumbnail": "Constellation_Treacle_Grass.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Treacle_Grass"
+        }, {
+            "object_type": "constellation",
+            "name": "Viridian Transience",
+            "level": 5,
+            "thumbnail": "Constellation_Viridian_Transience.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Viridian_Transience"
+        }, {
+            "object_type": "constellation",
+            "name": "Withering Aggregation",
+            "level": 6,
+            "thumbnail": "Constellation_Withering_Aggregation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Withering_Aggregation"
         }],
         "thumbnail": "Character_Traveler_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Traveler"

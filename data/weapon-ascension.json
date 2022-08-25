@@ -1849,6 +1849,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "End of the Line",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Inactivated Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dormant Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Robust Fungal Nucleus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Echo of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Remnant Glow of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Dream of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Olden Days of Scorching Might"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Engulfing Lightning",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2377,6 +2421,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Forest Regalia",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Storage"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Module"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Bolt"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Copper Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Iron Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Talisman of the Forest Dew"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Freedom-Sworn",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2462,6 +2550,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Fruit of Fulfillment",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Gloomy Statuette"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dark Statuette"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Deathly Statuette"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Oasis Garden's Reminiscence"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Oasis Garden's Kindness"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Oasis Garden's Mourning"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Oasis Garden's Truth"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -2717,6 +2849,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Hunter's Path",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Inactivated Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dormant Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Robust Fungal Nucleus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Echo of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Remnant Glow of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Dream of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Olden Days of Scorching Might"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Iron Point",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2922,6 +3098,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Narukami's Valor"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "King's Squire",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Inactivated Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dormant Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Robust Fungal Nucleus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Echo of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Remnant Glow of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Dream of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Olden Days of Scorching Might"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -3450,6 +3670,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Moonpiercer",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Storage"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Module"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Bolt"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Oasis Garden's Reminiscence"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Oasis Garden's Kindness"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Oasis Garden's Mourning"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Oasis Garden's Truth"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -4658,6 +4922,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Sapwood Blade",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Storage"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Module"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Bolt"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Copper Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Iron Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Talisman of the Forest Dew"
         }]
     }, {
         "object_type": "ascension-materials",
