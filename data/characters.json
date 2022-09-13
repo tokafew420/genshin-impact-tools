@@ -1,5 +1,5 @@
 {
-    "version": "2022-02-16",
+    "version": "2022-09-13",
     "data": [{
         "object_type": "character",
         "name": "Albedo",
@@ -910,6 +910,93 @@
         }],
         "thumbnail": "Character_Diona_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Diona"
+    }, {
+        "object_type": "character",
+        "name": "Dori",
+        "type": "Character",
+        "display_name": "Dori",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Marvelous Sword-Dance (Modified)",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Marvelous_Sword-Dance_(Modified)"
+        }, {
+            "object_type": "talent",
+            "name": "Spirit-Warding Lamp: Troubleshooter Cannon",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Spirit-Warding_Lamp_Troubleshooter_Cannon.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit-Warding_Lamp:_Troubleshooter_Cannon",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Alcazarzaray's Exactitude",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Alcazarzaray's_Exactitude.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Alcazarzaray's_Exactitude",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "An Eye for Gold",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_An_Eye_for_Gold.png",
+            "link": "https://genshin-impact.fandom.com/wiki/An_Eye_for_Gold"
+        }, {
+            "object_type": "talent",
+            "name": "Compound Interest",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Compound_Interest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Compound_Interest"
+        }, {
+            "object_type": "talent",
+            "name": "Unexpected Order",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Unexpected_Order.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unexpected_Order"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Additional Investment",
+            "level": 1,
+            "thumbnail": "Constellation_Additional_Investment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Additional_Investment"
+        }, {
+            "object_type": "constellation",
+            "name": "Special Franchise",
+            "level": 2,
+            "thumbnail": "Constellation_Special_Franchise.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Special_Franchise"
+        }, {
+            "object_type": "constellation",
+            "name": "Wonders Never Cease",
+            "level": 3,
+            "thumbnail": "Constellation_Wonders_Never_Cease.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wonders_Never_Cease"
+        }, {
+            "object_type": "constellation",
+            "name": "Discretionary Supplement",
+            "level": 4,
+            "thumbnail": "Constellation_Discretionary_Supplement.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Discretionary_Supplement"
+        }, {
+            "object_type": "constellation",
+            "name": "Value for Mora",
+            "level": 5,
+            "thumbnail": "Constellation_Value_for_Mora.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Value_for_Mora"
+        }, {
+            "object_type": "constellation",
+            "name": "Sprinkling Weight",
+            "level": 6,
+            "thumbnail": "Constellation_Sprinkling_Weight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sprinkling_Weight"
+        }],
+        "thumbnail": "Character_Dori_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dori"
     }, {
         "object_type": "character",
         "name": "Eula",

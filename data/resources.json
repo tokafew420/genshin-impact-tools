@@ -1,5 +1,5 @@
 {
-    "version": "2022-02-16",
+    "version": "2022-09-13",
     "data": [{
         "object_type": "item",
         "name": "Primogem",
@@ -438,6 +438,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Everflame_Seed"
     }, {
         "object_type": "item",
+        "name": "Thunderclap Fruitcore",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Liyue",
+        "source": ["Electro Regisvines"],
+        "thumbnail": "Item_Thunderclap_Fruitcore.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Thunderclap_Fruitcore"
+    }, {
+        "object_type": "item",
         "name": "Cleansing Heart",
         "type": "Boss Material",
         "category": "Character Development Items",
@@ -606,6 +616,14 @@
         "region": "Liyue",
         "thumbnail": "Item_Jueyun_Chili.png",
         "link": "https://genshin-impact.fandom.com/wiki/Jueyun_Chili"
+    }, {
+        "object_type": "item",
+        "name": "Kalpalata Lotus",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Sumeru",
+        "thumbnail": "Item_Kalpalata_Lotus.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kalpalata_Lotus"
     }, {
         "object_type": "item",
         "name": "Naku Weed",

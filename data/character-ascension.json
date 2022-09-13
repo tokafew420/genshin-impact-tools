@@ -1,5 +1,5 @@
 {
-    "version": "2022-02-14",
+    "version": "2022-09-13",
     "data": [{
         "object_type": "ascension-phases",
         "phases": [{
@@ -588,6 +588,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Calla Lily"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Dori",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Thunderclap Fruitcore"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vajrada Amethyst Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vajrada Amethyst Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vajrada Amethyst Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vajrada Amethyst Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Kalpalata Lotus"
         }]
     }, {
         "object_type": "ascension-materials",
