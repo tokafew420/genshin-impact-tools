@@ -431,6 +431,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Candace",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Light Guiding Tetrahedron"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Varunada Lazurite Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Varunada Lazurite Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Varunada Lazurite Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Varunada Lazurite Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Redcrest"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Chongyun",
         "materials": [{
             "type": "Boss Material",
@@ -508,6 +548,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Rukkhashava Mushrooms"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Cyno",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Thunderclap Fruitcore"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vajrada Amethyst Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vajrada Amethyst Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vajrada Amethyst Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vajrada Amethyst Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Scarab"
         }]
     }, {
         "object_type": "ascension-materials",

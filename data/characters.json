@@ -567,6 +567,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Bennett"
     }, {
         "object_type": "character",
+        "name": "Candace",
+        "type": "Character",
+        "display_name": "Candace",
+        "rarity": 4,
+        "element": "Hydro",
+        "weapon": "Polearm",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Gleaming Spear: Guardian Stance",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gleaming_Spear:_Guardian_Stance"
+        }, {
+            "object_type": "talent",
+            "name": "Sacred Rite: Heron's Sanctum",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Sacred_Rite_Heron's_Sanctum.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sacred_Rite:_Heron's_Sanctum",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Sacred Rite: Wagtail's Tide",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Sacred_Rite_Wagtail's_Tide.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sacred_Rite:_Wagtail's_Tide",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Aegis of Crossed Arrows",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Aegis_of_Crossed_Arrows.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Aegis_of_Crossed_Arrows"
+        }, {
+            "object_type": "talent",
+            "name": "Celestial Dome of Sand",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Celestial_Dome_of_Sand.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Celestial_Dome_of_Sand"
+        }, {
+            "object_type": "talent",
+            "name": "To Dawn's First Light",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_To_Dawn's_First_Light.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Dawn's_First_Light"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Returning Heiress of the Scarlet Sands",
+            "level": 1,
+            "thumbnail": "Constellation_Returning_Heiress_of_the_Scarlet_Sands.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Returning_Heiress_of_the_Scarlet_Sands"
+        }, {
+            "object_type": "constellation",
+            "name": "Moon-Piercing Brilliance",
+            "level": 2,
+            "thumbnail": "Constellation_Moon-Piercing_Brilliance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Moon-Piercing_Brilliance"
+        }, {
+            "object_type": "constellation",
+            "name": "Hunter's Supplication",
+            "level": 3,
+            "thumbnail": "Constellation_Hunter's_Supplication.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hunter's_Supplication"
+        }, {
+            "object_type": "constellation",
+            "name": "Sentinel Oath",
+            "level": 4,
+            "thumbnail": "Constellation_Sentinel_Oath.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sentinel_Oath"
+        }, {
+            "object_type": "constellation",
+            "name": "Heterochromatic Gaze",
+            "level": 5,
+            "thumbnail": "Constellation_Heterochromatic_Gaze.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heterochromatic_Gaze"
+        }, {
+            "object_type": "constellation",
+            "name": "The Overflow",
+            "level": 6,
+            "thumbnail": "Constellation_The_Overflow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Overflow"
+        }],
+        "thumbnail": "Character_Candace_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Candace"
+    }, {
+        "object_type": "character",
         "name": "Chongyun",
         "type": "Character",
         "rarity": 4,
@@ -738,6 +825,93 @@
         }],
         "thumbnail": "Character_Collei_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Collei"
+    }, {
+        "object_type": "character",
+        "name": "Cyno",
+        "type": "Character",
+        "display_name": "Cyno",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Invoker's Spear",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Invoker's_Spear"
+        }, {
+            "object_type": "talent",
+            "name": "Secret Rite: Chasmic Soulfarer",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Secret_Rite_Chasmic_Soulfarer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Secret_Rite:_Chasmic_Soulfarer",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Sacred Rite: Wolf's Swiftness",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Sacred_Rite_Wolf's_Swiftness.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sacred_Rite:_Wolf's_Swiftness",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Featherfall Judgment",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Featherfall_Judgment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Featherfall_Judgment"
+        }, {
+            "object_type": "talent",
+            "name": "Authority Over the Nine Bows",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Authority_Over_the_Nine_Bows.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Authority_Over_the_Nine_Bows"
+        }, {
+            "object_type": "talent",
+            "name": "The Gift of Silence",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Gift_of_Silence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Gift_of_Silence"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Ordinance: Unceasing Vigil",
+            "level": 1,
+            "thumbnail": "Constellation_Ordinance_Unceasing_Vigil.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ordinance:_Unceasing_Vigil"
+        }, {
+            "object_type": "constellation",
+            "name": "Ceremony: Homecoming of Spirits",
+            "level": 2,
+            "thumbnail": "Constellation_Ceremony_Homecoming_of_Spirits.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ceremony:_Homecoming_of_Spirits"
+        }, {
+            "object_type": "constellation",
+            "name": "Precept: Lawful Enforcer",
+            "level": 3,
+            "thumbnail": "Constellation_Precept_Lawful_Enforcer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Precept:_Lawful_Enforcer"
+        }, {
+            "object_type": "constellation",
+            "name": "Austerity: Forbidding Guard",
+            "level": 4,
+            "thumbnail": "Constellation_Austerity_Forbidding_Guard.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Austerity:_Forbidding_Guard"
+        }, {
+            "object_type": "constellation",
+            "name": "Funerary Rite: The Passing of Starlight",
+            "level": 5,
+            "thumbnail": "Constellation_Funerary_Rite_The_Passing_of_Starlight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Funerary_Rite:_The_Passing_of_Starlight"
+        }, {
+            "object_type": "constellation",
+            "name": "Raiment: Just Scales",
+            "level": 6,
+            "thumbnail": "Constellation_Raiment_Just_Scales.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Raiment:_Just_Scales"
+        }],
+        "thumbnail": "Character_Cyno_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Cyno"
     }, {
         "object_type": "character",
         "name": "Diluc",

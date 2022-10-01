@@ -538,6 +538,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Majestic_Hooked_Beak"
     }, {
         "object_type": "item",
+        "name": "Light Guiding Tetrahedron",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Sumeru",
+        "source": ["Algorithm of Semi-Intransient Matrix of Overseer Network"],
+        "thumbnail": "Item_Light_Guiding_Tetrahedron.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Light_Guiding_Tetrahedron"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -674,6 +684,14 @@
         "link": "https://genshin-impact.fandom.com/wiki/Qingxin"
     }, {
         "object_type": "item",
+        "name": "Redcrest",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Sumeru",
+        "thumbnail": "Item_Redcrest.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Redcrest"
+    }, {
+        "object_type": "item",
         "name": "Rukkhashava Mushrooms",
         "type": "Local Specialties",
         "category": "Materials",
@@ -696,6 +714,14 @@
         "region": "Inazuma",
         "thumbnail": "Item_Sango_Pearl.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sango_Pearl"
+    }, {
+        "object_type": "item",
+        "name": "Scarab",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Sumeru",
+        "thumbnail": "Item_Scarab.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Scarab"
     }, {
         "object_type": "item",
         "name": "Sea Ganoderma",

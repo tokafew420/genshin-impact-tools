@@ -471,6 +471,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Magic_Guide"
     }, {
         "object_type": "weapon",
+        "name": "Makhaira Aquamarine",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Makhaira_Aquamarine.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Makhaira_Aquamarine"
+    }, {
+        "object_type": "weapon",
         "name": "Mappa Mare",
         "type": "Catalyst",
         "rarity": 4,
@@ -490,6 +497,13 @@
         "rarity": 3,
         "thumbnail": "Weapon_Messenger.png",
         "link": "https://genshin-impact.fandom.com/wiki/Messenger"
+    }, {
+        "object_type": "weapon",
+        "name": "Missive Windspear",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Missive_Windspear.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Missive_Windspear"
     }, {
         "object_type": "weapon",
         "name": "Mistsplitter Reforged",
@@ -827,6 +841,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Staff_of_Homa.png",
         "link": "https://genshin-impact.fandom.com/wiki/Staff_of_Homa"
+    }, {
+        "object_type": "weapon",
+        "name": "Staff of the Scarlet Sands",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Staff_of_the_Scarlet_Sands.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Staff_of_the_Scarlet_Sands"
     }, {
         "object_type": "weapon",
         "name": "Summit Shaper",
