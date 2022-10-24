@@ -415,6 +415,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Kagura's_Verity"
     }, {
         "object_type": "weapon",
+        "name": "Key of Khaj-Nisut",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Key_of_Khaj-Nisut.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Key_of_Khaj-Nisut"
+    }, {
+        "object_type": "weapon",
         "name": "King's Squire",
         "type": "Bow",
         "rarity": 4,
@@ -519,7 +526,6 @@
         "thumbnail": "Weapon_Mitternachts_Waltz.png",
         "link": "https://genshin-impact.fandom.com/wiki/Mitternachts_Waltz"
     }, {
-        
         "object_type": "weapon",
         "name": "Moonpiercer",
         "type": "Polearm",
@@ -955,6 +961,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Vortex_Vanquisher"
     }, {
         "object_type": "weapon",
+        "name": "Wandering Evenstar",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Wandering_Evenstar.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Wandering_Evenstar"
+    }, {
+        "object_type": "weapon",
         "name": "Waster Greatsword",
         "type": "Claymore",
         "rarity": 1,
@@ -1009,5 +1022,12 @@
         "rarity": 5,
         "thumbnail": "Weapon_Wolf's_Gravestone.png",
         "link": "https://genshin-impact.fandom.com/wiki/Wolf's_Gravestone"
+    }, {
+        "object_type": "weapon",
+        "name": "Xiphos' Moonlight",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Xiphos'_Moonlight.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Xiphos'_Moonlight"
     }]
 }

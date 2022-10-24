@@ -3101,6 +3101,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Key of Khaj-Nisut",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Damaged Prism"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Turbid Prism"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Radiant Prism"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Copper Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Iron Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Talisman of the Forest Dew"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "King's Squire",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -6441,6 +6485,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Wandering Evenstar",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Inactivated Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dormant Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Robust Fungal Nucleus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Oasis Garden's Reminiscence"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Oasis Garden's Kindness"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Oasis Garden's Mourning"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Oasis Garden's Truth"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Waster Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -6778,6 +6866,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Xiphos' Moonlight",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Damaged Prism"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Turbid Prism"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Radiant Prism"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Copper Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Iron Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Talisman of the Forest Dew"
         }]
     }]
 }

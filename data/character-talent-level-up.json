@@ -1137,6 +1137,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Nilou",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Tears of the Calamitous God"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Praxis"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Praxis"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Praxis"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Ningguang",
         "materials": [{
             "type": "Common Ascension Materials",

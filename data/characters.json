@@ -2566,6 +2566,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Mona"
     }, {
         "object_type": "character",
+        "name": "Nilou",
+        "type": "Character",
+        "display_name": "Nilou",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Dance of Samser",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_of_Samser"
+        }, {
+            "object_type": "talent",
+            "name": "Dance of Haftkarsvar",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Dance_of_Haftkarsvar.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_of_Haftkarsvar",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Dance_of_Abzendegi_Distant_Dreams,_Listening_Spring.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_of_Abzendegi:_Distant_Dreams,_Listening_Spring",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Court of Dancing Petals",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Court_of_Dancing_Petals.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Court_of_Dancing_Petals"
+        }, {
+            "object_type": "talent",
+            "name": "Dreamy Dance of Aeons",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Dreamy_Dance_of_Aeons.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dreamy_Dance_of_Aeons"
+        }, {
+            "object_type": "talent",
+            "name": "White Jade Lotus",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_White_Jade_Lotus.png",
+            "link": "https://genshin-impact.fandom.com/wiki/White_Jade_Lotus"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Dance of the Waning Moon",
+            "level": 1,
+            "thumbnail": "Constellation_Dance_of_the_Waning_Moon.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_of_the_Waning_Moon"
+        }, {
+            "object_type": "constellation",
+            "name": "The Starry Skies Their Flowers Rain",
+            "level": 2,
+            "thumbnail": "Constellation_The_Starry_Skies_Their_Flowers_Rain.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Starry_Skies_Their_Flowers_Rain"
+        }, {
+            "object_type": "constellation",
+            "name": "Beguiling Shadowstep",
+            "level": 3,
+            "thumbnail": "Constellation_Beguiling_Shadowstep.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beguiling_Shadowstep"
+        }, {
+            "object_type": "constellation",
+            "name": "Fricative Pulse",
+            "level": 4,
+            "thumbnail": "Constellation_Fricative_Pulse.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fricative_Pulse"
+        }, {
+            "object_type": "constellation",
+            "name": "Twirling Light",
+            "level": 5,
+            "thumbnail": "Constellation_Twirling_Light.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Twirling_Light"
+        }, {
+            "object_type": "constellation",
+            "name": "Frostbreaker's Melody",
+            "level": 6,
+            "thumbnail": "Constellation_Frostbreaker's_Melody.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Frostbreaker's_Melody"
+        }],
+        "thumbnail": "Character_Nilou_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Nilou"
+    }, {
+        "object_type": "character",
         "name": "Ningguang",
         "type": "Character",
         "rarity": 4,

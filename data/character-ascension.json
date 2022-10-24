@@ -1351,6 +1351,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Nilou",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Perpetual Caliber"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Varunada Lazurite Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Varunada Lazurite Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Varunada Lazurite Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Varunada Lazurite Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Padisarah"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Ningguang",
         "materials": [{
             "type": "Boss Material",
