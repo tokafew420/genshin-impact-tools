@@ -2566,6 +2566,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Mona"
     }, {
         "object_type": "character",
+        "name": "Nahida",
+        "type": "Character",
+        "display_name": "Nahida",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Akara",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Akara"
+        }, {
+            "object_type": "talent",
+            "name": "All Schemes to Know",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_All_Schemes_to_Know.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_Schemes_to_Know",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Illusory Heart",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Illusory_Heart.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Illusory_Heart",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Compassion Illuminated",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Compassion_Illuminated.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Compassion_Illuminated"
+        }, {
+            "object_type": "talent",
+            "name": "Awakening Elucidated",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Awakening_Elucidated.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Awakening_Elucidated"
+        }, {
+            "object_type": "talent",
+            "name": "On All Things Meditated",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_On_All_Things_Meditated.png",
+            "link": "https://genshin-impact.fandom.com/wiki/On_All_Things_Meditated"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "The Seed of Stored Knowledge",
+            "level": 1,
+            "thumbnail": "Constellation_The_Seed_of_Stored_Knowledge.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Seed_of_Stored_Knowledge"
+        }, {
+            "object_type": "constellation",
+            "name": "The Root of All Fullness",
+            "level": 2,
+            "thumbnail": "Constellation_The_Root_of_All_Fullness.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Root_of_All_Fullness"
+        }, {
+            "object_type": "constellation",
+            "name": "The Shoot of Conscious Attainment",
+            "level": 3,
+            "thumbnail": "Constellation_The_Shoot_of_Conscious_Attainment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Shoot_of_Conscious_Attainment"
+        }, {
+            "object_type": "constellation",
+            "name": "The Stem of Manifest Inference",
+            "level": 4,
+            "thumbnail": "Constellation_The_Stem_of_Manifest_Inference.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Stem_of_Manifest_Inference"
+        }, {
+            "object_type": "constellation",
+            "name": "The Leaves of Enlightening Speech",
+            "level": 5,
+            "thumbnail": "Constellation_The_Leaves_of_Enlightening_Speech.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Leaves_of_Enlightening_Speech"
+        }, {
+            "object_type": "constellation",
+            "name": "The Fruit of Reason's Culmination",
+            "level": 6,
+            "thumbnail": "Constellation_The_Fruit_of_Reason's_Culmination.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Fruit_of_Reason's_Culmination"
+        }],
+        "thumbnail": "Character_Nahida_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Nahida"
+    }, {
+        "object_type": "character",
         "name": "Nilou",
         "type": "Character",
         "display_name": "Nilou",

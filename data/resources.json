@@ -418,6 +418,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Dew_of_Repudiation"
     }, {
         "object_type": "item",
+        "name": "Quelled Creeper",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Sumeru",
+        "source": ["Dendro Hypostases"],
+        "thumbnail": "Item_Quelled_Creeper.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Quelled_Creeper"
+    }, {
+        "object_type": "item",
         "name": "Hoarfrost Core",
         "type": "Boss Material",
         "category": "Character Development Items",
@@ -2190,6 +2200,39 @@
         "source": ["End of the Oneiric Euthymia"],
         "thumbnail": "Item_The_Meaning_of_Aeons.png",
         "link": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Aeons"
+    }, {
+        "object_type": "item",
+        "group_type": "scaramouche-material",
+        "name": "Puppet Strings",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Sumeru",
+        "source": ["Joururi Workshop"],
+        "thumbnail": "Item_Puppet_Strings.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Puppet_Strings"
+    }, {
+        "object_type": "item",
+        "group_type": "scaramouche-material",
+        "name": "Mirror of Mushin",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Sumeru",
+        "source": ["Joururi Workshop"],
+        "thumbnail": "Item_Mirror_of_Mushin.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mirror_of_Mushin"
+    }, {
+        "object_type": "item",
+        "group_type": "scaramouche-material",
+        "name": "Daka's Bell",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Sumeru",
+        "source": ["Joururi Workshop"],
+        "thumbnail": "Item_Daka's_Bell.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Daka's_Bell"
     }, {
         "object_type": "item",
         "group_type": "special-item",

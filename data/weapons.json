@@ -9,6 +9,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/\"The_Catch\""
     }, {
         "object_type": "weapon",
+        "name": "A Thousand Floating Dreams",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_A_Thousand_Floating_Dreams.png",
+        "link": "https://genshin-impact.fandom.com/wiki/A_Thousand_Floating_Dreams"
+    }, {
+        "object_type": "weapon",
         "name": "Akuoumaru",
         "type": "Claymore",
         "rarity": 4,
