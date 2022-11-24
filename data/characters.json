@@ -2388,6 +2388,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Kuki_Shinobu"
     }, {
         "object_type": "character",
+        "name": "Layla",
+        "type": "Character",
+        "display_name": "Layla",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Sword of the Radiant Path",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Cryo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sword_of_the_Radiant_Path"
+        }, {
+            "object_type": "talent",
+            "name": "Nights of Formal Focus",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Nights_of_Formal_Focus.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nights_of_Formal_Focus",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Dream of the Star-Stream Shaker",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Dream_of_the_Star-Stream_Shaker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dream_of_the_Star-Stream_Shaker",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Like Nascent Light",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Like_Nascent_Light.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Like_Nascent_Light"
+        }, {
+            "object_type": "talent",
+            "name": "Sweet Slumber Undisturbed",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Sweet_Slumber_Undisturbed.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sweet_Slumber_Undisturbed"
+        }, {
+            "object_type": "talent",
+            "name": "Shadowy Dream-Signs",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Shadowy_Dream-Signs.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shadowy_Dream-Signs"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Fortress of Fantasy",
+            "level": 1,
+            "thumbnail": "Constellation_Fortress_of_Fantasy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fortress_of_Fantasy"
+        }, {
+            "object_type": "constellation",
+            "name": "Light's Remit",
+            "level": 2,
+            "thumbnail": "Constellation_Light's_Remit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Light's_Remit"
+        }, {
+            "object_type": "constellation",
+            "name": "Secrets of the Night",
+            "level": 3,
+            "thumbnail": "Constellation_Secrets_of_the_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Secrets_of_the_Night"
+        }, {
+            "object_type": "constellation",
+            "name": "Starry Illumination",
+            "level": 4,
+            "thumbnail": "Constellation_Starry_Illumination.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Starry_Illumination"
+        }, {
+            "object_type": "constellation",
+            "name": "Stream of Consciousness",
+            "level": 5,
+            "thumbnail": "Constellation_Stream_of_Consciousness.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stream_of_Consciousness"
+        }, {
+            "object_type": "constellation",
+            "name": "Radiant Soulfire",
+            "level": 6,
+            "thumbnail": "Constellation_Radiant_Soulfire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Radiant_Soulfire"
+        }],
+        "thumbnail": "Character_Layla_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Layla"
+    }, {
+        "object_type": "character",
         "name": "Lisa",
         "type": "Character",
         "rarity": 4,

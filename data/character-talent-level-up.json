@@ -1073,6 +1073,40 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Layla",
+        "materials": [
+            {
+                "type": "Common Ascension Materials",
+                "rarity": 1,
+                "name": "Divining Scroll"
+            }, {
+                "type": "Common Ascension Materials",
+                "rarity": 2,
+                "name": "Sealed Scroll"
+            }, {
+                "type": "Common Ascension Materials",
+                "rarity": 3,
+                "name": "Forbidden Curse Scroll"
+            }, {
+                "type": "Elite Boss Material",
+                "rarity": 5,
+                "name": "Mirror of Mushin"
+            }, {
+                "type": "Talent Level-Up Material",
+                "rarity": 2,
+                "name": "Teachings of Ingenuity"
+            }, {
+                "type": "Talent Level-Up Material",
+                "rarity": 3,
+                "name": "Guide to Ingenuity"
+            }, {
+                "type": "Talent Level-Up Material",
+                "rarity": 4,
+                "name": "Philosophies of Ingenuity"
+            }
+        ]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Lisa",
         "materials": [{
             "type": "Common Ascension Materials",
