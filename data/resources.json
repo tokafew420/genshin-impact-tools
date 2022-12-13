@@ -712,12 +712,12 @@
         "link": "https://genshin-impact.fandom.com/wiki/Qingxin"
     }, {
         "object_type": "item",
-        "name": "Redcrest",
+        "name": "Henna Berry",
         "type": "Local Specialties",
         "category": "Materials",
         "region": "Sumeru",
-        "thumbnail": "Item_Redcrest.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Redcrest"
+        "thumbnail": "Item_Henna_Berry.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Henna_Berry"
     }, {
         "object_type": "item",
         "name": "Rukkhashava Mushrooms",

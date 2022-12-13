@@ -657,6 +657,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Faruzan",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Puppet Strings"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Admonition"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Admonition"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Admonition"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Fischl",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1074,37 +1106,35 @@
     }, {
         "object_type": "talent-level-up-materials",
         "name": "Layla",
-        "materials": [
-            {
-                "type": "Common Ascension Materials",
-                "rarity": 1,
-                "name": "Divining Scroll"
-            }, {
-                "type": "Common Ascension Materials",
-                "rarity": 2,
-                "name": "Sealed Scroll"
-            }, {
-                "type": "Common Ascension Materials",
-                "rarity": 3,
-                "name": "Forbidden Curse Scroll"
-            }, {
-                "type": "Elite Boss Material",
-                "rarity": 5,
-                "name": "Mirror of Mushin"
-            }, {
-                "type": "Talent Level-Up Material",
-                "rarity": 2,
-                "name": "Teachings of Ingenuity"
-            }, {
-                "type": "Talent Level-Up Material",
-                "rarity": 3,
-                "name": "Guide to Ingenuity"
-            }, {
-                "type": "Talent Level-Up Material",
-                "rarity": 4,
-                "name": "Philosophies of Ingenuity"
-            }
-        ]
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Mirror of Mushin"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Ingenuity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Ingenuity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Ingenuity"
+        }]
     }, {
         "object_type": "talent-level-up-materials",
         "name": "Lisa",
@@ -2479,6 +2509,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Ballad"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Wanderer",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Daka's Bell"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Praxis"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Praxis"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Praxis"
         }]
     }, {
         "object_type": "talent-level-up-materials",

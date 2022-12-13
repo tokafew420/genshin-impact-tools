@@ -5957,6 +5957,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Tulaytullah's Remembrance",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Inactivated Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dormant Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Robust Fungal Nucleus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Echo of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Remnant Glow of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Dream of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Olden Days of Scorching Might"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "The Alley Flash",
         "materials": [{
             "type": "Common Ascension Materials",

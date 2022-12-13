@@ -1259,6 +1259,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Eula"
     }, {
         "object_type": "character",
+        "name": "Faruzan",
+        "type": "Character",
+        "display_name": "Faruzan",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Parthian Shot",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Parthian_Shot"
+        }, {
+            "object_type": "talent",
+            "name": "Wind Realm of Nasamjnin",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Wind_Realm_of_Nasamjnin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wind_Realm_of_Nasamjnin",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "The Wind's Secret Ways",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_The_Wind's_Secret_Ways.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Wind's_Secret_Ways",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Impetuous Flow",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Impetuous_Flow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Impetuous_Flow"
+        }, {
+            "object_type": "talent",
+            "name": "Lost Wisdom of the Seven Caverns",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Lost_Wisdom_of_the_Seven_Caverns.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lost_Wisdom_of_the_Seven_Caverns"
+        }, {
+            "object_type": "talent",
+            "name": "Tomes Light the Path",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Tomes_Light_the_Path.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tomes_Light_the_Path"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Truth by Any Means",
+            "level": 1,
+            "thumbnail": "Constellation_Truth_by_Any_Means.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Truth_by_Any_Means"
+        }, {
+            "object_type": "constellation",
+            "name": "Overzealous Intellect",
+            "level": 2,
+            "thumbnail": "Constellation_Overzealous_Intellect.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Overzealous_Intellect"
+        }, {
+            "object_type": "constellation",
+            "name": "Spirit-Orchard Stroll",
+            "level": 3,
+            "thumbnail": "Constellation_Spirit-Orchard_Stroll.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit-Orchard_Stroll"
+        }, {
+            "object_type": "constellation",
+            "name": "Divine Comprehension",
+            "level": 4,
+            "thumbnail": "Constellation_Divine_Comprehension.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Divine_Comprehension"
+        }, {
+            "object_type": "constellation",
+            "name": "Wonderland of Rumination",
+            "level": 5,
+            "thumbnail": "Constellation_Wonderland_of_Rumination.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wonderland_of_Rumination"
+        }, {
+            "object_type": "constellation",
+            "name": "The Wondrous Path of Truth",
+            "level": 6,
+            "thumbnail": "Constellation_The_Wondrous_Path_of_Truth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Wondrous_Path_of_Truth"
+        }],
+        "thumbnail": "Character_Faruzan_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Faruzan"
+    }, {
+        "object_type": "character",
         "name": "Fischl",
         "type": "Character",
         "rarity": 4,
@@ -4445,6 +4532,93 @@
         }],
         "thumbnail": "Character_Venti_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Venti"
+    }, {
+        "object_type": "character",
+        "name": "Wanderer",
+        "type": "Character",
+        "display_name": "Wanderer",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": ["Sumeru", "Snezhnaya", "Inazuma"],
+        "talents": [{
+            "object_type": "talent",
+            "name": "Yuuban Meigen",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yuuban_Meigen"
+        }, {
+            "object_type": "talent",
+            "name": "Hanega: Song of the Wind",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Hanega_Song_of_the_Wind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hanega:_Song_of_the_Wind",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Kyougen: Five Ceremonial Plays",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Kyougen_Five_Ceremonial_Plays.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kyougen:_Five_Ceremonial_Plays",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Jade-Claimed Flower",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Jade-Claimed_Flower.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Jade-Claimed_Flower"
+        }, {
+            "object_type": "talent",
+            "name": "Gales of Reverie",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Gales_of_Reverie.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gales_of_Reverie"
+        }, {
+            "object_type": "talent",
+            "name": "Strum the Swirling Winds",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Strum_the_Swirling_Winds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Strum_the_Swirling_Winds"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Shoban: Ostentatious Plumage",
+            "level": 1,
+            "thumbnail": "Constellation_Shoban_Ostentatious_Plumage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shoban:_Ostentatious_Plumage"
+        }, {
+            "object_type": "constellation",
+            "name": "Niban: Moonlit Isle Amidst White Waves",
+            "level": 2,
+            "thumbnail": "Constellation_Niban_Moonlit_Isle_Amidst_White_Waves.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Niban:_Moonlit_Isle_Amidst_White_Waves"
+        }, {
+            "object_type": "constellation",
+            "name": "Sanban: Moonflower Kusemai",
+            "level": 3,
+            "thumbnail": "Constellation_Sanban_Moonflower_Kusemai.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sanban:_Moonflower_Kusemai"
+        }, {
+            "object_type": "constellation",
+            "name": "Yonban: Set Adrift into Spring",
+            "level": 4,
+            "thumbnail": "Constellation_Yonban_Set_Adrift_into_Spring.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yonban:_Set_Adrift_into_Spring"
+        }, {
+            "object_type": "constellation",
+            "name": "Matsuban: Ancient Illuminator From Abroad",
+            "level": 5,
+            "thumbnail": "Constellation_Matsuban_Ancient_Illuminator_From_Abroad.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Matsuban:_Ancient_Illuminator_From_Abroad"
+        }, {
+            "object_type": "constellation",
+            "name": "Shugen: The Curtains' Melancholic Sway",
+            "level": 6,
+            "thumbnail": "Constellation_Shugen_The_Curtains'_Melancholic_Sway.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shugen:_The_Curtains'_Melancholic_Sway"
+        }],
+        "thumbnail": "Character_Wanderer_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Wanderer"
     }, {
         "object_type": "character",
         "name": "Xiangling",

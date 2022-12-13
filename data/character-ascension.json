@@ -467,7 +467,7 @@
         }, {
             "type": "Local Specialties",
             "rarity": 1,
-            "name": "Redcrest"
+            "name": "Henna Berry"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -748,6 +748,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Dandelion Seed"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Faruzan",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Light Guiding Tetrahedron"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vayuda Turquoise Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vayuda Turquoise Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vayuda Turquoise Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vayuda Turquoise Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Henna Berry"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -2104,6 +2144,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Cecilia"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Wanderer",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Perpetual Caliber"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vayuda Turquoise Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vayuda Turquoise Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vayuda Turquoise Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vayuda Turquoise Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Rukkhashava Mushrooms"
         }]
     }, {
         "object_type": "ascension-materials",
