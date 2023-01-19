@@ -88,6 +88,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Albedo"
     }, {
         "object_type": "character",
+        "name": "Alhaitham",
+        "type": "Character",
+        "display_name": "Alhaitham",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Abductive Reasoning",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Abductive_Reasoning"
+        }, {
+            "object_type": "talent",
+            "name": "Universality: An Elaboration on Form",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Universality_An_Elaboration_on_Form.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Universality:_An_Elaboration_on_Form",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Particular Field: Fetters of Phenomena",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Particular_Field_Fetters_of_Phenomena.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Particular_Field:_Fetters_of_Phenomena",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Four-Causal Correction",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Four-Causal_Correction.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Four-Causal_Correction"
+        }, {
+            "object_type": "talent",
+            "name": "Mysteries Laid Bare",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Mysteries_Laid_Bare.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mysteries_Laid_Bare"
+        }, {
+            "object_type": "talent",
+            "name": "Law of Reductive Overdetermination",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Law_of_Reductive_Overdetermination.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Law_of_Reductive_Overdetermination"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Intuition",
+            "level": 1,
+            "thumbnail": "Constellation_Intuition.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Intuition"
+        }, {
+            "object_type": "constellation",
+            "name": "Debate",
+            "level": 2,
+            "thumbnail": "Constellation_Debate.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Debate"
+        }, {
+            "object_type": "constellation",
+            "name": "Negation",
+            "level": 3,
+            "thumbnail": "Constellation_Negation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Negation"
+        }, {
+            "object_type": "constellation",
+            "name": "Elucidation",
+            "level": 4,
+            "thumbnail": "Constellation_Elucidation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Elucidation"
+        }, {
+            "object_type": "constellation",
+            "name": "Sagacity",
+            "level": 5,
+            "thumbnail": "Constellation_Sagacity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sagacity"
+        }, {
+            "object_type": "constellation",
+            "name": "Structuration",
+            "level": 6,
+            "thumbnail": "Constellation_Structuration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Structuration"
+        }],
+        "thumbnail": "Character_Alhaitham_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Alhaitham"
+    }, {
+        "object_type": "character",
         "name": "Aloy",
         "type": "Character",
         "rarity": 5,
@@ -5138,6 +5225,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Yanfei"
     }, {
         "object_type": "character",
+        "name": "Yaoyao",
+        "type": "Character",
+        "display_name": "Yaoyao",
+        "rarity": 4,
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Toss 'N' Turn Spear",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Toss_'N'_Turn_Spear"
+        }, {
+            "object_type": "talent",
+            "name": "Raphanus Sky Cluster",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Raphanus_Sky_Cluster.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Raphanus_Sky_Cluster",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Moonjade Descent",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Moonjade_Descent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Moonjade_Descent",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Starscatter",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Starscatter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Starscatter"
+        }, {
+            "object_type": "talent",
+            "name": "In Others' Shoes",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_In_Others'_Shoes.png",
+            "link": "https://genshin-impact.fandom.com/wiki/In_Others'_Shoes"
+        }, {
+            "object_type": "talent",
+            "name": "Tailing on Tiptoes",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Tailing_on_Tiptoes.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tailing_on_Tiptoes"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Adeptus' Tutelage",
+            "level": 1,
+            "thumbnail": "Constellation_Adeptus'_Tutelage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Adeptus'_Tutelage"
+        }, {
+            "object_type": "constellation",
+            "name": "Innocent",
+            "level": 2,
+            "thumbnail": "Constellation_Innocent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Innocent"
+        }, {
+            "object_type": "constellation",
+            "name": "Loyal and Kind",
+            "level": 3,
+            "thumbnail": "Constellation_Loyal_and_Kind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Loyal_and_Kind"
+        }, {
+            "object_type": "constellation",
+            "name": "Winsome",
+            "level": 4,
+            "thumbnail": "Constellation_Winsome.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Winsome"
+        }, {
+            "object_type": "constellation",
+            "name": "Compassionate",
+            "level": 5,
+            "thumbnail": "Constellation_Compassionate.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Compassionate"
+        }, {
+            "object_type": "constellation",
+            "name": "Beneficent",
+            "level": 6,
+            "thumbnail": "Constellation_Beneficent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beneficent"
+        }],
+        "thumbnail": "Character_Yaoyao_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Yaoyao"
+    }, {
+        "object_type": "character",
         "name": "Yelan",
         "type": "Character",
         "display_name": "Yelan",
@@ -5156,33 +5330,71 @@
             "name": "Lingering Lifeline",
             "type": "Elemental Skill",
             "thumbnail": "Talent_Lingering_Lifeline.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Lingering_Lifeline"
+            "link": "https://genshin-impact.fandom.com/wiki/Lingering_Lifeline",
+            "constellation": 5
         }, {
             "object_type": "talent",
             "name": "Depth-Clarion Dice",
             "type": "Elemental Burst",
             "thumbnail": "Talent_Depth-Clarion_Dice.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Depth-Clarion_Dice"
-        }, {
-            "object_type": "talent",
-            "name": "Yelan's Utility Passive",
-            "type": "Utility Passive",
-            "thumbnail": "Talent_Hydro_Unknown.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Yelan's_Utility_Passive"
-        }, {
-            "object_type": "talent",
-            "name": "Adapt With Ease",
-            "type": "Passive",
-            "thumbnail": "Talent_Hydro_Unknown.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Adapt_With_Ease"
+            "link": "https://genshin-impact.fandom.com/wiki/Depth-Clarion_Dice",
+            "constellation": 3
         }, {
             "object_type": "talent",
             "name": "Turn Control",
-            "type": "Passive",
-            "thumbnail": "Talent_Hydro_Unknown.png",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Turn_Control.png",
             "link": "https://genshin-impact.fandom.com/wiki/Turn_Control"
+        }, {
+            "object_type": "talent",
+            "name": "Adapt With Ease",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Adapt_With_Ease.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Adapt_With_Ease"
+        }, {
+            "object_type": "talent",
+            "name": "Necessary Calculation",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Necessary_Calculation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Necessary_Calculation"
         }],
-        "constellations": [],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Enter the Plotters",
+            "level": 1,
+            "thumbnail": "Constellation_Enter_the_Plotters.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Enter_the_Plotters"
+        }, {
+            "object_type": "constellation",
+            "name": "Taking All Comers",
+            "level": 2,
+            "thumbnail": "Constellation_Taking_All_Comers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Taking_All_Comers"
+        }, {
+            "object_type": "constellation",
+            "name": "Beware the Trickster's Dice",
+            "level": 3,
+            "thumbnail": "Constellation_Beware_the_Trickster's_Dice.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beware_the_Trickster's_Dice"
+        }, {
+            "object_type": "constellation",
+            "name": "Bait-and-Switch",
+            "level": 4,
+            "thumbnail": "Constellation_Bait-and-Switch.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bait-and-Switch"
+        }, {
+            "object_type": "constellation",
+            "name": "Dealer's Sleight",
+            "level": 5,
+            "thumbnail": "Constellation_Dealer's_Sleight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dealer's_Sleight"
+        }, {
+            "object_type": "constellation",
+            "name": "Winner Takes All",
+            "level": 6,
+            "thumbnail": "Constellation_Winner_Takes_All.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Winner_Takes_All"
+        }],
         "thumbnail": "Character_Yelan_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Yelan"
     }, {

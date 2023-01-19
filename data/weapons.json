@@ -443,6 +443,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Kitain_Cross_Spear"
     }, {
         "object_type": "weapon",
+        "name": "Light of Foliar Incision",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Light_of_Foliar_Incision.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Light_of_Foliar_Incision"
+    }, {
+        "object_type": "weapon",
         "name": "Lion's Roar",
         "type": "Sword",
         "rarity": 4,
@@ -952,6 +959,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Thundering_Pulse.png",
         "link": "https://genshin-impact.fandom.com/wiki/Thundering_Pulse"
+    }, {
+        "object_type": "weapon",
+        "name": "Toukabou Shigure",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Toukabou_Shigure.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Toukabou_Shigure"
     }, {
         "object_type": "weapon",
         "name": "Traveler's Handy Sword",

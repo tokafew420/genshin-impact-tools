@@ -209,6 +209,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Alhaitham",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Mirror of Mushin"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Ingenuity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Ingenuity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Ingenuity"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Aloy",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2733,6 +2765,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Gold"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Yaoyao",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Daka's Bell"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Diligence"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Diligence"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Diligence"
         }]
     }, {
         "object_type": "talent-level-up-materials",

@@ -191,6 +191,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Alhaitham",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Pseudo-Stamens"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Nagadus Emerald Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Nagadus Emerald Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Nagadus Emerald Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Nagadus Emerald Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Sand Grease Pupa"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Aloy",
         "materials": [{
             "type": "Boss Material",
@@ -2424,6 +2464,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Noctilucous Jade"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Yaoyao",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Quelled Creeper"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Nagadus Emerald Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Nagadus Emerald Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Nagadus Emerald Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Nagadus Emerald Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Jueyun Chili"
         }]
     }, {
         "object_type": "ascension-materials",

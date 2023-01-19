@@ -548,6 +548,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Majestic_Hooked_Beak"
     }, {
         "object_type": "item",
+        "name": "Pseudo-Stamens",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Sumeru",
+        "source": ["Setekh Wenut"],
+        "thumbnail": "Item_Pseudo-Stamens.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Pseudo-Stamens"
+    }, {
+        "object_type": "item",
         "name": "Light Guiding Tetrahedron",
         "type": "Boss Material",
         "category": "Character Development Items",
@@ -734,6 +744,14 @@
         "region": "Inazuma",
         "thumbnail": "Item_Sakura_Bloom.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sakura_Bloom"
+    }, {
+        "object_type": "item",
+        "name": "Sand Grease Pupa",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Sumeru",
+        "thumbnail": "Item_Sand_Grease_Pupa.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sand_Grease_Pupa"
     }, {
         "object_type": "item",
         "name": "Sango Pearl",
@@ -2002,6 +2020,36 @@
         "source": ["Primal Constructs"],
         "thumbnail": "Item_Radiant_Prism.png",
         "link": "https://genshin-impact.fandom.com/wiki/Radiant_Prism"
+    }, {
+        "object_type": "item",
+        "name": "Desiccated Shell",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Consecrated Beasts",
+        "rarity": 2,
+        "source": ["Consecrated Flying Serpent", "Consecrated Red Vulture", "Consecrated Scorpion"],
+        "thumbnail": "Item_Desiccated_Shell.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Desiccated_Shell"
+    }, {
+        "object_type": "item",
+        "name": "Sturdy Shell",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Consecrated Beasts",
+        "rarity": 3,
+        "source": ["Consecrated Flying Serpent", "Consecrated Red Vulture", "Consecrated Scorpion"],
+        "thumbnail": "Item_Sturdy_Shell.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sturdy_Shell"
+    }, {
+        "object_type": "item",
+        "name": "Marked Shell",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Consecrated Beasts",
+        "rarity": 4,
+        "source": ["Consecrated Flying Serpent", "Consecrated Red Vulture", "Consecrated Scorpion"],
+        "thumbnail": "Item_Marked_Shell.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Marked_Shell"
     }, {
         "object_type": "item",
         "group_type": "dvalin-material",
