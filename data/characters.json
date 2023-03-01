@@ -1001,6 +1001,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Cyno"
     }, {
         "object_type": "character",
+        "name": "Dehya",
+        "type": "Character",
+        "display_name": "Dehya",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Sandstorm Assault",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Pyro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sandstorm_Assault"
+        }, {
+            "object_type": "talent",
+            "name": "Molten Inferno",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Molten_Inferno.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Molten_Inferno",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Leonine Bite",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Leonine_Bite.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Leonine_Bite",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Unstinting Succor",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Unstinting_Succor.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unstinting_Succor"
+        }, {
+            "object_type": "talent",
+            "name": "Stalwart and True",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Stalwart_and_True.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stalwart_and_True"
+        }, {
+            "object_type": "talent",
+            "name": "The Sunlit Way",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Sunlit_Way.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Sunlit_Way"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "The Flame Incandescent",
+            "level": 1,
+            "thumbnail": "Constellation_The_Flame_Incandescent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Flame_Incandescent"
+        }, {
+            "object_type": "constellation",
+            "name": "The Sand-Blades Glittering",
+            "level": 2,
+            "thumbnail": "Constellation_The_Sand-Blades_Glittering.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Sand-Blades_Glittering"
+        }, {
+            "object_type": "constellation",
+            "name": "A Rage Swift as Fire",
+            "level": 3,
+            "thumbnail": "Constellation_A_Rage_Swift_as_Fire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Rage_Swift_as_Fire"
+        }, {
+            "object_type": "constellation",
+            "name": "An Oath Abiding",
+            "level": 4,
+            "thumbnail": "Constellation_An_Oath_Abiding.png",
+            "link": "https://genshin-impact.fandom.com/wiki/An_Oath_Abiding"
+        }, {
+            "object_type": "constellation",
+            "name": "The Alpha Unleashed",
+            "level": 5,
+            "thumbnail": "Constellation_The_Alpha_Unleashed.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Alpha_Unleashed"
+        }, {
+            "object_type": "constellation",
+            "name": "The Burning Claws Cleaving",
+            "level": 6,
+            "thumbnail": "Constellation_The_Burning_Claws_Cleaving.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Burning_Claws_Cleaving"
+        }],
+        "thumbnail": "Character_Dehya_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dehya"
+    }, {
+        "object_type": "character",
         "name": "Diluc",
         "type": "Character",
         "rarity": 5,

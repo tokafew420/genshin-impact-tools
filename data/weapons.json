@@ -65,6 +65,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
     }, {
         "object_type": "weapon",
+        "name": "Beacon of the Reed Sea",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_Beacon_of_the_Reed_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Beacon_of_the_Reed_Sea"
+    }, {
+        "object_type": "weapon",
         "name": "Beginner's Protector",
         "type": "Polearm",
         "rarity": 1,
