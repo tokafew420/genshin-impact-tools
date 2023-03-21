@@ -1471,6 +1471,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Mika",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Pseudo-Stamens"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Shivada Jade Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Shivada Jade Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Shivada Jade Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Shivada Jade Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Wolfhook"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Mona",
         "materials": [{
             "type": "Boss Material",

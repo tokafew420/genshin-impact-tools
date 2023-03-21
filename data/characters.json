@@ -2822,6 +2822,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Lisa"
     }, {
         "object_type": "character",
+        "name": "Mika",
+        "type": "Character",
+        "display_name": "Mika",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Spear of Favonius - Arrow's Passage",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Cryo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spear_of_Favonius_-_Arrow's_Passage"
+        }, {
+            "object_type": "talent",
+            "name": "Starfrost Swirl",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Starfrost_Swirl.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Starfrost_Swirl",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Skyfeather Song",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Skyfeather_Song.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Skyfeather_Song",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Suppressive Barrage",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Suppressive_Barrage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Suppressive_Barrage"
+        }, {
+            "object_type": "talent",
+            "name": "Topographical Mapping",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Topographical_Mapping.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Topographical_Mapping"
+        }, {
+            "object_type": "talent",
+            "name": "Demarcation",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Demarcation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Demarcation"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Factor Confluence",
+            "level": 1,
+            "thumbnail": "Constellation_Factor_Confluence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Factor_Confluence"
+        }, {
+            "object_type": "constellation",
+            "name": "Companion's Ingress",
+            "level": 2,
+            "thumbnail": "Constellation_Companion's_Ingress.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Companion's_Ingress"
+        }, {
+            "object_type": "constellation",
+            "name": "Reconnaissance Experience",
+            "level": 3,
+            "thumbnail": "Constellation_Reconnaissance_Experience.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Reconnaissance_Experience"
+        }, {
+            "object_type": "constellation",
+            "name": "Sunfrost Encomium",
+            "level": 4,
+            "thumbnail": "Constellation_Sunfrost_Encomium.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sunfrost_Encomium"
+        }, {
+            "object_type": "constellation",
+            "name": "Signal Arrow",
+            "level": 5,
+            "thumbnail": "Constellation_Signal_Arrow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Signal_Arrow"
+        }, {
+            "object_type": "constellation",
+            "name": "Companion's Counsel",
+            "level": 6,
+            "thumbnail": "Constellation_Companion's_Counsel.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Companion's_Counsel"
+        }],
+        "thumbnail": "Character_Mika_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mika"
+    }, {
+        "object_type": "character",
         "name": "Mona",
         "type": "Character",
         "rarity": 5,

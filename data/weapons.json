@@ -499,6 +499,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Magic_Guide"
     }, {
         "object_type": "weapon",
+        "name": "Mailed Flower",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Mailed_Flower.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mailed_Flower"
+    }, {
+        "object_type": "weapon",
         "name": "Makhaira Aquamarine",
         "type": "Claymore",
         "rarity": 4,

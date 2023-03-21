@@ -1233,6 +1233,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Mika",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Mirror of Mushin"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Ballad"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Ballad"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Ballad"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Mona",
         "materials": [{
             "type": "Common Ascension Materials",
