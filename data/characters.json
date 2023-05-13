@@ -396,6 +396,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
     }, {
         "object_type": "character",
+        "name": "Baizhu",
+        "type": "Character",
+        "display_name": "Baizhu",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "The Classics of Acupuncture",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Classics_of_Acupuncture"
+        }, {
+            "object_type": "talent",
+            "name": "Universal Diagnosis",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Universal_Diagnosis.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Universal_Diagnosis",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Holistic Revivification",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Holistic_Revivification.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Holistic_Revivification",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Five Fortunes Forever",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Five_Fortunes_Forever.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Five_Fortunes_Forever"
+        }, {
+            "object_type": "talent",
+            "name": "All Things Are of the Earth",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_All_Things_Are_of_the_Earth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_Things_Are_of_the_Earth"
+        }, {
+            "object_type": "talent",
+            "name": "Herbal Nourishment",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Herbal_Nourishment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Herbal_Nourishment"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Attentive Observation",
+            "level": 1,
+            "thumbnail": "Constellation_Attentive_Observation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Attentive_Observation"
+        }, {
+            "object_type": "constellation",
+            "name": "Incisive Discernment",
+            "level": 2,
+            "thumbnail": "Constellation_Incisive_Discernment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Incisive_Discernment"
+        }, {
+            "object_type": "constellation",
+            "name": "All Aspects Stabilized",
+            "level": 3,
+            "thumbnail": "Constellation_All_Aspects_Stabilized.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_Aspects_Stabilized"
+        }, {
+            "object_type": "constellation",
+            "name": "Ancient Art of Perception",
+            "level": 4,
+            "thumbnail": "Constellation_Ancient_Art_of_Perception.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ancient_Art_of_Perception"
+        }, {
+            "object_type": "constellation",
+            "name": "The Hidden Ebb and Flow",
+            "level": 5,
+            "thumbnail": "Constellation_The_Hidden_Ebb_and_Flow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Hidden_Ebb_and_Flow"
+        }, {
+            "object_type": "constellation",
+            "name": "Elimination of Malicious Qi",
+            "level": 6,
+            "thumbnail": "Constellation_Elimination_of_Malicious_Qi.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Elimination_of_Malicious_Qi"
+        }],
+        "thumbnail": "Character_Baizhu_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Baizhu"
+    }, {
+        "object_type": "character",
         "name": "Barbara",
         "type": "Character",
         "rarity": 4,
@@ -2302,6 +2389,93 @@
         }],
         "thumbnail": "Character_Kamisato_Ayato_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayato"
+    }, {
+        "object_type": "character",
+        "name": "Kaveh",
+        "type": "Character",
+        "display_name": "Kaveh",
+        "rarity": 4,
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Schematic Setup",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Schematic_Setup"
+        }, {
+            "object_type": "talent",
+            "name": "Artistic Ingenuity",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Artistic_Ingenuity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Artistic_Ingenuity",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Painted Dome",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Painted_Dome.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Painted_Dome",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "An Architect's Undertaking",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_An_Architect's_Undertaking.png",
+            "link": "https://genshin-impact.fandom.com/wiki/An_Architect's_Undertaking"
+        }, {
+            "object_type": "talent",
+            "name": "A Craftsman's Curious Conceptions",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_A_Craftsman's_Curious_Conceptions.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Craftsman's_Curious_Conceptions"
+        }, {
+            "object_type": "talent",
+            "name": "The Art of Budgeting",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Art_of_Budgeting.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Art_of_Budgeting"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Sublime Salutations",
+            "level": 1,
+            "thumbnail": "Constellation_Sublime_Salutations.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sublime_Salutations"
+        }, {
+            "object_type": "constellation",
+            "name": "Grace of Royal Roads",
+            "level": 2,
+            "thumbnail": "Constellation_Grace_of_Royal_Roads.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Grace_of_Royal_Roads"
+        }, {
+            "object_type": "constellation",
+            "name": "Profferings of Dur Untash",
+            "level": 3,
+            "thumbnail": "Constellation_Profferings_of_Dur_Untash.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Profferings_of_Dur_Untash"
+        }, {
+            "object_type": "constellation",
+            "name": "Feast of Apadana",
+            "level": 4,
+            "thumbnail": "Constellation_Feast_of_Apadana.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Feast_of_Apadana"
+        }, {
+            "object_type": "constellation",
+            "name": "Treasures of Bonkhanak",
+            "level": 5,
+            "thumbnail": "Constellation_Treasures_of_Bonkhanak.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Treasures_of_Bonkhanak"
+        }, {
+            "object_type": "constellation",
+            "name": "Pairidaeza's Dreams",
+            "level": 6,
+            "thumbnail": "Constellation_Pairidaeza's_Dreams.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pairidaeza's_Dreams"
+        }],
+        "thumbnail": "Character_Kaveh_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kaveh"
     }, {
         "object_type": "character",
         "name": "Keqing",

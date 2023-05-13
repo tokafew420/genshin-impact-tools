@@ -337,6 +337,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Baizhu",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Worldspan Fern"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Gold"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Gold"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Gold"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Barbara",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1038,6 +1070,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Elegance"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Kaveh",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Primordial Greenbloom"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Ingenuity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Ingenuity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Ingenuity"
         }]
     }, {
         "object_type": "talent-level-up-materials",

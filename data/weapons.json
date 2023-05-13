@@ -408,6 +408,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Iron_Sting"
     }, {
         "object_type": "weapon",
+        "name": "Jadefall's Splendor",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Jadefall's_Splendor.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Jadefall's_Splendor"
+    }, {
+        "object_type": "weapon",
         "name": "Kagotsurube Isshin",
         "type": "Sword",
         "rarity": 4,

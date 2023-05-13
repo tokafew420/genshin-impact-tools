@@ -3057,6 +3057,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Jadefall's Splendor",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "A Flower Yet to Bloom"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Treasured Flower"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Wanderer's Blooming Flower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Kagotsurube Isshin",
         "materials": [{
             "type": "Common Ascension Materials",
