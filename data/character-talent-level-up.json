@@ -1137,6 +1137,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Kirara",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Spectral Husk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Spectral Heart"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Spectral Nucleus"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Everamber"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Transience"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Transience"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Transience"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Klee",
         "materials": [{
             "type": "Common Ascension Materials",

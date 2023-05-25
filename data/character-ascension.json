@@ -1351,6 +1351,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Kirara",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Evergloom Ring"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Nagadus Emerald Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Nagadus Emerald Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Nagadus Emerald Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Nagadus Emerald Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Spectral Husk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Spectral Heart"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Spectral Nucleus"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Amakumo Fruit"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Klee",
         "materials": [{
             "type": "Boss Material",

@@ -2564,6 +2564,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Keqing"
     }, {
         "object_type": "character",
+        "name": "Kirara",
+        "type": "Character",
+        "display_name": "Kirara",
+        "rarity": 4,
+        "element": "Dendro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Boxcutter",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Boxcutter"
+        }, {
+            "object_type": "talent",
+            "name": "Meow-teor Kick",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Meow-teor_Kick.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Meow-teor_Kick",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Secret Art: Surprise Dispatch",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Secret_Art_Surprise_Dispatch.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Secret_Art:_Surprise_Dispatch",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Bewitching, Betwitching Tails",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Bewitching,_Betwitching_Tails.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bewitching,_Betwitching_Tails"
+        }, {
+            "object_type": "talent",
+            "name": "Pupillary Variance",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Pupillary_Variance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pupillary_Variance"
+        }, {
+            "object_type": "talent",
+            "name": "Cat's Creeping Carriage",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Cat's_Creeping_Carriage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cat's_Creeping_Carriage"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Material Circulation",
+            "level": 1,
+            "thumbnail": "Constellation_Material_Circulation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Material_Circulation"
+        }, {
+            "object_type": "constellation",
+            "name": "Perfectly Packaged",
+            "level": 2,
+            "thumbnail": "Constellation_Perfectly_Packaged.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Perfectly_Packaged"
+        }, {
+            "object_type": "constellation",
+            "name": "Universal Recognition",
+            "level": 3,
+            "thumbnail": "Constellation_Universal_Recognition.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Universal_Recognition"
+        }, {
+            "object_type": "constellation",
+            "name": "Steed of Skanda",
+            "level": 4,
+            "thumbnail": "Constellation_Steed_of_Skanda.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Steed_of_Skanda"
+        }, {
+            "object_type": "constellation",
+            "name": "A Thousand Miles in a Day",
+            "level": 5,
+            "thumbnail": "Constellation_A_Thousand_Miles_in_a_Day.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Thousand_Miles_in_a_Day"
+        }, {
+            "object_type": "constellation",
+            "name": "Countless Sights to See",
+            "level": 6,
+            "thumbnail": "Constellation_Countless_Sights_to_See.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Countless_Sights_to_See"
+        }],
+        "thumbnail": "Character_Kirara_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kirara"
+    }, {
+        "object_type": "character",
         "name": "Klee",
         "type": "Character",
         "rarity": 5,
