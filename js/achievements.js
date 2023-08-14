@@ -1,11 +1,17 @@
+// Load the 'achievements' module using the 'app.require' function and execute a callback function
 app.require(['achievements'],
     function (achievements) {
+        // Get references to various DOM elements using jQuery
         const $categories = $('#achievement-category');
         const $list = $('#achievement-list');
         const $totalAchieved = $('.total-achieved');
+
+        // Retrieve saved achievements from local storage and split them into an array
         const savedAchievement = (app.localStorage.get('achievements') || '').split(',').filter((a) => !!a);
-        const achieved = [];
-        let totalAchieved = 0;
+        const achieved = []; // Array to store achieved achievements
+        let totalAchieved = 0; // Count of total achieved achievements
+
+        // Process the achievements array
         const categories = achievements.map((a) => {
                 // Set total count of actual achievements (1 or 3)
                 a.total = 1;
@@ -14,19 +20,23 @@ app.require(['achievements'],
                 }
                 // Generate unique code
                 a.code = app.generateCode(a.name);
-                // Restored achieved state
+                // Initialize achieved state for each achievement
                 a.achieved = 0;
                 var savedIdx
+                // Check for achievements that were restored from local storage
                 while ((savedIdx = savedAchievement.indexOf(a.code)) !== -1) {
                     totalAchieved++;
                     a.achieved++;
                     savedAchievement.splice(savedIdx, 1);
                     achieved.push(a.code);
                 }
-
+                
+                // Return the category of the achievement
                 return a.category;
             })
+            // Filter out duplicate categories
             .filter((value, index, self) => self.indexOf(value) === index)
+            // Create an array of category objects with achievement statistics
             .map((c) => {
                 return {
                     name: c,
@@ -34,11 +44,17 @@ app.require(['achievements'],
                     total: achievements.filter((a) => a.category === c).reduce((total, a) => total + a.total, 0)
                 };
             });
+
+        // Calculate the total number of achievements
         const totalAchievements = categories.reduce((total, c) => total + c.total, 0);
+        // Update the displayed total achieved achievements count
         $totalAchieved.text(`(${totalAchieved}/${totalAchievements})`);
 
+        // Iterate through each category and create corresponding HTML elements
         categories.forEach((c, idx) => {
+            // Calculate the percentage of achievements achieved in this category
             const percent = Math.floor(c.achieved / c.total * 100);
+            // Append a link element for each category to the category container
             $categories.append($(`<a class="list-group-item list-group-item-action" href="#category-${idx}">
     <div class="inner-border">
         <div class="inner-content">
@@ -55,7 +71,7 @@ app.require(['achievements'],
         </div>
     </div>
 </a>`).data('category', c));
-
+            // Create a section element for each category's list of achievements
             var $sublist = $(`<section></section>`);
             $sublist.append($(`<div id="category-${idx}" class="list-group-item list-group-item-action header">
     <div class="inner-border">
@@ -74,6 +90,7 @@ app.require(['achievements'],
     </div>
 </div>`).data('category', c));
 
+            // Iterate through achievements in this category and create corresponding HTML elements
             achievements.filter((a) => a.category === c.name).forEach((a) => {
                 $sublist.append($(`<div class="list-group-item list-group-item-action achievement ${a.total === a.achieved ? 'achieved' : ''}">
     <div class="inner-border">
@@ -92,13 +109,15 @@ app.require(['achievements'],
         </div>
     </div>
 </div>`).data('achievement', a));
-
+                // Append the sublist to the main achievement list
                 $list.append($sublist);
             });
         });
 
+        // Get references to headers of categories
         const $headers = $categories.find('.list-group-item').add($list.find('.header'));
 
+        // Attach a click event handler to the achievement checklist
         $list.on('click', '.achievement .achieved-check .fa-check', function () {
             const $chk = $(this);
             const $parent = $chk.closest('.achievement');
@@ -138,22 +157,26 @@ app.require(['achievements'],
             app.localStorage.set('achievements', achieved.join());
         });
 
+        // Attach a change event handler to the "hide-achieved" checkbox
         $('#hide-achieved').on('change', function () {
             const hideAchieved = $(this).is(':checked');
             $list.toggleClass('hide-achieved', hideAchieved);
             app.localStorage.set('hide-achieved', hideAchieved);
         });
 
+        // If the "hide-achieved" setting was stored in local storage, restore it
         if (app.localStorage.get('hide-achieved')) {
             $('#hide-achieved').prop('checked', true).change();
         }
 
+        // Attach a click event handler to the "reset" button
         $('#reset').on('click', function (e) {
             e.preventDefault();
             app.localStorage.set('achievements', '');
             window.location.reload(true)
         });
 
+        // Attach a resize event handler to adjust element heights when the window is resized
         $(window).on('resize', () => {
             const offset = 300;
             const newHeight = Math.max(500, window.innerHeight - offset);

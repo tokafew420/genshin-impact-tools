@@ -1,23 +1,30 @@
+// Initialize the 'app' object and define a 'data' property on it
 (function (app) {
     app.data = {};
-    // Require data before run
+    // Define a function to load required data before execution
     app.require = function (args, callback) {
+        // Convert the argument to an array if it's a string
         if (typeof args === 'string') args = [args];
+        // Create an array of promises to load data files
         var promises = args.map((arg) => {
+            // Load JSON data using jQuery and store it in 'app.data'
             return app.data[arg] || (app.data[arg] = $.getJSON(`data/${arg}.json`).then((res, textStatus, jqXHR) => {
                 console.debug('Required: ' + arg);
                 return app.data[arg] = res.data;
             }));
         });
 
+        // Wait for all promises to resolve and then execute the callback
         $.when.apply(this, promises).then(callback);
     };
-    // Load data
+
+    // Load data for the application
     app.require('characters');
 
+    // Define a function to escape special characters in text
     const _escape = (text) => text.replaceAll('"', '&quot;');
 
-    // Templates
+    // Define template functions for generating HTML elements
     (() => {
         app.templates = {
             cardContainer: (rarity, opts) => {
@@ -76,14 +83,19 @@
         };
     })();
 
+    // Function to create a character card element
     app.makeCharacterCard = (name, highlight, selectable) => {
+        // Retrieve character data by name
         var character = app.getCharacter(name);
 
         if (character) {
+            // Create a container for the card using templates
             var $container = $(app.templates.cardContainer(character.rarity, {
                 doubleLineText: true,
                 special: character.region === 'Crossover'
             }));
+
+            // Populate the container with card components
             $container.append(app.templates.cardImg(character.thumbnail, character.name, character.link))
                 .append(app.templates.cardText(character.name))
                 .append(app.templates.cardIcon(character.element.thumbnail, character.element.name, character.element.link));
@@ -95,6 +107,8 @@
             if (highlight) {
                 $container.append(app.templates.cardHighlight())
             }
+
+            // Attach data attributes to the container
             $container.data('resource', character)
                 .attr('data-resource-id', character.id)
                 .attr('data-resource-type', character.type)
@@ -181,7 +195,7 @@
         }
     };
 
-    /***** Utils *****/
+     // Utility functions for common operations
     app.any = (arr, fn, context) => {
         if (arr) {
             for (let i = 0, ii = arr.length; i < ii; i++) {
@@ -240,6 +254,9 @@
     app.id = (str) => String(str).toLowerCase().replace(/[^a-z0-9]/g, ' ').trim().replace(/\s+/g, '-');
     app.getByName = (arr, name) => app.getBy(arr, 'name', name);
     app.cloneByName = (arr, name) => app.cloneBy(arr, 'name', name);
+
+    // Define filter functions and other utility functions
+
     app.filters = {
         distinct: (val, idx, self) => self.indexOf(val) === idx,
         notNullOrUndefined: (val) => val !== null && val !== undefined
@@ -288,6 +305,8 @@
 
         return final;
     };
+
+    // Create a canvas element for measuring text width
     const canvas = document.createElement('canvas');
     app.getTextWidth = (text, font) => {
         if (!text) return 0;
@@ -299,6 +318,9 @@
         const metrics = context.measureText(longestWord);
         return +(metrics.width).toFixed(2);
     };
+
+
+    // Retrieve resource data by name
     app.getResource = (name) => {
         const res = app.cloneByName(app.data.resources, name);
         if (res) {
@@ -309,6 +331,7 @@
         return res;
     };
 
+    // Apply resource data to objects
     app.applyResource = (source) => {
         if (Array.isArray(source)) {
             source.forEach((s) => app.applyResource(s));
@@ -323,6 +346,7 @@
         return source;
     };
 
+    // Retrieve character data by name
     app.getCharacter = (name) => {
         const character = app.cloneByName(app.data.characters, name);
 
@@ -335,6 +359,7 @@
         return character;
     };
 
+    // Retrieve weapon data by name
     app.getWeapon = (name) => {
         const weapon = app.cloneByName(app.data.weapons, name);
         weapon.id = app.id(weapon.name);
@@ -343,8 +368,10 @@
         return weapon;
     };
 
+    // Generate unique codes based on strings
     const chars = 'abcdefghjkmnpqrstuwxyz0123456789';
     app.generateCodeCache = {};
+
     app.generateCode = (str, len) => {
         var name = str || '';
         var code = 0;
@@ -366,7 +393,8 @@
         app.generateCodeCache[y] = (app.generateCodeCache[y] || 0) + 1;
         return y;
     };
-
+    
+    // Define a utility for managing local storage
     app.localStorage = {
         get: (key) => {
             try {
@@ -378,11 +406,13 @@
         }
     };
 
+    // Retrieve query parameters from the URL
     app.getQueryParam = (name) => {
         const urlSearchParams = new URLSearchParams(window.location.href.split('?')[1]);
         return urlSearchParams.get(name);
     };
 
+    // Sort a collection of items by character data
     app.sortByCharacters = (collection, getCharacter) => {
         getCharacter = getCharacter || ((item) => item);
 
@@ -406,6 +436,7 @@
         return collection;
     };
 
+    // Function to get a file handle from the user
     app.getFile = async function (options) {
         options = options || { multiple: false };
         try {
@@ -416,7 +447,7 @@
         }
     }
 
-    // Init
+    // Initialization when the DOM is ready
     $(() => {
         $('[data-search-target]').each(function () {
             var $input = $(this);
