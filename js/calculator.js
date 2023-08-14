@@ -1,6 +1,8 @@
+// Load required modules and data
 app.require(['characters', 'elements', 'resources', 'character-ascension', 'character-level', 'character-talent-level-up'],
     function (characters, elements, resources, characterAscension, characterLevel, characterTalentLeventUp) {
-
+        
+        // Create a sorting order for resources based on their type
         var sortOrder = resources.reduce((a, r, i) => {
             if (['Common Currency',
                     'Character EXP Material',
@@ -17,13 +19,16 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             return a;
         }, {});
 
+        // Sort characters by specified criteria
         app.sortByCharacters(characters);
 
+        // Retrieve specific resource items by name
         const wanderersAdvice = app.getByName(resources, "Wanderer's Advice");
         const adventurersExperience = app.getByName(resources, "Adventurer's Experience");
         const herosWit = app.getByName(resources, "Hero's Wit");
         const totalRequirements = {};
 
+        // Cache for character ascension data
         let characterAscensionCache = {};
         const getCharacterAscension = (name) => {
             if (!name) return;
@@ -46,6 +51,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             return ascension;
         };
 
+        // Cache for character talent level-up data
         let characterTalentLeventUpCache = {};
         const getCharacterTalentLeventUp = (name) => {
             if (!name) return;
@@ -71,6 +77,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             return talentLevelUp;
         };
 
+        // Calculate required resources for character leveling and talent upgrading
         app.calculateRequiredResources = (name, stat, current, goal) => {
             if (!app.getCharacter(name)) return;
 
@@ -109,9 +116,11 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             return app.sumCountByName.apply(null, needs.map((need) => need.materials));
         };
 
+        // Function to add a count card to a container
         function addCard($container, name, count) {
             $container.append($(`<div class="d-inline-block"></div>`).append(app.makeCountCard(name, count)));
         }
+        // Render the list of required materials for leveling
         app.renderMaterials = ($container, materials) => {
             var mats = materials.slice(0);
             var experience = app.removeByName(mats, 'Experience Materials');
@@ -151,11 +160,11 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             const allTotalRequirements = app.sumCountByName.apply(null, Object.keys(totalRequirements).map((name) => totalRequirements[name]));
             app.renderMaterials($totalRequirements, allTotalRequirements);
         }, 500);
-
+        
         const $characterSelectTable = $('#calculator-character-select-table');
         const $calculatorTable = $('#level-up-resource-calculator-table tbody');
 
-        // Handle show hide
+        // Handle show/hide of character resources
         $('thead .show-toggle', $characterSelectTable).on('change', function () {
             const $toggle = $(this);
             const isChecked = $toggle.is(':checked');
@@ -170,7 +179,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             }
         });
 
-        // Handle character selection
+       // Handle character selection and update the UI
         $characterSelectTable.on('click keyup', '.card-container', function (evt) {
             if (evt.type === 'keyup' && !(evt.code === 'Space' || evt.code === 'Enter')) return;
             evt.preventDefault();
@@ -356,19 +365,24 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
 
             $('.current-ascended, .goal-ascended', $input.next()).prop('disabled', lvl <= 0 || lvl >= 90 || lvl % 10 > 0);
         };
-        // Handle character ascended disabled/enabled
+        
+        // Handle input changes for character level and ascension
         $calculatorTable.on('change', '.character-level', function () {
+            // When the character level input changes, disable the ascended checkbox if needed
             disableAscendedCheck($(this));
         });
 
-        // handle level change
+        // Handle input changes for character level and talent upgrades
         $calculatorTable.on('change', '.calculate-level-table :input', function () {
+            // When any input in the level calculation table changes, update the requirements
             const $tr = $(this).closest('.calculate-level-table').closest('tr');
             const selection = app.getByName(app.selections, $tr.data('resource').name);
 
             let requirements = [];
 
+            // Iterate through each talent/level input
             $('.goal-level', $tr).each(function () {
+                // Extract information about the input
                 const $tr = $(this).closest('tr');
                 const stat = $tr.attr('data-talent-type') ? $tr.attr('data-talent-type') : 'level';
                 let current = +$('.current-level', $tr).val() || 0;
@@ -376,6 +390,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                 const currentAscended = $('.current-ascended', $tr).is(':checked');
                 const goalAscended = $('.goal-ascended', $tr).is(':checked');
 
+                // Update the selection's data based on the input changes
                 if (stat === 'level') {
                     selection.currentLvl = +current || 0;
                     selection.currentAscended = !!currentAscended;
@@ -393,7 +408,8 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                         talent.goalLvl = +goal || 0;
                     }
                 }
-
+                
+                // Calculate required resources if input values are valid
                 if (stat &&
                     current && !isNaN(+current) &&
                     goal && !isNaN(+goal) &&
@@ -406,6 +422,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                 }
             });
 
+            // Calculate the total requirements and update the UI
             requirements = app.sumCountByName.apply(null, requirements);
 
             app.renderMaterials($('.level-requirement-table', $tr), requirements);
@@ -419,6 +436,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
         // Fill selection table with character cards
         const $characterSelectContainer = $('tbody td', $characterSelectTable);
 
+        // Loop through all characters and create card elements for character selection
         characters.forEach((character) => {
             const $card = app.makeCharacterCard(character.name, true, true);
 
@@ -429,9 +447,10 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             }
         });
 
-        // Restore data
+        // Restore data from local storage
         app.selections = app.localStorage.get('calculator-characters');
         if (app.selections && Array.isArray(app.selections)) {
+            // Iterate through selections and update UI based on stored data
             app.selections.sort(app.sortByName);
 
             app.selections.forEach((selection) => {
@@ -443,8 +462,10 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
         } else {
             app.selections = [];
         }
+        // Restore show/hide preferences from local storage
         app.shown = app.localStorage.get('calculator-characters-shown');
         if (app.shown) {
+            // Iterate through preferences and update UI
             Object.keys(app.shown).forEach((key) => {
                 if (app.shown[key] === false) {
                     $(`thead .show-toggle[data-type="${key}"]`, $characterSelectTable).click();
@@ -454,7 +475,9 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             app.shown = {};
         }
 
+        // Handle import button click event
         $('#import').on('click', async () => {
+            // Open a file picker to import data
             const options = {
                 types: [{
                     description: "GOOD Json",
@@ -466,18 +489,22 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
                 multiple: false
             };
 
+            // Load selected file and process JSON data
             const file = await app.getFile(options);
             if (!file) return;
 
             const json = JSON.parse(await file.text());
 
             if (json.format === "GOOD") {
+                // Clear current selections and update based on imported data
                 app.selections = [];
                 json.characters.forEach((gc) => {
+                    // Process each character in the imported data
                     const name = gc.key.replace(/([a-z])([A-Z])/g, '$1 $2');
                     const character = app.getByName(characters, name);
                     if (!character) return;
 
+                    // Update the character selection with imported data
                     let selection = app.getByName(app.selections, name);
                     if (!selection) {
                         selection = {
@@ -516,6 +543,7 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             }
         });
 
+        // Handle select all and unselect all buttons for character selection
         $('#select-all', $characterSelectTable).on('click', () => {
             $('.card-container[data-resource-type="Character"]:not(.selected)', $characterSelectContainer).click();
         });
