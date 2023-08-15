@@ -117,43 +117,56 @@ app.require(['achievements'],
         // Get references to headers of categories
         const $headers = $categories.find('.list-group-item').add($list.find('.header'));
 
-        // Attach a click event handler to the achievement checklist
+        // Attach a click event handler to elements with the class '.fa-check' within '.achievement' elements
         $list.on('click', '.achievement .achieved-check .fa-check', function () {
+            // Get the clicked checkbox element
             const $chk = $(this);
+            // Get the closest ancestor with the class '.achievement'
             const $parent = $chk.closest('.achievement');
+            // Retrieve achievement data associated with the clicked element
             const achievement = $parent.data('achievement');
+            // Find the category of the achievement by traversing up to the nearest 'section' element and extracting the category data
             const category = $parent.closest('section').find('.header').data('category');
+            // Determine whether the achievement is being marked as achieved or not
             const isAchieved = !$chk.hasClass('achieved');
+            // Find headers with '.name' elements matching the achievement's category name
             const $h = $headers.filter(function () {
                 return $(this).find('.name').text() === achievement.category;
             });
 
+            // Update achievement-related data based on the achieved status
             if (isAchieved) {
-                achievement.achieved++;
-                category.achieved++;
-                totalAchieved++;
-                achieved.push(achievement.code);
+                achievement.achieved++; // Increment the achieved count for the achievement
+                category.achieved++; // Increment the achieved count for the category
+                totalAchieved++; // Increment the overall total achieved count
+                achieved.push(achievement.code); // Add the achievement code to the 'achieved' array
             } else {
-                achievement.achieved--;
-                category.achieved--;
-                totalAchieved--;
+                achievement.achieved--; // Decrement the achieved count for the achievement
+                category.achieved--; // Decrement the achieved count for the category
+                totalAchieved--; // Decrement the overall total achieved count
 
+                // Remove the achievement code from the 'achieved' array
                 const idx = achieved.indexOf(achievement.code);
                 if (idx !== -1) {
                     achieved.splice(idx, 1);
                 }
             }
 
+            // Calculate the achievement percentage for the category and update related UI elements
             const percent = Math.floor(category.achieved / category.total * 100);
             $h.find('.progress-bar').attr('aria-valuenow', percent).css('width', percent + '%');
             $h.find('.progress-number .percentage').text(percent + '%');
             $h.find('.progress-number .count').text(`(${category.achieved}/${category.total})`);
 
+            // Toggle the 'achieved' class on the checkbox and parent elements
             $chk.toggleClass('achieved', isAchieved);
             $parent.toggleClass('achieved', achievement.total === achievement.achieved);
-            $h.toggleClass('achieved', category.achieved === achievement.total)
+            $h.toggleClass('achieved', category.achieved === achievement.total);
 
+            // Update the displayed text for the total achieved count
             $totalAchieved.text(`(${totalAchieved}/${totalAchievements})`);
+
+            // Store the updated 'achieved' array in local storage
             app.localStorage.set('achievements', achieved.join());
         });
 

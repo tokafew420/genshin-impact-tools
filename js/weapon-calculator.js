@@ -63,19 +63,23 @@ app.require(['weapons', 'resources', 'weapon-ascension', 'weapon-level'],
                 return phase.min_level >= current && phase.min_level < goal;
             });
 
-            // Required experience points
+            // Retrieve the weapon level data for the specified weapon rarity
             let weaponLevels = app.getBy(weaponLevel, 'rarity', weapon.rarity);
+            // Check if weapon level data exists for the specified rarity
             if (weaponLevels) {
+                // Filter and calculate the total experience points and mora needed for level-up
                 const totalExpNeeded = weaponLevels.levels.filter((level) => level.level >= Math.floor(current) && level.level < Math.floor(goal))
-                    .reduce((acc, level) => {
+                    .reduce((acc, level) => {         // Calculate the total experience points and mora using the 'reduce' method
                         acc.experience += level.to_next;
+                        // Accumulate mora required from each level
                         acc.mora += level.mora_to_next;
-                        return acc;
+                        return acc; // Return the updated accumulator
                     }, {
-                        experience: 0,
-                        mora: 0
+                        experience: 0, // Initialize total experience points to 0
+                        mora: 0 // Initialize total mora to 0
                     });
-
+                
+                // Create an entry in the 'needs' array for required experience materials and mora
                 needs.push({
                     object_type: 'weapon-experience-material',
                     materials: [{

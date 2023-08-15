@@ -319,50 +319,65 @@ app.require(['characters', 'elements', 'resources', 'character-ascension', 'char
             else if (val > max) $this.val(max);
         });
 
-        // handle constellation change
+        // Handling constellation change
         $calculatorTable.on('change', '.character-constellation', function () {
             const $this = $(this);
             const constellation = $this.val();
             const $card = $('.card-container', $this.closest('td'));
             const selection = app.getByName(app.selections, $card.data('resource').name);
 
+            // Store the previous constellation value
             var previousConstellation = +$this.attr('data-current-value') || 0;
+
+            // Update the character's selected constellation and store it as the current value
             selection.constellation = constellation >= 0 || constellation <= 6 ? constellation : 0;
             $this.attr('data-current-value', selection.constellation);
 
+            // Find the level calculation table for the character
             var $lvlTable = $this.closest('tr').find('.calculate-level-table');
 
+            // Update CSS classes to reflect the selected constellation
             $lvlTable.removeClass('constellation-0 constellation-1 constellation-2 constellation-3 constellation-4 constellation-5 constellation-6')
                 .addClass('constellation-' + selection.constellation);
 
+            // Calculate the change in level based on constellation upgrade
             let change = previousConstellation < 3 && selection.constellation >= 3 ? 3 :
                 previousConstellation >= 3 && selection.constellation < 3 ? -3 : 0;
 
+            // Adjust input attributes for certain levels if the constellation has changed
             if (change !== 0) {
                 $('.constellation-3', $lvlTable).each(function () {
                     const $this = $(this).attr('min', change === 3 ? 4 : 1)
                         .attr('max', change === 3 ? 13 : 10);
-                    $this.val(+$this.val() + change)
+                    $this.val(+$this.val() + change);
                 });
             }
 
+            // Calculate another change in level based on constellation upgrade
             change = previousConstellation < 5 && selection.constellation >= 5 ? 3 :
                 previousConstellation >= 5 && selection.constellation < 5 ? -3 : 0;
 
+            // Adjust input attributes for certain levels if the constellation has changed
             if (change !== 0) {
                 $('.constellation-5', $lvlTable).each(function () {
                     const $this = $(this).attr('min', change === 3 ? 4 : 1)
                         .attr('max', change === 3 ? 13 : 10);
-                    $this.val(+$this.val() + change)
+                    $this.val(+$this.val() + change);
                 });
             }
+
+            // Save the updated character data to local storage
             app.localStorage.set('calculator-characters', app.selections);
-            $(':input', $lvlTable).eq(0).change()
+
+            // Trigger a change event on the first input in the level calculation table
+            $(':input', $lvlTable).eq(0).change();
         });
 
+        // Disable ascended checkboxes based on the character's level
         const disableAscendedCheck = ($input) => {
             const lvl = +$input.val();
 
+            // Disable ascended checkboxes if the level is not within the valid range
             $('.current-ascended, .goal-ascended', $input.next()).prop('disabled', lvl <= 0 || lvl >= 90 || lvl % 10 > 0);
         };
         
