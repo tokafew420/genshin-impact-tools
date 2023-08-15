@@ -1,20 +1,27 @@
+// Require necessary modules and data for character information, elements, and resources
 app.require(['characters', 'elements', 'resources'],
     function (characters, elements, resources) {
+        // Default data for tier list rows
         const defaults = 'S-ffd454-000--~A-af7ff5-000--~B-4bb4f3-000--~C-23f188-000--~D-b5b5b5-000--';
+        // Generate a mapping of character names to unique codes
         const mapping = characters.reduce((m, character) => {
             m[character.name] = app.generateCode(character.name);
             return m;
         }, {});
 
+        // Sort characters based on their names
         app.sortByCharacters(characters);
 
+        // Elements in the page
         const $page = $('.page');
         const $characters = $('#characters', $page);
         const $tierList = $('.tier-list table tbody', $page);
         const $modelRow = $('.tier-list-row', $tierList).detach();
 
+        // Function to parse tier list row data from a string representation
         const parse = (data) =>
             (data || '').split('~').map((d) => {
+                // Function to extract row data from a row element
                 const rowData = d.split('-');
 
                 if (rowData) {
@@ -27,6 +34,7 @@ app.require(['characters', 'elements', 'resources'],
                     };
                 }
             }).filter((row) => !!row);
+         // Function to add a new tier list row
         const getRowData = ($row, stringify) => {
             const data = {
                 name: getRowText($row),
@@ -47,6 +55,7 @@ app.require(['characters', 'elements', 'resources'],
             data.after = $row;
             return data;
         };
+        // Function to add a new tier list row
         const addRow = (opts) => {
             opts = opts || {};
             const $row = $modelRow.clone();
@@ -83,6 +92,9 @@ app.require(['characters', 'elements', 'resources'],
 
             return $row;
         };
+        // Functions to get and set various attributes of a row
+
+
         const getRowText = ($row) => $row.find('.tier-list-row-name').val() || '';
         const setRowText = ($row, text) => {
             $row.find('.tier-list-row-name').text(text);
@@ -106,14 +118,16 @@ app.require(['characters', 'elements', 'resources'],
 
             return $row;
         };
+        // Function to reset a row to its initial state
         const reset = ($row) => {
             $row.find('.card-drag-container').each(function () {
                 $characters.append(this);
             });
         };
+        // Function to retrieve the closest tier list row element from a child element
         const get$row = (el) => $(el).closest('.tier-list-row');
 
-        // Add new row
+        // Event handlers for various actions on tier list rows
         $tierList.on('click', '.tier-list-ctrl.add', function (e) {
                 e.preventDefault();
                 addRow(getRowData(get$row(this)));
@@ -158,6 +172,7 @@ app.require(['characters', 'elements', 'resources'],
                 $row.remove();
             });
 
+        // Event handler to reset the entire tier list to defaults
         $('.reset-all').on('click', function (e) {
             e.preventDefault();
             $tierList.find('.tier-list-ctrl.remove').click();
@@ -166,7 +181,7 @@ app.require(['characters', 'elements', 'resources'],
             parse(defaults).forEach((row) => addRow(row));
         });
 
-        // Generate and show share link
+        // Event handlers to generate and manage sharing a tier list link
         const $shareLink = $('#share-link')
         $('.share').on('click', function (e) {
             e.preventDefault();
@@ -199,6 +214,7 @@ app.require(['characters', 'elements', 'resources'],
         new bootstrap.Popover($shareLink.find('.copy-btn')[0]);
 
         // Save state on window unload
+        // Save tier list state in local storage on window unload
         $(window).on('unload', () => {
             const data = $tierList.find('.tier-list-row').map(function () {
                 const $row = $(this);
@@ -229,7 +245,7 @@ app.require(['characters', 'elements', 'resources'],
             revert: 200
         });
 
-        // Create character table
+        // Create character cards and populate character table
         characters.forEach(function (character) {
             app.applyResource(character);
             const name = character.name;
@@ -253,10 +269,11 @@ app.require(['characters', 'elements', 'resources'],
                 </div>`);
         });
 
+        // Retrieve shared tier list data and saved data from local storage
         const shareLink = app.getQueryParam('share');
         const savedData = app.localStorage.get('tier-list');
 
-        // Create default or shared tier list
+        // Create default or shared tier list rows based on data
         parse(decodeURIComponent(shareLink || savedData || defaults)).forEach((row) => {
             addRow(row);
         });
