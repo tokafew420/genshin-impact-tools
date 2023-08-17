@@ -1,23 +1,30 @@
+// Initialize the 'app' object and define a 'data' property on it
 (function (app) {
     app.data = {};
-    // Require data before run
+    // Define a function to load required data before execution
     app.require = function (args, callback) {
+        // Convert the argument to an array if it's a string
         if (typeof args === 'string') args = [args];
+        // Create an array of promises to load data files
         var promises = args.map((arg) => {
+            // Load JSON data using jQuery and store it in 'app.data'
             return app.data[arg] || (app.data[arg] = $.getJSON(`data/${arg}.json`).then((res, textStatus, jqXHR) => {
                 console.debug('Required: ' + arg);
                 return app.data[arg] = res.data;
             }));
         });
 
+        // Wait for all promises to resolve and then execute the callback
         $.when.apply(this, promises).then(callback);
     };
-    // Load data
+
+    // Load data for the application
     app.require('characters');
 
+    // Define a function to escape special characters in text
     const _escape = (text) => text.replaceAll('"', '&quot;');
 
-    // Templates
+    // Define template functions for generating HTML elements
     (() => {
         app.templates = {
             cardContainer: (rarity, opts) => {
@@ -76,14 +83,19 @@
         };
     })();
 
+    // Function to create a character card element
     app.makeCharacterCard = (name, highlight, selectable) => {
+        // Retrieve character data by name
         var character = app.getCharacter(name);
 
         if (character) {
+            // Create a container for the card using templates
             var $container = $(app.templates.cardContainer(character.rarity, {
                 doubleLineText: true,
                 special: character.region === 'Crossover'
             }));
+
+            // Populate the container with card components
             $container.append(app.templates.cardImg(character.thumbnail, character.name, character.link))
                 .append(app.templates.cardText(character.name))
                 .append(app.templates.cardIcon(character.element.thumbnail, character.element.name, character.element.link));
@@ -95,6 +107,8 @@
             if (highlight) {
                 $container.append(app.templates.cardHighlight())
             }
+
+            // Attach data attributes to the container
             $container.data('resource', character)
                 .attr('data-resource-id', character.id)
                 .attr('data-resource-type', character.type)
@@ -181,7 +195,9 @@
         }
     };
 
-    /***** Utils *****/
+     // Utility functions for common operations
+
+    // Check if any element in an array satisfies a given condition
     app.any = (arr, fn, context) => {
         if (arr) {
             for (let i = 0, ii = arr.length; i < ii; i++) {
@@ -192,7 +208,11 @@
         }
         return false;
     };
+
+    // Create a deep copy of an object using JSON serialization
     app.clone = (obj) => JSON.parse(JSON.stringify(obj));
+
+    // Create a debounced version of a function that delays its execution
     app.debounce = function debounce(func, wait, immediate) {
         var timeout;
         return function () {
@@ -208,7 +228,11 @@
             if (callNow) func.apply(context, args);
         };
     };
+
+    // Check if an object is null or undefined
     app.isNullOrUndefined = (obj) => typeof (obj) === 'undefined' || obj === null;
+
+    // Find the index of an element in an array based on a key and value
     app.indexBy = (arr, key, val) => {
         if (typeof key === 'function') {
             for (let i = 0, ii = arr.length; i < ii; i++) {
@@ -226,24 +250,37 @@
         return -1;
     };
 
+    // Find an element in an array based on a key-value pair
     app.getBy = (arr, key, val) => {
         const idx = app.indexBy(arr, key, val);
         if (idx !== -1) return arr[idx];
     };
 
+    // Create a deep copy of an element in an array based on a key-value pair
     app.cloneBy = (arr, key, val) => {
         const idx = app.indexBy(arr, key, val);
         if (idx !== -1) return app.clone(arr[idx]);
     };
 
+    // Find the index of an element in an array based on the 'name' property
     app.indexByName = (arr, name) => app.indexBy(arr, 'name', name);
+
+    // Generate a lowercased and hyphen-separated ID from a string
     app.id = (str) => String(str).toLowerCase().replace(/[^a-z0-9]/g, ' ').trim().replace(/\s+/g, '-');
+
+    // Find an element in an array based on the 'name' property
     app.getByName = (arr, name) => app.getBy(arr, 'name', name);
+
+    // Create a deep copy of an element in an array based on the 'name' property
     app.cloneByName = (arr, name) => app.cloneBy(arr, 'name', name);
+
+    // Define filter functions used for array manipulation
     app.filters = {
         distinct: (val, idx, self) => self.indexOf(val) === idx,
         notNullOrUndefined: (val) => val !== null && val !== undefined
     };
+
+    // Retrieve the first property value from an object that exists and is not null or undefined
     app.firstProp = (obj, ...args) => {
         if (obj) {
             for (let i = 0, ii = args.length; i < ii; i++) {
@@ -251,34 +288,57 @@
             }
         }
     };
+
+    // Remove an element from an array based on a specified key and value
     app.removeBy = (arr, key, val) => {
+        // Find the index of the element with the specified key and value
         var idx = app.indexBy(arr, key, val);
+        
+        // If the element is found, remove it from the array and return it
         if (idx !== -1) {
             return arr.splice(idx, 1)[0];
         }
     };
+
+    // Remove an element from an array based on the 'name' property value
     app.removeByName = (arr, val) => app.removeBy(arr, 'name', val);
+
+    // Convert an RGBA color value to its corresponding hexadecimal format
     app.rgba2hex = (rgba) => `#${rgba.match(/^rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*(\d+\.{0,1}\d*))?\)$/).slice(1).map((n, i) => (i === 3 ? Math.round(parseFloat(n) * 255) : parseFloat(n)).toString(16).padStart(2, '0').replace('NaN', '')).join('')}`;
+
+    // Sort an array of objects based on a specified property, with an option for descending order
     app.sortBy = (prop, desc) => {
-        desc = desc ? -1 : 1;
+        desc = desc ? -1 : 1; // Determine sorting direction
         return (a, b) => {
+            // Compare values and return appropriate sorting result
             return a[prop] < b[prop] ? -1 * desc :
                 a[prop] === b[prop] ? 0 : 1 * desc;
         };
     };
-    app.sumCountByName = (...args) => {
-        const map = {};
-        const final = [];
 
+    // Sum and group objects by their 'name' property, combining their 'count' values
+    app.sumCountByName = (...args) => {
+        const map = {}; // Initialize a map to store grouped items
+        const final = []; // Initialize an array to store the final results
+
+        // Check if 'args' is an array
         if (!Array.isArray(args)) return final;
+
+        // Iterate through the provided arrays
         args.forEach((items) => {
+            // Check if 'items' is an array
             if (!Array.isArray(items)) return;
+
+            // Iterate through the items in the array
             items.forEach((item) => {
                 if (item && item.name) {
+                    // Check if the item already exists in the map
                     if (map[item.name]) {
+                        // If it does, update the 'count' property
                         map[item.name].count += item.count || 0;
                     } else {
-                        const clone = app.clone(item);
+                        // If not, clone the item and add it to the final array
+                        const clone = app.clone(item); // Assuming 'clone' method exists
                         clone.count = clone.count || 0;
                         final.push(map[item.name] = clone);
                     }
@@ -286,8 +346,10 @@
             });
         });
 
-        return final;
+        return final; // Return the array with combined and grouped items
     };
+
+    // Create a canvas element for measuring text width
     const canvas = document.createElement('canvas');
     app.getTextWidth = (text, font) => {
         if (!text) return 0;
@@ -299,6 +361,9 @@
         const metrics = context.measureText(longestWord);
         return +(metrics.width).toFixed(2);
     };
+
+
+    // Retrieve resource data by name
     app.getResource = (name) => {
         const res = app.cloneByName(app.data.resources, name);
         if (res) {
@@ -309,6 +374,7 @@
         return res;
     };
 
+    // Apply resource data to objects
     app.applyResource = (source) => {
         if (Array.isArray(source)) {
             source.forEach((s) => app.applyResource(s));
@@ -323,6 +389,7 @@
         return source;
     };
 
+    // Retrieve character data by name
     app.getCharacter = (name) => {
         const character = app.cloneByName(app.data.characters, name);
 
@@ -335,6 +402,7 @@
         return character;
     };
 
+    // Retrieve weapon data by name
     app.getWeapon = (name) => {
         const weapon = app.cloneByName(app.data.weapons, name);
         weapon.id = app.id(weapon.name);
@@ -343,30 +411,48 @@
         return weapon;
     };
 
+    // Generate unique codes based on strings
     const chars = 'abcdefghjkmnpqrstuwxyz0123456789';
+
+    // Initialize a cache to store generated codes and their occurrences
     app.generateCodeCache = {};
+
+    // Define a function to generate unique codes based on input strings
     app.generateCode = (str, len) => {
-        var name = str || '';
-        var code = 0;
-        len = len || 3;
+        // Initialize variables
+        var name = str || ''; // Input string (or empty string if not provided)
+        var code = 0; // Initialize the code value
+        len = len || 3; // Desired length of the generated code (default: 3 characters)
+
+        // Calculate the code value based on the characters in the input string
         for (var i = 0, ii = name.length; i < ii; i++) {
-            code += name.charCodeAt(i) * (i + 1);
-        }
-        let x = code & 31;
-        let y = chars[x];
-        for (var i = 1; i < len; i++) {
-            code >>= 5;
-            x = code & 31;
-            y += chars[x];
+            code += name.charCodeAt(i) * (i + 1); // Multiply the character's ASCII value by its position and accumulate
         }
 
-        if (app.generateCodeCache[y]) {
-            y += chars[app.generateCodeCache[y] - 1];
+        // Calculate the first character of the generated code using a bitwise AND operation
+        let x = code & 31; // Extract the last 5 bits of the code
+        let y = chars[x]; // Get the corresponding character from the 'chars' string
+
+        // Calculate the remaining characters of the generated code
+        for (var i = 1; i < len; i++) {
+            code >>= 5; // Shift the code value to the right by 5 bits
+            x = code & 31; // Extract the last 5 bits of the updated code
+            y += chars[x]; // Append the corresponding character to the 'y' string
         }
+
+        // Check if the generated code already exists in the cache
+        if (app.generateCodeCache[y]) {
+            y += chars[app.generateCodeCache[y] - 1]; // Append a unique character to make the code truly unique
+        }
+
+        // Update the cache with the generated code and its occurrence count
         app.generateCodeCache[y] = (app.generateCodeCache[y] || 0) + 1;
+
+        // Return the generated unique code
         return y;
     };
-
+    
+    // Define a utility for managing local storage
     app.localStorage = {
         get: (key) => {
             try {
@@ -378,34 +464,50 @@
         }
     };
 
+    // Retrieve query parameters from the URL
     app.getQueryParam = (name) => {
         const urlSearchParams = new URLSearchParams(window.location.href.split('?')[1]);
         return urlSearchParams.get(name);
     };
 
+    // Sort a collection of items by character data
     app.sortByCharacters = (collection, getCharacter) => {
+        // If the 'getCharacter' parameter is not provided, use a default function that returns the item itself
         getCharacter = getCharacter || ((item) => item);
 
+        // Sort the 'collection' using a custom sorting function
         collection.sort((a, b) => {
+            // Obtain the character data for items 'a' and 'b' using the provided 'getCharacter' function
             var a = getCharacter(a);
             var b = getCharacter(b);
+
+            // Determine the region priority for comparison (Crossover characters have lower priority)
             var ar = a.region === 'Crossover' ? 0 : 1;
             var br = b.region === 'Crossover' ? 0 : 1;
+
+            // Calculate the difference in region priority
             var x = ar - br;
 
+            // If the region priority is not equal, return the result to prioritize by region
             if (x !== 0) return x;
 
+            // If the region priority is equal, compare characters based on rarity
             x = a.rarity < b.rarity ? 1 :
                 a.rarity === b.rarity ? 0 : -1;
 
+            // If the rarity comparison result is not equal, return the result to prioritize by rarity
             if (x !== 0) return x;
 
+            // If both region priority and rarity are equal, compare characters based on name
             return a.name < b.name ? -1 :
                 a.name === b.name ? 0 : 1;
         });
+
+        // Return the sorted 'collection'
         return collection;
     };
 
+    // Function to get a file handle from the user
     app.getFile = async function (options) {
         options = options || { multiple: false };
         try {
@@ -416,25 +518,43 @@
         }
     }
 
-    // Init
+    // Initialization when the DOM is ready
     $(() => {
+        // Iterate over all elements with the attribute 'data-search-target'
         $('[data-search-target]').each(function () {
+            // Get the input element associated with the iteration
             var $input = $(this);
+            // Get the target element based on the value of 'data-search-target' attribute
             var $target = $($input.attr('data-search-target'));
+            // Get the value of the 'data-search-item' attribute
             var item = $input.attr('data-search-item');
+            // Determine whether scrolling into view is enabled based on the 'data-search-scroll' attribute
             var scrollIntoView = $input.attr('data-search-scroll') === 'true';
 
+            // Check if the target element exists and 'data-search-item' is defined
             if ($target.length && item) {
+                // Attach a change, keyup, and input event handler to the input element, debounced with a 200ms delay
                 $input.on('change keyup input', app.debounce(function () {
+                    // Get the trimmed and lowercased search term from the input element's value
                     var term = $input.val().trim().toLowerCase();
+                    // Initialize a variable to track the first non-matching item for scrolling
                     let first = true;
+
+                    // Check if the search term is empty
                     if (!term) {
+                        // Remove the 'non-match' class from all items within the target element
                         $(item, $target).removeClass('non-match');
                     } else {
+                        // Iterate over each item element within the target element
                         $(item, $target).each(function () {
+                            // Get the current item element as a jQuery object
                             const $item = $(this);
+                            // Determine if the item's text does not contain the search term
                             const nonMatch = term && $item.text().trim().toLowerCase().indexOf(term) === -1;
+                            // Toggle the 'non-match' class on the item element based on the search result
                             $item.toggleClass('non-match', nonMatch);
+
+                            // Scroll the first matching item into view if enabled and not already scrolled
                             if (scrollIntoView && first && !nonMatch) {
                                 $item[0].scrollIntoView({
                                     behavior: 'smooth',
