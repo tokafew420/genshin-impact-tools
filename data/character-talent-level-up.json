@@ -1329,6 +1329,70 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Lynette",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Meshing Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mechanical Spur Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Artificed Dynamic Gear"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Everamber"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Order"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Order"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Order"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Lyney",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Primordial Greenbloom"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Equity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Equity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Equity"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Mika",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2664,6 +2728,160 @@
                 "count": 12
             }, {
                 "name": "Tail of Boreas",
+                "count": 2
+            }, {
+                "name": "Crown of Insight",
+                "count": 1
+            }]
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Traveler (Hydro)",
+        "levels": [{
+            "level": 1,
+            "min_level": 1,
+            "max_level": 2,
+            "required_ascension_phase": 2,
+            "materials": [{
+                "name": "Mora",
+                "count": 12500
+            }, {
+                "name": "Teachings of Equity",
+                "count": 3
+            }, {
+                "name": "Transoceanic Pearl",
+                "count": 6
+            }]
+        }, {
+            "level": 2,
+            "min_level": 2,
+            "max_level": 3,
+            "required_ascension_phase": 3,
+            "materials": [{
+                "name": "Mora",
+                "count": 17500
+            }, {
+                "name": "Guide to Justice",
+                "count": 2
+            }, {
+                "name": "Transoceanic Chunk",
+                "count": 3
+            }]
+        }, {
+            "level": 3,
+            "min_level": 3,
+            "max_level": 4,
+            "required_ascension_phase": 3,
+            "materials": [{
+                "name": "Mora",
+                "count": 25000
+            }, {
+                "name": "Guide to Order",
+                "count": 4
+            }, {
+                "name": "Transoceanic Chunk",
+                "count": 4
+            }]
+        }, {
+            "level": 4,
+            "min_level": 4,
+            "max_level": 5,
+            "required_ascension_phase": 4,
+            "materials": [{
+                "name": "Mora",
+                "count": 30000
+            }, {
+                "name": "Guide to Equity",
+                "count": 6
+            }, {
+                "name": "Transoceanic Chunk",
+                "count": 6
+            }]
+        }, {
+            "level": 5,
+            "min_level": 5,
+            "max_level": 6,
+            "required_ascension_phase": 4,
+            "materials": [{
+                "name": "Mora",
+                "count": 37500
+            }, {
+                "name": "Guide to Justice",
+                "count": 9
+            }, {
+                "name": "Transoceanic Chunk",
+                "count": 9
+            }]
+        }, {
+            "level": 6,
+            "min_level": 6,
+            "max_level": 7,
+            "required_ascension_phase": 5,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Philosophies of Order",
+                "count": 4
+            }, {
+                "name": "Xenochromatic Crystal",
+                "count": 4
+            }, {
+                "name": "Worldspan Fern",
+                "count": 1
+            }]
+        }, {
+            "level": 7,
+            "min_level": 7,
+            "max_level": 8,
+            "required_ascension_phase": 5,
+            "materials": [{
+                "name": "Mora",
+                "count": 260000
+            }, {
+                "name": "Philosophies of Equity",
+                "count": 6
+            }, {
+                "name": "Xenochromatic Crystal",
+                "count": 6
+            }, {
+                "name": "Worldspan Fern",
+                "count": 1
+            }]
+        }, {
+            "level": 8,
+            "min_level": 8,
+            "max_level": 9,
+            "required_ascension_phase": 6,
+            "materials": [{
+                "name": "Mora",
+                "count": 450000
+            }, {
+                "name": "Philosophies of Justice",
+                "count": 12
+            }, {
+                "name": "Xenochromatic Crystal",
+                "count": 9
+            }, {
+                "name": "Worldspan Fern",
+                "count": 2
+            }]
+        }, {
+            "level": 9,
+            "min_level": 9,
+            "max_level": 10,
+            "required_ascension_phase": 6,
+            "materials": [{
+                "name": "Mora",
+                "count": 700000
+            }, {
+                "name": "Philosophies of Order",
+                "count": 16
+            }, {
+                "name": "Xenochromatic Crystal",
+                "count": 12
+            }, {
+                "name": "Worldspan Fern",
                 "count": 2
             }, {
                 "name": "Crown of Insight",

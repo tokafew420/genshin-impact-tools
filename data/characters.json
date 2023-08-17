@@ -3083,6 +3083,180 @@
         "link": "https://genshin-impact.fandom.com/wiki/Lisa"
     }, {
         "object_type": "character",
+        "name": "Lynette",
+        "type": "Character",
+        "display_name": "Lynette",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Rapid Ritesword",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rapid_Ritesword"
+        }, {
+            "object_type": "talent",
+            "name": "Enigmatic Feint",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Enigmatic_Feint.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Enigmatic_Feint",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Magic Trick: Astonishing Shift",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Magic_Trick_Astonishing_Shift.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Magic_Trick:_Astonishing_Shift",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Sophisticated Synergy",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Sophisticated_Synergy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sophisticated_Synergy"
+        }, {
+            "object_type": "talent",
+            "name": "Props Positively Prepped",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Props_Positively_Prepped.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Props_Positively_Prepped"
+        }, {
+            "object_type": "talent",
+            "name": "Loci-Based Mnemonics",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Loci-Based_Mnemonics.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Loci-Based_Mnemonics"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "A Cold Blade Like a Shadow",
+            "level": 1,
+            "thumbnail": "Constellation_A_Cold_Blade_Like_a_Shadow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Cold_Blade_Like_a_Shadow"
+        }, {
+            "object_type": "constellation",
+            "name": "Endless Mysteries",
+            "level": 2,
+            "thumbnail": "Constellation_Endless_Mysteries.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Endless_Mysteries"
+        }, {
+            "object_type": "constellation",
+            "name": "Cognition-Inverting Gaze",
+            "level": 3,
+            "thumbnail": "Constellation_Cognition-Inverting_Gaze.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cognition-Inverting_Gaze"
+        }, {
+            "object_type": "constellation",
+            "name": "Tacit Coordination",
+            "level": 4,
+            "thumbnail": "Constellation_Tacit_Coordination.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tacit_Coordination"
+        }, {
+            "object_type": "constellation",
+            "name": "Obscuring Ambiguity",
+            "level": 5,
+            "thumbnail": "Constellation_Obscuring_Ambiguity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Obscuring_Ambiguity"
+        }, {
+            "object_type": "constellation",
+            "name": "Watchful Eye",
+            "level": 6,
+            "thumbnail": "Constellation_Watchful_Eye.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Watchful_Eye"
+        }],
+        "thumbnail": "Character_Lynette_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lynette"
+    }, {
+        "object_type": "character",
+        "name": "Lyney",
+        "type": "Character",
+        "display_name": "Lyney",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Bow",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Card Force Translocation",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Pyro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Card_Force_Translocation"
+        }, {
+            "object_type": "talent",
+            "name": "Bewildering Lights",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Bewildering_Lights.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bewildering_Lights",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Wondrous Trick: Miracle Parade",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Wondrous_Trick_Miracle_Parade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wondrous_Trick:_Miracle_Parade",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Perilous Performance",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Perilous_Performance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Perilous_Performance"
+        }, {
+            "object_type": "talent",
+            "name": "Conclusive Ovation",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Conclusive_Ovation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Conclusive_Ovation"
+        }, {
+            "object_type": "talent",
+            "name": "Trivial Observations",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Trivial_Observations.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Trivial_Observations"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Whimsical Wonders",
+            "level": 1,
+            "thumbnail": "Constellation_Whimsical_Wonders.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Whimsical_Wonders"
+        }, {
+            "object_type": "constellation",
+            "name": "Loquacious Cajoling",
+            "level": 2,
+            "thumbnail": "Constellation_Loquacious_Cajoling.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Loquacious_Cajoling"
+        }, {
+            "object_type": "constellation",
+            "name": "Prestidigitation",
+            "level": 3,
+            "thumbnail": "Constellation_Prestidigitation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Prestidigitation"
+        }, {
+            "object_type": "constellation",
+            "name": "Well-Versed, Well-Rehearsed",
+            "level": 4,
+            "thumbnail": "Constellation_Well-Versed,_Well-Rehearsed.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Well-Versed,_Well-Rehearsed"
+        }, {
+            "object_type": "constellation",
+            "name": "To Pierce Enigmas",
+            "level": 5,
+            "thumbnail": "Constellation_To_Pierce_Enigmas.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Pierce_Enigmas"
+        }, {
+            "object_type": "constellation",
+            "name": "Guarded Smile",
+            "level": 6,
+            "thumbnail": "Constellation_Guarded_Smile.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guarded_Smile"
+        }],
+        "thumbnail": "Character_Lyney_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lyney"
+    }, {
+        "object_type": "character",
         "name": "Mika",
         "type": "Character",
         "display_name": "Mika",
@@ -4885,6 +5059,86 @@
             "level": 6,
             "thumbnail": "Constellation_World-Shaker.png",
             "link": "https://genshin-impact.fandom.com/wiki/World-Shaker"
+        }],
+        "thumbnail": "Character_Traveler_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Traveler"
+    }, {
+        "object_type": "character",
+        "name": "Traveler (Hydro)",
+        "type": "Character",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Outlander",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Foreign Stream",
+            "type": "Normal Attack",
+            "thumbnail": "Talent_Foreign_Stream.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Foreign_Stream"
+        }, {
+            "object_type": "talent",
+            "name": "Aquacrest Saber",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Aquacrest_Saber.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Aquacrest_Saber",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Rising Waters",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Rising_Waters.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rising_Waters",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Spotless Waters",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Spotless_Waters.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spotless_Waters"
+        }, {
+            "object_type": "talent",
+            "name": "Clear Waters",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Clear_Waters.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Clear_Waters"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Swelling Lake",
+            "level": 1,
+            "thumbnail": "Constellation_Swelling_Lake.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Swelling_Lake"
+        }, {
+            "object_type": "constellation",
+            "name": "Trickling Purity",
+            "level": 2,
+            "thumbnail": "Constellation_Trickling_Purity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Trickling_Purity"
+        }, {
+            "object_type": "constellation",
+            "name": "Turbulent Ripples",
+            "level": 3,
+            "thumbnail": "Constellation_Turbulent_Ripples.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Turbulent_Ripples"
+        }, {
+            "object_type": "constellation",
+            "name": "Pouring Descent",
+            "level": 4,
+            "thumbnail": "Constellation_Pouring_Descent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pouring_Descent"
+        }, {
+            "object_type": "constellation",
+            "name": "Churning Whirlpool",
+            "level": 5,
+            "thumbnail": "Constellation_Churning_Whirlpool.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Churning_Whirlpool"
+        }, {
+            "object_type": "constellation",
+            "name": "Tides of Justice",
+            "level": 6,
+            "thumbnail": "Constellation_Tides_of_Justice.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tides_of_Justice"
         }],
         "thumbnail": "Character_Traveler_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Traveler"

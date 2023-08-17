@@ -588,6 +588,36 @@
         "link": "https://genshin-impact.fandom.com/wiki/Evergloom_Ring"
     }, {
         "object_type": "item",
+        "name": "Artificed Spare Clockwork Component — Coppelia",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Fontaine",
+        "source": ["Icewind Suite: Dirge of Coppelia"],
+        "thumbnail": "Item_Artificed_Spare_Clockwork_Component_—_Coppelia.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Artificed_Spare_Clockwork_Component_—_Coppelia"
+    }, {
+        "object_type": "item",
+        "name": "Artificed Spare Clockwork Component — Coppelius",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Fontaine",
+        "source": ["Icewind Suite: Dirge of Coppelius"],
+        "thumbnail": "Item_Artificed_Spare_Clockwork_Component_—_Coppelius.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Artificed_Spare_Clockwork_Component_—_Coppelius"
+    }, {
+        "object_type": "item",
+        "name": "Emperor's Resolution",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Fontaine",
+        "source": ["Emperor of Fire and Iron"],
+        "thumbnail": "Item_Emperor's_Resolution.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Emperor's_Resolution"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -684,6 +714,22 @@
         "link": "https://genshin-impact.fandom.com/wiki/Kalpalata_Lotus"
     }, {
         "object_type": "item",
+        "name": "Lumidouce Bell",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Lumidouce_Bell.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lumidouce_Bell"
+    }, {
+        "object_type": "item",
+        "name": "Marcotte",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Marcotte.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Marcotte"
+    }, {
+        "object_type": "item",
         "name": "Mourning Flower",
         "type": "Local Specialties",
         "category": "Materials",
@@ -746,6 +792,14 @@
         "region": "Liyue",
         "thumbnail": "Item_Qingxin.png",
         "link": "https://genshin-impact.fandom.com/wiki/Qingxin"
+    }, {
+        "object_type": "item",
+        "name": "Rainbow Rose",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Rainbow_Rose.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Rainbow_Rose"
     }, {
         "object_type": "item",
         "name": "Rukkhashava Mushrooms",
@@ -1320,6 +1374,123 @@
         "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Praxis"
     }, {
         "object_type": "item",
+        "name": "Teachings of Equity",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Equity Book",
+        "rarity": 2,
+        "region": "Fontaine",
+        "domainLevel": 1,
+        "source": ["Rhyming Rhythm"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Equity.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Equity"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Equity",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Equity Book",
+        "rarity": 3,
+        "region": "Fontaine",
+        "domainLevel": 2,
+        "source": ["Rhyming Rhythm"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Equity.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Equity"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Equity",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Equity Book",
+        "rarity": 4,
+        "region": "Fontaine",
+        "domainLevel": 4,
+        "source": ["Rhyming Rhythm"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Equity.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Equity"
+    }, {
+        "object_type": "item",
+        "name": "Teachings of Justice",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Justice Book",
+        "rarity": 2,
+        "region": "Fontaine",
+        "domainLevel": 1,
+        "source": ["Admonishing Engraving"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Justice.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Justice"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Justice",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Justice Book",
+        "rarity": 3,
+        "region": "Fontaine",
+        "domainLevel": 2,
+        "source": ["Admonishing Engraving"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Justice.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Justice"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Justice",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Justice Book",
+        "rarity": 4,
+        "region": "Fontaine",
+        "domainLevel": 4,
+        "source": ["Admonishing Engraving"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Justice.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Justice"
+    }, {
+        "object_type": "item",
+        "name": "Teachings of Order",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Order Book",
+        "rarity": 2,
+        "region": "Fontaine",
+        "domainLevel": 1,
+        "source": ["Chiming Recitation"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Order.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Order"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Order",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Order Book",
+        "rarity": 3,
+        "region": "Fontaine",
+        "domainLevel": 2,
+        "source": ["Chiming Recitation"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Order.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Order"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Order",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Order Book",
+        "rarity": 4,
+        "region": "Fontaine",
+        "domainLevel": 4,
+        "source": ["Chiming Recitation"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Order.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Order"
+    }, {
+        "object_type": "item",
         "name": "Slime Condensate",
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
@@ -1648,6 +1819,66 @@
         "source": ["Eremites"],
         "thumbnail": "Item_Rich_Red_Brocade.png",
         "link": "https://genshin-impact.fandom.com/wiki/Rich_Red_Brocade"
+    }, {
+        "object_type": "item",
+        "name": "Meshing Gear",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Clockwork Meka",
+        "rarity": 1,
+        "source": ["Clockwork Meka"],
+        "thumbnail": "Item_Meshing_Gear.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Meshing_Gear"
+    }, {
+        "object_type": "item",
+        "name": "Mechanical Spur Gear",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Clockwork Meka",
+        "rarity": 2,
+        "source": ["Clockwork Meka"],
+        "thumbnail": "Item_Mechanical_Spur_Gear.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mechanical_Spur_Gear"
+    }, {
+        "object_type": "item",
+        "name": "Artificed Dynamic Gear",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Clockwork Meka",
+        "rarity": 3,
+        "source": ["Clockwork Meka"],
+        "thumbnail": "Item_Artificed_Dynamic_Gear.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Artificed_Dynamic_Gear"
+    }, {
+        "object_type": "item",
+        "name": "Transoceanic Pearl",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "",
+        "rarity": 1,
+        "source": [],
+        "thumbnail": "Item_Transoceanic_Pearl.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Transoceanic_Pearl"
+    }, {
+        "object_type": "item",
+        "name": "Transoceanic Chunk",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "",
+        "rarity": 2,
+        "source": [],
+        "thumbnail": "Item_Transoceanic_Chunk.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Transoceanic_Chunk"
+    }, {
+        "object_type": "item",
+        "name": "Transoceanic Crystal",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "",
+        "rarity": 3,
+        "source": [],
+        "thumbnail": "Item_Transoceanic_Crystal.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Transoceanic_Crystal"
     }, {
         "object_type": "item",
         "name": "Heavy Horn",
