@@ -1693,6 +1693,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Fischl"
     }, {
         "object_type": "character",
+        "name": "Freminet",
+        "type": "Character",
+        "display_name": "Freminet",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Flowing Eddies",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Cryo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flowing_Eddies",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Pressurized Floe",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Pressurized_Floe.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pressurized_Floe",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Shadowhunter's Ambush",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Shadowhunter's_Ambush.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shadowhunter's_Ambush"
+        }, {
+            "object_type": "talent",
+            "name": "Saturation Deep Dive",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Saturation_Deep_Dive.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Saturation_Deep_Dive"
+        }, {
+            "object_type": "talent",
+            "name": "Parallel Condensers",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Parallel_Condensers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Parallel_Condensers"
+        }, {
+            "object_type": "talent",
+            "name": "Deepwater Navigation",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Deepwater_Navigation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Deepwater_Navigation"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Dreams of the Foamy Deep",
+            "level": 1,
+            "thumbnail": "Constellation_Dreams_of_the_Foamy_Deep.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dreams_of_the_Foamy_Deep"
+        }, {
+            "object_type": "constellation",
+            "name": "Penguins and the Land of Plenty",
+            "level": 2,
+            "thumbnail": "Constellation_Penguins_and_the_Land_of_Plenty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Penguins_and_the_Land_of_Plenty"
+        }, {
+            "object_type": "constellation",
+            "name": "Song of the Eddies and Bleached Sands",
+            "level": 3,
+            "thumbnail": "Constellation_Song_of_the_Eddies_and_Bleached_Sands.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Song_of_the_Eddies_and_Bleached_Sands"
+        }, {
+            "object_type": "constellation",
+            "name": "Dance of the Snowy Moon and Flute",
+            "level": 4,
+            "thumbnail": "Constellation_Dance_of_the_Snowy_Moon_and_Flute.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_of_the_Snowy_Moon_and_Flute"
+        }, {
+            "object_type": "constellation",
+            "name": "Nights of Hearth and Happiness",
+            "level": 5,
+            "thumbnail": "Constellation_Nights_of_Hearth_and_Happiness.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nights_of_Hearth_and_Happiness"
+        }, {
+            "object_type": "constellation",
+            "name": "Moment of Waking and Resolve",
+            "level": 6,
+            "thumbnail": "Constellation_Moment_of_Waking_and_Resolve.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Moment_of_Waking_and_Resolve"
+        }],
+        "thumbnail": "Character_Freminet_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Freminet"
+    }, {
+        "object_type": "character",
         "name": "Ganyu",
         "type": "Character",
         "rarity": 5,

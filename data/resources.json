@@ -802,6 +802,14 @@
         "link": "https://genshin-impact.fandom.com/wiki/Rainbow_Rose"
     }, {
         "object_type": "item",
+        "name": "Romaritime Flower",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Romaritime_Flower.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Romaritime_Flower"
+    }, {
+        "object_type": "item",
         "name": "Rukkhashava Mushrooms",
         "type": "Local Specialties",
         "category": "Materials",
@@ -1871,14 +1879,14 @@
         "link": "https://genshin-impact.fandom.com/wiki/Transoceanic_Chunk"
     }, {
         "object_type": "item",
-        "name": "Transoceanic Crystal",
+        "name": "Xenochromatic Crystal",
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
         "group": "",
         "rarity": 3,
         "source": [],
-        "thumbnail": "Item_Transoceanic_Crystal.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Transoceanic_Crystal"
+        "thumbnail": "Item_Xenochromatic_Crystal.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Xenochromatic_Crystal"
     }, {
         "object_type": "item",
         "name": "Heavy Horn",

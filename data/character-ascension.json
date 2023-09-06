@@ -951,6 +951,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Freminet",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Artificed Spare Clockwork Component — Coppelius"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Shivada Jade Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Shivada Jade Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Shivada Jade Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Shivada Jade Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Romaritime Flower"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Ganyu",
         "materials": [{
             "type": "Boss Material",
