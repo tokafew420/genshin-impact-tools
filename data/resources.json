@@ -618,6 +618,26 @@
         "link": "https://genshin-impact.fandom.com/wiki/Emperor's_Resolution"
     }, {
         "object_type": "item",
+        "name": "Fontemer Unihorn",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Fontaine",
+        "source": ["Millennial Pearl Seahorse"],
+        "thumbnail": "Item_Fontemer_Unihorn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fontemer_Unihorn"
+    }, {
+        "object_type": "item",
+        "name": "\"Tourbillon Device\"",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Fontaine",
+        "source": ["Experimental Field Generator"],
+        "thumbnail": "Item_Tourbillon_Device.png",
+        "link": "https://genshin-impact.fandom.com/wiki/\"Tourbillon_Device\""
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -720,6 +740,14 @@
         "region": "Fontaine",
         "thumbnail": "Item_Lumidouce_Bell.png",
         "link": "https://genshin-impact.fandom.com/wiki/Lumidouce_Bell"
+    }, {
+        "object_type": "item",
+        "name": "Lumitoile",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Lumitoile.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lumitoile"
     }, {
         "object_type": "item",
         "name": "Marcotte",
@@ -880,6 +908,14 @@
         "region": "Liyue",
         "thumbnail": "Item_Starconch.png",
         "link": "https://genshin-impact.fandom.com/wiki/Starconch"
+    }, {
+        "object_type": "item",
+        "name": "Subdetection Unit",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Subdetection_Unit.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Subdetection_Unit"
     }, {
         "object_type": "item",
         "name": "Valberry",

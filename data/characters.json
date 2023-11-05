@@ -3869,6 +3869,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Noelle"
     }, {
         "object_type": "character",
+        "name": "Neuvillette",
+        "type": "Character",
+        "display_name": "Neuvillette",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "As Water Seeks Equilibrium",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/As_Water_Seeks_Equilibrium",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "O Tears, I Shall Repay",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_O_Tears,_I_Shall_Repay.png",
+            "link": "https://genshin-impact.fandom.com/wiki/O_Tears,_I_Shall_Repay"
+        }, {
+            "object_type": "talent",
+            "name": "O Tides, I Have Returned",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_O_Tides,_I_Have_Returned.png",
+            "link": "https://genshin-impact.fandom.com/wiki/O_Tides,_I_Have_Returned",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Heir to the Ancient Sea's Authority",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Heir_to_the_Ancient_Sea's_Authority.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heir_to_the_Ancient_Sea's_Authority"
+        }, {
+            "object_type": "talent",
+            "name": "Discipline of the Supreme Arbitration",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Discipline_of_the_Supreme_Arbitration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Discipline_of_the_Supreme_Arbitration"
+        }, {
+            "object_type": "talent",
+            "name": "Gather Like the Tide",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Gather_Like_the_Tide.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gather_Like_the_Tide"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Venerable Institution",
+            "level": 1,
+            "thumbnail": "Constellation_Venerable_Institution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Venerable_Institution"
+        }, {
+            "object_type": "constellation",
+            "name": "Juridical Exhortation",
+            "level": 2,
+            "thumbnail": "Constellation_Juridical_Exhortation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Juridical_Exhortation"
+        }, {
+            "object_type": "constellation",
+            "name": "Ancient Postulation",
+            "level": 3,
+            "thumbnail": "Constellation_Ancient_Postulation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ancient_Postulation"
+        }, {
+            "object_type": "constellation",
+            "name": "Crown of Commiseration",
+            "level": 4,
+            "thumbnail": "Constellation_Crown_of_Commiseration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crown_of_Commiseration"
+        }, {
+            "object_type": "constellation",
+            "name": "Axiomatic Judgment",
+            "level": 5,
+            "thumbnail": "Constellation_Axiomatic_Judgment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Axiomatic_Judgment"
+        }, {
+            "object_type": "constellation",
+            "name": "Wrathful Recompense",
+            "level": 6,
+            "thumbnail": "Constellation_Wrathful_Recompense.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wrathful_Recompense"
+        }],
+        "thumbnail": "Character_Neuvillette_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Neuvillette"
+    }, {
+        "object_type": "character",
         "name": "Qiqi",
         "type": "Character",
         "rarity": 5,
@@ -5482,6 +5569,93 @@
         }],
         "thumbnail": "Character_Wanderer_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Wanderer"
+    }, {
+        "object_type": "character",
+        "name": "Wriothesley",
+        "type": "Character",
+        "display_name": "Wriothesley",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Forceful Fists of Frost",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Cryo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Forceful_Fists_of_Frost",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Icefang Rush",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Icefang_Rush.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Icefang_Rush"
+        }, {
+            "object_type": "talent",
+            "name": "Darkgold Wolfbite",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Darkgold_Wolfbite.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Darkgold_Wolfbite",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "There Shall Be a Plea for Justice",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_There_Shall_Be_a_Plea_for_Justice.png",
+            "link": "https://genshin-impact.fandom.com/wiki/There_Shall_Be_a_Plea_for_Justice"
+        }, {
+            "object_type": "talent",
+            "name": "There Shall Be a Reckoning for Sin",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_There_Shall_Be_a_Reckoning_for_Sin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/There_Shall_Be_a_Reckoning_for_Sin"
+        }, {
+            "object_type": "talent",
+            "name": "The Duke's Grace",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Duke's_Grace.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Duke's_Grace"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Terror for the Evildoers",
+            "level": 1,
+            "thumbnail": "Constellation_Terror_for_the_Evildoers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Terror_for_the_Evildoers"
+        }, {
+            "object_type": "constellation",
+            "name": "Shackles for the Arrogant",
+            "level": 2,
+            "thumbnail": "Constellation_Shackles_for_the_Arrogant.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shackles_for_the_Arrogant"
+        }, {
+            "object_type": "constellation",
+            "name": "Punishment for the Frauds",
+            "level": 3,
+            "thumbnail": "Constellation_Punishment_for_the_Frauds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Punishment_for_the_Frauds"
+        }, {
+            "object_type": "constellation",
+            "name": "Redemption for the Suffering",
+            "level": 4,
+            "thumbnail": "Constellation_Redemption_for_the_Suffering.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Redemption_for_the_Suffering"
+        }, {
+            "object_type": "constellation",
+            "name": "Mercy for the Wronged",
+            "level": 5,
+            "thumbnail": "Constellation_Mercy_for_the_Wronged.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mercy_for_the_Wronged"
+        }, {
+            "object_type": "constellation",
+            "name": "Esteem for the Innocent",
+            "level": 6,
+            "thumbnail": "Constellation_Esteem_for_the_Innocent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Esteem_for_the_Innocent"
+        }],
+        "thumbnail": "Character_Wriothesley_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Wriothesley"
     }, {
         "object_type": "character",
         "name": "Xiangling",
