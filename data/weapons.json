@@ -135,6 +135,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Calamity_Queller"
     }, {
         "object_type": "weapon",
+        "name": "Cashflow Supervision",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Cashflow_Supervision.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Cashflow_Supervision"
+    }, {
+        "object_type": "weapon",
         "name": "Cinnabar Spindle",
         "type": "Sword",
         "rarity": 4,
@@ -933,6 +940,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/The_Black_Sword"
     }, {
         "object_type": "weapon",
+        "name": "The First Great Magic",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_The_First_Great_Magic.png",
+        "link": "https://genshin-impact.fandom.com/wiki/The_First_Great_Magic"
+    }, {
+        "object_type": "weapon",
         "name": "The Flute",
         "type": "Sword",
         "rarity": 4,
@@ -980,6 +994,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Thundering_Pulse.png",
         "link": "https://genshin-impact.fandom.com/wiki/Thundering_Pulse"
+    }, {
+        "object_type": "weapon",
+        "name": "Tome of the Eternal Flow",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Tome_of_the_Eternal_Flow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tome_of_the_Eternal_Flow"
     }, {
         "object_type": "weapon",
         "name": "Toukabou Shigure",

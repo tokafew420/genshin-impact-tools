@@ -2375,6 +2375,96 @@
         "link": "https://genshin-impact.fandom.com/wiki/Wanderer's_Blooming_Flower"
     }, {
         "object_type": "item",
+        "name": "Drop of Tainted Water",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Tainted Hydro Phantasm",
+        "rarity": 2,
+        "source": ["Tainted Hydro Phantasms"],
+        "thumbnail": "Item_Drop_of_Tainted_Water.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Drop_of_Tainted_Water"
+    }, {
+        "object_type": "item",
+        "name": "Scoop of Tainted Water",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Tainted Hydro Phantasm",
+        "rarity": 3,
+        "source": ["Tainted Hydro Phantasms"],
+        "thumbnail": "Item_Scoop_of_Tainted_Water.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Scoop_of_Tainted_Water"
+    }, {
+        "object_type": "item",
+        "name": "Newborn Tainted Hydro Phantasm",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Tainted Hydro Phantasm",
+        "rarity": 4,
+        "source": ["Tainted Hydro Phantasms"],
+        "thumbnail": "Item_Newborn_Tainted_Hydro_Phantasm.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Newborn_Tainted_Hydro_Phantasm"
+    }, {
+        "object_type": "item",
+        "name": "Rift Core",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Breacher Primus",
+        "rarity": 2,
+        "source": ["Breacher Primus"],
+        "thumbnail": "Item_Rift_Core.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Rift_Core"
+    }, {
+        "object_type": "item",
+        "name": "Foreign Synapse",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Breacher Primus",
+        "rarity": 3,
+        "source": ["Breacher Primus"],
+        "thumbnail": "Item_Foreign_Synapse.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Foreign_Synapse"
+    }, {
+        "object_type": "item",
+        "name": "Alien Life Core",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Breacher Primus",
+        "rarity": 4,
+        "source": ["Breacher Primus"],
+        "thumbnail": "Item_Alien_Life_Core.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Alien_Life_Core"
+    }, {
+        "object_type": "item",
+        "name": "Old Operative's Pocket Watch",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fatui Operative",
+        "rarity": 2,
+        "source": ["Frost Operative", "Wind Operative"],
+        "thumbnail": "Item_Old_Operative's_Pocket_Watch.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Old_Operative's_Pocket_Watch"
+    }, {
+        "object_type": "item",
+        "name": "Operative's Standard Pocket Watch",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fatui Operative",
+        "rarity": 3,
+        "source": ["Frost Operative", "Wind Operative"],
+        "thumbnail": "Item_Operative's_Standard_Pocket_Watch.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Operative's_Standard_Pocket_Watch"
+    }, {
+        "object_type": "item",
+        "name": "Operative's Constancy",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fatui Operative",
+        "rarity": 2,
+        "source": ["Frost Operative", "Wind Operative"],
+        "thumbnail": "Item_Operative's_Constancy.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Operative's_Constancy"
+    }, {
+        "object_type": "item",
         "group_type": "dvalin-material",
         "name": "Dvalin's Plume",
         "type": "Elite Boss Material",
@@ -3078,5 +3168,113 @@
         "rarity": 5,
         "thumbnail": "Item_Olden_Days_of_Scorching_Might.png",
         "link": "https://genshin-impact.fandom.com/wiki/Olden_Days_of_Scorching_Might"
+    }, {
+        "object_type": "item",
+        "name": "Fragment of an Ancient Chord",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ancient Chords",
+        "rarity": 2,
+        "thumbnail": "Item_Fragment_of_an_Ancient_Chord.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fragment_of_an_Ancient_Chord"
+    }, {
+        "object_type": "item",
+        "name": "Chapter of an Ancient Chord",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ancient Chords",
+        "rarity": 3,
+        "thumbnail": "Item_Chapter_of_an_Ancient_Chord.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chapter_of_an_Ancient_Chord"
+    }, {
+        "object_type": "item",
+        "name": "Movement of an Ancient Chord",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ancient Chords",
+        "rarity": 4,
+        "thumbnail": "Item_Movement_of_an_Ancient_Chord.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Movement_of_an_Ancient_Chord"
+    }, {
+        "object_type": "item",
+        "name": "Echo of an Ancient Chord",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Ancient Chords",
+        "rarity": 5,
+        "thumbnail": "Item_Echo_of_an_Ancient_Chord.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Echo_of_an_Ancient_Chord"
+    }, {
+        "object_type": "item",
+        "name": "Dross of Pure Sacred Dewdrop",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Sacred Dewdrops",
+        "rarity": 2,
+        "thumbnail": "Item_Dross_of_Pure_Sacred_Dewdrop.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dross_of_Pure_Sacred_Dewdrop"
+    }, {
+        "object_type": "item",
+        "name": "Sublimation of Pure Sacred Dewdrop",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Sacred Dewdrops",
+        "rarity": 3,
+        "thumbnail": "Item_Sublimation_of_Pure_Sacred_Dewdrop.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sublimation_of_Pure_Sacred_Dewdrop"
+    }, {
+        "object_type": "item",
+        "name": "Spring of Pure Sacred Dewdrop",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Sacred Dewdrops",
+        "rarity": 4,
+        "thumbnail": "Item_Spring_of_Pure_Sacred_Dewdrop.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Spring_of_Pure_Sacred_Dewdrop"
+    }, {
+        "object_type": "item",
+        "name": "Essence of Pure Sacred Dewdrop",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Sacred Dewdrops",
+        "rarity": 5,
+        "thumbnail": "Item_Essence_of_Pure_Sacred_Dewdrop.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Essence_of_Pure_Sacred_Dewdrop"
+    }, {
+        "object_type": "item",
+        "name": "Broken Goblet of the Pristine Sea",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Goblets of the Pristine Sea",
+        "rarity": 2,
+        "thumbnail": "Item_Broken_Goblet_of_the_Pristine_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Broken_Goblet_of_the_Pristine_Sea"
+    }, {
+        "object_type": "item",
+        "name": "Wine Goblet of the Pristine Sea",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Goblets of the Pristine Sea",
+        "rarity": 3,
+        "thumbnail": "Item_Wine_Goblet_of_the_Pristine_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Wine_Goblet_of_the_Pristine_Sea"
+    }, {
+        "object_type": "item",
+        "name": "Silver Goblet of the Pristine Sea",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Goblets of the Pristine Sea",
+        "rarity": 4,
+        "thumbnail": "Item_Silver_Goblet_of_the_Pristine_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Silver_Goblet_of_the_Pristine_Sea"
+    }, {
+        "object_type": "item",
+        "name": "Golden Goblet of the Pristine Sea",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Goblets of the Pristine Sea",
+        "rarity": 5,
+        "thumbnail": "Item_Golden_Goblet_of_the_Pristine_Sea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Golden_Goblet_of_the_Pristine_Sea"
     }]
 }
