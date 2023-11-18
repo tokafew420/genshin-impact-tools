@@ -949,6 +949,94 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Ballad of the Boundless Blue",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Fragile Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sturdy Bone Shard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Fossilized Bone Shard"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Ballad of the Fjords",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Whopperflower Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shimmering Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Energy Nectar"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "A Flower Yet to Bloom"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Treasured Flower"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Wanderer's Blooming Flower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Broken Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Wine Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Goblet of the Pristine Sea"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Beacon of the Reed Sea",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2550,6 +2638,138 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Mist Veiled Primo Elixir"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Finale of the Deep",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Drop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Scoop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Newborn Tainted Hydro Phantasm"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Dross of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Sublimation of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Spring of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Essence of Pure Sacred Dewdrop"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Fleuve Cendre Ferryman",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Drop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Scoop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Newborn Tainted Hydro Phantasm"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fragment of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chapter of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Movement of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Echo of an Ancient Chord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Flowing Purity",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Rift Core"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Foreign Synapse"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Alien Life Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Dross of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Sublimation of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Spring of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Essence of Pure Sacred Dewdrop"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -4353,6 +4573,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Portable Power Saw",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Meshing Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mechanical Spur Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Artificed Dynamic Gear"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Rift Core"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Foreign Synapse"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Alien Life Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Broken Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Wine Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Goblet of the Pristine Sea"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Predator",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4482,6 +4746,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Prospector's Drill",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Meshing Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mechanical Spur Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Artificed Dynamic Gear"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Old Operative's Pocket Watch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Operative's Standard Pocket Watch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Operative's Constancy"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fragment of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chapter of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Movement of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Echo of an Ancient Chord"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -4749,6 +5057,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Range Gauge",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Drop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Scoop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Newborn Tainted Hydro Phantasm"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fragment of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chapter of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Movement of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Echo of an Ancient Chord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Raven Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4878,6 +5230,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Narukami's Valor"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Rightful Reward",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Meshing Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mechanical Spur Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Artificed Dynamic Gear"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Rift Core"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Foreign Synapse"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Alien Life Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Broken Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Wine Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Goblet of the Pristine Sea"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -5277,6 +5673,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Sacrificial Jade",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mist Grass Pollen"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mist Grass"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mist Grass Wick"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Sacrificial Sword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5362,6 +5802,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Golden Talisman of the Forest Dew"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Scion of the Blazing Sun",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "A Flower Yet to Bloom"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Treasured Flower"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Wanderer's Blooming Flower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Echo of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Remnant Glow of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Dream of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Olden Days of Scorching Might"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -6001,6 +6485,94 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Song of Stillness",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Drop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Scoop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Newborn Tainted Hydro Phantasm"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fragment of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chapter of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Movement of an Ancient Chord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Echo of an Ancient Chord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Splendor of Tranquil Waters",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Drop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Scoop of Tainted Water"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Newborn Tainted Hydro Phantasm"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Dross of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Sublimation of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Spring of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Essence of Pure Sacred Dewdrop"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Staff of Homa",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -6177,47 +6749,91 @@
         }]
     }, {
         "object_type": "ascension-materials",
-        "name": "Tulaytullah's Remembrance",
+        "name": "Sword of Narzissenkreuz",
         "materials": [{
             "type": "Common Ascension Materials",
             "rarity": 1,
-            "name": "Fungal Spores"
+            "name": "Transoceanic Pearl"
         }, {
             "type": "Common Ascension Materials",
             "rarity": 2,
-            "name": "Luminescent Pollen"
+            "name": "Transoceanic Chunk"
         }, {
             "type": "Common Ascension Materials",
             "rarity": 3,
-            "name": "Crystalline Cyst Dust"
+            "name": "Xenochromatic Crystal"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 2,
-            "name": "Inactivated Fungal Nucleus"
+            "name": "Old Operative's Pocket Watch"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 3,
-            "name": "Dormant Fungal Nucleus"
+            "name": "Operative's Standard Pocket Watch"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 4,
-            "name": "Robust Fungal Nucleus"
+            "name": "Operative's Constancy"
         }, {
             "type": "Weapon Ascension Materials",
             "rarity": 2,
-            "name": "Echo of Scorching Might"
+            "name": "Fragment of an Ancient Chord"
         }, {
             "type": "Weapon Ascension Materials",
             "rarity": 3,
-            "name": "Remnant Glow of Scorching Might"
+            "name": "Chapter of an Ancient Chord"
         }, {
             "type": "Weapon Ascension Materials",
             "rarity": 4,
-            "name": "Dream of Scorching Might"
+            "name": "Movement of an Ancient Chord"
         }, {
             "type": "Weapon Ascension Materials",
             "rarity": 5,
-            "name": "Olden Days of Scorching Might"
+            "name": "Echo of an Ancient Chord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Talking Stick",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Desiccated Shell"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sturdy Shell"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Marked Shell"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Oasis Garden's Reminiscence"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Oasis Garden's Kindness"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Oasis Garden's Mourning"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Oasis Garden's Truth"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -6350,6 +6966,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "The Dockhand's Assistant",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Old Operative's Pocket Watch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Operative's Standard Pocket Watch"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Operative's Constancy"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Dross of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Sublimation of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Spring of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Essence of Pure Sacred Dewdrop"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -6705,6 +7365,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Tidal Shadow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Meshing Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mechanical Spur Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Artificed Dynamic Gear"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Rift Core"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Foreign Synapse"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Alien Life Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Broken Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Wine Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Goblet of the Pristine Sea"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Tome of the Eternal Flow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -6834,6 +7538,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Tulaytullah's Remembrance",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Fungal Spores"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Luminescent Pollen"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Crystalline Cyst Dust"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Inactivated Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dormant Fungal Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Robust Fungal Nucleus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Echo of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Remnant Glow of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Dream of Scorching Might"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Olden Days of Scorching Might"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -7306,6 +8054,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Dream of the Dandelion Gladiator"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Wolf-Fang",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Device"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Circuit"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Core"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
         "object_type": "ascension-materials",

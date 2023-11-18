@@ -65,6 +65,20 @@
         "link": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
     }, {
         "object_type": "weapon",
+        "name": "Ballad of the Boundless Blue",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Ballad_of_the_Boundless_Blue.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ballad_of_the_Boundless_Blue"
+    }, {
+        "object_type": "weapon",
+        "name": "Ballad of the Fjords",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Ballad_of_the_Fjords.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ballad_of_the_Fjords"
+    }, {
+        "object_type": "weapon",
         "name": "Beacon of the Reed Sea",
         "type": "Claymore",
         "rarity": 5,
@@ -322,6 +336,27 @@
         "rarity": 3,
         "thumbnail": "Weapon_Fillet_Blade.png",
         "link": "https://genshin-impact.fandom.com/wiki/Fillet_Blade"
+    }, {
+        "object_type": "weapon",
+        "name": "Finale of the Deep",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Finale_of_the_Deep.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Finale_of_the_Deep"
+    }, {
+        "object_type": "weapon",
+        "name": "Fleuve Cendre Ferryman",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Fleuve_Cendre_Ferryman.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fleuve_Cendre_Ferryman"
+    }, {
+        "object_type": "weapon",
+        "name": "Flowing Purity",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Flowing_Purity.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Flowing_Purity"
     }, {
         "object_type": "weapon",
         "name": "Forest Regalia",
@@ -618,6 +653,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Polar_Star"
     }, {
         "object_type": "weapon",
+        "name": "Portable Power Saw",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Portable_Power_Saw.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Portable_Power_Saw"
+    }, {
+        "object_type": "weapon",
         "name": "Predator",
         "type": "Bow",
         "rarity": 4,
@@ -637,6 +679,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Primordial_Jade_Winged-Spear.png",
         "link": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear"
+    }, {
+        "object_type": "weapon",
+        "name": "Prospector's Drill",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Prospector's_Drill.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Prospector's_Drill"
     }, {
         "object_type": "weapon",
         "name": "Prototype Amber",
@@ -681,6 +730,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Rainslasher"
     }, {
         "object_type": "weapon",
+        "name": "Range Gauge",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Range_Gauge.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Range_Gauge"
+    }, {
+        "object_type": "weapon",
         "name": "Raven Bow",
         "type": "Bow",
         "rarity": 3,
@@ -700,6 +756,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Redhorn_Stonethresher.png",
         "link": "https://genshin-impact.fandom.com/wiki/Redhorn_Stonethresher"
+    }, {
+        "object_type": "weapon",
+        "name": "Rightful Reward",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Rightful_Reward.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Rightful_Reward"
     }, {
         "object_type": "weapon",
         "name": "Royal Bow",
@@ -765,6 +828,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Sacrificial_Greatsword"
     }, {
         "object_type": "weapon",
+        "name": "Sacrificial Jade",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Sacrificial_Jade.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sacrificial_Jade"
+    }, {
+        "object_type": "weapon",
         "name": "Sacrificial Sword",
         "type": "Sword",
         "rarity": 4,
@@ -777,6 +847,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Sapwood_Blade.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sapwood_Blade"
+    }, {
+        "object_type": "weapon",
+        "name": "Scion of the Blazing Sun",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Scion_of_the_Blazing_Sun.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Scion_of_the_Blazing_Sun"
     }, {
         "object_type": "weapon",
         "name": "Seasoned Hunter's Bow",
@@ -884,6 +961,20 @@
         "link": "https://genshin-impact.fandom.com/wiki/Song_of_Broken_Pines"
     }, {
         "object_type": "weapon",
+        "name": "Song of Stillness",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Song_of_Stillness.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Song_of_Stillness"
+    }, {
+        "object_type": "weapon",
+        "name": "Splendor of Tranquil Waters",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Splendor_of_Tranquil_Waters.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Splendor_of_Tranquil_Waters"
+    }, {
+        "object_type": "weapon",
         "name": "Staff of Homa",
         "type": "Polearm",
         "rarity": 5,
@@ -912,11 +1003,18 @@
         "link": "https://genshin-impact.fandom.com/wiki/Sword_of_Descension"
     }, {
         "object_type": "weapon",
-        "name": "Tulaytullah's Remembrance",
-        "type": "Catalyst",
-        "rarity": 5,
-        "thumbnail": "Weapon_Tulaytullah's_Remembrance.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Tulaytullah's_Remembrance"
+        "name": "Sword of Narzissenkreuz",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Sword_of_Narzissenkreuz.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sword_of_Narzissenkreuz"
+    }, {
+        "object_type": "weapon",
+        "name": "Talking Stick",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Talking_Stick.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Talking_Stick"
     }, {
         "object_type": "weapon",
         "name": "The Alley Flash",
@@ -938,6 +1036,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_The_Black_Sword.png",
         "link": "https://genshin-impact.fandom.com/wiki/The_Black_Sword"
+    }, {
+        "object_type": "weapon",
+        "name": "The Dockhand's Assistant",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_The_Dockhand's_Assistant.png",
+        "link": "https://genshin-impact.fandom.com/wiki/The_Dockhand's_Assistant"
     }, {
         "object_type": "weapon",
         "name": "The First Great Magic",
@@ -996,6 +1101,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Thundering_Pulse"
     }, {
         "object_type": "weapon",
+        "name": "Tidal Shadow",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Tidal_Shadow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tidal_Shadow"
+    }, {
+        "object_type": "weapon",
         "name": "Tome of the Eternal Flow",
         "type": "Catalyst",
         "rarity": 5,
@@ -1015,6 +1127,13 @@
         "rarity": 3,
         "thumbnail": "Weapon_Traveler's_Handy_Sword.png",
         "link": "https://genshin-impact.fandom.com/wiki/Traveler's_Handy_Sword"
+    }, {
+        "object_type": "weapon",
+        "name": "Tulaytullah's Remembrance",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Tulaytullah's_Remembrance.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tulaytullah's_Remembrance"
     }, {
         "object_type": "weapon",
         "name": "Twin Nephrite",
@@ -1092,6 +1211,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Wolf's_Gravestone.png",
         "link": "https://genshin-impact.fandom.com/wiki/Wolf's_Gravestone"
+    }, {
+        "object_type": "weapon",
+        "name": "Wolf-Fang",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Wolf-Fang.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Wolf-Fang"
     }, {
         "object_type": "weapon",
         "name": "Xiphos' Moonlight",
