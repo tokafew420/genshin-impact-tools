@@ -551,6 +551,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Charlotte",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "\"Tourbillon Device\""
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Shivada Jade Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Shivada Jade Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Shivada Jade Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Shivada Jade Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Meshing Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mechanical Spur Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Artificed Dynamic Gear"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Beryl Conch"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Chongyun",
         "materials": [{
             "type": "Boss Material",
@@ -988,6 +1028,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Romaritime Flower"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Furina",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Water That Failed To Transcend"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Varunada Lazurite Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Varunada Lazurite Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Varunada Lazurite Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Varunada Lazurite Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Whopperflower Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shimmering Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Energy Nectar"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Lakelight Lily"
         }]
     }, {
         "object_type": "ascension-materials",

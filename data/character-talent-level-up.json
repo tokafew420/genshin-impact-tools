@@ -497,6 +497,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Charlotte",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Meshing Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mechanical Spur Gear"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Artificed Dynamic Gear"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Lightless Silk String"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Justice"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Justice"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Justice"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Chongyun",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -834,6 +866,38 @@
             "type": "Elite Boss Material",
             "rarity": 5,
             "name": "Worldspan Fern"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Justice"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Justice"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Justice"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Furina",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Whopperflower Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shimmering Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Energy Nectar"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Lightless Mass"
         }, {
             "type": "Talent Level-Up Material",
             "rarity": 2,

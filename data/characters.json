@@ -828,6 +828,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Candace"
     }, {
         "object_type": "character",
+        "name": "Charlotte",
+        "type": "Character",
+        "display_name": "Charlotte",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Cool-Color Capture",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Cryo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cool-Color_Capture"
+        }, {
+            "object_type": "talent",
+            "name": "Framing: Freezing Point Composition",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Framing_Freezing_Point_Composition.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Framing:_Freezing_Point_Composition",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Still Photo: Comprehensive Confirmation",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Still_Photo_Comprehensive_Confirmation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Still_Photo:_Comprehensive_Confirmation",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Moment of Impact",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Moment_of_Impact.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Moment_of_Impact"
+        }, {
+            "object_type": "talent",
+            "name": "Diversified Investigation",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Diversified_Investigation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Diversified_Investigation"
+        }, {
+            "object_type": "talent",
+            "name": "First-Person Shutter",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_First-Person_Shutter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/First-Person_Shutter"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "A Need to Verify Facts",
+            "level": 1,
+            "thumbnail": "Constellation_A_Need_to_Verify_Facts.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Need_to_Verify_Facts"
+        }, {
+            "object_type": "constellation",
+            "name": "A Duty to Pursue Truth",
+            "level": 2,
+            "thumbnail": "Constellation_A_Duty_to_Pursue_Truth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Duty_to_Pursue_Truth"
+        }, {
+            "object_type": "constellation",
+            "name": "An Imperative to Independence",
+            "level": 3,
+            "thumbnail": "Constellation_An_Imperative_to_Independence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/An_Imperative_to_Independence"
+        }, {
+            "object_type": "constellation",
+            "name": "A Responsibility to Oversee",
+            "level": 4,
+            "thumbnail": "Constellation_A_Responsibility_to_Oversee.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Responsibility_to_Oversee"
+        }, {
+            "object_type": "constellation",
+            "name": "A Principle of Conscience",
+            "level": 5,
+            "thumbnail": "Constellation_A_Principle_of_Conscience.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Principle_of_Conscience"
+        }, {
+            "object_type": "constellation",
+            "name": "A Summation of Interest",
+            "level": 6,
+            "thumbnail": "Constellation_A_Summation_of_Interest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Summation_of_Interest"
+        }],
+        "thumbnail": "Character_Charlotte_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Charlotte"
+    }, {
+        "object_type": "character",
         "name": "Chongyun",
         "type": "Character",
         "rarity": 4,
@@ -1778,6 +1865,93 @@
         }],
         "thumbnail": "Character_Freminet_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Freminet"
+    }, {
+        "object_type": "character",
+        "name": "Furina",
+        "type": "Character",
+        "display_name": "Furina",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Soloist's Solicitation",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Soloist's_Solicitation"
+        }, {
+            "object_type": "talent",
+            "name": "Salon Solitaire",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Salon_Solitaire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Salon_Solitaire",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Let the People Rejoice",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Let_the_People_Rejoice.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Let_the_People_Rejoice",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Endless Waltz",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Endless_Waltz.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Endless_Waltz"
+        }, {
+            "object_type": "talent",
+            "name": "Unheard Confession",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Unheard_Confession.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unheard_Confession"
+        }, {
+            "object_type": "talent",
+            "name": "The Sea Is My Stage",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Sea_Is_My_Stage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Sea_Is_My_Stage"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "\"Love Is a Rebellious Bird That None Can Tame\"",
+            "level": 1,
+            "thumbnail": "Constellation_Love_Is_a_Rebellious_Bird_That_None_Can_Tame.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Love_Is_a_Rebellious_Bird_That_None_Can_Tame\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"A Woman Adapts Like Duckweed in Water\"",
+            "level": 2,
+            "thumbnail": "Constellation_A_Woman_Adapts_Like_Duckweed_in_Water.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"A_Woman_Adapts_Like_Duckweed_in_Water\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"My Secret Is Hidden Within Me, No One Will Know My Name\"",
+            "level": 3,
+            "thumbnail": "Constellation_My_Secret_Is_Hidden_Within_Me,_No_One_Will_Know_My_Name.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"My_Secret_Is_Hidden_Within_Me,_No_One_Will_Know_My_Name\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"They Know Not Life, Who Dwelt in the Netherworld Not!\"",
+            "level": 4,
+            "thumbnail": "Constellation_They_Know_Not_Life,_Who_Dwelt_in_the_Netherworld_Not!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"They_Know_Not_Life,_Who_Dwelt_in_the_Netherworld_Not!\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"His Name I Now Know, It Is...!\"",
+            "level": 5,
+            "thumbnail": "Constellation_His_Name_I_Now_Know,_It_Is...!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"His_Name_I_Now_Know,_It_Is...!\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Hear Me — Let Us Raise the Chalice of Love!\"",
+            "level": 6,
+            "thumbnail": "Constellation_Hear_Me_—_Let_Us_Raise_the_Chalice_of_Love!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Hear_Me_—_Let_Us_Raise_the_Chalice_of_Love!\""
+        }],
+        "thumbnail": "Character_Furina_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Furina"
     }, {
         "object_type": "character",
         "name": "Ganyu",

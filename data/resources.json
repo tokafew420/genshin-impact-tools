@@ -638,12 +638,30 @@
         "link": "https://genshin-impact.fandom.com/wiki/\"Tourbillon_Device\""
     }, {
         "object_type": "item",
+        "name": "Water That Failed To Transcend",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Fontaine",
+        "source": ["Hydro Tulpa"],
+        "thumbnail": "Item_Water_That_Failed_To_Transcend.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Water_That_Failed_To_Transcend"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
         "region": "Inazuma",
         "thumbnail": "Item_Amakumo_Fruit.png",
         "link": "https://genshin-impact.fandom.com/wiki/Amakumo_Fruit"
+    }, {
+        "object_type": "item",
+        "name": "Beryl Conch",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Beryl_Conch.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Beryl_Conch"
     }, {
         "object_type": "item",
         "name": "Calla Lily",
@@ -732,6 +750,14 @@
         "region": "Sumeru",
         "thumbnail": "Item_Kalpalata_Lotus.png",
         "link": "https://genshin-impact.fandom.com/wiki/Kalpalata_Lotus"
+    }, {
+        "object_type": "item",
+        "name": "Lakelight Lily",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Lakelight_Lily.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lakelight_Lily"
     }, {
         "object_type": "item",
         "name": "Lumidouce Bell",
@@ -2727,6 +2753,39 @@
         "source": ["The Realm of Beginnings"],
         "thumbnail": "Item_Everamber.png",
         "link": "https://genshin-impact.fandom.com/wiki/Everamber"
+    }, {
+        "object_type": "item",
+        "group_type": "all-devouring-narwhal",
+        "name": "Lightless Silk String",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Fontaine",
+        "source": ["All-Devouring Narwhal"],
+        "thumbnail": "Item_Lightless_Silk_String.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lightless_Silk_String"
+    }, {
+        "object_type": "item",
+        "group_type": "all-devouring-narwhal",
+        "name": "Lightless Eye of the Maelstrom",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Fontaine",
+        "source": ["All-Devouring Narwhal"],
+        "thumbnail": "Item_Lightless_Eye_of_the_Maelstrom.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lightless_Eye_of_the_Maelstrom"
+    }, {
+        "object_type": "item",
+        "group_type": "all-devouring-narwhal",
+        "name": "Lightless Mass",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Fontaine",
+        "source": ["All-Devouring Narwhal"],
+        "thumbnail": "Item_Lightless_Mass.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lightless_Mass"
     }, {
         "object_type": "item",
         "group_type": "special-item",
