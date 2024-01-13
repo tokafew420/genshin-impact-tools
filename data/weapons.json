@@ -1143,6 +1143,20 @@
         "link": "https://genshin-impact.fandom.com/wiki/Twin_Nephrite"
     }, {
         "object_type": "weapon",
+        "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Ultimate_Overlord's_Mega_Magic_Sword.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ultimate_Overlord's_Mega_Magic_Sword.png"
+    }, {
+        "object_type": "weapon",
+        "name": "Verdict",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_Verdict.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Verdict"
+    }, {
+        "object_type": "weapon",
         "name": "Vortex Vanquisher",
         "type": "Polearm",
         "rarity": 5,

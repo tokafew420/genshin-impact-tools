@@ -915,6 +915,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Charlotte"
     }, {
         "object_type": "character",
+        "name": "Chevreuse",
+        "type": "Character",
+        "display_name": "Chevreuse",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Line Bayonet Thrust EX",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Pyro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Line_Bayonet_Thrust_EX"
+        }, {
+            "object_type": "talent",
+            "name": "Short-Range Rapid Interdiction Fire",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Short-Range_Rapid_Interdiction_Fire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Short-Range_Rapid_Interdiction_Fire",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Ring of Bursting Grenades",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Ring_of_Bursting_Grenades.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ring_of_Bursting_Grenades",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Vanguard's Coordinated Tactics",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Vanguard's_Coordinated_Tactics.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Vanguard's_Coordinated_Tactics"
+        }, {
+            "object_type": "talent",
+            "name": "Vertical Force Coordination",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Vertical_Force_Coordination.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Vertical_Force_Coordination"
+        }, {
+            "object_type": "talent",
+            "name": "Double Time March",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Double_Time_March.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Double_Time_March"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Stable Front Line's Resolve",
+            "level": 1,
+            "thumbnail": "Constellation_Stable_Front_Line's_Resolve.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stable_Front_Line's_Resolve"
+        }, {
+            "object_type": "constellation",
+            "name": "Sniper Induced Explosion",
+            "level": 2,
+            "thumbnail": "Constellation_Sniper_Induced_Explosion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sniper_Induced_Explosion"
+        }, {
+            "object_type": "constellation",
+            "name": "Practiced Field Stripping Technique",
+            "level": 3,
+            "thumbnail": "Constellation_Practiced_Field_Stripping_Technique.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Practiced_Field_Stripping_Technique"
+        }, {
+            "object_type": "constellation",
+            "name": "The Secret to Rapid-Fire Multishots",
+            "level": 4,
+            "thumbnail": "Constellation_The_Secret_to_Rapid-Fire_Multishots.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Secret_to_Rapid-Fire_Multishots"
+        }, {
+            "object_type": "constellation",
+            "name": "Enhanced Incendiary Firepower",
+            "level": 5,
+            "thumbnail": "Constellation_Enhanced_Incendiary_Firepower.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Enhanced_Incendiary_Firepower"
+        }, {
+            "object_type": "constellation",
+            "name": "In Pursuit of Ending Evil",
+            "level": 6,
+            "thumbnail": "Constellation_In_Pursuit_of_Ending_Evil.png",
+            "link": "https://genshin-impact.fandom.com/wiki/In_Pursuit_of_Ending_Evil"
+        }],
+        "thumbnail": "Character_Chevreuse_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chevreuse"
+    }, {
+        "object_type": "character",
         "name": "Chongyun",
         "type": "Character",
         "rarity": 4,
@@ -3782,6 +3869,93 @@
         }],
         "thumbnail": "Character_Nahida_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Nahida"
+    }, {
+        "object_type": "character",
+        "name": "Navia",
+        "type": "Character",
+        "display_name": "Navia",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Claymore",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Blunt Refusal",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Geo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blunt_Refusal"
+        }, {
+            "object_type": "talent",
+            "name": "Ceremonial Crystalshot",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Ceremonial_Crystalshot.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ceremonial_Crystalshot",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "As the Sunlit Sky's Singing Salute",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_As_the_Sunlit_Sky's_Singing_Salute.png",
+            "link": "https://genshin-impact.fandom.com/wiki/As_the_Sunlit_Sky's_Singing_Salute",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Undisclosed Distribution Channels",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Undisclosed_Distribution_Channels.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Undisclosed_Distribution_Channels"
+        }, {
+            "object_type": "talent",
+            "name": "Mutual Assistance Network",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Mutual_Assistance_Network.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mutual_Assistance_Network"
+        }, {
+            "object_type": "talent",
+            "name": "Painstaking Transaction",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Painstaking_Transaction.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Painstaking_Transaction"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "A Lady's Rules for Keeping a Courteous Distance",
+            "level": 1,
+            "thumbnail": "Constellation_A_Lady's_Rules_for_Keeping_a_Courteous_Distance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Lady's_Rules_for_Keeping_a_Courteous_Distance"
+        }, {
+            "object_type": "constellation",
+            "name": "The President's Pursuit of Victory",
+            "level": 2,
+            "thumbnail": "Constellation_The_President's_Pursuit_of_Victory.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_President's_Pursuit_of_Victory"
+        }, {
+            "object_type": "constellation",
+            "name": "Businesswoman's Broad Vision",
+            "level": 3,
+            "thumbnail": "Constellation_Businesswoman's_Broad_Vision.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Businesswoman's_Broad_Vision"
+        }, {
+            "object_type": "constellation",
+            "name": "The Oathsworn Never Capitulate",
+            "level": 4,
+            "thumbnail": "Constellation_The_Oathsworn_Never_Capitulate.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Oathsworn_Never_Capitulate"
+        }, {
+            "object_type": "constellation",
+            "name": "Negotiator's Resolute Negotiations",
+            "level": 5,
+            "thumbnail": "Constellation_Negotiator's_Resolute_Negotiations.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Negotiator's_Resolute_Negotiations"
+        }, {
+            "object_type": "constellation",
+            "name": "The Flexible Finesse of the Spina's President",
+            "level": 6,
+            "thumbnail": "Constellation_The_Flexible_Finesse_of_the_Spina's_President.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Flexible_Finesse_of_the_Spina's_President"
+        }],
+        "thumbnail": "Character_Navia_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Navia"
     }, {
         "object_type": "character",
         "name": "Nilou",
