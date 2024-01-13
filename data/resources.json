@@ -928,6 +928,14 @@
         "link": "https://genshin-impact.fandom.com/wiki/Small_Lamp_Grass"
     }, {
         "object_type": "item",
+        "name": "Spring of the First Dewdrop",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Fontaine",
+        "thumbnail": "Item_Spring_of_the_First_Dewdrop.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Spring_of_the_First_Dewdrop"
+    }, {
+        "object_type": "item",
         "name": "Starconch",
         "type": "Local Specialties",
         "category": "Materials",
