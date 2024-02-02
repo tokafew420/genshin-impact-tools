@@ -1111,6 +1111,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Gaming",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Emperor's Resolution"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Agnidus Agate Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Agnidus Agate Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Agnidus Agate Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Agnidus Agate Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Starconch"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Ganyu",
         "materials": [{
             "type": "Boss Material",
@@ -2824,6 +2864,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Jueyun Chili"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Xianyun",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Cloudseam Scale"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vayuda Turquoise Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vayuda Turquoise Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vayuda Turquoise Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vayuda Turquoise Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Clearwater Jade"
         }]
     }, {
         "object_type": "ascension-materials",

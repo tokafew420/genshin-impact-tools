@@ -648,6 +648,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Water_That_Failed_To_Transcend"
     }, {
         "object_type": "item",
+        "name": "Cloudseam Scale",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Liyue",
+        "source": ["Solitary Suanni"],
+        "thumbnail": "Item_Cloudseam_Scale.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Cloudseam_Scale"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -678,6 +688,14 @@
         "region": "Mondstadt",
         "thumbnail": "Item_Cecilia.png",
         "link": "https://genshin-impact.fandom.com/wiki/Cecilia"
+    }, {
+        "object_type": "item",
+        "name": "Clearwater Jade",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Liyue",
+        "thumbnail": "Item_Clearwater_Jade.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Clearwater_Jade"
     }, {
         "object_type": "item",
         "name": "Cor Lapis",
@@ -2493,10 +2511,40 @@
         "type": "Elite Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Fatui Operative",
-        "rarity": 2,
+        "rarity": 4,
         "source": ["Frost Operative", "Wind Operative"],
         "thumbnail": "Item_Operative's_Constancy.png",
         "link": "https://genshin-impact.fandom.com/wiki/Operative's_Constancy"
+    }, {
+        "object_type": "item",
+        "name": "Feathery Fin",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Xuanwen Beast",
+        "rarity": 2,
+        "source": ["Xuanwen Beast"],
+        "thumbnail": "Item_Feathery_Fin.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Feathery_Fin"
+    }, {
+        "object_type": "item",
+        "name": "Lunar Fin",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Xuanwen Beast",
+        "rarity": 3,
+        "source": ["Xuanwen Beast"],
+        "thumbnail": "Item_Lunar_Fin.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lunar_Fin"
+    }, {
+        "object_type": "item",
+        "name": "Chasmlight Fin",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Xuanwen Beast",
+        "rarity": 4,
+        "source": ["Xuanwen Beast"],
+        "thumbnail": "Item_Chasmlight_Fin.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chasmlight_Fin"
     }, {
         "object_type": "item",
         "group_type": "dvalin-material",

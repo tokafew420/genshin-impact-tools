@@ -2041,6 +2041,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Furina"
     }, {
         "object_type": "character",
+        "name": "Gaming",
+        "type": "Character",
+        "display_name": "Gaming",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Stellar Rend",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Pyro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stellar_Rend"
+        }, {
+            "object_type": "talent",
+            "name": "Bestial Ascent",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Bestial_Ascent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bestial_Ascent",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Suanni's Gilded Dance",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Suanni's_Gilded_Dance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Suanni's_Gilded_Dance",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Dance of Amity",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Dance_of_Amity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dance_of_Amity"
+        }, {
+            "object_type": "talent",
+            "name": "Air of Prosperity",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Air_of_Prosperity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Air_of_Prosperity"
+        }, {
+            "object_type": "talent",
+            "name": "The Striding Beast",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Stalwart_and_True.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Striding_Beast"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Bringer of Blessing",
+            "level": 1,
+            "thumbnail": "Constellation_Bringer_of_Blessing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bringer_of_Blessing"
+        }, {
+            "object_type": "constellation",
+            "name": "Plum Blossoms Underfoot",
+            "level": 2,
+            "thumbnail": "Constellation_Plum_Blossoms_Underfoot.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Plum_Blossoms_Underfoot"
+        }, {
+            "object_type": "constellation",
+            "name": "Awakening Spirit",
+            "level": 3,
+            "thumbnail": "Constellation_Awakening_Spirit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Awakening_Spirit"
+        }, {
+            "object_type": "constellation",
+            "name": "Soar Across Mountains",
+            "level": 4,
+            "thumbnail": "Constellation_Soar_Across_Mountains.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Soar_Across_Mountains"
+        }, {
+            "object_type": "constellation",
+            "name": "Evil-Daunting Roar",
+            "level": 5,
+            "thumbnail": "Constellation_Evil-Daunting_Roar.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Evil-Daunting_Roar"
+        }, {
+            "object_type": "constellation",
+            "name": "To Tame All Beasts",
+            "level": 6,
+            "thumbnail": "Constellation_To_Tame_All_Beasts.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_Tame_All_Beasts"
+        }],
+        "thumbnail": "Character_Gaming_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Gaming"
+    }, {
+        "object_type": "character",
         "name": "Ganyu",
         "type": "Character",
         "rarity": 5,
@@ -6090,6 +6177,93 @@
         }],
         "thumbnail": "Character_Xiangling_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Xiangling"
+    }, {
+        "object_type": "character",
+        "name": "Xianyun",
+        "type": "Character",
+        "display_name": "Xianyun",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Word of Wind and Flower",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Word_of_Wind_and_Flower"
+        }, {
+            "object_type": "talent",
+            "name": "White Clouds at Dawn",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_White_Clouds_at_Dawn.png",
+            "link": "https://genshin-impact.fandom.com/wiki/White_Clouds_at_Dawn",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Stars Gather at Dusk",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Stars_Gather_at_Dusk.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stars_Gather_at_Dusk",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Galefeather Pursuit",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Galefeather_Pursuit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Galefeather_Pursuit"
+        }, {
+            "object_type": "talent",
+            "name": "Consider, the Adeptus in Her Realm",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Consider,_the_Adeptus_in_Her_Realm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Consider,_the_Adeptus_in_Her_Realm"
+        }, {
+            "object_type": "talent",
+            "name": "Crane Form",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Crane_Form.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crane_Form"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Purifying Wind",
+            "level": 1,
+            "thumbnail": "Constellation_Purifying_Wind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Purifying_Wind"
+        }, {
+            "object_type": "constellation",
+            "name": "Aloof From the World",
+            "level": 2,
+            "thumbnail": "Constellation_Aloof_From_the_World.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Aloof_From_the_World"
+        }, {
+            "object_type": "constellation",
+            "name": "Creations of Star and Moon",
+            "level": 3,
+            "thumbnail": "Constellation_Creations_of_Star_and_Moon.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Creations_of_Star_and_Moon"
+        }, {
+            "object_type": "constellation",
+            "name": "Mystery Millet Gourmet",
+            "level": 4,
+            "thumbnail": "Constellation_Mystery_Millet_Gourmet.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mystery_Millet_Gourmet"
+        }, {
+            "object_type": "constellation",
+            "name": "Astride Rose-Colored Clouds",
+            "level": 5,
+            "thumbnail": "Constellation_Astride_Rose-Colored_Clouds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Astride_Rose-Colored_Clouds"
+        }, {
+            "object_type": "constellation",
+            "name": "They Call Her Cloud Retainer",
+            "level": 6,
+            "thumbnail": "Constellation_They_Call_Her_Cloud_Retainer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/They_Call_Her_Cloud_Retainer"
+        }],
+        "thumbnail": "Character_Xianyun_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Xianyun"
     }, {
         "object_type": "character",
         "name": "Xiao",
