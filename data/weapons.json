@@ -219,6 +219,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Dodoco_Tales"
     }, {
         "object_type": "weapon",
+        "name": "Dialogues of the Desert Sages",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Dialogues_of_the_Desert_Sages.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dialogues_of_the_Desert_Sages"
+    }, {
+        "object_type": "weapon",
         "name": "Dragon's Bane",
         "type": "Polearm",
         "rarity": 4,
@@ -1162,6 +1169,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Verdict.png",
         "link": "https://genshin-impact.fandom.com/wiki/Verdict"
+    }, {
+        "object_type": "weapon",
+        "name": "Uraku Misugiri",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Uraku_Misugiri.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Uraku_Misugiri"
     }, {
         "object_type": "weapon",
         "name": "Vortex Vanquisher",

@@ -1861,6 +1861,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Dialogues of the Desert Sages",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Spectral Husk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Spectral Heart"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Spectral Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Feathery Fin"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lunar Fin"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chasmlight Fin"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Copper Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Iron Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Talisman of the Forest Dew"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Talisman of the Forest Dew"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Dodoco Tales",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -7714,6 +7758,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Golden Goblet of the Pristine Sea"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Uraku Misugiri",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Chaos Gear"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chaos Axis"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chaos Oculus"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Coral Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Jeweled Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Jade Branch of a Distant Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Branch of a Distant Sea"
         }]
     }, {
         "object_type": "ascension-materials",

@@ -1002,6 +1002,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Chevreuse"
     }, {
         "object_type": "character",
+        "name": "Chiori",
+        "type": "Character",
+        "display_name": "Chiori",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Weaving Blade",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Geo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Weaving_Blade"
+        }, {
+            "object_type": "talent",
+            "name": "Fluttering Hasode",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Fluttering_Hasode.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fluttering_Hasode",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Hiyoku: Twin Blades",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Hiyoku_Twin_Blades.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hiyoku:_Twin_Blades",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Tailor-Made",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Tailor-Made.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tailor-Made"
+        }, {
+            "object_type": "talent",
+            "name": "The Finishing Touch",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_The_Finishing_Touch.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Finishing_Touch"
+        }, {
+            "object_type": "talent",
+            "name": "Brocaded Collar's Beauteous Silhouette",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Brocaded_Collar's_Beauteous_Silhouette.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Brocaded_Collar's_Beauteous_Silhouette"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Six Paths of Sage Silkcraft",
+            "level": 1,
+            "thumbnail": "Constellation_Six_Paths_of_Sage_Silkcraft.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Six_Paths_of_Sage_Silkcraft"
+        }, {
+            "object_type": "constellation",
+            "name": "In Five Colors Dyed",
+            "level": 2,
+            "thumbnail": "Constellation_In_Five_Colors_Dyed.png",
+            "link": "https://genshin-impact.fandom.com/wiki/In_Five_Colors_Dyed"
+        }, {
+            "object_type": "constellation",
+            "name": "Four Brocade Embellishments",
+            "level": 3,
+            "thumbnail": "Constellation_Four_Brocade_Embellishments.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Four_Brocade_Embellishments"
+        }, {
+            "object_type": "constellation",
+            "name": "A Tailor's Three Courtesies",
+            "level": 4,
+            "thumbnail": "Constellation_A_Tailor's_Three_Courtesies.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Tailor's_Three_Courtesies"
+        }, {
+            "object_type": "constellation",
+            "name": "Two Silken Plumules",
+            "level": 5,
+            "thumbnail": "Constellation_Two_Silken_Plumules.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Two_Silken_Plumules"
+        }, {
+            "object_type": "constellation",
+            "name": "Sole Principle Pursuit",
+            "level": 6,
+            "thumbnail": "Constellation_Sole_Principle_Pursuit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sole_Principle_Pursuit"
+        }],
+        "thumbnail": "Character_Chiori_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chiori"
+    }, {
+        "object_type": "character",
         "name": "Chongyun",
         "type": "Character",
         "rarity": 4,
