@@ -191,6 +191,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Crescent_Pike"
     }, {
         "object_type": "weapon",
+        "name": "Crimson Moon's Semblance",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Crimson_Moon's_Semblance.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Crimson_Moon's_Semblance"
+    }, {
+        "object_type": "weapon",
         "name": "Dark Iron Sword",
         "type": "Sword",
         "rarity": 3,

@@ -337,6 +337,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Arlecchino",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Fading Candle"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Order"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Order"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Order"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Baizhu",
         "materials": [{
             "type": "Common Ascension Materials",

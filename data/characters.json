@@ -396,6 +396,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
     }, {
         "object_type": "character",
+        "name": "Arlecchino",
+        "type": "Character",
+        "display_name": "Arlecchino",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Snezhnaya",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Invitation to a Beheading",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Pyro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Invitation_to_a_Beheading",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "All Is Ash",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_All_Is_Ash.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_Is_Ash"
+        }, {
+            "object_type": "talent",
+            "name": "Balemoon Rising",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Balemoon_Rising.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Balemoon_Rising",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Agony Alone May Be Repaid",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Agony_Alone_May_Be_Repaid.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Agony_Alone_May_Be_Repaid"
+        }, {
+            "object_type": "talent",
+            "name": "Strength Alone Can Defend",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Strength_Alone_Can_Defend.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Strength_Alone_Can_Defend"
+        }, {
+            "object_type": "talent",
+            "name": "The Balemoon Alone May Know",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Balemoon_Alone_May_Know.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Balemoon_Alone_May_Know"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "\"All Reprisals and Arrears, Mine to Bear...\"",
+            "level": 1,
+            "thumbnail": "Constellation_All_Reprisals_and_Arrears,_Mine_to_Bear....png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"All_Reprisals_and_Arrears,_Mine_to_Bear...\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"All Rewards and Retribution, Mine to Bestow...\"",
+            "level": 2,
+            "thumbnail": "Constellation_All_Rewards_and_Retribution,_Mine_to_Bestow....png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"All_Rewards_and_Retribution,_Mine_to_Bestow...\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"You Shall Become a New Member of Our Family...\"",
+            "level": 3,
+            "thumbnail": "Constellation_You_Shall_Become_a_New_Member_of_Our_Family....png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"You_Shall_Become_a_New_Member_of_Our_Family...\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"You Shall Love and Protect Each Other Henceforth...\"",
+            "level": 4,
+            "thumbnail": "Constellation_You_Shall_Love_and_Protect_Each_Other_Henceforth....png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"You_Shall_Love_and_Protect_Each_Other_Henceforth...\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"For Alone, We Are as Good as Dead...\"",
+            "level": 5,
+            "thumbnail": "Constellation_For_Alone,_We_Are_as_Good_as_Dead....png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"For_Alone,_We_Are_as_Good_as_Dead...\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"From This Day On, We Shall Delight in New Life Together.\"",
+            "level": 6,
+            "thumbnail": "Constellation_From_This_Day_On,_We_Shall_Delight_in_New_Life_Together..png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"From_This_Day_On,_We_Shall_Delight_in_New_Life_Together.\""
+        }],
+        "thumbnail": "Character_Arlecchino_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Arlecchino"
+    }, {
+        "object_type": "character",
         "name": "Baizhu",
         "type": "Character",
         "display_name": "Baizhu",
