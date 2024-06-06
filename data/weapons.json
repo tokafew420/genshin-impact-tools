@@ -16,6 +16,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/A_Thousand_Floating_Dreams"
     }, {
         "object_type": "weapon",
+        "name": "Absolution",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Absolution.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Absolution"
+    }, {
+        "object_type": "weapon",
         "name": "Akuoumaru",
         "type": "Claymore",
         "rarity": 4,

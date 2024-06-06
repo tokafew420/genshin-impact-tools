@@ -1262,6 +1262,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Chongyun"
     }, {
         "object_type": "character",
+        "name": "Clorinde",
+        "type": "Character",
+        "display_name": "Clorinde",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Oath of Hunting Shadows",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Oath_of_Hunting_Shadows"
+        }, {
+            "object_type": "talent",
+            "name": "Hunter's Vigil",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Hunter's_Vigil.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hunter's_Vigil",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Last Lightfall",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Last_Lightfall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Last_Lightfall",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Dark-Shattering Flame",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Dark-Shattering_Flame.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dark-Shattering_Flame"
+        }, {
+            "object_type": "talent",
+            "name": "Lawful Remuneration",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Lawful_Remuneration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lawful_Remuneration"
+        }, {
+            "object_type": "talent",
+            "name": "Night Vigil's Harvest",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Night_Vigil's_Harvest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Night_Vigil's_Harvest"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "\"From This Day, I Pass the Candle's Shadow-Veil\"",
+            "level": 1,
+            "thumbnail": "Constellation_From_This_Day,_I_Pass_the_Candle's_Shadow-Veil.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"From_This_Day,_I_Pass_the_Candle's_Shadow-Veil\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Now, As We Face the Perils of the Long Night\"",
+            "level": 2,
+            "thumbnail": "Constellation_Now,_As_We_Face_the_Perils_of_the_Long_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Now,_As_We_Face_the_Perils_of_the_Long_Night\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"I Pledge to Remember the Oath of Daylight\"",
+            "level": 3,
+            "thumbnail": "Constellation_I_Pledge_to_Remember_the_Oath_of_Daylight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"I_Pledge_to_Remember_the_Oath_of_Daylight\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"To Enshrine Tears, Life, and Love\"",
+            "level": 4,
+            "thumbnail": "Constellation_To_Enshrine_Tears,_Life,_and_Love.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"To_Enshrine_Tears,_Life,_and_Love\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Holding Dawn's Coming as My Votive\"",
+            "level": 5,
+            "thumbnail": "Constellation_Holding_Dawn's_Coming_as_My_Votive.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Holding_Dawn's_Coming_as_My_Votive\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"And So Shall I Never Despair\"",
+            "level": 6,
+            "thumbnail": "Constellation_And_So_Shall_I_Never_Despair.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"And_So_Shall_I_Never_Despair\""
+        }],
+        "thumbnail": "Character_Clorinde_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Clorinde"
+    }, {
+        "object_type": "character",
         "name": "Collei",
         "type": "Character",
         "display_name": "Collei",
@@ -5085,6 +5172,93 @@
         }],
         "thumbnail": "Character_Sayu_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sayu"
+    }, {
+        "object_type": "character",
+        "name": "Sethos",
+        "type": "Character",
+        "display_name": "Sethos",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Royal Reed Archery",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Royal_Reed_Archery",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Ancient Rite: The Thundering Sands",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Ancient_Rite_The_Thundering_Sands.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ancient_Rite:_The_Thundering_Sands"
+        }, {
+            "object_type": "talent",
+            "name": "Secret Rite: Twilight Shadowpiercer",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Secret_Rite_Twilight_Shadowpiercer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Secret_Rite:_Twilight_Shadowpiercer",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Black Kite's Enigma",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Black_Kite's_Enigma.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Black_Kite's_Enigma"
+        }, {
+            "object_type": "talent",
+            "name": "The Sand King's Boon",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_The_Sand_King's_Boon.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Sand_King's_Boon"
+        }, {
+            "object_type": "talent",
+            "name": "Thoth's Revelation",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Thoth's_Revelation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thoth's_Revelation"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Sealed Shrine's Spiritsong",
+            "level": 1,
+            "thumbnail": "Constellation_Sealed_Shrine's_Spiritsong.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sealed_Shrine's_Spiritsong"
+        }, {
+            "object_type": "constellation",
+            "name": "Papyrus Scripture of Silent Secrets",
+            "level": 2,
+            "thumbnail": "Constellation_Papyrus_Scripture_of_Silent_Secrets.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Papyrus_Scripture_of_Silent_Secrets"
+        }, {
+            "object_type": "constellation",
+            "name": "Ode to the Moonrise Sage",
+            "level": 3,
+            "thumbnail": "Constellation_Ode_to_the_Moonrise_Sage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ode_to_the_Moonrise_Sage"
+        }, {
+            "object_type": "constellation",
+            "name": "Beneficent Plumage",
+            "level": 4,
+            "thumbnail": "Constellation_Beneficent_Plumage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beneficent_Plumage"
+        }, {
+            "object_type": "constellation",
+            "name": "Record of the Desolate God's Burning Sands",
+            "level": 5,
+            "thumbnail": "Constellation_Record_of_the_Desolate_God's_Burning_Sands.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Record_of_the_Desolate_God's_Burning_Sands"
+        }, {
+            "object_type": "constellation",
+            "name": "Pylon of the Sojourning Sun Temple",
+            "level": 6,
+            "thumbnail": "Constellation_Pylon_of_the_Sojourning_Sun_Temple.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pylon_of_the_Sojourning_Sun_Temple"
+        }],
+        "thumbnail": "Character_Sethos_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sethos"
     }, {
         "object_type": "character",
         "name": "Shenhe",

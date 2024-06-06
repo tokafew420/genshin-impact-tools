@@ -657,6 +657,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Clorinde",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Everamber"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Justice"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Justice"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Justice"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Collei",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2062,6 +2094,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Light"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Sethos",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Faded Red Satin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Trimmed Red Silk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Rich Red Brocade"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Daka's Bell"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Praxis"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Praxis"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Praxis"
         }]
     }, {
         "object_type": "talent-level-up-materials",
