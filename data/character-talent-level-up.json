@@ -2193,6 +2193,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Sigewinne",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Lightless Eye of the Maelstrom"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Equity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Equity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Equity"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Sucrose",
         "materials": [{
             "type": "Common Ascension Materials",

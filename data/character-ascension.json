@@ -2671,6 +2671,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Sigewinne",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Water That Failed To Transcend"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Varunada Lazurite Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Varunada Lazurite Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Varunada Lazurite Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Varunada Lazurite Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Romaritime Flower"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Sucrose",
         "materials": [{
             "type": "Boss Material",

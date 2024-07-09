@@ -5435,6 +5435,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Shikanoin_Heizou"
     }, {
         "object_type": "character",
+        "name": "Sigewinne",
+        "type": "Character",
+        "display_name": "Sigewinne",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Bow",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Targeted Treatment",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Targeted_Treatment"
+        }, {
+            "object_type": "talent",
+            "name": "Rebound Hydrotherapy",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Rebound_Hydrotherapy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rebound_Hydrotherapy",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Super Saturated Syringing",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Super_Saturated_Syringing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Super_Saturated_Syringing",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Requires Appropriate Rest",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Requires_Appropriate_Rest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Requires_Appropriate_Rest"
+        }, {
+            "object_type": "talent",
+            "name": "Detailed Diagnosis, Thorough Treatment",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Detailed_Diagnosis,_Thorough_Treatment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Detailed_Diagnosis,_Thorough_Treatment"
+        }, {
+            "object_type": "talent",
+            "name": "Emergency Dose",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Emergency_Dose.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Emergency_Dose"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "\"Can the Happiest of Spirits Understand Anxiety?\"",
+            "level": 1,
+            "thumbnail": "Constellation_Can_the_Happiest_of_Spirits_Understand_Anxiety.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Can_the_Happiest_of_Spirits_Understand_Anxiety?\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Can the Most Merciful of Spirits Defeat Its Foes?\"",
+            "level": 2,
+            "thumbnail": "Constellation_Can_the_Most_Merciful_of_Spirits_Defeat_Its_Foes.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Can_the_Most_Merciful_of_Spirits_Defeat_Its_Foes?\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Can the Healthiest of Spirits Cure Fevers?\"",
+            "level": 3,
+            "thumbnail": "Constellation_Can_the_Healthiest_of_Spirits_Cure_Fevers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Can_the_Healthiest_of_Spirits_Cure_Fevers?\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Can the Loveliest of Spirits Keep Decay at Bay?\"",
+            "level": 4,
+            "thumbnail": "Constellation_Can_the_Loveliest_of_Spirits_Keep_Decay_at_Bay.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Can_the_Loveliest_of_Spirits_Keep_Decay_at_Bay?\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Can the Most Joyful of Spirits Alleviate Agony?\"",
+            "level": 5,
+            "thumbnail": "Constellation_Can_the_Most_Joyful_of_Spirits_Alleviate_Agony.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Can_the_Most_Joyful_of_Spirits_Alleviate_Agony?\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Can the Most Radiant of Spirits Pray For Me?\"",
+            "level": 6,
+            "thumbnail": "Constellation_Can_the_Most_Radiant_of_Spirits_Pray_For_Me.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Can_the_Most_Radiant_of_Spirits_Pray_For_Me?\""
+        }],
+        "thumbnail": "Character_Sigewinne_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sigewinne"
+    }, {
+        "object_type": "character",
         "name": "Sucrose",
         "type": "Character",
         "rarity": 4,

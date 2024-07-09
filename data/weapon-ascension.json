@@ -6177,6 +6177,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Silvershower Heartstrings",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Feathery Fin"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lunar Fin"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Chasmlight Fin"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Dross of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Sublimation of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Spring of Pure Sacred Dewdrop"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Essence of Pure Sacred Dewdrop"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Skyrider Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
