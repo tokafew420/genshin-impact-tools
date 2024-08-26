@@ -4025,6 +4025,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Lumidouce Elegy",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Whopperflower Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shimmering Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Energy Nectar"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Ruined Hilt"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Splintered Hilt"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Still-Smoldering Hilt"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Broken Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Wine Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Silver Goblet of the Pristine Sea"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Golden Goblet of the Pristine Sea"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Luxurious Sea-Lord",
         "materials": [{
             "type": "Common Ascension Materials",

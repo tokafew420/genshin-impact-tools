@@ -1869,6 +1869,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Dori"
     }, {
         "object_type": "character",
+        "name": "Emilie",
+        "type": "Character",
+        "display_name": "Emilie",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Shadow-Hunting Spear (Custom)",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shadow-Hunting_Spear_(Custom)"
+        }, {
+            "object_type": "talent",
+            "name": "Fragrance Extraction",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Fragrance_Extraction.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fragrance_Extraction",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Aromatic Explication",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Aromatic_Explication.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Aromatic_Explication",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Lingering Fragrance",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Lingering_Fragrance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lingering_Fragrance"
+        }, {
+            "object_type": "talent",
+            "name": "Rectification",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Rectification.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rectification"
+        }, {
+            "object_type": "talent",
+            "name": "Headspace Capture",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Headspace_Capture.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Headspace_Capture"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Light Fragrance Leaching",
+            "level": 1,
+            "thumbnail": "Constellation_Light_Fragrance_Leaching.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Light_Fragrance_Leaching"
+        }, {
+            "object_type": "constellation",
+            "name": "Lakelight Top Note",
+            "level": 2,
+            "thumbnail": "Constellation_Lakelight_Top_Note.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lakelight_Top_Note"
+        }, {
+            "object_type": "constellation",
+            "name": "Exquisite Essence",
+            "level": 3,
+            "thumbnail": "Constellation_Exquisite_Essence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Exquisite_Essence"
+        }, {
+            "object_type": "constellation",
+            "name": "Lumidouce Heart Note",
+            "level": 4,
+            "thumbnail": "Constellation_Lumidouce_Heart_Note.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lumidouce_Heart_Note"
+        }, {
+            "object_type": "constellation",
+            "name": "Puredew Aroma",
+            "level": 5,
+            "thumbnail": "Constellation_Puredew_Aroma.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Puredew_Aroma"
+        }, {
+            "object_type": "constellation",
+            "name": "Marcotte Sillage",
+            "level": 6,
+            "thumbnail": "Constellation_Marcotte_Sillage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Marcotte_Sillage"
+        }],
+        "thumbnail": "Character_Emilie_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Emilie"
+    }, {
+        "object_type": "character",
         "name": "Eula",
         "type": "Character",
         "rarity": 5,

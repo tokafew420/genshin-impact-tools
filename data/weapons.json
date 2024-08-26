@@ -562,6 +562,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Lost_Prayer_to_the_Sacred_Winds"
     }, {
         "object_type": "weapon",
+        "name": "Lumidouce Elegy",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Lumidouce_Elegy.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lumidouce_Elegy"
+    }, {
+        "object_type": "weapon",
         "name": "Luxurious Sea-Lord",
         "type": "Claymore",
         "rarity": 4,
