@@ -668,6 +668,26 @@
         "link": "https://genshin-impact.fandom.com/wiki/Fragment_of_a_Golden_Melody"
     }, {
         "object_type": "item",
+        "name": "Mark of the Binding Blessing",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Natlan",
+        "source": ["\"Statue of Marble and Brass\""],
+        "thumbnail": "Item_Mark_of_the_Binding_Blessing.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mark_of_the_Binding_Blessing"
+    }, {
+        "object_type": "item",
+        "name": "Overripe Flamegranate",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Fontaine",
+        "source": ["\"Statue of Marble and Brass\""],
+        "thumbnail": "Item_Overripe_Flamegranate.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Overripe_Flamegranate"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -876,6 +896,14 @@
         "link": "https://genshin-impact.fandom.com/wiki/Qingxin"
     }, {
         "object_type": "item",
+        "name": "Quenepa Berry",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Natlan",
+        "thumbnail": "Item_Quenepa_Berry.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Quenepa_Berry"
+    }, {
+        "object_type": "item",
         "name": "Rainbow Rose",
         "type": "Local Specialties",
         "category": "Materials",
@@ -954,6 +982,14 @@
         "region": "Mondstadt",
         "thumbnail": "Item_Small_Lamp_Grass.png",
         "link": "https://genshin-impact.fandom.com/wiki/Small_Lamp_Grass"
+    }, {
+        "object_type": "item",
+        "name": "Sprayfeather Gill",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Mondstadt",
+        "thumbnail": "Item_Sprayfeather_Gill.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sprayfeather_Gill"
     }, {
         "object_type": "item",
         "name": "Spring of the First Dewdrop",
@@ -1605,6 +1641,123 @@
         "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Order"
     }, {
         "object_type": "item",
+        "name": "Teachings of Contention",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Contention Book",
+        "rarity": 2,
+        "region": "Natlan",
+        "domainLevel": 1,
+        "source": ["Blazing Ruins"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Contention.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Contention"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Contention",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Contention Book",
+        "rarity": 3,
+        "region": "Natlan",
+        "domainLevel": 2,
+        "source": ["Blazing Ruins"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Contention.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Contention"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Contention",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Contention Book",
+        "rarity": 4,
+        "region": "Natlan",
+        "domainLevel": 4,
+        "source": ["Blazing Ruins"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Contention.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Contention"
+    }, {
+        "object_type": "item",
+        "name": "Teachings of Kindling",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Kindling Book",
+        "rarity": 2,
+        "region": "Natlan",
+        "domainLevel": 1,
+        "source": ["Blazing Ruins"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Kindling.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Kindling"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Kindling",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Kindling Book",
+        "rarity": 3,
+        "region": "Natlan",
+        "domainLevel": 2,
+        "source": ["Blazing Ruins"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Kindling.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Kindling"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Kindling",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Kindling Book",
+        "rarity": 4,
+        "region": "Natlan",
+        "domainLevel": 4,
+        "source": ["Blazing Ruins"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Kindling.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Kindling"
+    }, {
+        "object_type": "item",
+        "name": "Teachings of Conflict",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Conflict Book",
+        "rarity": 2,
+        "region": "Natlan",
+        "domainLevel": 1,
+        "source": ["Blazing Ruins"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Conflict.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Conflict"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Conflict",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Conflict Book",
+        "rarity": 3,
+        "region": "Natlan",
+        "domainLevel": 2,
+        "source": ["Blazing Ruins"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Conflict.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Conflict"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Conflict",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Conflict Book",
+        "rarity": 4,
+        "region": "Natlan",
+        "domainLevel": 4,
+        "source": ["Blazing Ruins"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Conflict.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Conflict"
+    }, {
+        "object_type": "item",
         "name": "Slime Condensate",
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
@@ -1993,6 +2146,66 @@
         "source": [],
         "thumbnail": "Item_Xenochromatic_Crystal.png",
         "link": "https://genshin-impact.fandom.com/wiki/Xenochromatic_Crystal"
+    }, {
+        "object_type": "item",
+        "name": "Sentry's Wooden Whistle",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "",
+        "rarity": 1,
+        "source": ["Sauroform Tribal Warriors"],
+        "thumbnail": "Item_Sentry's_Wooden_Whistle.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sentry's_Wooden_Whistle"
+    }, {
+        "object_type": "item",
+        "name": "Warrior's Metal Whistle",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "",
+        "rarity": 2,
+        "source": ["Sauroform Tribal Warriors"],
+        "thumbnail": "Item_Warrior's_Metal_Whistle.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Warrior's_Metal_Whistle"
+    }, {
+        "object_type": "item",
+        "name": "Saurian-Crowned Warrior's Golden Whistle",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "",
+        "rarity": 3,
+        "source": ["Sauroform Tribal Warriors"],
+        "thumbnail": "Item_Saurian-Crowned_Warrior's_Golden_Whistle.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Saurian-Crowned_Warrior's_Golden_Whistle"
+    }, {
+        "object_type": "item",
+        "name": "Juvenile Fang",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Saurians Fang",
+        "rarity": 1,
+        "source": ["Natlan Saurians"],
+        "thumbnail": "Item_Juvenile_Fang.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Juvenile_Fang"
+    }, {
+        "object_type": "item",
+        "name": "Seasoned Fang",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Saurians Fang",
+        "rarity": 2,
+        "source": ["Natlan Saurians"],
+        "thumbnail": "Item_Seasoned_Fang.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Seasoned_Fang"
+    }, {
+        "object_type": "item",
+        "name": "Tyrant's Fang",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Saurians Fang",
+        "rarity": 3,
+        "source": ["Natlan Saurians"],
+        "thumbnail": "Item_Tyrant's_Fang.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tyrant's_Fang"
     }, {
         "object_type": "item",
         "name": "Heavy Horn",
@@ -2593,6 +2806,126 @@
         "source": ["Praetorian Golem"],
         "thumbnail": "Item_Still-Smoldering_Hilt.png",
         "link": "https://genshin-impact.fandom.com/wiki/Still-Smoldering_Hilt"
+    }, {
+        "object_type": "item",
+        "name": "Shard of a Shattered Will",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Wayob Manifestations",
+        "rarity": 2,
+        "source": ["Wayob Manifestations"],
+        "thumbnail": "Item_Shard_of_a_Shattered_Will.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Shard_of_a_Shattered_Will"
+    }, {
+        "object_type": "item",
+        "name": "Locus of a Clear Will",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Wayob Manifestations",
+        "rarity": 2,
+        "source": ["Wayob Manifestations"],
+        "thumbnail": "Item_Locus_of_a_Clear_Will.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Locus_of_a_Clear_Will"
+    }, {
+        "object_type": "item",
+        "name": "Sigil of a Striding Will",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Wayob Manifestations",
+        "rarity": 4,
+        "source": ["Wayob Manifestations"],
+        "thumbnail": "Item_Sigil_of_a_Striding_Will.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sigil_of_a_Striding_Will"
+    }, {
+        "object_type": "item",
+        "name": "Axis of the Secret Source",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Secret Source",
+        "rarity": 2,
+        "source": ["Wayob Manifestations"],
+        "thumbnail": "Item_Shard_of_a_Shattered_Will.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Shard_of_a_Shattered_Will"
+    }, {
+        "object_type": "item",
+        "name": "Locus of a Clear Will",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Secret Source",
+        "rarity": 2,
+        "source": ["Wayob Manifestations"],
+        "thumbnail": "Item_Locus_of_a_Clear_Will.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Locus_of_a_Clear_Will"
+    }, {
+        "object_type": "item",
+        "name": "Sigil of a Striding Will",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Secret Source",
+        "rarity": 4,
+        "source": ["Wayob Manifestations"],
+        "thumbnail": "Item_Sigil_of_a_Striding_Will.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sigil_of_a_Striding_Will"
+    }, {
+        "object_type": "item",
+        "name": "Axis of the Secret Source",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Secret Source",
+        "rarity": 2,
+        "source": ["Secret Source Automaton: Hunter-Seeker"],
+        "thumbnail": "Item_Axis_of_the_Secret_Source.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Axis_of_the_Secret_Source"
+    }, {
+        "object_type": "item",
+        "name": "Sheath of the Secret Source",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Secret Source",
+        "rarity": 2,
+        "source": ["Secret Source Automaton: Hunter-Seeker"],
+        "thumbnail": "Item_Sheath_of_the_Secret_Source.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sheath_of_the_Secret_Source"
+    }, {
+        "object_type": "item",
+        "name": "Heart of the Secret Source",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Secret Source",
+        "rarity": 4,
+        "source": ["Secret Source Automaton: Hunter-Seeker"],
+        "thumbnail": "Item_Heart_of_the_Secret_Source.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Heart_of_the_Secret_Source"
+    }, {
+        "object_type": "item",
+        "name": "Ignited Stone",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Avatars of Lava",
+        "rarity": 2,
+        "source": ["Avatars of Lava"],
+        "thumbnail": "Item_Ignited_Stone.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ignited_Stone"
+    }, {
+        "object_type": "item",
+        "name": "Ignited Seed of Life",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Avatars of Lava",
+        "rarity": 3,
+        "source": ["Avatars of Lava"],
+        "thumbnail": "Item_Ignited_Seed_of_Life.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ignited_Seed_of_Life"
+    }, {
+        "object_type": "item",
+        "name": "Ignited Seeing Eye",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Avatars of Lava",
+        "rarity": 4,
+        "source": ["Avatars of Lava"],
+        "thumbnail": "Item_Ignited_Seeing_Eye.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ignited_Seeing_Eye"
     }, {
         "object_type": "item",
         "group_type": "dvalin-material",
@@ -3472,5 +3805,113 @@
         "rarity": 5,
         "thumbnail": "Item_Golden_Goblet_of_the_Pristine_Sea.png",
         "link": "https://genshin-impact.fandom.com/wiki/Golden_Goblet_of_the_Pristine_Sea"
+    }, {
+        "object_type": "item",
+        "name": "Blazing Sacrificial Heart's Terror",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Blazing Sacrificial Heart",
+        "rarity": 2,
+        "thumbnail": "Item_Blazing_Sacrificial_Heart's_Terror.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Blazing_Sacrificial_Heart's_Terror"
+    }, {
+        "object_type": "item",
+        "name": "Blazing Sacrificial Heart's Hesitance",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Blazing Sacrificial Heart",
+        "rarity": 3,
+        "thumbnail": "Item_Blazing_Sacrificial_Heart's_Hesitance.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Blazing_Sacrificial_Heart's_Hesitance"
+    }, {
+        "object_type": "item",
+        "name": "Blazing Sacrificial Heart's Resolve",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Blazing Sacrificial Heart",
+        "rarity": 4,
+        "thumbnail": "Item_Blazing_Sacrificial_Heart's_Resolve.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Blazing_Sacrificial_Heart's_Resolve"
+    }, {
+        "object_type": "item",
+        "name": "Blazing Sacrificial Heart's Splendor",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Blazing Sacrificial Heart",
+        "rarity": 5,
+        "thumbnail": "Item_Blazing_Sacrificial_Heart's_Splendor.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Blazing_Sacrificial_Heart's_Splendor"
+    }, {
+        "object_type": "item",
+        "name": "Delirious Decadence of the Sacred Lord",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Delirious Sacred Lord",
+        "rarity": 2,
+        "thumbnail": "Item_Delirious_Decadence_of_the_Sacred_Lord.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Delirious_Decadence_of_the_Sacred_Lord"
+    }, {
+        "object_type": "item",
+        "name": "Delirious Desolation of the Sacred Lord",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Delirious Sacred Lord",
+        "rarity": 3,
+        "thumbnail": "Item_Delirious_Desolation_of_the_Sacred_Lord.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Delirious_Desolation_of_the_Sacred_Lord"
+    }, {
+        "object_type": "item",
+        "name": "Delirious Demeanor of the Sacred Lord",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Delirious Sacred Lord",
+        "rarity": 4,
+        "thumbnail": "Item_Delirious_Demeanor_of_the_Sacred_Lord.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Delirious_Demeanor_of_the_Sacred_Lord"
+    }, {
+        "object_type": "item",
+        "name": "Delirious Divinity of the Sacred Lord",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Delirious Sacred Lord",
+        "rarity": 5,
+        "thumbnail": "Item_Delirious_Divinity_of_the_Sacred_Lord.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Delirious_Divinity_of_the_Sacred_Lord"
+    }, {
+        "object_type": "item",
+        "name": "Night-Wind's Mystic Consideration",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Night-Wind's Mystic",
+        "rarity": 2,
+        "thumbnail": "Item_Night-Wind's_Mystic_Consideration.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Night-Wind's_Mystic_Consideration"
+    }, {
+        "object_type": "item",
+        "name": "Night-Wind's Mystic Premonition",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Night-Wind's Mystic",
+        "rarity": 3,
+        "thumbnail": "Item_Night-Wind's_Mystic_Premonition.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Night-Wind's_Mystic_Premonition"
+    }, {
+        "object_type": "item",
+        "name": "Night-Wind's Mystic Augury",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Night-Wind's Mystic",
+        "rarity": 4,
+        "thumbnail": "Item_Night-Wind's_Mystic_Augury.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Night-Wind's_Mystic_Augury"
+    }, {
+        "object_type": "item",
+        "name": "Night-Wind's Mystic Revelation",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Night-Wind's Mystic",
+        "rarity": 5,
+        "thumbnail": "Item_Night-Wind's_Mystic_Revelation.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Night-Wind's_Mystic_Revelation"
     }]
 }

@@ -2821,6 +2821,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Jean"
     }, {
         "object_type": "character",
+        "name": "Kachina",
+        "type": "Character",
+        "display_name": "Kachina",
+        "rarity": 4,
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Cragbiter",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Geo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cragbiter"
+        }, {
+            "object_type": "talent",
+            "name": "Go, Go Turbo Twirly!",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Go,_Go_Turbo_Twirly!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Go,_Go_Turbo_Twirly!",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Time to Get Serious!",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Time_to_Get_Serious!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Time_to_Get_Serious!",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Mountain Echoes",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Mountain_Echoes.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mountain_Echoes"
+        }, {
+            "object_type": "talent",
+            "name": "The Weight of Stone",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_The_Weight_of_Stone.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Weight_of_Stone"
+        }, {
+            "object_type": "talent",
+            "name": "Heart of Unity",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Heart_of_Unity.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heart_of_Unity"
+        }, {
+            "object_type": "talent",
+            "name": "Boon of Crystal Flame",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Boon_of_Crystal_Flame.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Boon_of_Crystal_Flame"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Shards Are Gems Too",
+            "level": 1,
+            "thumbnail": "Constellation_Shards_Are_Gems_Too.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shards_Are_Gems_Too"
+        }, {
+            "object_type": "constellation",
+            "name": "Never Leave Home Without... Turbo Twirly",
+            "level": 2,
+            "thumbnail": "Constellation_Never_Leave_Home_Without..._Turbo_Twirly.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Never_Leave_Home_Without..._Turbo_Twirly"
+        }, {
+            "object_type": "constellation",
+            "name": "Improved Stabilizer",
+            "level": 3,
+            "thumbnail": "Constellation_Improved_Stabilizer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Improved_Stabilizer"
+        }, {
+            "object_type": "constellation",
+            "name": "More Foes, More Caution",
+            "level": 4,
+            "thumbnail": "Constellation_More_Foes,_More_Caution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/More_Foes,_More_Caution"
+        }, {
+            "object_type": "constellation",
+            "name": "All I've Collected Till Now",
+            "level": 5,
+            "thumbnail": "Constellation_All_I've_Collected_Till_Now.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_I've_Collected_Till_Now"
+        }, {
+            "object_type": "constellation",
+            "name": "This Time, I've Gotta Win",
+            "level": 6,
+            "thumbnail": "Constellation_This_Time,_I've_Gotta_Win.png",
+            "link": "https://genshin-impact.fandom.com/wiki/This_Time,_I've_Gotta_Win"
+        }],
+        "thumbnail": "Character_Kachina_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kachina"
+    }, {
+        "object_type": "character",
         "name": "Kaedehara Kazuha",
         "type": "Character",
         "display_name": "Kazuha",
@@ -4217,6 +4310,99 @@
         }],
         "thumbnail": "Character_Mona_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Mona"
+    }, {
+        "object_type": "character",
+        "name": "Mualani",
+        "type": "Character",
+        "display_name": "Mualani",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Cooling Treatment",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cooling_Treatment"
+        }, {
+            "object_type": "talent",
+            "name": "Surfshark Wavebreaker",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Surfshark_Wavebreaker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Surfshark_Wavebreaker",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Boomsharka-laka",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Boomsharka-laka.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Boomsharka-laka",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Heat-Resistant Freshwater Floater",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Heat-Resistant_Freshwater_Floater.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heat-Resistant_Freshwater_Floater"
+        }, {
+            "object_type": "talent",
+            "name": "Natlan's Greatest Guide",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Natlan's_Greatest_Guide.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Natlan's_Greatest_Guide"
+        }, {
+            "object_type": "talent",
+            "name": "Crests and Troughs",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Crests_and_Troughs.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crests_and_Troughs"
+        }, {
+            "object_type": "talent",
+            "name": "The Trick Is to Keep Smiling!",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Trick_Is_to_Keep_Smiling!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Trick_Is_to_Keep_Smiling!"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "The Leisurely \"Meztli\"...",
+            "level": 1,
+            "thumbnail": "Constellation_The_Leisurely_Meztli....png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Leisurely_\"Meztli\"..."
+        }, {
+            "object_type": "constellation",
+            "name": "Mualani, Going All Out!",
+            "level": 2,
+            "thumbnail": "Constellation_Mualani,_Going_All_Out!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mualani,_Going_All_Out!"
+        }, {
+            "object_type": "constellation",
+            "name": "Surfing Atop Joyous Seas",
+            "level": 3,
+            "thumbnail": "Constellation_Surfing_Atop_Joyous_Seas.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Surfing_Atop_Joyous_Seas"
+        }, {
+            "object_type": "constellation",
+            "name": "Sharky Eats Puffies",
+            "level": 4,
+            "thumbnail": "Constellation_Sharky_Eats_Puffies.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sharky_Eats_Puffies"
+        }, {
+            "object_type": "constellation",
+            "name": "Same Style of Surfboard on Sale!",
+            "level": 5,
+            "thumbnail": "Constellation_Same_Style_of_Surfboard_on_Sale!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Same_Style_of_Surfboard_on_Sale!"
+        }, {
+            "object_type": "constellation",
+            "name": "Spirit of the Springs' People",
+            "level": 6,
+            "thumbnail": "Constellation_Spirit_of_the_Springs'_People.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit_of_the_Springs'_People"
+        }],
+        "thumbnail": "Character_Mualani_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mualani"
     }, {
         "object_type": "character",
         "name": "Nahida",

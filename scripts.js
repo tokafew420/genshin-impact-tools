@@ -1067,41 +1067,54 @@ app.makeTalentBookCard = (name) => {
         }]
     };
 
-    const $person = $('.person');
-    let name = $('.item__calculator-name span', $person).textContent.trim();
+    const $avatarSection = document.querySelector('.avatar-section');
+    if (!$avatarSection) throw new Error('Avatar section not found');
+    const $name = $avatarSection.querySelector('.nickname');
+    if (!$name) throw new Error('Name not found');
+    ascension.name = $name.textContent.trim();
 
-    if (name === 'Traveler') {
-        if ($('.ele', $person).classList.contains('ele-1')) {
-            name += ' (Pyro)';
-        } else if ($('.ele', $person).classList.contains('ele-2')) {
-            name += ' (Anemo)';
-        } else if ($('.ele', $person).classList.contains('ele-3')) {
-            name += ' (Geo)';
-        } else if ($('.ele', $person).classList.contains('ele-4')) {
-            name += ' (Dendro)';
-        } else if ($('.ele', $person).classList.contains('ele-5')) {
-            name += ' (Electro)';
-        } else if ($('.ele', $person).classList.contains('ele-6')) {
-            name += ' (Hydro)';
-        } else if ($('.ele', $person).classList.contains('ele-7')) {
-            name += ' (Cryo)';
+    const $calculation = document.querySelector('.single-computed-result');
+    if (!$calculation) throw new Error('Calculator element not found');
+
+    if (ascension.name === 'Traveler') {
+        if ($('.ele', $calculation).classList.contains('ele-1')) {
+            ascension.name += ' (Pyro)';
+        } else if ($('.ele', $calculation).classList.contains('ele-2')) {
+            ascension.name += ' (Anemo)';
+        } else if ($('.ele', $calculation).classList.contains('ele-3')) {
+            ascension.name += ' (Geo)';
+        } else if ($('.ele', $calculation).classList.contains('ele-4')) {
+            ascension.name += ' (Dendro)';
+        } else if ($('.ele', $calculation).classList.contains('ele-5')) {
+            ascension.name += ' (Electro)';
+        } else if ($('.ele', $calculation).classList.contains('ele-6')) {
+            ascension.name += ' (Hydro)';
+        } else if ($('.ele', $calculation).classList.contains('ele-7')) {
+            ascension.name += ' (Cryo)';
         }
     }
 
-    ascension.name = name;
+    const $tables = $calculation.querySelectorAll('.formation-details .table');
+    if (!$tables) throw new Error('Tables not found');
 
-    const $cost = $('.cost', $person);
-    const $costList = $('.cost-list__child-list', $cost);
+    const mats = Array.from($tables).map($table => {
+        const $header = $table.querySelector('.text-subtitle');
 
-    ascension.materials[0].name = $('.cost-list__item:nth-child(11) .cost-list__name', $costList).textContent.trim();
-    ascension.materials[1].name = $('.cost-list__item:nth-child(4) .cost-list__name', $costList).textContent.trim();
-    ascension.materials[2].name = $('.cost-list__item:nth-child(5) .cost-list__name', $costList).textContent.trim();
-    ascension.materials[3].name = $('.cost-list__item:nth-child(6) .cost-list__name', $costList).textContent.trim();
-    ascension.materials[4].name = $('.cost-list__item:nth-child(7) .cost-list__name', $costList).textContent.trim();
-    ascension.materials[5].name = $('.cost-list__item:nth-child(8) .cost-list__name', $costList).textContent.trim();
-    ascension.materials[6].name = $('.cost-list__item:nth-child(9) .cost-list__name', $costList).textContent.trim();
-    ascension.materials[7].name = $('.cost-list__item:nth-child(10) .cost-list__name', $costList).textContent.trim();
-    ascension.materials[8].name = $('.cost-list__item:nth-child(2) .cost-list__name', $costList).textContent.trim();
+        return {
+            name: $header.textContent.trim(),
+            items: Array.from($table.querySelectorAll('.row-container .row')).map($row => $row.querySelector('.preview-name').textContent.trim())
+        };
+    }).filter(table => table?.name === 'Character Level')[0];
+
+    ascension.materials[0].name = mats.items[7];
+    ascension.materials[1].name = mats.items[0];
+    ascension.materials[2].name = mats.items[1];
+    ascension.materials[3].name = mats.items[2];
+    ascension.materials[4].name = mats.items[3];
+    ascension.materials[5].name = mats.items[4];
+    ascension.materials[6].name = mats.items[5];
+    ascension.materials[7].name = mats.items[6];
+    ascension.materials[8].name = mats.items[8];
     
     return ascension;
 })();
@@ -1142,28 +1155,51 @@ app.makeTalentBookCard = (name) => {
         }]
     };
 
-    const $person = $('.person');
-    let name = $('.item__calculator-name span', $person).textContent.trim();
+    const $avatarSection = document.querySelector('.avatar-section');
+    if (!$avatarSection) throw new Error('Avatar section not found');
+    const $name = $avatarSection.querySelector('.nickname');
+    if (!$name) throw new Error('Name not found');
+    talent.name = $name.textContent.trim();
 
-    if (name === 'Traveler') {
+    const $calculation = document.querySelector('.single-computed-result');
+    if (!$calculation) throw new Error('Calculator element not found');
+
+    if (talent.name === 'Traveler') {
+        if ($('.ele', $calculation).classList.contains('ele-1')) {
+            talent.name += ' (Pyro)';
+        } else if ($('.ele', $calculation).classList.contains('ele-2')) {
+            talent.name += ' (Anemo)';
+        } else if ($('.ele', $calculation).classList.contains('ele-3')) {
+            talent.name += ' (Geo)';
+        } else if ($('.ele', $calculation).classList.contains('ele-4')) {
+            talent.name += ' (Dendro)';
+        } else if ($('.ele', $calculation).classList.contains('ele-5')) {
+            talent.name += ' (Electro)';
+        } else if ($('.ele', $calculation).classList.contains('ele-6')) {
+            talent.name += ' (Hydro)';
+        } else if ($('.ele', $calculation).classList.contains('ele-7')) {
+            talent.name += ' (Cryo)';
+        }
+    }
+
+    if (talent.name === 'Traveler') {
         if ($('.ele', $person).classList.contains('ele-1')) {
-            name += ' (Pyro)';
+            talent.name += ' (Pyro)';
         } else if ($('.ele', $person).classList.contains('ele-2')) {
-            name += ' (Anemo)';
+            talent.name += ' (Anemo)';
         } else if ($('.ele', $person).classList.contains('ele-3')) {
-            name += ' (Geo)';
+            talent.name += ' (Geo)';
         } else if ($('.ele', $person).classList.contains('ele-4')) {
-            name += ' (Dendro)';
+            talent.name += ' (Dendro)';
         } else if ($('.ele', $person).classList.contains('ele-5')) {
-            name += ' (Electro)';
+            talent.name += ' (Electro)';
         } else if ($('.ele', $person).classList.contains('ele-6')) {
-            name += ' (Hydro)';
+            talent.name += ' (Hydro)';
         } else if ($('.ele', $person).classList.contains('ele-7')) {
-            name += ' (Cryo)';
+            talent.name += ' (Cryo)';
         }
 
         delete talent.materials;
-        talent.name = name;
         talent.levels = [{
                 "level": 1,
                 "min_level": 1,
@@ -1319,22 +1355,25 @@ app.makeTalentBookCard = (name) => {
         return talent;
     }
 
-    talent.name = name;
+    const $tables = $calculation.querySelectorAll('.formation-details .table');
+    if (!$tables) throw new Error('Tables not found');
 
-    const $cost = $('.cost', $person);
-    const $costList = $('#talent .cost-list__child-list', $cost);
-    
-    const children = Array.from($costList.childNodes).map((c) => $('.cost-list__name', c).textContent.trim()).filter((name) => {
-        return ['Mora', 'Crown of Insight'].indexOf(name) === -1;
-    });
+    const mats = Array.from($tables).map($table => {
+        const $header = $table.querySelector('.text-subtitle');
 
-    talent.materials[0].name = children[3];
-    talent.materials[1].name = children[4];
-    talent.materials[2].name = children[5];
-    talent.materials[3].name = children[6];
-    talent.materials[4].name = children[0];
-    talent.materials[5].name = children[1];
-    talent.materials[6].name = children[2];
+        return {
+            name: $header.textContent.trim(),
+            items: Array.from($table.querySelectorAll('.row-container .row')).map($row => $row.querySelector('.preview-name').textContent.trim())
+        };
+    }).filter(table => table?.name !== 'Character Level')[0];
+
+    talent.materials[0].name = mats.items[3];
+    talent.materials[1].name = mats.items[4];
+    talent.materials[2].name = mats.items[5];
+    talent.materials[3].name = mats.items[6];
+    talent.materials[4].name = mats.items[0];
+    talent.materials[5].name = mats.items[1];
+    talent.materials[6].name = mats.items[2];
     
     return talent;
 })();
@@ -1342,10 +1381,28 @@ app.makeTalentBookCard = (name) => {
 // Weapon ascension
 
 (function() {
-    var itemCount =  document.querySelectorAll('.cost-list--weapon .cost-list__item').length;
+    const $calculation = document.querySelector('.gt-popup-layout__main');
+    if (!$calculation) throw new Error('Calculator element not found');
+    const $name = $calculation.querySelector('.weapon-card .weapon-name');
+    if (!$name) throw new Error('Name not found');
+
+    
+    const $tables = $calculation.querySelectorAll('.formation-details .table');
+    if (!$tables) throw new Error('Tables not found');
+
+    const mats = Array.from($tables).map($table => {
+        const $header = $table.querySelector('.text-subtitle');
+
+        return {
+            name: $header.textContent.trim(),
+            items: Array.from($table.querySelectorAll('.row-container .row')).map($row => $row.querySelector('.preview-name').textContent.trim())
+        };
+    })[0];
+
+const itemCount = mats.items.length;
     var metadata = {
         "object_type": "ascension-materials",
-        "name": $('.item__calculator-name').textContent.trim(),
+        "name": $name.textContent.trim(),
         "materials": []
     };
     // 1-2 stars have 9 items. 3-5 stars have 12 items
@@ -1353,43 +1410,43 @@ app.makeTalentBookCard = (name) => {
     var map = [{
         "type": "Common Ascension Materials",
         "rarity": 1,
-        "index": 3
+        "index": 0
     }, {
         "type": "Common Ascension Materials",
         "rarity": 2,
-        "index": 4
+        "index": 1
     }, {
         "type": "Common Ascension Materials",
         "rarity": 3,
+        "index": itemCount > 9 ? 2 : -1
+    }, {
+        "type": "Elite Common Ascension Materials",
+        "rarity": 2,
+        "index": itemCount > 9 ? 3 : 2
+    }, {
+        "type": "Elite Common Ascension Materials",
+        "rarity": 3,
+        "index": itemCount > 9 ? 4 : 3
+    }, {
+        "type": "Elite Common Ascension Materials",
+        "rarity": 4,
         "index": itemCount > 9 ? 5 : -1
     }, {
-        "type": "Elite Common Ascension Materials",
-        "rarity": 2,
-        "index": itemCount > 9 ? 6 : 5
-    }, {
-        "type": "Elite Common Ascension Materials",
-        "rarity": 3,
-        "index": itemCount > 9 ? 7 : 6
-    }, {
-        "type": "Elite Common Ascension Materials",
-        "rarity": 4,
-        "index": itemCount > 9 ? 8 : -1
-    }, {
         "type": "Weapon Ascension Materials",
         "rarity": 2,
-        "index": itemCount > 9 ? 9 : 7
+        "index": itemCount > 9 ? 6 : 4
     }, {
         "type": "Weapon Ascension Materials",
         "rarity": 3,
-        "index": itemCount > 9 ? 10 : 8
+        "index": itemCount > 9 ? 7 : 5
     }, {
         "type": "Weapon Ascension Materials",
         "rarity": 4,
-        "index": itemCount > 9 ? 11 : 9
+        "index": itemCount > 9 ? 8 : 6
     }, {
         "type": "Weapon Ascension Materials",
         "rarity": 5,
-        "index": itemCount > 9 ? 12 : -1
+        "index": itemCount > 9 ? 9 : -1
     }];
 
     map.forEach(function(m, idx) {
@@ -1397,7 +1454,7 @@ app.makeTalentBookCard = (name) => {
             metadata.materials.push({
                 "type": m.type,
                 "rarity": m.rarity,
-                "name": $('.cost-list--weapon .cost-list__item:nth-child(' + m.index + ') .cost-list__name').textContent.trim()
+                "name": mats.items[m.index]
             })
         }
     });

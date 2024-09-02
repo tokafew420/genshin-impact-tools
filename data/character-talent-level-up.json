@@ -1233,6 +1233,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Kachina",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Fading Candle"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Conflict"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Conflict"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Conflict"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Kaedehara Kazuha",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1742,6 +1774,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Resistance"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Mualani",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Lightless Mass"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Contention"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Contention"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Contention"
         }]
     }, {
         "object_type": "talent-level-up-materials",

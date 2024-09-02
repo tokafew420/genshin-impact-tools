@@ -905,6 +905,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Ash-Graven Drinking Horn",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Axis of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sheath of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Heart of the Secret Source"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Night-Wind's Mystic Consideration"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Night-Wind's Mystic Premonition"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Night-Wind's Mystic Augury"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Night-Wind's Mystic Revelation"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Aqua Simulacra",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1553,6 +1597,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Chain Breaker",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Feathery Fin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Lunar Fin"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Chasmlight Fin"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Night-Wind's Mystic Consideration"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Night-Wind's Mystic Premonition"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Night-Wind's Mystic Augury"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Night-Wind's Mystic Revelation"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Cinnabar Spindle",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2154,6 +2242,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 4,
             "name": "Fragment of Decarabian's Epic"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Earth Shaker",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Ignited Stone"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ignited Seed of Life"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ignited Seeing Eye"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Blazing Sacrificial Heart's Terror"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Blazing Sacrificial Heart's Hesitance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Blazing Sacrificial Heart's Resolve"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blazing Sacrificial Heart's Splendor"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -2946,6 +3078,94 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Essence of Pure Sacred Dewdrop"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Flute of Ezpitzal",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Ruined Hilt"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Splintered Hilt"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Still-Smoldering Hilt"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Blazing Sacrificial Heart's Terror"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Blazing Sacrificial Heart's Hesitance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Blazing Sacrificial Heart's Resolve"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blazing Sacrificial Heart's Splendor"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Footprint of the Rainbow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Axis of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sheath of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Heart of the Secret Source"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Delirious Decadence of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Delirious Desolation of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Delirious Demeanor of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Delirious Divinity of the Sacred Lord"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -5497,6 +5717,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Ring of Yaxche",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Damaged Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Stained Mask"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ominous Mask"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shard of a Shattered Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Locus of a Clear Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Sigil of a Striding Will"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Delirious Decadence of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Delirious Desolation of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Delirious Demeanor of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Delirious Divinity of the Sacred Lord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Royal Bow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -6966,6 +7230,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Surf's Up",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shard of a Shattered Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Locus of a Clear Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Sigil of a Striding Will"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Blazing Sacrificial Heart's Terror"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Blazing Sacrificial Heart's Hesitance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Blazing Sacrificial Heart's Resolve"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blazing Sacrificial Heart's Splendor"
         }]
     }, {
         "object_type": "ascension-materials",

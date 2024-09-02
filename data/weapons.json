@@ -58,6 +58,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Apprentice's_Notes"
     }, {
         "object_type": "weapon",
+        "name": "Ash-Graven Drinking Horn",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Ash-Graven_Drinking_Horn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ash-Graven_Drinking_Horn"
+    }, {
+        "object_type": "weapon",
         "name": "Aqua Simulacra",
         "type": "Bow",
         "rarity": 5,
@@ -163,6 +170,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Cashflow_Supervision"
     }, {
         "object_type": "weapon",
+        "name": "Chain Breaker",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Chain_Breaker.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chain_Breaker"
+    }, {
+        "object_type": "weapon",
         "name": "Cinnabar Spindle",
         "type": "Sword",
         "rarity": 4,
@@ -259,6 +273,13 @@
         "rarity": 1,
         "thumbnail": "Weapon_Dull_Blade.png",
         "link": "https://genshin-impact.fandom.com/wiki/Dull_Blade"
+    }, {
+        "object_type": "weapon",
+        "name": "Earth Shaker",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Earth_Shaker.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Earth_Shaker"
     }, {
         "object_type": "weapon",
         "name": "Elegy for the End",
@@ -385,6 +406,20 @@
         "rarity": 4,
         "thumbnail": "Weapon_Flowing_Purity.png",
         "link": "https://genshin-impact.fandom.com/wiki/Flowing_Purity"
+    }, {
+        "object_type": "weapon",
+        "name": "Flute of Ezpitzal",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Flute_of_Ezpitzal.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Flute_of_Ezpitzal"
+    }, {
+        "object_type": "weapon",
+        "name": "Footprint of the Rainbow",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Footprint_of_the_Rainbow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Footprint_of_the_Rainbow"
     }, {
         "object_type": "weapon",
         "name": "Forest Regalia",
@@ -807,6 +842,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Royal_Bow"
     }, {
         "object_type": "weapon",
+        "name": "Ring of Yaxche",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Ring_of_Yaxche.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ring_of_Yaxche"
+    }, {
+        "object_type": "weapon",
         "name": "Royal Greatsword",
         "type": "Claymore",
         "rarity": 4,
@@ -1036,6 +1078,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Summit_Shaper.png",
         "link": "https://genshin-impact.fandom.com/wiki/Summit_Shaper"
+    }, {
+        "object_type": "weapon",
+        "name": "Surf's Up",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Surf's_Up.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Surf's_Up"
     }, {
         "object_type": "weapon",
         "name": "Sword of Descension",
