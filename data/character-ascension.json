@@ -3267,6 +3267,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Xilonen",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Gold-Inscribed Secret Source Core"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Prithiva Topaz Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Prithiva Topaz Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Prithiva Topaz Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Prithiva Topaz Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Brilliant Chrysanthemum"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Xingqiu",
         "materials": [{
             "type": "Boss Material",

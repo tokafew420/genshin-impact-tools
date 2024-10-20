@@ -3562,6 +3562,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Xilonen",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Mirror of Mushin"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Kindling"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Kindling"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Kindling"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Xingqiu",
         "materials": [{
             "type": "Common Ascension Materials",

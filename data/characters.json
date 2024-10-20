@@ -7492,6 +7492,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Yaoyao"
     }, {
         "object_type": "character",
+        "name": "Xilonen",
+        "type": "Character",
+        "display_name": "Xilonen",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Ehecatl's Roar",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Geo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ehecatl's_Roar"
+        }, {
+            "object_type": "talent",
+            "name": "Yohual's Scratch",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Yohual's_Scratch.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Yohual's_Scratch",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Ocelotlicue Point!",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Ocelotlicue_Point!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ocelotlicue_Point!",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Netotiliztli's Echoes",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Netotiliztli's_Echoes.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Netotiliztli's_Echoes"
+        }, {
+            "object_type": "talent",
+            "name": "Portable Armored Sheath",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Portable_Armored_Sheath.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Portable_Armored_Sheath"
+        }, {
+            "object_type": "talent",
+            "name": "Blessing of Forge-Fire",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Blessing_of_Forge-Fire.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blessing_of_Forge-Fire"
+        }, {
+            "object_type": "talent",
+            "name": "Tour of Tepeilhuitl",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Tour_of_Tepeilhuitl.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tour_of_Tepeilhuitl"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Sabbatical Phrase",
+            "level": 1,
+            "thumbnail": "Constellation_Sabbatical_Phrase.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sabbatical_Phrase"
+        }, {
+            "object_type": "constellation",
+            "name": "Chiucue Mix",
+            "level": 2,
+            "thumbnail": "Constellation_Chiucue_Mix.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Chiucue_Mix"
+        }, {
+            "object_type": "constellation",
+            "name": "Tonalpohualli's Loop",
+            "level": 3,
+            "thumbnail": "Constellation_Tonalpohualli's_Loop.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tonalpohualli's_Loop"
+        }, {
+            "object_type": "constellation",
+            "name": "Suchitl's Trance",
+            "level": 4,
+            "thumbnail": "Constellation_Suchitl's_Trance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Suchitl's_Trance"
+        }, {
+            "object_type": "constellation",
+            "name": "Tlaltecuhtli's Crossfade",
+            "level": 5,
+            "thumbnail": "Constellation_Tlaltecuhtli's_Crossfade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tlaltecuhtli's_Crossfade"
+        }, {
+            "object_type": "constellation",
+            "name": "Imperishable Night Carnival",
+            "level": 6,
+            "thumbnail": "Constellation_Imperishable_Night_Carnival.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Imperishable_Night_Carnival"
+        }],
+        "thumbnail": "Character_Xilonen_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Xilonen"
+    }, {
+        "object_type": "character",
         "name": "Yelan",
         "type": "Character",
         "display_name": "Yelan",

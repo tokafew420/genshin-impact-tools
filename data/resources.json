@@ -688,6 +688,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Overripe_Flamegranate"
     }, {
         "object_type": "item",
+        "name": "Gold-Inscribed Secret Source Core",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Natlan",
+        "source": ["Secret Source Automaton: Configuration Device"],
+        "thumbnail": "Item_Gold-Inscribed_Secret_Source_Core.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Gold-Inscribed_Secret_Source_Core"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -702,6 +712,14 @@
         "region": "Fontaine",
         "thumbnail": "Item_Beryl_Conch.png",
         "link": "https://genshin-impact.fandom.com/wiki/Beryl_Conch"
+    }, {
+        "object_type": "item",
+        "name": "Brilliant Chrysanthemum",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Natlan",
+        "thumbnail": "Item_Brilliant_Chrysanthemum.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Brilliant_Chrysanthemum"
     }, {
         "object_type": "item",
         "name": "Calla Lily",

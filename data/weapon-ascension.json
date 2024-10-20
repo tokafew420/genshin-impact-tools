@@ -4937,6 +4937,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Peak Patrol Song",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Axis of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sheath of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Heart of the Secret Source"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Night-Wind's Mystic Consideration"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Night-Wind's Mystic Premonition"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Night-Wind's Mystic Augury"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Night-Wind's Mystic Revelation"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Pocket Grimoire",
         "materials": [{
             "type": "Common Ascension Materials",

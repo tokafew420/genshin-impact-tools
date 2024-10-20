@@ -709,6 +709,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Otherworldly_Story"
     }, {
         "object_type": "weapon",
+        "name": "Peak Patrol Song",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Peak_Patrol_Song.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Peak_Patrol_Song"
+    }, {
+        "object_type": "weapon",
         "name": "Pocket Grimoire",
         "type": "Catalyst",
         "rarity": 2,
