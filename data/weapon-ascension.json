@@ -949,6 +949,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Astral Vulture's Crimson Plumage",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Refractive Bud"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Bewildering Broadleaf"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Illusory Leafcoil"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Night-Wind's Mystic Consideration"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Night-Wind's Mystic Premonition"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Night-Wind's Mystic Augury"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Night-Wind's Mystic Revelation"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Aqua Simulacra",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1506,6 +1550,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Calamity of Eshu",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Refractive Bud"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Bewildering Broadleaf"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Illusory Leafcoil"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Delirious Decadence of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Delirious Desolation of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Delirious Demeanor of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Delirious Divinity of the Sacred Lord"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -3034,6 +3122,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Echo of an Ancient Chord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Flower-Wreathed Feathers",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Ignited Stone"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ignited Seed of Life"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ignited Seeing Eye"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Night-Wind's Mystic Consideration"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Night-Wind's Mystic Premonition"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Night-Wind's Mystic Augury"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Night-Wind's Mystic Revelation"
         }]
     }, {
         "object_type": "ascension-materials",

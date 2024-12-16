@@ -1002,6 +1002,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Charlotte"
     }, {
         "object_type": "character",
+        "name": "Chasca",
+        "type": "Character",
+        "display_name": "Chasca",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Phantom Feather Flurry",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Phantom_Feather_Flurry"
+        }, {
+            "object_type": "talent",
+            "name": "Spirit Reins, Shadow Hunt",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Spirit_Reins,_Shadow_Hunt.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit_Reins,_Shadow_Hunt",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Soul Reaper's Fatal Round",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Soul_Reaper's_Fatal_Round.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Soul_Reaper's_Fatal_Round",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Bullet Trick",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Bullet_Trick.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bullet_Trick"
+        }, {
+            "object_type": "talent",
+            "name": "Intent to Cover",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Intent_to_Cover.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Intent_to_Cover"
+        }, {
+            "object_type": "talent",
+            "name": "Everburning Heart",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Everburning_Heart.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Everburning_Heart"
+        }, {
+            "object_type": "talent",
+            "name": "Mediation's True Meaning",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Mediation's_True_Meaning.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mediation's_True_Meaning"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Cylinder, the Restless Roulette",
+            "level": 1,
+            "thumbnail": "Constellation_Cylinder,_the_Restless_Roulette.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cylinder,_the_Restless_Roulette"
+        }, {
+            "object_type": "constellation",
+            "name": "Muzzle, the Searing Smoke",
+            "level": 2,
+            "thumbnail": "Constellation_Muzzle,_the_Searing_Smoke.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Muzzle,_the_Searing_Smoke"
+        }, {
+            "object_type": "constellation",
+            "name": "Reins, Her Careful Control",
+            "level": 3,
+            "thumbnail": "Constellation_Reins,_Her_Careful_Control.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Reins,_Her_Careful_Control"
+        }, {
+            "object_type": "constellation",
+            "name": "Sparks, the Sudden Shot",
+            "level": 4,
+            "thumbnail": "Constellation_Sparks,_the_Sudden_Shot.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sparks,_the_Sudden_Shot"
+        }, {
+            "object_type": "constellation",
+            "name": "Brim, the Sandshadow's Silhouette",
+            "level": 5,
+            "thumbnail": "Constellation_Brim,_the_Sandshadow's_Silhouette.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Brim,_the_Sandshadow's_Silhouette"
+        }, {
+            "object_type": "constellation",
+            "name": "Showdown, the Glory of Battle",
+            "level": 6,
+            "thumbnail": "Constellation_Showdown,_the_Glory_of_Battle.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Showdown,_the_Glory_of_Battle"
+        }],
+        "thumbnail": "Character_Chasca_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Chasca"
+    }, {
+        "object_type": "character",
         "name": "Chevreuse",
         "type": "Character",
         "display_name": "Chevreuse",
@@ -4923,6 +5016,99 @@
         }],
         "thumbnail": "Character_Neuvillette_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Neuvillette"
+    }, {
+        "object_type": "character",
+        "name": "Ororon",
+        "type": "Character",
+        "display_name": "Ororon",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Spiritvessel Snapshot",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spiritvessel_Snapshot"
+        }, {
+            "object_type": "talent",
+            "name": "Night's Sling",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Night's_Sling.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Night's_Sling",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Dark Voices Echo",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Dark_Voices_Echo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dark_Voices_Echo",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Nightshade Synesthesia",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Nightshade_Synesthesia.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nightshade_Synesthesia"
+        }, {
+            "object_type": "talent",
+            "name": "Aspect Catalyst",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Aspect_Catalyst.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Aspect_Catalyst"
+        }, {
+            "object_type": "talent",
+            "name": "Flowing Fog, Spritely Shadows",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Flowing_Fog,_Spritely_Shadows.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flowing_Fog,_Spritely_Shadows"
+        }, {
+            "object_type": "talent",
+            "name": "The Art of Skinchanging",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Art_of_Skinchanging.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Art_of_Skinchanging"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Trails Amidst the Forest Fog",
+            "level": 1,
+            "thumbnail": "Constellation_Trails_Amidst_the_Forest_Fog.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Trails_Amidst_the_Forest_Fog"
+        }, {
+            "object_type": "constellation",
+            "name": "King Bee of the Hidden Honeyed Wine",
+            "level": 2,
+            "thumbnail": "Constellation_King_Bee_of_the_Hidden_Honeyed_Wine.png",
+            "link": "https://genshin-impact.fandom.com/wiki/King_Bee_of_the_Hidden_Honeyed_Wine"
+        }, {
+            "object_type": "constellation",
+            "name": "Roosting Bat's Spiritcage",
+            "level": 3,
+            "thumbnail": "Constellation_Roosting_Bat's_Spiritcage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Roosting_Bat's_Spiritcage"
+        }, {
+            "object_type": "constellation",
+            "name": "As the Mysteries of the Night Wind",
+            "level": 4,
+            "thumbnail": "Constellation_As_the_Mysteries_of_the_Night_Wind.png",
+            "link": "https://genshin-impact.fandom.com/wiki/As_the_Mysteries_of_the_Night_Wind"
+        }, {
+            "object_type": "constellation",
+            "name": "A Gift For the Soul",
+            "level": 5,
+            "thumbnail": "Constellation_A_Gift_For_the_Soul.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Gift_For_the_Soul"
+        }, {
+            "object_type": "constellation",
+            "name": "Ode to Deep Springs",
+            "level": 6,
+            "thumbnail": "Constellation_Ode_to_Deep_Springs.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ode_to_Deep_Springs"
+        }],
+        "thumbnail": "Character_Ororon_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ororon"
     }, {
         "object_type": "character",
         "name": "Qiqi",

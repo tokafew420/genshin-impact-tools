@@ -65,6 +65,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Ash-Graven_Drinking_Horn"
     }, {
         "object_type": "weapon",
+        "name": "Astral Vulture's Crimson Plumage",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Astral_Vulture's_Crimson_Plumage.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Astral_Vulture's_Crimson_Plumage"
+    }, {
+        "object_type": "weapon",
         "name": "Aqua Simulacra",
         "type": "Bow",
         "rarity": 5,
@@ -154,6 +161,13 @@
         "rarity": 3,
         "thumbnail": "Weapon_Bloodtainted_Greatsword.png",
         "link": "https://genshin-impact.fandom.com/wiki/Bloodtainted_Greatsword"
+    }, {
+        "object_type": "weapon",
+        "name": "Calamity of Eshu",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Calamity_of_Eshu.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Calamity_of_Eshu"
     }, {
         "object_type": "weapon",
         "name": "Calamity Queller",
@@ -399,6 +413,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Fleuve_Cendre_Ferryman.png",
         "link": "https://genshin-impact.fandom.com/wiki/Fleuve_Cendre_Ferryman"
+    }, {
+        "object_type": "weapon",
+        "name": "Flower-Wreathed Feathers",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Flower-Wreathed_Feathers.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Flower-Wreathed_Feathers"
     }, {
         "object_type": "weapon",
         "name": "Flowing Purity",

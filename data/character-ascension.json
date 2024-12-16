@@ -631,6 +631,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Chasca",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Ensnaring Gaze"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vayuda Turquoise Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vayuda Turquoise Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vayuda Turquoise Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vayuda Turquoise Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Withering Purpurbloom"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Chevreuse",
         "materials": [{
             "type": "Boss Material",
@@ -2428,6 +2468,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Lumitoile"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Ororon",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Mark of the Binding Blessing"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vajrada Amethyst Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vajrada Amethyst Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vajrada Amethyst Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vajrada Amethyst Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Glowing Hornshroom"
         }]
     }, {
         "object_type": "ascension-materials",

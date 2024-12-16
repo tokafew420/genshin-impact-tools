@@ -561,6 +561,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Chasca",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Silken Feather"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Conflict"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Conflict"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Conflict"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Chevreuse",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1998,6 +2030,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Equity"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Ororon",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Lightless Silk String"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Kindling"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Kindling"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Kindling"
         }]
     }, {
         "object_type": "talent-level-up-materials",

@@ -698,6 +698,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Gold-Inscribed_Secret_Source_Core"
     }, {
         "object_type": "item",
+        "name": "Ensnaring Gaze",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Natlan",
+        "source": ["Tenebrous Papilla"],
+        "thumbnail": "Item_Ensnaring_Gaze.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ensnaring_Gaze"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -792,6 +802,14 @@
         "region": "Liyue",
         "thumbnail": "Item_Glaze_Lily.png",
         "link": "https://genshin-impact.fandom.com/wiki/Glaze_Lily"
+    }, {
+        "object_type": "item",
+        "name": "Glowing Hornshroom",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Natlan",
+        "thumbnail": "Item_Glowing_Hornshroom.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Glowing_Hornshroom"
     }, {
         "object_type": "item",
         "name": "Henna Berry",
@@ -1056,6 +1074,14 @@
         "region": "Liyue",
         "thumbnail": "Item_Violetgrass.png",
         "link": "https://genshin-impact.fandom.com/wiki/Violetgrass"
+    }, {
+        "object_type": "item",
+        "name": "Withering Purpurbloom",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Natlan",
+        "thumbnail": "Item_Withering_Purpurbloom.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Withering_Purpurbloom"
     }, {
         "object_type": "item",
         "name": "Windwheel Aster",
@@ -2900,7 +2926,7 @@
         "type": "Elite Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Secret Source",
-        "rarity": 2,
+        "rarity": 3,
         "source": ["Secret Source Automaton: Hunter-Seeker"],
         "thumbnail": "Item_Sheath_of_the_Secret_Source.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sheath_of_the_Secret_Source"
@@ -2944,6 +2970,36 @@
         "source": ["Avatars of Lava"],
         "thumbnail": "Item_Ignited_Seeing_Eye.png",
         "link": "https://genshin-impact.fandom.com/wiki/Ignited_Seeing_Eye"
+    }, {
+        "object_type": "item",
+        "name": "Refractive Bud",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Tenebrous Mimesis",
+        "rarity": 2,
+        "source": ["Tenebrous Mimesis"],
+        "thumbnail": "Item_Refractive_Bud.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Refractive_Bud"
+    }, {
+        "object_type": "item",
+        "name": "Bewildering Broadleaf",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Tenebrous Mimesis",
+        "rarity": 3,
+        "source": ["Tenebrous Mimesis"],
+        "thumbnail": "Item_Bewildering_Broadleaf.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Bewildering_Broadleaf"
+    }, {
+        "object_type": "item",
+        "name": "Illusory Leafcoil",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Tenebrous Mimesis",
+        "rarity": 4,
+        "source": ["Tenebrous Mimesis"],
+        "thumbnail": "Item_Illusory_Leafcoil.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Illusory_Leafcoil"
     }, {
         "object_type": "item",
         "group_type": "dvalin-material",
