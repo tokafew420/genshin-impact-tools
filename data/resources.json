@@ -708,6 +708,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Ensnaring_Gaze"
     }, {
         "object_type": "item",
+        "name": "Talisman of the Enigmatic Land",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Natlan",
+        "source": ["Tenebrous Papilla"],
+        "thumbnail": "Item_Talisman_of_the_Enigmatic_Land.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Talisman_of_the_Enigmatic_Land"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -3330,6 +3340,47 @@
         "source": ["The Knave"],
         "thumbnail": "Item_Denial_and_Judgment.png",
         "link": "https://genshin-impact.fandom.com/wiki/Denial_and_Judgment"
+    }, {
+        "object_type": "item",
+        "group_type": "eroded-primal-fire",
+        "name": "Eroded Horn",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Natlan",
+        "source": ["Lord of Eroded Primal Fire"],
+        "thumbnail": "Item_Eroded_Horn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Eroded_Horn"
+    }, {
+        "object_type": "item",
+        "group_type": "eroded-primal-fire",
+        "name": "Eroded Sunfire",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Natlan",
+        "source": ["Lord of Eroded Primal Fire"],
+        "thumbnail": "Item_Eroded_Sunfire.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Eroded_Sunfire"
+    }, {
+        "object_type": "item",
+        "group_type": "eroded-primal-fire",
+        "name": "Eroded Scale-Feather",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Natlan",
+        "source": ["Lord of Eroded Primal Fire"],
+        "thumbnail": "Item_Eroded_Scale-Feather.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Eroded_Scale-Feather"
+    }, {
+        "object_type": "item",
+        "name": "The Cornerstone of Stars and Flames",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "thumbnail": "Item_The_Cornerstone_of_Stars_and_Flames.png",
+        "link": "https://genshin-impact.fandom.com/wiki/The_Cornerstone_of_Stars_and_Flames"
     }, {
         "object_type": "item",
         "group_type": "special-item",

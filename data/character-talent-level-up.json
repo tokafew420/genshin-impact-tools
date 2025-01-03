@@ -689,6 +689,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Citlali",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Denial and Judgment"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Kindling"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Kindling"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Kindling"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Clorinde",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1826,6 +1858,38 @@
             "type": "Elite Boss Material",
             "rarity": 5,
             "name": "Lightless Mass"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Contention"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Contention"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Contention"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Mavuika",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Eroded Horn"
         }, {
             "type": "Talent Level-Up Material",
             "rarity": 2,
@@ -3426,6 +3490,160 @@
                 "count": 12
             }, {
                 "name": "Worldspan Fern",
+                "count": 2
+            }, {
+                "name": "Crown of Insight",
+                "count": 1
+            }]
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Traveler (Pyro)",
+        "levels": [{
+            "level": 1,
+            "min_level": 1,
+            "max_level": 2,
+            "required_ascension_phase": 2,
+            "materials": [{
+                "name": "Mora",
+                "count": 12500
+            }, {
+                "name": "Teachings of Contention",
+                "count": 3
+            }, {
+                "name": "Sentry's Wooden Whistle",
+                "count": 6
+            }]
+        }, {
+            "level": 2,
+            "min_level": 2,
+            "max_level": 3,
+            "required_ascension_phase": 3,
+            "materials": [{
+                "name": "Mora",
+                "count": 17500
+            }, {
+                "name": "Guide to Kindling",
+                "count": 2
+            }, {
+                "name": "Warrior's Metal Whistle",
+                "count": 3
+            }]
+        }, {
+            "level": 3,
+            "min_level": 3,
+            "max_level": 4,
+            "required_ascension_phase": 3,
+            "materials": [{
+                "name": "Mora",
+                "count": 25000
+            }, {
+                "name": "Guide to Conflict",
+                "count": 4
+            }, {
+                "name": "Warrior's Metal Whistle",
+                "count": 4
+            }]
+        }, {
+            "level": 4,
+            "min_level": 4,
+            "max_level": 5,
+            "required_ascension_phase": 4,
+            "materials": [{
+                "name": "Mora",
+                "count": 30000
+            }, {
+                "name": "Guide to Contention",
+                "count": 6
+            }, {
+                "name": "Warrior's Metal Whistle",
+                "count": 6
+            }]
+        }, {
+            "level": 5,
+            "min_level": 5,
+            "max_level": 6,
+            "required_ascension_phase": 4,
+            "materials": [{
+                "name": "Mora",
+                "count": 37500
+            }, {
+                "name": "Guide to Kindling",
+                "count": 9
+            }, {
+                "name": "Warrior's Metal Whistle",
+                "count": 9
+            }]
+        }, {
+            "level": 6,
+            "min_level": 6,
+            "max_level": 7,
+            "required_ascension_phase": 5,
+            "materials": [{
+                "name": "Mora",
+                "count": 120000
+            }, {
+                "name": "Philosophies of Conflict",
+                "count": 4
+            }, {
+                "name": "Saurian-Crowned Warrior's Golden Whistle",
+                "count": 4
+            }, {
+                "name": "The Cornerstone of Stars and Flames",
+                "count": 1
+            }]
+        }, {
+            "level": 7,
+            "min_level": 7,
+            "max_level": 8,
+            "required_ascension_phase": 5,
+            "materials": [{
+                "name": "Mora",
+                "count": 260000
+            }, {
+                "name": "Philosophies of Contention",
+                "count": 6
+            }, {
+                "name": "Saurian-Crowned Warrior's Golden Whistle",
+                "count": 6
+            }, {
+                "name": "The Cornerstone of Stars and Flames",
+                "count": 1
+            }]
+        }, {
+            "level": 8,
+            "min_level": 8,
+            "max_level": 9,
+            "required_ascension_phase": 6,
+            "materials": [{
+                "name": "Mora",
+                "count": 450000
+            }, {
+                "name": "Philosophies of Kindling",
+                "count": 12
+            }, {
+                "name": "Saurian-Crowned Warrior's Golden Whistle",
+                "count": 9
+            }, {
+                "name": "The Cornerstone of Stars and Flames",
+                "count": 2
+            }]
+        }, {
+            "level": 9,
+            "min_level": 9,
+            "max_level": 10,
+            "required_ascension_phase": 6,
+            "materials": [{
+                "name": "Mora",
+                "count": 700000
+            }, {
+                "name": "Philosophies of Conflict",
+                "count": 16
+            }, {
+                "name": "Saurian-Crowned Warrior's Golden Whistle",
+                "count": 12
+            }, {
+                "name": "The Cornerstone of Stars and Flames",
                 "count": 2
             }, {
                 "name": "Crown of Insight",

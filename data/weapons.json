@@ -9,6 +9,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/\"The_Catch\""
     }, {
         "object_type": "weapon",
+        "name": "A Thousand Blazing Suns",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_A_Thousand_Blazing_Suns.png",
+        "link": "https://genshin-impact.fandom.com/wiki/A_Thousand_Blazing_Suns"
+    }, {
+        "object_type": "weapon",
         "name": "A Thousand Floating Dreams",
         "type": "Catalyst",
         "rarity": 5,
@@ -1099,6 +1106,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Staff_of_the_Scarlet_Sands.png",
         "link": "https://genshin-impact.fandom.com/wiki/Staff_of_the_Scarlet_Sands"
+    }, {
+        "object_type": "weapon",
+        "name": "Starcaller's Watch",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Starcaller's_Watch.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Starcaller's_Watch"
     }, {
         "object_type": "weapon",
         "name": "Summit Shaper",

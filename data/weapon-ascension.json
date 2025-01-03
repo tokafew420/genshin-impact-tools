@@ -609,6 +609,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "A Thousand Blazing Suns",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Axis of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sheath of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Heart of the Secret Source"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Blazing Sacrificial Heart's Terror"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Blazing Sacrificial Heart's Hesitance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Blazing Sacrificial Heart's Resolve"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blazing Sacrificial Heart's Splendor"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "A Thousand Floating Dreams",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -7362,6 +7406,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Oasis Garden's Truth"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Starcaller's Watch",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shard of a Shattered Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Locus of a Clear Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Sigil of a Striding Will"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Delirious Decadence of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Delirious Desolation of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Delirious Demeanor of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Delirious Divinity of the Sacred Lord"
         }]
     }, {
         "object_type": "ascension-materials",
