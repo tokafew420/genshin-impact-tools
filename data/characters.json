@@ -3972,6 +3972,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Kuki_Shinobu"
     }, {
         "object_type": "character",
+        "name": "Lan Yan",
+        "type": "Character",
+        "display_name": "Lan Yan",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Black Pheasant Strides on Water",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Black_Pheasant_Strides_on_Water"
+        }, {
+            "object_type": "talent",
+            "name": "Swallow-Wisp Pinion Dance",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Swallow-Wisp_Pinion_Dance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Swallow-Wisp_Pinion_Dance",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Lustrous Moonrise",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Lustrous_Moonrise.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lustrous_Moonrise",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Four Sealing Divination Charms",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Four_Sealing_Divination_Charms.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Four_Sealing_Divination_Charms"
+        }, {
+            "object_type": "talent",
+            "name": "Skyfeather Evil-Subduing Charm",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Skyfeather_Evil-Subduing_Charm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Skyfeather_Evil-Subduing_Charm"
+        }, {
+            "object_type": "talent",
+            "name": "Thought and Intent, Like Silken Scent",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Thought_and_Intent,_Like_Silken_Scent.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thought_and_Intent,_Like_Silken_Scent"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "\"As One Might Stride Betwixt the Clouds\"",
+            "level": 1,
+            "thumbnail": "Constellation_As_One_Might_Stride_Betwixt_the_Clouds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"As_One_Might_Stride_Betwixt_the_Clouds\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Dance Vestments Billow Like Rainbow Jade\"",
+            "level": 2,
+            "thumbnail": "Constellation_Dance_Vestments_Billow_Like_Rainbow_Jade.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Dance_Vestments_Billow_Like_Rainbow_Jade\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"On White Wings Pierce Through Cloud and Fog\"",
+            "level": 3,
+            "thumbnail": "Constellation_On_White_Wings_Pierce_Through_Cloud_and_Fog.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"On_White_Wings_Pierce_Through_Cloud_and_Fog\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"With Drakefalcon's Blood-Pearls Adorned\"",
+            "level": 4,
+            "thumbnail": "Constellation_With_Drakefalcon's_Blood-Pearls_Adorned.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"With_Drakefalcon's_Blood-Pearls_Adorned\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Having Met You, My Heart is Gladdened\"",
+            "level": 5,
+            "thumbnail": "Constellation_Having_Met_You,_My_Heart_is_Gladdened.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Having_Met_You,_My_Heart_is_Gladdened\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Let Us Away on Sylphic Wing, the Silvered Ornaments to Ring\"",
+            "level": 6,
+            "thumbnail": "Constellation_Let_Us_Away_on_Sylphic_Wing,_the_Silvered_Ornaments_to_Ring.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Let_Us_Away_on_Sylphic_Wing,_the_Silvered_Ornaments_to_Ring\""
+        }],
+        "thumbnail": "Character_Lan Yan_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lan_Yan"
+    }, {
+        "object_type": "character",
         "name": "Layla",
         "type": "Character",
         "display_name": "Layla",
