@@ -7453,6 +7453,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Sunny Morning Sleep-In",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Spectral Husk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Spectral Heart"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Spectral Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Ignited Stone"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ignited Seed of Life"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ignited Seeing Eye"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Narukami's Wisdom"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Narukami's Joy"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Narukami's Affection"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Narukami's Valor"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Summit Shaper",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -8594,6 +8638,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Echo of an Ancient Chord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Vivid Notions",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Cold-Cracked Shellshard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Warm Black-Shell"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Blazing Prismshell"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Delirious Decadence of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Delirious Desolation of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Delirious Demeanor of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Delirious Divinity of the Sacred Lord"
         }]
     }, {
         "object_type": "ascension-materials",

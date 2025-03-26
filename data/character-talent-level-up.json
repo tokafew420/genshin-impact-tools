@@ -1265,6 +1265,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Iansan",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Denial and Judgment"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Contention"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Contention"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Contention"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Jean",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3684,6 +3716,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Varesa",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Eroded Scale-Feather"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Conflict"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Conflict"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Conflict"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Venti",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4161,6 +4225,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Diligence"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Yumemizuki Mizuki",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Fading Candle"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Transience"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Transience"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Transience"
         }]
     }, {
         "object_type": "talent-level-up-materials",

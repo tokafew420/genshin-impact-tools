@@ -2921,6 +2921,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
     }, {
         "object_type": "character",
+        "name": "Iansan",
+        "type": "Character",
+        "display_name": "Iansan",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Weighted Spike",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Weighted_Spike"
+        }, {
+            "object_type": "talent",
+            "name": "Thunderbolt Rush",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Thunderbolt_Rush.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thunderbolt_Rush",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "The Three Principles of Power",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_The_Three_Principles_of_Power.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Three_Principles_of_Power",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Enhanced Resistance Training",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Enhanced_Resistance_Training.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Enhanced_Resistance_Training"
+        }, {
+            "object_type": "talent",
+            "name": "Kinetic Energy Gradient Test",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Kinetic_Energy_Gradient_Test.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kinetic_Energy_Gradient_Test"
+        }, {
+            "object_type": "talent",
+            "name": "Hard Work and Drive",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Hard_Work_and_Drive.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hard_Work_and_Drive"
+        }, {
+            "object_type": "talent",
+            "name": "Caloric Balancing Plan",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Caloric_Balancing_Plan.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Caloric_Balancing_Plan"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Starting's Never Easy",
+            "level": 1,
+            "thumbnail": "Constellation_Starting's_Never_Easy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Starting's_Never_Easy"
+        }, {
+            "object_type": "constellation",
+            "name": "Laziness is the Enemy!",
+            "level": 2,
+            "thumbnail": "Constellation_Laziness_is_the_Enemy!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Laziness_is_the_Enemy!"
+        }, {
+            "object_type": "constellation",
+            "name": "Scientific Diet Planning",
+            "level": 3,
+            "thumbnail": "Constellation_Scientific_Diet_Planning.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Scientific_Diet_Planning"
+        }, {
+            "object_type": "constellation",
+            "name": "Slow and Steady Wins the Race",
+            "level": 4,
+            "thumbnail": "Constellation_Slow_and_Steady_Wins_the_Race.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Slow_and_Steady_Wins_the_Race"
+        }, {
+            "object_type": "constellation",
+            "name": "We Can Push It Further!",
+            "level": 5,
+            "thumbnail": "Constellation_We_Can_Push_It_Further!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/We_Can_Push_It_Further!"
+        }, {
+            "object_type": "constellation",
+            "name": "Teachings of the Collective of Plenty",
+            "level": 6,
+            "thumbnail": "Constellation_Teachings_of_the_Collective_of_Plenty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_the_Collective_of_Plenty"
+        }],
+        "thumbnail": "Character_Iansan_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Iansan"
+    }, {
+        "object_type": "character",
         "name": "Jean",
         "type": "Character",
         "rarity": 5,
@@ -6987,6 +7080,101 @@
         "link": "https://genshin-impact.fandom.com/wiki/Traveler"
     }, {
         "object_type": "character",
+        "name": "Varesa",
+        "type": "Character",
+        "display_name": "Varesa",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "By the Horns",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/By_the_Horns",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Riding the Night-Rainbow",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Riding_the_Night-Rainbow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Riding_the_Night-Rainbow"
+        }, {
+            "object_type": "talent",
+            "name": "Guardian Vent!",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Guardian_Vent!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guardian_Vent!",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Tag-Team Triple Jump!",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Tag-Team_Triple_Jump!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tag-Team_Triple_Jump!"
+        }, {
+            "object_type": "talent",
+            "name": "The Hero Twice-Returned!",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Tag-Team_Triple_Jump!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Hero_Twice-Returned!"
+        }, {
+            "object_type": "talent",
+            "name": "A Torch That Incinerates Evil",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_A_Torch_That_Incinerates_Evil.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Torch_That_Incinerates_Evil"
+        }, {
+            "object_type": "talent",
+            "name": "Blazing Heart, Singular Advance!",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Blazing_Heart,_Singular_Advance!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Blazing_Heart,_Singular_Advance!"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Undying Passion",
+            "level": 1,
+            "thumbnail": "Constellation_Undying_Passion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Undying_Passion"
+        }, {
+            "object_type": "constellation",
+            "name": "Beyond the Edge of Light",
+            "level": 2,
+            "thumbnail": "Constellation_Beyond_the_Edge_of_Light.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Beyond_the_Edge_of_Light"
+        }, {
+            "object_type": "constellation",
+            "name": "Unbowed Resolve",
+            "level": 3,
+            "thumbnail": "Constellation_Unbowed_Resolve.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unbowed_Resolve"
+        }, {
+            "object_type": "constellation",
+            "name": "The Courage to Press On",
+            "level": 4,
+            "thumbnail": "Constellation_The_Courage_to_Press_On.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Courage_to_Press_On"
+        }, {
+            "object_type": "constellation",
+            "name": "Thoughts Floating on the Warm Breeze",
+            "level": 5,
+            "description": "Increases the Level of Normal Attack: By the Horns by 3.Maximum upgrade level is 15.",
+            "thumbnail": "Constellation_Thoughts_Floating_on_the_Warm_Breeze.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thoughts_Floating_on_the_Warm_Breeze"
+        }, {
+            "object_type": "constellation",
+            "name": "A Hero of Justice's Triumph",
+            "level": 6,
+            "description": "Varesa restores 30 Energy when she enters Apex Drive.Her Plunging Attacks and Elemental Burst Guardian Vent! gain 10% CRIT Rate and 100% CRIT DMG.Additionally, when Varesa uses the Hold version of her Elemental Skill Riding the Night-Rainbow, or Taps her Elemental Skill while in the Sudden Onrush mode, she will restore Nightsoul points up to her maximum.",
+            "thumbnail": "Constellation_A_Hero_of_Justice's_Triumph.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Hero_of_Justice's_Triumph"
+        }],
+        "thumbnail": "Character_Varesa_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Varesa"
+    }, {
+        "object_type": "character",
         "name": "Venti",
         "type": "Character",
         "rarity": 5,
@@ -8289,6 +8477,93 @@
         }],
         "thumbnail": "Character_Yun_Jin_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Yun_Jin"
+    }, {
+        "object_type": "character",
+        "name": "Yumemizuki Mizuki",
+        "type": "Character",
+        "display_name": "Yumemizuki Mizuki",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Pure Heart, Pure Dreams",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pure_Heart,_Pure_Dreams"
+        }, {
+            "object_type": "talent",
+            "name": "Aisa Utamakura Pilgrimage",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Aisa_Utamakura_Pilgrimage.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Aisa_Utamakura_Pilgrimage",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Anraku Secret Spring Therapy",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Anraku_Secret_Spring_Therapy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Anraku_Secret_Spring_Therapy",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Bright Moon's Restless Voice",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Bright_Moon's_Restless_Voice.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bright_Moon's_Restless_Voice"
+        }, {
+            "object_type": "talent",
+            "name": "Thoughts by Day Bring Dreams by Night",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Thoughts_by_Day_Bring_Dreams_by_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thoughts_by_Day_Bring_Dreams_by_Night"
+        }, {
+            "object_type": "talent",
+            "name": "All Ailments Banished",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_All_Ailments_Banished.png",
+            "link": "https://genshin-impact.fandom.com/wiki/All_Ailments_Banished"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "In Mist-Like Waters",
+            "level": 1,
+            "thumbnail": "Constellation_In_Mist-Like_Waters.png",
+            "link": "https://genshin-impact.fandom.com/wiki/In_Mist-Like_Waters"
+        }, {
+            "object_type": "constellation",
+            "name": "Your Echo I Meet in Dreams",
+            "level": 2,
+            "thumbnail": "Constellation_Your_Echo_I_Meet_in_Dreams.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Your_Echo_I_Meet_in_Dreams"
+        }, {
+            "object_type": "constellation",
+            "name": "Till Dawn's Moon Ends Night",
+            "level": 3,
+            "thumbnail": "Constellation_Till_Dawn's_Moon_Ends_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Till_Dawn's_Moon_Ends_Night"
+        }, {
+            "object_type": "constellation",
+            "name": "Buds Warm Lucid Springs",
+            "level": 4,
+            "thumbnail": "Constellation_Buds_Warm_Lucid_Springs.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Buds_Warm_Lucid_Springs"
+        }, {
+            "object_type": "constellation",
+            "name": "As Setting Moon Brings Year's End",
+            "level": 5,
+            "thumbnail": "Constellation_As_Setting_Moon_Brings_Year's_End.png",
+            "link": "https://genshin-impact.fandom.com/wiki/As_Setting_Moon_Brings_Year's_End"
+        }, {
+            "object_type": "constellation",
+            "name": "The Heart Lingers Long",
+            "level": 6,
+            "thumbnail": "Constellation_The_Heart_Lingers_Long.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Heart_Lingers_Long"
+        }],
+        "thumbnail": "Character_Yumemizuki_Mizuki_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Yumemizuki_Mizuki"
     }, {
         "object_type": "character",
         "name": "Zhongli",

@@ -718,6 +718,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Talisman_of_the_Enigmatic_Land"
     }, {
         "object_type": "item",
+        "name": "Sparkless Statue Core",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Natlan",
+        "source": ["Lava Dragon Statue"],
+        "thumbnail": "Item_Sparkless_Statue_Core.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sparkless_Statue_Core"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -796,6 +806,14 @@
         "region": "Inazuma",
         "thumbnail": "Item_Dendrobium.png",
         "link": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+    }, {
+        "object_type": "item",
+        "name": "Dracolite",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Natlan",
+        "thumbnail": "Item_Dracolite.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dracolite"
     }, {
         "object_type": "item",
         "name": "Fluorescent Fungus",
@@ -1020,6 +1038,14 @@
         "region": "Liyue",
         "thumbnail": "Item_Silk_Flower.png",
         "link": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+    }, {
+        "object_type": "item",
+        "name": "Skysplit Gembloom",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Natlan",
+        "thumbnail": "Item_Skysplit_Gembloom.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skysplit_Gembloom"
     }, {
         "object_type": "item",
         "name": "Small Lamp Grass",
@@ -3010,6 +3036,36 @@
         "source": ["Tenebrous Mimesis"],
         "thumbnail": "Item_Illusory_Leafcoil.png",
         "link": "https://genshin-impact.fandom.com/wiki/Illusory_Leafcoil"
+    }, {
+        "object_type": "item",
+        "name": "Cold-Cracked Shellshard",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Furnace Shell Mountain Weasel",
+        "rarity": 2,
+        "source": ["Furnace Shell Mountain Weasel"],
+        "thumbnail": "Item_Cold-Cracked_Shellshard.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Cold-Cracked_Shellshard"
+    }, {
+        "object_type": "item",
+        "name": "Warm Black-Shell",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Furnace Shell Mountain Weasel",
+        "rarity": 3,
+        "source": ["Furnace Shell Mountain Weasel"],
+        "thumbnail": "Item_Warm_Black-Shell.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Warm_Black-Shell"
+    }, {
+        "object_type": "item",
+        "name": "Blazing Prismshell",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Furnace Shell Mountain Weasel",
+        "rarity": 4,
+        "source": ["Furnace Shell Mountain Weasel"],
+        "thumbnail": "Item_Blazing_Prismshell.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Blazing_Prismshell"
     }, {
         "object_type": "item",
         "group_type": "dvalin-material",

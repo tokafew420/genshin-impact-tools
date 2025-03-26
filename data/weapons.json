@@ -1115,6 +1115,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Starcaller's_Watch"
     }, {
         "object_type": "weapon",
+        "name": "Sunny Morning Sleep-In",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Sunny_Morning_Sleep-In.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sunny_Morning_Sleep-In"
+    }, {
+        "object_type": "weapon",
         "name": "Summit Shaper",
         "type": "Sword",
         "rarity": 5,
@@ -1295,6 +1302,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Uraku_Misugiri.png",
         "link": "https://genshin-impact.fandom.com/wiki/Uraku_Misugiri"
+    }, {
+        "object_type": "weapon",
+        "name": "Vivid Notions",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Vivid_Notions.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Vivid_Notions"
     }, {
         "object_type": "weapon",
         "name": "Vortex Vanquisher",

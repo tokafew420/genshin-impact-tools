@@ -1511,6 +1511,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Iansan",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Ensnaring Gaze"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vajrada Amethyst Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vajrada Amethyst Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vajrada Amethyst Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vajrada Amethyst Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Dracolite"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Jean",
         "materials": [{
             "type": "Boss Material",
@@ -3227,6 +3267,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Varesa",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Sparkless Statue Core"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vajrada Amethyst Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vajrada Amethyst Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vajrada Amethyst Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vajrada Amethyst Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Skysplit Gembloom"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Venti",
         "materials": [{
             "type": "Boss Material",
@@ -3824,6 +3904,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Glaze Lily"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Yumemizuki Mizuki",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Talisman of the Enigmatic Land"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vayuda Turquoise Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vayuda Turquoise Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vayuda Turquoise Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vayuda Turquoise Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Old Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Kageuchi Handguard"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Famed Handguard"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Sea Ganoderma"
         }]
     }, {
         "object_type": "ascension-materials",
