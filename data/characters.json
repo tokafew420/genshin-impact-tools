@@ -2142,6 +2142,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Emilie"
     }, {
         "object_type": "character",
+        "name": "Escoffier",
+        "type": "Character",
+        "display_name": "Escoffier",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Kitchen Skills",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Cryo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kitchen_Skills"
+        }, {
+            "object_type": "talent",
+            "name": "Low-Temperature Cooking",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Low-Temperature_Cooking.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Low-Temperature_Cooking",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Scoring Cuts",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Scoring_Cuts.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Scoring_Cuts",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Better to Salivate Than Medicate",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Better_to_Salivate_Than_Medicate.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Better_to_Salivate_Than_Medicate"
+        }, {
+            "object_type": "talent",
+            "name": "Inspiration-Immersed Seasoning",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Inspiration-Immersed_Seasoning.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Inspiration-Immersed_Seasoning"
+        }, {
+            "object_type": "talent",
+            "name": "Constant Off-the-Cuff Cookery",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Constant_Off-the-Cuff_Cookery.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Constant_Off-the-Cuff_Cookery"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Pre-Dinner Dance for Your Taste Buds",
+            "level": 1,
+            "thumbnail": "Constellation_Pre-Dinner_Dance_for_Your_Taste_Buds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pre-Dinner_Dance_for_Your_Taste_Buds"
+        }, {
+            "object_type": "constellation",
+            "name": "Fresh, Fragrant Stew Is an Art",
+            "level": 2,
+            "thumbnail": "Constellation_Fresh,_Fragrant_Stew_Is_an_Art.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fresh,_Fragrant_Stew_Is_an_Art"
+        }, {
+            "object_type": "constellation",
+            "name": "The Bakery Magic of Caramel Browning",
+            "level": 3,
+            "thumbnail": "Constellation_The_Bakery_Magic_of_Caramel_Browning.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Bakery_Magic_of_Caramel_Browning"
+        }, {
+            "object_type": "constellation",
+            "name": "Secret Rosemary Recipe",
+            "level": 4,
+            "thumbnail": "Constellation_Secret_Rosemary_Recipe.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Secret_Rosemary_Recipe"
+        }, {
+            "object_type": "constellation",
+            "name": "Symphony of a Thousand Sauces",
+            "level": 5,
+            "thumbnail": "Constellation_Symphony_of_a_Thousand_Sauces.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Symphony_of_a_Thousand_Sauces"
+        }, {
+            "object_type": "constellation",
+            "name": "Tea Parties Bursting With Color",
+            "level": 6,
+            "thumbnail": "Constellation_Tea_Parties_Bursting_With_Color.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tea_Parties_Bursting_With_Color"
+        }],
+        "thumbnail": "Character_Escoffier_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Escoffier"
+    }, {
+        "object_type": "character",
         "name": "Eula",
         "type": "Character",
         "rarity": 5,
@@ -2919,6 +3006,99 @@
         }],
         "thumbnail": "Character_Hu_Tao_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
+    }, {
+        "object_type": "character",
+        "name": "Ifa",
+        "type": "Character",
+        "display_name": "Ifa",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Rite of Dispelling Winds",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rite_of_Dispelling_Winds"
+        }, {
+            "object_type": "talent",
+            "name": "Airborne Disease Prevention",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Airborne_Disease_Prevention.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Airborne_Disease_Prevention",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Compound Sedation Field",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Compound_Sedation_Field.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Compound_Sedation_Field",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Field Medic's Vision",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Field_Medic's_Vision.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Field_Medic's_Vision"
+        }, {
+            "object_type": "talent",
+            "name": "Mutual Aid Agreement",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Mutual_Aid_Agreement.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mutual_Aid_Agreement"
+        }, {
+            "object_type": "talent",
+            "name": "Focused Emergency Rescue",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Focused_Emergency_Rescue.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Focused_Emergency_Rescue"
+        }, {
+            "object_type": "talent",
+            "name": "Tactical Warm Compress Bandaging",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Tactical_Warm_Compress_Bandaging.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tactical_Warm_Compress_Bandaging"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Vitiferous Elixir's Concoction",
+            "level": 1,
+            "thumbnail": "Constellation_Vitiferous_Elixir's_Concoction.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Vitiferous_Elixir's_Concoction"
+        }, {
+            "object_type": "constellation",
+            "name": "Guiding Spirit of Ballistic Prayer",
+            "level": 2,
+            "thumbnail": "Constellation_Guiding_Spirit_of_Ballistic_Prayer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Guiding_Spirit_of_Ballistic_Prayer"
+        }, {
+            "object_type": "constellation",
+            "name": "Rebuttal in Negotiations With the Night",
+            "level": 3,
+            "thumbnail": "Constellation_Rebuttal_in_Negotiations_With_the_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rebuttal_in_Negotiations_With_the_Night"
+        }, {
+            "object_type": "constellation",
+            "name": "Decayed Vessel's Permutation",
+            "level": 4,
+            "thumbnail": "Constellation_Decayed_Vessel's_Permutation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Decayed_Vessel's_Permutation"
+        }, {
+            "object_type": "constellation",
+            "name": "Vow of Universal Coexistence",
+            "level": 5,
+            "thumbnail": "Constellation_Vow_of_Universal_Coexistence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Vow_of_Universal_Coexistence"
+        }, {
+            "object_type": "constellation",
+            "name": "Oath on a Feathered Knot",
+            "level": 6,
+            "thumbnail": "Constellation_Oath_on_a_Feathered_Knot.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Oath_on_a_Feathered_Knot"
+        }],
+        "thumbnail": "Character_Ifa_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ifa"
     }, {
         "object_type": "character",
         "name": "Iansan",

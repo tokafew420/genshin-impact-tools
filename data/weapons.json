@@ -975,6 +975,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Seasoned_Hunter's_Bow"
     }, {
         "object_type": "weapon",
+        "name": "Sequence of Solitude",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Sequence_of_Solitude.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sequence_of_Solitude"
+    }, {
+        "object_type": "weapon",
         "name": "Serpent Spine",
         "type": "Claymore",
         "rarity": 4,
@@ -1148,6 +1155,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Sword_of_Narzissenkreuz.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sword_of_Narzissenkreuz"
+    }, {
+        "object_type": "weapon",
+        "name": "Symphonist of Scents",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Symphonist_of_Scents.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Symphonist_of_Scents"
     }, {
         "object_type": "weapon",
         "name": "Talking Stick",

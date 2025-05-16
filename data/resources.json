@@ -728,6 +728,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Sparkless_Statue_Core"
     }, {
         "object_type": "item",
+        "name": "Secret Source Airflow Accumulator",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Natlan",
+        "source": ["Secret Source Automaton: Overseer Device"],
+        "thumbnail": "Item_Secret_Source_Airflow_Accumulator.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Secret_Source_Airflow_Accumulator"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -1014,6 +1024,14 @@
         "region": "Inazuma",
         "thumbnail": "Item_Sango_Pearl.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sango_Pearl"
+    }, {
+        "object_type": "item",
+        "name": "Saurian Claw Succulent",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Natlan",
+        "thumbnail": "Item_Saurian_Claw_Succulent.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Saurian_Claw_Succulent"
     }, {
         "object_type": "item",
         "name": "Scarab",
@@ -3048,14 +3066,14 @@
         "link": "https://genshin-impact.fandom.com/wiki/Cold-Cracked_Shellshard"
     }, {
         "object_type": "item",
-        "name": "Warm Black-Shell",
+        "name": "Warm Back-Shell",
         "type": "Elite Common Ascension Materials",
         "category": "Character Development Items",
         "group": "Furnace Shell Mountain Weasel",
         "rarity": 3,
         "source": ["Furnace Shell Mountain Weasel"],
-        "thumbnail": "Item_Warm_Black-Shell.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Warm_Black-Shell"
+        "thumbnail": "Item_Warm_Back-Shell.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Warm_Back-Shell"
     }, {
         "object_type": "item",
         "name": "Blazing Prismshell",
@@ -3132,6 +3150,39 @@
         "source": ["Andrius"],
         "thumbnail": "Item_Spirit_Locket_of_Boreas.png",
         "link": "https://genshin-impact.fandom.com/wiki/Spirit_Locket_of_Boreas"
+    }, {
+        "object_type": "item",
+        "group_type": "chess-game-boss-material",
+        "name": "Ascended Sample: Knight",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Mondstadt",
+        "source": ["The Game Before the Gate"],
+        "thumbnail": "Item_Ascended_Sample_Knight.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ascended_Sample:_Knight"
+    }, {
+        "object_type": "item",
+        "group_type": "chess-game-boss-material",
+        "name": "Ascended Sample: Rook",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Mondstadt",
+        "source": ["The Game Before the Gate"],
+        "thumbnail": "Item_Ascended_Sample_Rook.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ascended_Sample:_Rook"
+    }, {
+        "object_type": "item",
+        "group_type": "chess-game-boss-material",
+        "name": "Ascended Sample: Queen",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Mondstadt",
+        "source": ["The Game Before the Gate"],
+        "thumbnail": "Item_Ascended_Sample_Queen.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ascended_Sample:_Queen"
     }, {
         "object_type": "item",
         "group_type": "childe-material",
