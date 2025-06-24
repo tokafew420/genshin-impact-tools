@@ -1709,6 +1709,93 @@
         "link": "https://genshin-impact.fandom.com/wiki/Cyno"
     }, {
         "object_type": "character",
+        "name": "Dahlia",
+        "type": "Character",
+        "display_name": "Dahlia",
+        "rarity": 4,
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Favonius Bladework - Ritual",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Favonius_Bladework_-_Ritual"
+        }, {
+            "object_type": "talent",
+            "name": "Immersive Ordinance",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Immersive_Ordinance.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Immersive_Ordinance",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Radiant Psalter",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Radiant_Psalter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Radiant_Psalter",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "The Wind's Gentle Grace",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_The_Wind's_Gentle_Grace.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Wind's_Gentle_Grace"
+        }, {
+            "object_type": "talent",
+            "name": "Prayer of Well-Wrought Joy",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Prayer_of_Well-Wrought_Joy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Prayer_of_Well-Wrought_Joy"
+        }, {
+            "object_type": "talent",
+            "name": "Pilgrimage Upon Returning Winds",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Pilgrimage_Upon_Returning_Winds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pilgrimage_Upon_Returning_Winds"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Infallible Procession",
+            "level": 1,
+            "thumbnail": "Constellation_Infallible_Procession.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Infallible_Procession"
+        }, {
+            "object_type": "constellation",
+            "name": "Revelation of Mercy",
+            "level": 2,
+            "thumbnail": "Constellation_Revelation_of_Mercy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Revelation_of_Mercy"
+        }, {
+            "object_type": "constellation",
+            "name": "Windblume Offertory",
+            "level": 3,
+            "thumbnail": "Constellation_Windblume_Offertory.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Windblume_Offertory"
+        }, {
+            "object_type": "constellation",
+            "name": "Collect of the Assembly",
+            "level": 4,
+            "thumbnail": "Constellation_Collect_of_the_Assembly.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Collect_of_the_Assembly"
+        }, {
+            "object_type": "constellation",
+            "name": "Let It Be Subtly So",
+            "level": 5,
+            "thumbnail": "Constellation_Let_It_Be_Subtly_So.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Let_It_Be_Subtly_So"
+        }, {
+            "object_type": "constellation",
+            "name": "You Shall Go Out With Joy",
+            "level": 6,
+            "thumbnail": "Constellation_You_Shall_Go_Out_With_Joy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/You_Shall_Go_Out_With_Joy"
+        }],
+        "thumbnail": "Character_Dahlia_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Dahlia"
+    }, {
+        "object_type": "character",
         "name": "Dehya",
         "type": "Character",
         "display_name": "Dehya",
@@ -6432,6 +6519,93 @@
         }],
         "thumbnail": "Character_Sigewinne_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Sigewinne"
+    }, {
+        "object_type": "character",
+        "name": "Skirk",
+        "type": "Character",
+        "display_name": "Skirk",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Outlander",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Havoc: Sunder",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Cryo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Havoc:_Sunder"
+        }, {
+            "object_type": "talent",
+            "name": "Havoc: Warp",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Havoc_Warp.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Havoc:_Warp",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Havoc: Ruin",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Havoc_Ruin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Havoc:_Ruin",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Reason Beyond Reason",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Reason_Beyond_Reason.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Reason_Beyond_Reason"
+        }, {
+            "object_type": "talent",
+            "name": "Return to Oblivion",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Return_to_Oblivion.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Return_to_Oblivion"
+        }, {
+            "object_type": "talent",
+            "name": "Mutual Weapons Mentorship",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Mutual_Weapons_Mentorship.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mutual_Weapons_Mentorship"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Far to Fall",
+            "level": 1,
+            "thumbnail": "Constellation_Far_to_Fall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Far_to_Fall"
+        }, {
+            "object_type": "constellation",
+            "name": "Into the Abyss",
+            "level": 2,
+            "thumbnail": "Constellation_Into_the_Abyss.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Into_the_Abyss"
+        }, {
+            "object_type": "constellation",
+            "name": "Serendipitous Sin",
+            "level": 3,
+            "thumbnail": "Constellation_Serendipitous_Sin.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Serendipitous_Sin"
+        }, {
+            "object_type": "constellation",
+            "name": "Fractured Flow",
+            "level": 4,
+            "thumbnail": "Constellation_Fractured_Flow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fractured_Flow"
+        }, {
+            "object_type": "constellation",
+            "name": "End of Wishes",
+            "level": 5,
+            "thumbnail": "Constellation_End_of_Wishes.png",
+            "link": "https://genshin-impact.fandom.com/wiki/End_of_Wishes"
+        }, {
+            "object_type": "constellation",
+            "name": "To the Source",
+            "level": 6,
+            "thumbnail": "Constellation_To_the_Source.png",
+            "link": "https://genshin-impact.fandom.com/wiki/To_the_Source"
+        }],
+        "thumbnail": "Character_Skirk_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Skirk"
     }, {
         "object_type": "character",
         "name": "Sucrose",

@@ -93,6 +93,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
     }, {
         "object_type": "weapon",
+        "name": "Azurelight",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Azurelight.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Azurelight"
+    }, {
+        "object_type": "weapon",
         "name": "Ballad of the Boundless Blue",
         "type": "Catalyst",
         "rarity": 4,
