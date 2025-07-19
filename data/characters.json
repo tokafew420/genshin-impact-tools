@@ -3986,6 +3986,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Keqing"
     }, {
         "object_type": "character",
+        "name": "Kinich",
+        "type": "Character",
+        "display_name": "Kinich",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Nightsun Style",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nightsun_Style"
+        }, {
+            "object_type": "talent",
+            "name": "Canopy Hunter: Riding High",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Canopy_Hunter_Riding_High.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Canopy_Hunter:_Riding_High",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Hail to the Almighty Dragonlord",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Hail_to_the_Almighty_Dragonlord.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hail_to_the_Almighty_Dragonlord",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "The Price of Desolation",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_The_Price_of_Desolation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Price_of_Desolation"
+        }, {
+            "object_type": "talent",
+            "name": "Flame Spirit Pact",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Flame_Spirit_Pact.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flame_Spirit_Pact"
+        }, {
+            "object_type": "talent",
+            "name": "Repaid in Full",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Repaid_in_Full.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Repaid_in_Full"
+        }, {
+            "object_type": "talent",
+            "name": "Swift Envoy",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Swift_Envoy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Swift_Envoy"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Parrot's Beak",
+            "level": 1,
+            "thumbnail": "Constellation_Parrot's_Beak.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Parrot's_Beak"
+        }, {
+            "object_type": "constellation",
+            "name": "Tiger Beetle's Palm",
+            "level": 2,
+            "thumbnail": "Constellation_Tiger_Beetle's_Palm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tiger_Beetle's_Palm"
+        }, {
+            "object_type": "constellation",
+            "name": "Protosuchian's Claw",
+            "level": 3,
+            "thumbnail": "Constellation_Protosuchian's_Claw.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Protosuchian's_Claw"
+        }, {
+            "object_type": "constellation",
+            "name": "Hummingbird's Feather",
+            "level": 4,
+            "thumbnail": "Constellation_Hummingbird's_Feather.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hummingbird's_Feather"
+        }, {
+            "object_type": "constellation",
+            "name": "Howler Monkey's Tail",
+            "level": 5,
+            "thumbnail": "Constellation_Howler_Monkey's_Tail.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Howler_Monkey's_Tail"
+        }, {
+            "object_type": "constellation",
+            "name": "Auspicious Beast's Shape",
+            "level": 6,
+            "thumbnail": "Constellation_Auspicious_Beast's_Shape.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Auspicious_Beast's_Shape"
+        }],
+        "thumbnail": "Character_Kinich_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Kinich"
+    }, {
+        "object_type": "character",
         "name": "Kirara",
         "type": "Character",
         "display_name": "Kirara",
@@ -4415,7 +4508,7 @@
             "thumbnail": "Constellation_Let_Us_Away_on_Sylphic_Wing,_the_Silvered_Ornaments_to_Ring.png",
             "link": "https://genshin-impact.fandom.com/wiki/\"Let_Us_Away_on_Sylphic_Wing,_the_Silvered_Ornaments_to_Ring\""
         }],
-        "thumbnail": "Character_Lan Yan_Thumb.png",
+        "thumbnail": "Character_Lan_Yan_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Lan_Yan"
     }, {
         "object_type": "character",
@@ -5036,6 +5129,99 @@
         }],
         "thumbnail": "Character_Mavuika_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Mavuika"
+    }, {
+        "object_type": "character",
+        "name": "Mualani",
+        "type": "Character",
+        "display_name": "Mualani",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Cooling Treatment",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cooling_Treatment"
+        }, {
+            "object_type": "talent",
+            "name": "Surfshark Wavebreaker",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Surfshark_Wavebreaker.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Surfshark_Wavebreaker",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Boomsharka-laka",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Boomsharka-laka.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Boomsharka-laka",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Heat-Resistant Freshwater Floater",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Heat-Resistant_Freshwater_Floater.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heat-Resistant_Freshwater_Floater"
+        }, {
+            "object_type": "talent",
+            "name": "Natlan's Greatest Guide",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Natlan's_Greatest_Guide.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Natlan's_Greatest_Guide"
+        }, {
+            "object_type": "talent",
+            "name": "Crests and Troughs",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Crests_and_Troughs.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crests_and_Troughs"
+        }, {
+            "object_type": "talent",
+            "name": "The Trick Is to Keep Smiling!",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_The_Trick_Is_to_Keep_Smiling!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Trick_Is_to_Keep_Smiling!"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "The Leisurely \"Meztli\"...",
+            "level": 1,
+            "thumbnail": "Constellation_The_Leisurely_Meztli....png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Leisurely_\"Meztli\"..."
+        }, {
+            "object_type": "constellation",
+            "name": "Mualani, Going All Out!",
+            "level": 2,
+            "thumbnail": "Constellation_Mualani,_Going_All_Out!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mualani,_Going_All_Out!"
+        }, {
+            "object_type": "constellation",
+            "name": "Surfing Atop Joyous Seas",
+            "level": 3,
+            "thumbnail": "Constellation_Surfing_Atop_Joyous_Seas.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Surfing_Atop_Joyous_Seas"
+        }, {
+            "object_type": "constellation",
+            "name": "Sharky Eats Puffies",
+            "level": 4,
+            "thumbnail": "Constellation_Sharky_Eats_Puffies.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sharky_Eats_Puffies"
+        }, {
+            "object_type": "constellation",
+            "name": "Same Style of Surfboard on Sale!",
+            "level": 5,
+            "thumbnail": "Constellation_Same_Style_of_Surfboard_on_Sale!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Same_Style_of_Surfboard_on_Sale!"
+        }, {
+            "object_type": "constellation",
+            "name": "Spirit of the Springs' People",
+            "level": 6,
+            "thumbnail": "Constellation_Spirit_of_the_Springs'_People.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Spirit_of_the_Springs'_People"
+        }],
+        "thumbnail": "Character_Mualani_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mualani"
     }, {
         "object_type": "character",
         "name": "Nahida",

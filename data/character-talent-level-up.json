@@ -1649,6 +1649,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Kinich",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Denial and Judgment"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Kindling"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Kindling"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Kindling"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Kirara",
         "materials": [{
             "type": "Common Ascension Materials",

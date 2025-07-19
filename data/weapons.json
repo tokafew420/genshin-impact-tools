@@ -359,6 +359,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Fading_Twilight"
     }, {
         "object_type": "weapon",
+        "name": "Fang of the Mountain King",
+        "type": "Claymore",
+        "rarity": 5,
+        "thumbnail": "Weapon_Fang_of_the_Mountain_King.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fang_of_the_Mountain_King"
+    }, {
+        "object_type": "weapon",
         "name": "Favonius Codex",
         "type": "Catalyst",
         "rarity": 4,

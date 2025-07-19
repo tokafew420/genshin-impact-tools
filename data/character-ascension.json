@@ -1991,6 +1991,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Kinich",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Overripe Flamegranate"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Nagadus Emerald Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Nagadus Emerald Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Nagadus Emerald Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Nagadus Emerald Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Saurian Claw Succulent"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Kirara",
         "materials": [{
             "type": "Boss Material",

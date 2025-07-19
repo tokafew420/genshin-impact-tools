@@ -2729,50 +2729,6 @@
         }]
     }, {
         "object_type": "ascension-materials",
-        "name": "Favonius Codex",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Divining Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sealed Scroll"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Forbidden Curse Scroll"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Tile of Decarabian's Tower"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Debris of Decarabian's City"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Fragment of Decarabian's Epic"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Scattered Piece of Decarabian's Dream"
-        }]
-    }, {
-        "object_type": "ascension-materials",
         "name": "Fading Twilight",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2814,6 +2770,94 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Fang of the Mountain King",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Ignited Stone"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ignited Seed of Life"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ignited Seeing Eye"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Delirious Decadence of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Delirious Desolation of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Delirious Demeanor of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Delirious Divinity of the Sacred Lord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Favonius Codex",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Divining Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sealed Scroll"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Forbidden Curse Scroll"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
         }]
     }, {
         "object_type": "ascension-materials",
