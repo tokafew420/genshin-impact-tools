@@ -1591,6 +1591,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Iansan",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Ensnaring Gaze"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vajrada Amethyst Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vajrada Amethyst Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vajrada Amethyst Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vajrada Amethyst Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Dracolite"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Ifa",
         "materials": [{
             "type": "Boss Material",
@@ -1631,11 +1671,11 @@
         }]
     }, {
         "object_type": "ascension-materials",
-        "name": "Iansan",
+        "name": "Ineffa",
         "materials": [{
             "type": "Boss Material",
             "rarity": 4,
-            "name": "Ensnaring Gaze"
+            "name": "Secret Source Airflow Accumulator"
         }, {
             "type": "Character Ascension Materials",
             "rarity": 2,
@@ -1667,7 +1707,7 @@
         }, {
             "type": "Local Specialties",
             "rarity": 1,
-            "name": "Dracolite"
+            "name": "Glowing Hornshroom"
         }]
     }, {
         "object_type": "ascension-materials",

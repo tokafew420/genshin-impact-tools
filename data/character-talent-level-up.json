@@ -1329,6 +1329,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Iansan",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Denial and Judgment"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Contention"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Contention"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Contention"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Ifa",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1361,7 +1393,7 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
-        "name": "Iansan",
+        "name": "Ineffa",
         "materials": [{
             "type": "Common Ascension Materials",
             "rarity": 1,
@@ -1377,19 +1409,19 @@
         }, {
             "type": "Elite Boss Material",
             "rarity": 5,
-            "name": "Denial and Judgment"
+            "name": "Eroded Sunfire"
         }, {
             "type": "Talent Level-Up Material",
             "rarity": 2,
-            "name": "Teachings of Contention"
+            "name": "Teachings of Conflict"
         }, {
             "type": "Talent Level-Up Material",
             "rarity": 3,
-            "name": "Guide to Contention"
+            "name": "Guide to Conflict"
         }, {
             "type": "Talent Level-Up Material",
             "rarity": 4,
-            "name": "Philosophies of Contention"
+            "name": "Philosophies of Conflict"
         }]
     }, {
         "object_type": "talent-level-up-materials",

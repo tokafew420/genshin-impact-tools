@@ -464,6 +464,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Footprint_of_the_Rainbow"
     }, {
         "object_type": "weapon",
+        "name": "Fractured Halo",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Fractured_Halo.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fractured_Halo"
+    }, {
+        "object_type": "weapon",
         "name": "Forest Regalia",
         "type": "Claymore",
         "rarity": 4,

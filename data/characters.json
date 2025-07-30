@@ -3095,6 +3095,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
     }, {
         "object_type": "character",
+        "name": "Iansan",
+        "type": "Character",
+        "display_name": "Iansan",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Weighted Spike",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Weighted_Spike"
+        }, {
+            "object_type": "talent",
+            "name": "Thunderbolt Rush",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Thunderbolt_Rush.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Thunderbolt_Rush",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "The Three Principles of Power",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_The_Three_Principles_of_Power.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Three_Principles_of_Power",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Enhanced Resistance Training",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Enhanced_Resistance_Training.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Enhanced_Resistance_Training"
+        }, {
+            "object_type": "talent",
+            "name": "Kinetic Energy Gradient Test",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Kinetic_Energy_Gradient_Test.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Kinetic_Energy_Gradient_Test"
+        }, {
+            "object_type": "talent",
+            "name": "Hard Work and Drive",
+            "type": "Night Realm's Gift Passive",
+            "thumbnail": "Talent_Hard_Work_and_Drive.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hard_Work_and_Drive"
+        }, {
+            "object_type": "talent",
+            "name": "Caloric Balancing Plan",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Caloric_Balancing_Plan.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Caloric_Balancing_Plan"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Starting's Never Easy",
+            "level": 1,
+            "thumbnail": "Constellation_Starting's_Never_Easy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Starting's_Never_Easy"
+        }, {
+            "object_type": "constellation",
+            "name": "Laziness is the Enemy!",
+            "level": 2,
+            "thumbnail": "Constellation_Laziness_is_the_Enemy!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Laziness_is_the_Enemy!"
+        }, {
+            "object_type": "constellation",
+            "name": "Scientific Diet Planning",
+            "level": 3,
+            "thumbnail": "Constellation_Scientific_Diet_Planning.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Scientific_Diet_Planning"
+        }, {
+            "object_type": "constellation",
+            "name": "Slow and Steady Wins the Race",
+            "level": 4,
+            "thumbnail": "Constellation_Slow_and_Steady_Wins_the_Race.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Slow_and_Steady_Wins_the_Race"
+        }, {
+            "object_type": "constellation",
+            "name": "We Can Push It Further!",
+            "level": 5,
+            "thumbnail": "Constellation_We_Can_Push_It_Further!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/We_Can_Push_It_Further!"
+        }, {
+            "object_type": "constellation",
+            "name": "Teachings of the Collective of Plenty",
+            "level": 6,
+            "thumbnail": "Constellation_Teachings_of_the_Collective_of_Plenty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_the_Collective_of_Plenty"
+        }],
+        "thumbnail": "Character_Iansan_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Iansan"
+    }, {
+        "object_type": "character",
         "name": "Ifa",
         "type": "Character",
         "display_name": "Ifa",
@@ -3188,97 +3281,97 @@
         "link": "https://genshin-impact.fandom.com/wiki/Ifa"
     }, {
         "object_type": "character",
-        "name": "Iansan",
+        "name": "Ineffa",
         "type": "Character",
-        "display_name": "Iansan",
-        "rarity": 4,
+        "display_name": "Ineffa",
+        "rarity": 5,
         "element": "Electro",
         "weapon": "Polearm",
-        "region": "Natlan",
+        "region": "Region",
         "talents": [{
             "object_type": "talent",
-            "name": "Weighted Spike",
+            "name": "Cyclonic Duster",
             "type": "Normal Attack",
-            "thumbnail": "Polearm_Electro.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Weighted_Spike"
+            "thumbnail": "Talent_Cyclonic_Duster.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cyclonic_Duster"
         }, {
             "object_type": "talent",
-            "name": "Thunderbolt Rush",
+            "name": "Cleaning Mode: Carrier Frequency",
             "type": "Elemental Skill",
-            "thumbnail": "Talent_Thunderbolt_Rush.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Thunderbolt_Rush",
+            "thumbnail": "Talent_Cleaning_Mode:_Carrier_Frequency.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cleaning_Mode:_Carrier_Frequency",
             "constellation": 3
         }, {
             "object_type": "talent",
-            "name": "The Three Principles of Power",
+            "name": "Supreme Instruction: Cyclonic Exterminator",
             "type": "Elemental Burst",
-            "thumbnail": "Talent_The_Three_Principles_of_Power.png",
-            "link": "https://genshin-impact.fandom.com/wiki/The_Three_Principles_of_Power",
+            "thumbnail": "Talent_Supreme_Instruction:_Cyclonic_Exterminator.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Supreme_Instruction:_Cyclonic_Exterminator",
             "constellation": 5
         }, {
             "object_type": "talent",
-            "name": "Enhanced Resistance Training",
+            "name": "Overclocking Circuit",
             "type": "1st Ascension Passive",
-            "thumbnail": "Talent_Enhanced_Resistance_Training.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Enhanced_Resistance_Training"
+            "thumbnail": "Talent_Overclocking_Circuit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Overclocking_Circuit"
         }, {
             "object_type": "talent",
-            "name": "Kinetic Energy Gradient Test",
+            "name": "Panoramic Permutation Protocol",
             "type": "4th Ascension Passive",
-            "thumbnail": "Talent_Kinetic_Energy_Gradient_Test.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Kinetic_Energy_Gradient_Test"
+            "thumbnail": "Talent_Panoramic_Permutation_Protocol.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Panoramic_Permutation_Protocol"
         }, {
             "object_type": "talent",
-            "name": "Hard Work and Drive",
-            "type": "Night Realm's Gift Passive",
-            "thumbnail": "Talent_Hard_Work_and_Drive.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Hard_Work_and_Drive"
+            "name": "Assemblage Hub",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_Assemblage_Hub.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Assemblage_Hub"
         }, {
             "object_type": "talent",
-            "name": "Caloric Balancing Plan",
+            "name": "Flavor Synthesis Unit",
             "type": "Utility Passive",
-            "thumbnail": "Talent_Caloric_Balancing_Plan.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Caloric_Balancing_Plan"
+            "thumbnail": "Talent_Flavor_Synthesis_Unit.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flavor_Synthesis_Unit"
         }],
         "constellations": [{
             "object_type": "constellation",
-            "name": "Starting's Never Easy",
+            "name": "Rectifying Processor",
             "level": 1,
-            "thumbnail": "Constellation_Starting's_Never_Easy.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Starting's_Never_Easy"
+            "thumbnail": "Constellation_Rectifying_Processor.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rectifying_Processor"
         }, {
             "object_type": "constellation",
-            "name": "Laziness is the Enemy!",
+            "name": "Support Cleaning Module",
             "level": 2,
-            "thumbnail": "Constellation_Laziness_is_the_Enemy!.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Laziness_is_the_Enemy!"
+            "thumbnail": "Constellation_Support_Cleaning_Module.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Support_Cleaning_Module"
         }, {
             "object_type": "constellation",
-            "name": "Scientific Diet Planning",
+            "name": "Enhanced Emotion Emulator",
             "level": 3,
-            "thumbnail": "Constellation_Scientific_Diet_Planning.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Scientific_Diet_Planning"
+            "thumbnail": "Constellation_Enhanced_Emotion_Emulator.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Enhanced_Emotion_Emulator"
         }, {
             "object_type": "constellation",
-            "name": "Slow and Steady Wins the Race",
+            "name": "The Edictless Path",
             "level": 4,
-            "thumbnail": "Constellation_Slow_and_Steady_Wins_the_Race.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Slow_and_Steady_Wins_the_Race"
+            "thumbnail": "Constellation_The_Edictless_Path.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Edictless_Path"
         }, {
             "object_type": "constellation",
-            "name": "We Can Push It Further!",
+            "name": "Mirror's Dream Transcension",
             "level": 5,
-            "thumbnail": "Constellation_We_Can_Push_It_Further!.png",
-            "link": "https://genshin-impact.fandom.com/wiki/We_Can_Push_It_Further!"
+            "thumbnail": "Constellation_Mirror's_Dream_Transcension.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Mirror's_Dream_Transcension"
         }, {
             "object_type": "constellation",
-            "name": "Teachings of the Collective of Plenty",
+            "name": "A Dawning Morn for You",
             "level": 6,
-            "thumbnail": "Constellation_Teachings_of_the_Collective_of_Plenty.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_the_Collective_of_Plenty"
+            "thumbnail": "Constellation_A_Dawning_Morn_for_You.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Dawning_Morn_for_You"
         }],
-        "thumbnail": "Character_Iansan_Thumb.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Iansan"
+        "thumbnail": "Character_Ineffa_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ineffa"
     }, {
         "object_type": "character",
         "name": "Jean",
