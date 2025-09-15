@@ -170,6 +170,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Blackcliff_Warbow"
     }, {
         "object_type": "weapon",
+        "name": "Blackmarrow Lantern",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Blackmarrow_Lantern.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Blackmarrow_Lantern"
+    }, {
+        "object_type": "weapon",
         "name": "Bloodtainted Greatsword",
         "type": "Claymore",
         "rarity": 3,
@@ -338,6 +345,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Engulfing_Lightning"
     }, {
         "object_type": "weapon",
+        "name": "Etherlight Spindlelute",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Etherlight_Spindlelute.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Etherlight_Spindlelute"
+    }, {
+        "object_type": "weapon",
         "name": "Everlasting Moonglow",
         "type": "Catalyst",
         "rarity": 5,
@@ -429,6 +443,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Finale_of_the_Deep"
     }, {
         "object_type": "weapon",
+        "name": "Flame-Forged Insight",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Flame-Forged_Insight.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Flame-Forged_Insight"
+    }, {
+        "object_type": "weapon",
         "name": "Fleuve Cendre Ferryman",
         "type": "Sword",
         "rarity": 4,
@@ -497,6 +518,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Fruit_of_Fulfillment.png",
         "link": "https://genshin-impact.fandom.com/wiki/Fruit_of_Fulfillment"
+    }, {
+        "object_type": "weapon",
+        "name": "Fruitful Hook",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Fruitful_Hook.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fruitful_Hook"
     }, {
         "object_type": "weapon",
         "name": "Hakushin Ring",
@@ -688,6 +716,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Mappa_Mare"
     }, {
         "object_type": "weapon",
+        "name": "Master Key",
+        "type": "Claymore",
+        "rarity": 4,
+        "thumbnail": "Weapon_Master_Key.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Master_Key"
+    }, {
+        "object_type": "weapon",
         "name": "Memory of Dust",
         "type": "Catalyst",
         "rarity": 5,
@@ -730,11 +765,32 @@
         "link": "https://genshin-impact.fandom.com/wiki/Moonpiercer"
     }, {
         "object_type": "weapon",
+        "name": "Moonweaver's Dawn",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Moonweaver's_Dawn.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Moonweaver's_Dawn"
+    }, {
+        "object_type": "weapon",
+        "name": "Mountain-Bracing Bolt",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Mountain-Bracing_Bolt.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mountain-Bracing_Bolt"
+    }, {
+        "object_type": "weapon",
         "name": "Mouun's Moon",
         "type": "Bow",
         "rarity": 4,
         "thumbnail": "Weapon_Mouun's_Moon.png",
         "link": "https://genshin-impact.fandom.com/wiki/Mouun's_Moon"
+    }, {
+        "object_type": "weapon",
+        "name": "Nightweaver's Looking Glass",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Nightweaver's_Looking_Glass.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Nightweaver's_Looking_Glass"
     }, {
         "object_type": "weapon",
         "name": "Oathsworn Eye",
@@ -812,6 +868,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Prospector's_Drill.png",
         "link": "https://genshin-impact.fandom.com/wiki/Prospector's_Drill"
+    }, {
+        "object_type": "weapon",
+        "name": "Prospector's Shovel",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Prospector's_Shovel.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Prospector's_Shovel"
     }, {
         "object_type": "weapon",
         "name": "Prototype Amber",
@@ -1003,6 +1066,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Sequence_of_Solitude"
     }, {
         "object_type": "weapon",
+        "name": "Serenity's Call",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Serenity's_Call.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Serenity's_Call"
+    }, {
+        "object_type": "weapon",
         "name": "Serpent Spine",
         "type": "Claymore",
         "rarity": 4,
@@ -1087,6 +1157,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Slingshot"
     }, {
         "object_type": "weapon",
+        "name": "Snare Hook",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Snare_Hook.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Snare_Hook"
+    }, {
+        "object_type": "weapon",
         "name": "Snow-Tombed Starsilver",
         "type": "Claymore",
         "rarity": 4,
@@ -1141,6 +1218,13 @@
         "rarity": 5,
         "thumbnail": "Weapon_Starcaller's_Watch.png",
         "link": "https://genshin-impact.fandom.com/wiki/Starcaller's_Watch"
+    }, {
+        "object_type": "weapon",
+        "name": "Sturdy Bone",
+        "type": "Sword",
+        "rarity": 4,
+        "thumbnail": "Weapon_Sturdy_Bone.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sturdy_Bone"
     }, {
         "object_type": "weapon",
         "name": "Sunny Morning Sleep-In",
@@ -1372,6 +1456,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Wavebreaker's_Fin.png",
         "link": "https://genshin-impact.fandom.com/wiki/Wavebreaker's_Fin"
+    }, {
+        "object_type": "weapon",
+        "name": "Waveriding Whirl",
+        "type": "Catalyst",
+        "rarity": 4,
+        "thumbnail": "Weapon_Waveriding_Whirl.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Waveriding_Whirl"
     }, {
         "object_type": "weapon",
         "name": "White Iron Greatsword",

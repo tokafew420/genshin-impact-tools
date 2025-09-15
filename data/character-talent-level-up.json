@@ -177,6 +177,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Aino",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Silken Feather"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Elysium"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Elysium"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Elysium"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Albedo",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1870,6 +1902,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Diligence"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Lauma",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Eroded Scale-Feather"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Moonlight"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Moonlight"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Moonlight"
         }]
     }, {
         "object_type": "talent-level-up-materials",

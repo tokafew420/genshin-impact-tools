@@ -1597,6 +1597,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Blackmarrow Lantern",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Frostnight's Glimmer"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frostnight's Glow"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Frostnight's Glory"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Artful Device Fragment"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Artful Device Replica"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Artful Device Inheritance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Artful Device Wish"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Bloodtainted Greatsword",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1777,27 +1821,27 @@
         "materials": [{
             "type": "Common Ascension Materials",
             "rarity": 1,
-            "name": "Feathery Fin"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Lunar Fin"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Chasmlight Fin"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
             "name": "Juvenile Fang"
         }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Feathery Fin"
+        }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 3,
-            "name": "Seasoned Fang"
+            "name": "Lunar Fin"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 4,
-            "name": "Tyrant's Fang"
+            "name": "Chasmlight Fin"
         }, {
             "type": "Weapon Ascension Materials",
             "rarity": 2,
@@ -2641,6 +2685,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Etherlight Spindlelute",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Lightless Bone"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Glowing Remains"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Radiant Exoskeleton"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Sundered Glory of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Unyielding Delusion of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Oblation of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Aureate Radiance of the Far-North Scions"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Everlasting Moonglow",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3213,6 +3301,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Flame-Forged Insight",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Cold-Cracked Shellshard"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Warm Back-Shell"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Blazing Prismshell"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Delirious Decadence of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Delirious Desolation of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Delirious Demeanor of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Delirious Divinity of the Sacred Lord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Fleuve Cendre Ferryman",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -3349,27 +3481,27 @@
         "materials": [{
             "type": "Common Ascension Materials",
             "rarity": 1,
-            "name": "Ruined Hilt"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Splintered Hilt"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Still-Smoldering Hilt"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
             "name": "Juvenile Fang"
         }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Ruined Hilt"
+        }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 3,
-            "name": "Seasoned Fang"
+            "name": "Splintered Hilt"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 4,
-            "name": "Tyrant's Fang"
+            "name": "Still-Smoldering Hilt"
         }, {
             "type": "Weapon Ascension Materials",
             "rarity": 2,
@@ -3650,6 +3782,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Oasis Garden's Truth"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Fruitful Hook",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Axis of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Sheath of the Secret Source"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Heart of the Secret Source"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Night-Wind's Mystic Consideration"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Night-Wind's Mystic Premonition"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Night-Wind's Mystic Augury"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Night-Wind's Mystic Revelation"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -4817,6 +4993,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Master Key",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Lightless Bone"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Glowing Remains"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Radiant Exoskeleton"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Sundered Glory of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Unyielding Delusion of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Oblation of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Aureate Radiance of the Far-North Scions"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Memory of Dust",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5081,6 +5301,94 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Moonweaver's Dawn",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Lightless Bone"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Glowing Remains"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Radiant Exoskeleton"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Sundered Glory of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Unyielding Delusion of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Oblation of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Aureate Radiance of the Far-North Scions"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Mountain-Bracing Bolt",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Whopperflower Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shimmering Nectar"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Energy Nectar"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Ignited Stone"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Ignited Seed of Life"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Ignited Seeing Eye"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Delirious Decadence of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Delirious Desolation of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Delirious Demeanor of the Sacred Lord"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Delirious Divinity of the Sacred Lord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Mouun's Moon",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -5122,6 +5430,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Narukami's Valor"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Nightweaver's Looking Glass",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Frostnight's Glimmer"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frostnight's Glow"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Frostnight's Glory"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Artful Device Fragment"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Artful Device Replica"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Artful Device Inheritance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Artful Device Wish"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -5582,6 +5934,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Echo of an Ancient Chord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Prospector's Shovel",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mistshroud Manifestation"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mistshroud Plate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mistshroud Helmet"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Ember of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Afterglow of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Flare of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blaze of Long Night Flint"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -6717,6 +7113,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Serenity's Call",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Frostnight's Glimmer"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frostnight's Glow"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Frostnight's Glory"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Artful Device Fragment"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Artful Device Replica"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Artful Device Inheritance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Artful Device Wish"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Sequence of Solitude",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -7277,6 +7717,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Snare Hook",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mistshroud Manifestation"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mistshroud Plate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mistshroud Helmet"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Ember of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Afterglow of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Flare of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blaze of Long Night Flint"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Snow-Tombed Starsilver",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -7626,6 +8110,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Delirious Divinity of the Sacred Lord"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Sturdy Bone",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Sentry's Wooden Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Warrior's Metal Whistle"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Saurian-Crowned Warrior's Golden Whistle"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shard of a Shattered Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Locus of a Clear Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Sigil of a Striding Will"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Blazing Sacrificial Heart's Terror"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Blazing Sacrificial Heart's Hesitance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Blazing Sacrificial Heart's Resolve"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blazing Sacrificial Heart's Splendor"
         }]
     }, {
         "object_type": "ascension-materials",
@@ -9066,6 +9594,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Mask of the Kijin"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Waveriding Whirl",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Juvenile Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Seasoned Fang"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Tyrant's Fang"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Shard of a Shattered Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Locus of a Clear Will"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Sigil of a Striding Will"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Blazing Sacrificial Heart's Terror"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Blazing Sacrificial Heart's Hesitance"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Blazing Sacrificial Heart's Resolve"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blazing Sacrificial Heart's Splendor"
         }]
     }, {
         "object_type": "ascension-materials",

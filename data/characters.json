@@ -2,6 +2,99 @@
     "version": "2022-09-13",
     "data": [{
         "object_type": "character",
+        "name": "Aino",
+        "type": "Character",
+        "display_name": "Aino",
+        "rarity": 4,
+        "element": "Hydro",
+        "weapon": "Claymore",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Bish-Bash-Bosh Repair",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Bish-Bash-Bosh_Repair"
+        }, {
+            "object_type": "talent",
+            "name": "Musecatcher",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Musecatcher.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Musecatcher",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Precision Hydronic Cooler",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Precision_Hydronic_Cooler.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Precision_Hydronic_Cooler",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Modular Efficiency Protocol",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Modular_Efficiency_Protocol.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Modular_Efficiency_Protocol"
+        }, {
+            "object_type": "talent",
+            "name": "Structured Power Booster",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Structured_Power_Booster.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Structured_Power_Booster"
+        }, {
+            "object_type": "talent",
+            "name": "Force Limit Analysis",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_Force_Limit_Analysis.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Force_Limit_Analysis"
+        }, {
+            "object_type": "talent",
+            "name": "Miniaturized Detection Sensor",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Miniaturized_Detection_Sensor.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Miniaturized_Detection_Sensor"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "The Theory of Ash—Field Equilibrium",
+            "level": 1,
+            "thumbnail": "Constellation_The_Theory_of_Ash—Field_Equilibrium.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Theory_of_Ash—Field_Equilibrium"
+        }, {
+            "object_type": "constellation",
+            "name": "The Principle of Transference in Gear Differentials",
+            "level": 2,
+            "thumbnail": "Constellation_The_Principle_of_Transference_in_Gear_Differentials.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Principle_of_Transference_in_Gear_Differentials"
+        }, {
+            "object_type": "constellation",
+            "name": "Cake and the Art of Mechanism Repair",
+            "level": 3,
+            "thumbnail": "Constellation_Cake_and_the_Art_of_Mechanism_Repair.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cake_and_the_Art_of_Mechanism_Repair"
+        }, {
+            "object_type": "constellation",
+            "name": "Butter and Cats and the Law of Energy Supply",
+            "level": 4,
+            "thumbnail": "Constellation_Butter_and_Cats_and_the_Law_of_Energy_Supply.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Butter_and_Cats_and_the_Law_of_Energy_Supply"
+        }, {
+            "object_type": "constellation",
+            "name": "Perpetual Turbine of Metal and Light",
+            "level": 5,
+            "thumbnail": "Constellation_Perpetual_Turbine_of_Metal_and_Light.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Perpetual_Turbine_of_Metal_and_Light"
+        }, {
+            "object_type": "constellation",
+            "name": "The Burden of Creative Genius",
+            "level": 6,
+            "thumbnail": "Constellation_The_Burden_of_Creative_Genius.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Burden_of_Creative_Genius"
+        }],
+        "thumbnail": "Character_Aino_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Aino"
+    }, {
+        "object_type": "character",
         "name": "Albedo",
         "type": "Character",
         "rarity": 5,
@@ -4603,6 +4696,99 @@
         }],
         "thumbnail": "Character_Lan_Yan_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Lan_Yan"
+    }, {
+        "object_type": "character",
+        "name": "Lauma",
+        "type": "Character",
+        "display_name": "Lauma",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Peregrination of Linnunrata",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Peregrination_of_Linnunrata"
+        }, {
+            "object_type": "talent",
+            "name": "Runo: Dawnless Rest of Karsikko",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Runo_Dawnless_Rest_of_Karsikko.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Runo:_Dawnless_Rest_of_Karsikko",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Runo: All Hearts Become the Beating Moon",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Runo_All_Hearts_Become_the_Beating_Moon.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Runo:_All_Hearts_Become_the_Beating_Moon",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Light for the Frosty Night",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Light_for_the_Frosty_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Light_for_the_Frosty_Night"
+        }, {
+            "object_type": "talent",
+            "name": "Cleansing for the Spring",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Cleansing_for_the_Spring.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cleansing_for_the_Spring"
+        }, {
+            "object_type": "talent",
+            "name": "Nature's Chorus",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_Nature's_Chorus.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nature's_Chorus"
+        }, {
+            "object_type": "talent",
+            "name": "Prayers for the Forest",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Prayers_for_the_Forest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Prayers_for_the_Forest"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "\"O Lips, Weave Me Songs and Psalms\"",
+            "level": 1,
+            "thumbnail": "Constellation_O_Lips,_Weave_Me_Songs_and_Psalms.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"O_Lips,_Weave_Me_Songs_and_Psalms\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Twine Warnings and Tales From the North\"",
+            "level": 2,
+            "thumbnail": "Constellation_Twine_Warnings_and_Tales_From_the_North.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Twine_Warnings_and_Tales_From_the_North\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Seek Not to Tread the Sly Fox's Path\"",
+            "level": 3,
+            "thumbnail": "Constellation_Seek_Not_to_Tread_the_Sly_Fox's_Path.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Seek_Not_to_Tread_the_Sly_Fox's_Path\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Nor Yearn for the Great Bear's Might\"",
+            "level": 4,
+            "thumbnail": "Constellation_Nor_Yearn_for_the_Great_Bear's_Might.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Nor_Yearn_for_the_Great_Bear's_Might\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"If Truth May Be Subject to Witness\"",
+            "level": 5,
+            "thumbnail": "Constellation_If_Truth_May_Be_Subject_to_Witness.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"If_Truth_May_Be_Subject_to_Witness\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"I Offer Blood and Tears to the Moonlight\"",
+            "level": 6,
+            "thumbnail": "Constellation_I_Offer_Blood_and_Tears_to_the_Moonlight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"I_Offer_Blood_and_Tears_to_the_Moonlight\""
+        }],
+        "thumbnail": "Character_Lauma_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lauma"
     }, {
         "object_type": "character",
         "name": "Layla",

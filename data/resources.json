@@ -738,6 +738,26 @@
         "link": "https://genshin-impact.fandom.com/wiki/Secret_Source_Airflow_Accumulator"
     }, {
         "object_type": "item",
+        "name": "Precision Kuuvahki Stamping Die",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Nod-Krai",
+        "source": ["Knuckle Duckle"],
+        "thumbnail": "Item_Precision_Kuuvahki_Stamping_Die.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Precision_Kuuvahki_Stamping_Die"
+    }, {
+        "object_type": "item",
+        "name": "Lightbearing Scale-Feather",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Nod-Krai",
+        "source": ["Radiant Moonfly"],
+        "thumbnail": "Item_Lightbearing_Scale-Feather.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lightbearing_Scale-Feather"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -906,6 +926,14 @@
         "link": "https://genshin-impact.fandom.com/wiki/Marcotte"
     }, {
         "object_type": "item",
+        "name": "Moonfall Silver",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Nod-Krai",
+        "thumbnail": "Item_Moonfall_Silver.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Moonfall_Silver"
+    }, {
+        "object_type": "item",
         "name": "Mourning Flower",
         "type": "Local Specialties",
         "category": "Materials",
@@ -960,6 +988,14 @@
         "region": "Mondstadt",
         "thumbnail": "Item_Philanemo_Mushroom.png",
         "link": "https://genshin-impact.fandom.com/wiki/Philanemo_Mushroom"
+    }, {
+        "object_type": "item",
+        "name": "Portable Bearing",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Nod-Krai",
+        "thumbnail": "Item_Portable_Bearing.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Portable_Bearing"
     }, {
         "object_type": "item",
         "name": "Qingxin",
@@ -1856,6 +1892,123 @@
         "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Conflict"
     }, {
         "object_type": "item",
+        "name": "Teachings of Moonlight",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Moonlight Book",
+        "rarity": 2,
+        "region": "Nod-Krai",
+        "domainLevel": 1,
+        "source": ["Lightless Capital"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Moonlight.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Moonlight"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Moonlight",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Moonlight Book",
+        "rarity": 3,
+        "region": "Nod-Krai",
+        "domainLevel": 2,
+        "source": ["Lightless Capital"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Moonlight.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Moonlight"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Moonlight",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Moonlight Book",
+        "rarity": 4,
+        "region": "Nod-Krai",
+        "domainLevel": 4,
+        "source": ["Lightless Capital"],
+        "days": ["Monday", "Thursday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Moonlight.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Moonlight"
+    }, {
+        "object_type": "item",
+        "name": "Teachings of Elysium",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Elysium Book",
+        "rarity": 2,
+        "region": "Nod-Krai",
+        "domainLevel": 1,
+        "source": ["Lightless Capital"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Elysium.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Elysium"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Elysium",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Elysium Book",
+        "rarity": 3,
+        "region": "Nod-Krai",
+        "domainLevel": 2,
+        "source": ["Lightless Capital"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Elysium.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Elysium"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Elysium",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Elysium Book",
+        "rarity": 4,
+        "region": "Nod-Krai",
+        "domainLevel": 4,
+        "source": ["Lightless Capital"],
+        "days": ["Tuesday", "Friday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Elysium.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Elysium"
+    }, {
+        "object_type": "item",
+        "name": "Teachings of Vagrancy",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Vagrancy Book",
+        "rarity": 2,
+        "region": "Nod-Krai",
+        "domainLevel": 1,
+        "source": ["Lightless Capital"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Teachings_of_Vagrancy.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Vagrancy"
+    }, {
+        "object_type": "item",
+        "name": "Guide to Vagrancy",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Vagrancy Book",
+        "rarity": 3,
+        "region": "Nod-Krai",
+        "domainLevel": 2,
+        "source": ["Lightless Capital"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Guide_to_Vagrancy.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Guide_to_Vagrancy"
+    }, {
+        "object_type": "item",
+        "name": "Philosophies of Vagrancy",
+        "type": "Talent Level-Up Material",
+        "category": "Character Development Items",
+        "group": "Vagrancy Book",
+        "rarity": 4,
+        "region": "Nod-Krai",
+        "domainLevel": 4,
+        "source": ["Lightless Capital"],
+        "days": ["Wednesday", "Saturday", "Sunday"],
+        "thumbnail": "Item_Philosophies_of_Vagrancy.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Vagrancy"
+    }, {
+        "object_type": "item",
         "name": "Slime Condensate",
         "type": "Common Ascension Materials",
         "category": "Character Development Items",
@@ -2304,6 +2457,66 @@
         "source": ["Natlan Saurians"],
         "thumbnail": "Item_Tyrant's_Fang.png",
         "link": "https://genshin-impact.fandom.com/wiki/Tyrant's_Fang"
+    }, {
+        "object_type": "item",
+        "name": "Tattered Warrant",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fatui Warrant",
+        "rarity": 1,
+        "source": ["Fatui Oprichniki"],
+        "thumbnail": "Item_Tattered_Warrant.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Tattered_Warrant"
+    }, {
+        "object_type": "item",
+        "name": "Immaculate Warrant",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fatui Warrant",
+        "rarity": 2,
+        "source": ["Fatui Oprichniki"],
+        "thumbnail": "Item_Immaculate_Warrant.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Immaculate_Warrant"
+    }, {
+        "object_type": "item",
+        "name": "Frost-Etched Warrant",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fatui Warrant",
+        "rarity": 3,
+        "source": ["Fatui Oprichniki"],
+        "thumbnail": "Item_Frost-Etched_Warrant.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Frost-Etched_Warrant"
+    }, {
+        "object_type": "item",
+        "name": "Broken Drive Shaft",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Landcruisers",
+        "rarity": 1,
+        "source": ["Landcruisers"],
+        "thumbnail": "Item_Broken_Drive_Shaft.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Broken_Drive_Shaft"
+    }, {
+        "object_type": "item",
+        "name": "Reinforced Drive Shaft",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Landcruisers",
+        "rarity": 2,
+        "source": ["Landcruisers"],
+        "thumbnail": "Item_Reinforced_Drive_Shaft.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Reinforced_Drive_Shaft"
+    }, {
+        "object_type": "item",
+        "name": "Precision Drive Shaft",
+        "type": "Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Landcruisers",
+        "rarity": 3,
+        "source": ["Landcruisers"],
+        "thumbnail": "Item_Precision_Drive_Shaft.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Precision_Drive_Shaft"
     }, {
         "object_type": "item",
         "name": "Heavy Horn",
@@ -3084,6 +3297,96 @@
         "source": ["Furnace Shell Mountain Weasel"],
         "thumbnail": "Item_Blazing_Prismshell.png",
         "link": "https://genshin-impact.fandom.com/wiki/Blazing_Prismshell"
+    }, {
+        "object_type": "item",
+        "name": "Frostnight's Glimmer",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Frostnight Scion",
+        "rarity": 2,
+        "source": ["Frostnight Scion"],
+        "thumbnail": "Item_Frostnight's_Glimmer.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Frostnight's_Glimmer"
+    }, {
+        "object_type": "item",
+        "name": "Frostnight's Glow",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Frostnight Scion",
+        "rarity": 3,
+        "source": ["Frostnight Scion"],
+        "thumbnail": "Item_Frostnight's_Glow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Frostnight's_Glow"
+    }, {
+        "object_type": "item",
+        "name": "Frostnight's Glory",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Frostnight Scion",
+        "rarity": 4,
+        "source": ["Frostnight Scion"],
+        "thumbnail": "Item_Frostnight's_Glory.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Frostnight's_Glory"
+    }, {
+        "object_type": "item",
+        "name": "Lightless Bone",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Radiant Beast",
+        "rarity": 2,
+        "source": ["Radiant Beast"],
+        "thumbnail": "Item_Lightless_Bone.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lightless_Bone"
+    }, {
+        "object_type": "item",
+        "name": "Glowing Remains",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Radiant Beast",
+        "rarity": 3,
+        "source": ["Radiant Beast"],
+        "thumbnail": "Item_Glowing_Remains.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Glowing_Remains"
+    }, {
+        "object_type": "item",
+        "name": "Radiant Exoskeleton",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Radiant Beast",
+        "rarity": 4,
+        "source": ["Radiant Beast"],
+        "thumbnail": "Item_Radiant_Exoskeleton.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Radiant_Exoskeleton"
+    }, {
+        "object_type": "item",
+        "name": "Mistshroud Manifestation",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Wasteland Wild Hunts",
+        "rarity": 2,
+        "source": ["Wilderness Exile", "Wilderness Hunter"],
+        "thumbnail": "Item_Mistshroud_Manifestation.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mistshroud_Manifestation"
+    }, {
+        "object_type": "item",
+        "name": "Mistshroud Plate",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Wasteland Wild Hunts",
+        "rarity": 3,
+        "source": ["Wilderness Exile", "Wilderness Hunter"],
+        "thumbnail": "Item_Mistshroud_Plate.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mistshroud_Plate"
+    }, {
+        "object_type": "item",
+        "name": "Mistshroud Helmet",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Wasteland Wild Hunts",
+        "rarity": 4,
+        "source": ["Wilderness Exile", "Wilderness Hunter"],
+        "thumbnail": "Item_Mistshroud_Helmet.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mistshroud_Helmet"
     }, {
         "object_type": "item",
         "group_type": "dvalin-material",
@@ -4145,5 +4448,113 @@
         "rarity": 5,
         "thumbnail": "Item_Night-Wind's_Mystic_Revelation.png",
         "link": "https://genshin-impact.fandom.com/wiki/Night-Wind's_Mystic_Revelation"
+    }, {
+        "object_type": "item",
+        "name": "Artful Device Fragment",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Artful Devices",
+        "rarity": 2,
+        "thumbnail": "Item_Artful_Device_Fragment.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Artful_Device_Fragment"
+    }, {
+        "object_type": "item",
+        "name": "Artful Device Replica",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Artful Devices",
+        "rarity": 3,
+        "thumbnail": "Item_Artful_Device_Replica.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Artful_Device_Replica"
+    }, {
+        "object_type": "item",
+        "name": "Artful Device Inheritance",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Artful Devices",
+        "rarity": 4,
+        "thumbnail": "Item_Artful_Device_Inheritance.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Artful_Device_Inheritance"
+    }, {
+        "object_type": "item",
+        "name": "Artful Device Wish",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Artful Devices",
+        "rarity": 5,
+        "thumbnail": "Item_Artful_Device_Wish.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Artful_Device_Wish"
+    }, {
+        "object_type": "item",
+        "name": "Ember of Long Night Flint",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Long Night Flint",
+        "rarity": 2,
+        "thumbnail": "Item_Ember_of_Long_Night_Flint.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Ember_of_Long_Night_Flint"
+    }, {
+        "object_type": "item",
+        "name": "Afterglow of Long Night Flint",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Long Night Flint",
+        "rarity": 3,
+        "thumbnail": "Item_Afterglow_of_Long_Night_Flint.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Afterglow_of_Long_Night_Flint"
+    }, {
+        "object_type": "item",
+        "name": "Flare of Long Night Flint",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Long Night Flint",
+        "rarity": 4,
+        "thumbnail": "Item_Flare_of_Long_Night_Flint.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Flare_of_Long_Night_Flint"
+    }, {
+        "object_type": "item",
+        "name": "Blaze of Long Night Flint",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Long Night Flint",
+        "rarity": 5,
+        "thumbnail": "Item_Blaze_of_Long_Night_Flint.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Blaze_of_Long_Night_Flint"
+    }, {
+        "object_type": "item",
+        "name": "Sundered Glory of the Far-North Scions",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Far-North Scions",
+        "rarity": 2,
+        "thumbnail": "Item_Sundered_Glory_of_the_Far-North_Scions.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sundered_Glory_of_the_Far-North_Scions"
+    }, {
+        "object_type": "item",
+        "name": "Unyielding Delusion of the Far-North Scions",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Far-North Scions",
+        "rarity": 3,
+        "thumbnail": "Item_Unyielding_Delusion_of_the_Far-North_Scions.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Unyielding_Delusion_of_the_Far-North_Scions"
+    }, {
+        "object_type": "item",
+        "name": "Oblation of the Far-North Scions",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Far-North Scions",
+        "rarity": 4,
+        "thumbnail": "Item_Oblation_of_the_Far-North_Scions.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Oblation_of_the_Far-North_Scions"
+    }, {
+        "object_type": "item",
+        "name": "Aureate Radiance of the Far-North Scions",
+        "type": "Weapon Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Far-North Scions",
+        "rarity": 5,
+        "thumbnail": "Item_Aureate_Radiance_of_the_Far-North_Scions.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Aureate_Radiance_of_the_Far-North_Scions"
     }]
 }

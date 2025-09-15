@@ -151,6 +151,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Aino",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Precision Kuuvahki Stamping Die"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Varunada Lazurite Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Varunada Lazurite Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Varunada Lazurite Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Varunada Lazurite Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Portable Bearing"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Albedo",
         "materials": [{
             "type": "Boss Material",
@@ -2268,6 +2308,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Clearwater Jade"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Lauma",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Lightbearing Scale-Feather"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Nagadus Emerald Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Nagadus Emerald Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Nagadus Emerald Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Nagadus Emerald Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Moonfall Silver"
         }]
     }, {
         "object_type": "ascension-materials",
