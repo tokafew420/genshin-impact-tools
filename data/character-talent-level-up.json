@@ -1169,6 +1169,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Flins",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Ascended Sample: Queen"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Vagrancy"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Vagrancy"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Vagrancy"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Freminet",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2257,6 +2289,70 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Nefer",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Ascended Sample: Rook"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Elysium"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Elysium"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Elysium"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Neuvillette",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Everamber"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Equity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Equity"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Equity"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Nilou",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -2350,38 +2446,6 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Resistance"
-        }]
-    }, {
-        "object_type": "talent-level-up-materials",
-        "name": "Neuvillette",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Transoceanic Pearl"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Transoceanic Chunk"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Xenochromatic Crystal"
-        }, {
-            "type": "Elite Boss Material",
-            "rarity": 5,
-            "name": "Everamber"
-        }, {
-            "type": "Talent Level-Up Material",
-            "rarity": 2,
-            "name": "Teachings of Equity"
-        }, {
-            "type": "Talent Level-Up Material",
-            "rarity": 3,
-            "name": "Guide to Equity"
-        }, {
-            "type": "Talent Level-Up Material",
-            "rarity": 4,
-            "name": "Philosophies of Equity"
         }]
     }, {
         "object_type": "talent-level-up-materials",

@@ -1391,6 +1391,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Flins",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Precision Kuuvahki Stamping Die"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vajrada Amethyst Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vajrada Amethyst Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vajrada Amethyst Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vajrada Amethyst Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Frostlamp Flower"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Freminet",
         "materials": [{
             "type": "Boss Material",
@@ -2751,6 +2791,86 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Nefer",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Radiant Antler"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Nagadus Emerald Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Nagadus Emerald Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Nagadus Emerald Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Nagadus Emerald Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Moonfall Silver"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Neuvillette",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Fontemer Unihorn"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Varunada Lazurite Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Varunada Lazurite Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Varunada Lazurite Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Varunada Lazurite Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Transoceanic Pearl"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Transoceanic Chunk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Xenochromatic Crystal"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Lumitoile"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Nilou",
         "materials": [{
             "type": "Boss Material",
@@ -2868,46 +2988,6 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Valberry"
-        }]
-    }, {
-        "object_type": "ascension-materials",
-        "name": "Neuvillette",
-        "materials": [{
-            "type": "Boss Material",
-            "rarity": 4,
-            "name": "Fontemer Unihorn"
-        }, {
-            "type": "Character Ascension Materials",
-            "rarity": 2,
-            "name": "Varunada Lazurite Sliver"
-        }, {
-            "type": "Character Ascension Materials",
-            "rarity": 3,
-            "name": "Varunada Lazurite Fragment"
-        }, {
-            "type": "Character Ascension Materials",
-            "rarity": 4,
-            "name": "Varunada Lazurite Chunk"
-        }, {
-            "type": "Character Ascension Materials",
-            "rarity": 5,
-            "name": "Varunada Lazurite Gemstone"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Transoceanic Pearl"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Transoceanic Chunk"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Xenochromatic Crystal"
-        }, {
-            "type": "Local Specialties",
-            "rarity": 1,
-            "name": "Lumitoile"
         }]
     }, {
         "object_type": "ascension-materials",

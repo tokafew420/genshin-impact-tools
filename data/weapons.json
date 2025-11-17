@@ -177,6 +177,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Blackmarrow_Lantern"
     }, {
         "object_type": "weapon",
+        "name": "Bloodsoaked Ruins",
+        "type": "Polearm",
+        "rarity": 5,
+        "thumbnail": "Weapon_Bloodsoaked_Ruins.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Blood­soak­ed_Ruins"
+    }, {
+        "object_type": "weapon",
         "name": "Bloodtainted Greatsword",
         "type": "Claymore",
         "rarity": 3,
@@ -947,6 +954,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Redhorn_Stonethresher"
     }, {
         "object_type": "weapon",
+        "name": "Reliquary of Truth",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Reliquary_of_Truth.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Reliquary_of_Truth"
+    }, {
+        "object_type": "weapon",
         "name": "Rightful Reward",
         "type": "Polearm",
         "rarity": 4,
@@ -1001,6 +1015,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_Rust.png",
         "link": "https://genshin-impact.fandom.com/wiki/Rust"
+    }, {
+        "object_type": "weapon",
+        "name": "Sacrificer's Staff",
+        "type": "Polearm",
+        "rarity": 4,
+        "thumbnail": "Weapon_Sacrificer's_Staff.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Sacrificer's_Staff"
     }, {
         "object_type": "weapon",
         "name": "Sacrificial Bow",

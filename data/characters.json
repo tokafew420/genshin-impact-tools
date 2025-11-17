@@ -2668,6 +2668,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Fischl"
     }, {
         "object_type": "character",
+        "name": "Flins",
+        "type": "Character",
+        "display_name": "Flins",
+        "rarity": 5,
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Pocztowy Demonspear",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Electro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Pocztowy_Demonspear"
+        }, {
+            "object_type": "talent",
+            "name": "Ancient Rite: Arcane Light",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Ancient_Rite_Arcane_Light.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ancient_Rite:_Arcane_Light",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Ancient Ritual: Cometh the Night",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Ancient_Ritual_Cometh_the_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ancient_Ritual:_Cometh_the_Night",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Symphony of Winter",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Symphony_of_Winter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Symphony_of_Winter"
+        }, {
+            "object_type": "talent",
+            "name": "Whispering Flame",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Whispering_Flame.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Whispering_Flame"
+        }, {
+            "object_type": "talent",
+            "name": "Old World Secrets",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_Electro_Moonsign_Lunar-Charged.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Old_World_Secrets"
+        }, {
+            "object_type": "talent",
+            "name": "A Light in the Dark",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_A_Light_in_the_Dark.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Light_in_the_Dark"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Part the Veil of Snow",
+            "level": 1,
+            "thumbnail": "Constellation_Part_the_Veil_of_Snow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Part_the_Veil_of_Snow"
+        }, {
+            "object_type": "constellation",
+            "name": "The Devil's Wall",
+            "level": 2,
+            "thumbnail": "Constellation_The_Devil's_Wall.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Devil's_Wall"
+        }, {
+            "object_type": "constellation",
+            "name": "Stranger in the Night",
+            "level": 3,
+            "thumbnail": "Constellation_Stranger_in_the_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Stranger_in_the_Night"
+        }, {
+            "object_type": "constellation",
+            "name": "Night on Bald Mountain",
+            "level": 4,
+            "thumbnail": "Constellation_Night_on_Bald_Mountain.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Night_on_Bald_Mountain"
+        }, {
+            "object_type": "constellation",
+            "name": "Exile's Shadow",
+            "level": 5,
+            "thumbnail": "Constellation_Exile's_Shadow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Exile's_Shadow"
+        }, {
+            "object_type": "constellation",
+            "name": "Songs and Dances of Death",
+            "level": 6,
+            "thumbnail": "Constellation_Songs_and_Dances_of_Death.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Songs_and_Dances_of_Death"
+        }],
+        "thumbnail": "Character_Flins_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Flins"
+    }, {
+        "object_type": "character",
         "name": "Freminet",
         "type": "Character",
         "display_name": "Freminet",
@@ -5677,6 +5770,186 @@
         "link": "https://genshin-impact.fandom.com/wiki/Navia"
     }, {
         "object_type": "character",
+        "name": "Nefer",
+        "type": "Character",
+        "display_name": "Nefer",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Striking Serpent",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Dendro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Striking_Serpent"
+        }, {
+            "object_type": "talent",
+            "name": "Senet Strategy: Dance of a Thousand Nights",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Senet_Strategy_Dance_of_a_Thousand_Nights.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Senet_Strategy:_Dance_of_a_Thousand_Nights",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Sacred Vow: True Eye's Phantasm",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Sacred_Vow_True_Eye's_Phantasm.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sacred_Vow:_True_Eye's_Phantasm",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "A Wager of Moonlight",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_A_Wager_of_Moonlight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/A_Wager_of_Moonlight"
+        }, {
+            "object_type": "talent",
+            "name": "Daughter of the Dust and Sand",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Daughter_of_the_Dust_and_Sand.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Daughter_of_the_Dust_and_Sand"
+        }, {
+            "object_type": "talent",
+            "name": "Dusklit Eaves",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_Dusklit_Eaves.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dusklit_Eaves"
+        }, {
+            "object_type": "talent",
+            "name": "Conspiracy of the Golden Vault",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Conspiracy_of_the_Golden_Vault.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Conspiracy_of_the_Golden_Vault"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Planning Breeds Success",
+            "level": 1,
+            "thumbnail": "Constellation_Planning_Breeds_Success.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Planning_Breeds_Success"
+        }, {
+            "object_type": "constellation",
+            "name": "Observation Feeds Strategy",
+            "level": 2,
+            "thumbnail": "Constellation_Observation_Feeds_Strategy.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Observation_Feeds_Strategy"
+        }, {
+            "object_type": "constellation",
+            "name": "Deceit Cloaks the Truth",
+            "level": 3,
+            "thumbnail": "Constellation_Deceit_Cloaks_the_Truth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Deceit_Cloaks_the_Truth"
+        }, {
+            "object_type": "constellation",
+            "name": "Delusion Ensnares Reason",
+            "level": 4,
+            "thumbnail": "Constellation_Delusion_Ensnares_Reason.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Delusion_Ensnares_Reason"
+        }, {
+            "object_type": "constellation",
+            "name": "Opportunity Hides in the Margins",
+            "level": 5,
+            "thumbnail": "Constellation_Opportunity_Hides_in_the_Margins.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Opportunity_Hides_in_the_Margins"
+        }, {
+            "object_type": "constellation",
+            "name": "Victory Flows from the Turning of Tides",
+            "level": 6,
+            "thumbnail": "Constellation_Victory_Flows_from_the_Turning_of_Tides.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Victory_Flows_from_the_Turning_of_Tides"
+        }],
+        "thumbnail": "Character_Nefer_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Nefer"
+    }, {
+        "object_type": "character",
+        "name": "Neuvillette",
+        "type": "Character",
+        "display_name": "Neuvillette",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "talents": [{
+            "object_type": "talent",
+            "name": "As Water Seeks Equilibrium",
+            "type": "Normal Attack",
+            "thumbnail": "Catalyst_Hydro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/As_Water_Seeks_Equilibrium",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "O Tears, I Shall Repay",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_O_Tears,_I_Shall_Repay.png",
+            "link": "https://genshin-impact.fandom.com/wiki/O_Tears,_I_Shall_Repay"
+        }, {
+            "object_type": "talent",
+            "name": "O Tides, I Have Returned",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_O_Tides,_I_Have_Returned.png",
+            "link": "https://genshin-impact.fandom.com/wiki/O_Tides,_I_Have_Returned",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Heir to the Ancient Sea's Authority",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Heir_to_the_Ancient_Sea's_Authority.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heir_to_the_Ancient_Sea's_Authority"
+        }, {
+            "object_type": "talent",
+            "name": "Discipline of the Supreme Arbitration",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Discipline_of_the_Supreme_Arbitration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Discipline_of_the_Supreme_Arbitration"
+        }, {
+            "object_type": "talent",
+            "name": "Gather Like the Tide",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Gather_Like_the_Tide.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Gather_Like_the_Tide"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Venerable Institution",
+            "level": 1,
+            "thumbnail": "Constellation_Venerable_Institution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Venerable_Institution"
+        }, {
+            "object_type": "constellation",
+            "name": "Juridical Exhortation",
+            "level": 2,
+            "thumbnail": "Constellation_Juridical_Exhortation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Juridical_Exhortation"
+        }, {
+            "object_type": "constellation",
+            "name": "Ancient Postulation",
+            "level": 3,
+            "thumbnail": "Constellation_Ancient_Postulation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ancient_Postulation"
+        }, {
+            "object_type": "constellation",
+            "name": "Crown of Commiseration",
+            "level": 4,
+            "thumbnail": "Constellation_Crown_of_Commiseration.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Crown_of_Commiseration"
+        }, {
+            "object_type": "constellation",
+            "name": "Axiomatic Judgment",
+            "level": 5,
+            "thumbnail": "Constellation_Axiomatic_Judgment.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Axiomatic_Judgment"
+        }, {
+            "object_type": "constellation",
+            "name": "Wrathful Recompense",
+            "level": 6,
+            "thumbnail": "Constellation_Wrathful_Recompense.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wrathful_Recompense"
+        }],
+        "thumbnail": "Character_Neuvillette_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Neuvillette"
+    }, {
+        "object_type": "character",
         "name": "Nilou",
         "type": "Character",
         "display_name": "Nilou",
@@ -5934,93 +6207,6 @@
         }],
         "thumbnail": "Character_Noelle_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Noelle"
-    }, {
-        "object_type": "character",
-        "name": "Neuvillette",
-        "type": "Character",
-        "display_name": "Neuvillette",
-        "rarity": 5,
-        "element": "Hydro",
-        "weapon": "Catalyst",
-        "region": "Fontaine",
-        "talents": [{
-            "object_type": "talent",
-            "name": "As Water Seeks Equilibrium",
-            "type": "Normal Attack",
-            "thumbnail": "Catalyst_Hydro.png",
-            "link": "https://genshin-impact.fandom.com/wiki/As_Water_Seeks_Equilibrium",
-            "constellation": 3
-        }, {
-            "object_type": "talent",
-            "name": "O Tears, I Shall Repay",
-            "type": "Elemental Skill",
-            "thumbnail": "Talent_O_Tears,_I_Shall_Repay.png",
-            "link": "https://genshin-impact.fandom.com/wiki/O_Tears,_I_Shall_Repay"
-        }, {
-            "object_type": "talent",
-            "name": "O Tides, I Have Returned",
-            "type": "Elemental Burst",
-            "thumbnail": "Talent_O_Tides,_I_Have_Returned.png",
-            "link": "https://genshin-impact.fandom.com/wiki/O_Tides,_I_Have_Returned",
-            "constellation": 5
-        }, {
-            "object_type": "talent",
-            "name": "Heir to the Ancient Sea's Authority",
-            "type": "1st Ascension Passive",
-            "thumbnail": "Talent_Heir_to_the_Ancient_Sea's_Authority.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Heir_to_the_Ancient_Sea's_Authority"
-        }, {
-            "object_type": "talent",
-            "name": "Discipline of the Supreme Arbitration",
-            "type": "4th Ascension Passive",
-            "thumbnail": "Talent_Discipline_of_the_Supreme_Arbitration.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Discipline_of_the_Supreme_Arbitration"
-        }, {
-            "object_type": "talent",
-            "name": "Gather Like the Tide",
-            "type": "Utility Passive",
-            "thumbnail": "Talent_Gather_Like_the_Tide.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Gather_Like_the_Tide"
-        }],
-        "constellations": [{
-            "object_type": "constellation",
-            "name": "Venerable Institution",
-            "level": 1,
-            "thumbnail": "Constellation_Venerable_Institution.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Venerable_Institution"
-        }, {
-            "object_type": "constellation",
-            "name": "Juridical Exhortation",
-            "level": 2,
-            "thumbnail": "Constellation_Juridical_Exhortation.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Juridical_Exhortation"
-        }, {
-            "object_type": "constellation",
-            "name": "Ancient Postulation",
-            "level": 3,
-            "thumbnail": "Constellation_Ancient_Postulation.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Ancient_Postulation"
-        }, {
-            "object_type": "constellation",
-            "name": "Crown of Commiseration",
-            "level": 4,
-            "thumbnail": "Constellation_Crown_of_Commiseration.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Crown_of_Commiseration"
-        }, {
-            "object_type": "constellation",
-            "name": "Axiomatic Judgment",
-            "level": 5,
-            "thumbnail": "Constellation_Axiomatic_Judgment.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Axiomatic_Judgment"
-        }, {
-            "object_type": "constellation",
-            "name": "Wrathful Recompense",
-            "level": 6,
-            "thumbnail": "Constellation_Wrathful_Recompense.png",
-            "link": "https://genshin-impact.fandom.com/wiki/Wrathful_Recompense"
-        }],
-        "thumbnail": "Character_Neuvillette_Thumb.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Neuvillette"
     }, {
         "object_type": "character",
         "name": "Ororon",

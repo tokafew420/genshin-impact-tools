@@ -758,6 +758,16 @@
         "link": "https://genshin-impact.fandom.com/wiki/Lightbearing_Scale-Feather"
     }, {
         "object_type": "item",
+        "name": "Radiant Antler",
+        "type": "Boss Material",
+        "category": "Character Development Items",
+        "rarity": 4,
+        "region": "Nod-Krai",
+        "source": ["Frostnight Herra"],
+        "thumbnail": "Item_Radiant_Antler.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Radiant_Antler"
+    }, {
+        "object_type": "item",
         "name": "Amakumo Fruit",
         "type": "Local Specialties",
         "category": "Materials",
@@ -852,6 +862,14 @@
         "region": "Inazuma",
         "thumbnail": "Item_Fluorescent_Fungus.png",
         "link": "https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus"
+    }, {
+        "object_type": "item",
+        "name": "Frostlamp Flower",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Nod-Krai",
+        "thumbnail": "Item_Frostlamp_Flower.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Frostlamp_Flower"
     }, {
         "object_type": "item",
         "name": "Glaze Lily",
