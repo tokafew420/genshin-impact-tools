@@ -1009,6 +1009,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Durin",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Eroded Sunfire"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Ballad"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Ballad"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Ballad"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Emilie",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1518,6 +1550,38 @@
             "type": "Talent Level-Up Material",
             "rarity": 4,
             "name": "Philosophies of Resistance"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Jahoda",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Ascended Sample: Knight"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Vagrancy"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Vagrancy"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Vagrancy"
         }]
     }, {
         "object_type": "talent-level-up-materials",

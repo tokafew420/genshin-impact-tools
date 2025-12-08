@@ -2235,6 +2235,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Dori"
     }, {
         "object_type": "character",
+        "name": "Durin",
+        "type": "Character",
+        "display_name": "Durin",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Sword",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Radiant Wingslash",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Pyro.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Radiant_Wingslash"
+        }, {
+            "object_type": "talent",
+            "name": "Binary Form: Convergence and Division",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Binary_Form_Convergence_and_Division.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Binary_Form:_Convergence_and_Division",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Principle of Purity: As the Light Shifts",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Principle_of_Purity_As_the_Light_Shifts.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Principle_of_Purity:_As_the_Light_Shifts",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Light Manifest of the Divine Calculus",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Light_Manifest_of_the_Divine_Calculus.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Light_Manifest_of_the_Divine_Calculus"
+        }, {
+            "object_type": "talent",
+            "name": "Chaos Formed Like the Night",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Chaos_Formed_Like_the_Night.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Chaos_Formed_Like_the_Night"
+        }, {
+            "object_type": "talent",
+            "name": "Ode to Ascension",
+            "type": "Witch's Eve Rite Passive",
+            "thumbnail": "Talent_Ode_to_Ascension.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Ode_to_Ascension"
+        }, {
+            "object_type": "talent",
+            "name": "Echoes of the Surging Earth",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Echoes_of_the_Surging_Earth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Echoes_of_the_Surging_Earth"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Adamah's Redemption",
+            "level": 1,
+            "thumbnail": "Constellation_Adamah's_Redemption.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Adamah's_Redemption"
+        }, {
+            "object_type": "constellation",
+            "name": "Unground Visions",
+            "level": 2,
+            "thumbnail": "Constellation_Unground_Visions.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unground_Visions"
+        }, {
+            "object_type": "constellation",
+            "name": "Flame Mirror's Revelation",
+            "level": 3,
+            "thumbnail": "Constellation_Flame_Mirror's_Revelation.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Flame_Mirror's_Revelation"
+        }, {
+            "object_type": "constellation",
+            "name": "Emanare's Source",
+            "level": 4,
+            "thumbnail": "Constellation_Emanare's_Source.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Emanare's_Source"
+        }, {
+            "object_type": "constellation",
+            "name": "Scouring Flame's Sundering",
+            "level": 5,
+            "thumbnail": "Constellation_Scouring_Flame's_Sundering.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Scouring_Flame's_Sundering"
+        }, {
+            "object_type": "constellation",
+            "name": "Dual Birth",
+            "level": 6,
+            "thumbnail": "Constellation_Dual_Birth.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dual_Birth"
+        }],
+        "thumbnail": "Character_Durin_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Durin"
+    }, {
+        "object_type": "character",
         "name": "Emilie",
         "type": "Character",
         "display_name": "Emilie",
@@ -3558,6 +3651,99 @@
         }],
         "thumbnail": "Character_Ineffa_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Ineffa"
+    }, {
+        "object_type": "character",
+        "name": "Jahoda",
+        "type": "Character",
+        "display_name": "Jahoda",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Strike While the Arrow's Hot",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Strike_While_the_Arrow's_Hot"
+        }, {
+            "object_type": "talent",
+            "name": "Savvy Strategy: Splitting the Spoils",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Savvy_Strategy_Splitting_the_Spoils.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Savvy_Strategy:_Splitting_the_Spoils",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Hidden Aces: Seven Tools of the Hunter",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Hidden_Aces_Seven_Tools_of_the_Hunter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hidden_Aces:_Seven_Tools_of_the_Hunter",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Plan to Get Paid",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Plan_to_Get_Paid.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Plan_to_Get_Paid"
+        }, {
+            "object_type": "talent",
+            "name": "Sweet Berry Bounty",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Sweet_Berry_Bounty.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Sweet_Berry_Bounty"
+        }, {
+            "object_type": "talent",
+            "name": "Rooftop Dash",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_Rooftop_Dash.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rooftop_Dash"
+        }, {
+            "object_type": "talent",
+            "name": "Backstreet Guile",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Backstreet_Guile.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Backstreet_Guile"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "One More Flask!",
+            "level": 1,
+            "thumbnail": "Constellation_One_More_Flask!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/One_More_Flask!"
+        }, {
+            "object_type": "constellation",
+            "name": "Rogue's Quick Thinking",
+            "level": 2,
+            "thumbnail": "Constellation_Rogue's_Quick_Thinking.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Rogue's_Quick_Thinking"
+        }, {
+            "object_type": "constellation",
+            "name": "Desperate Gamble",
+            "level": 3,
+            "thumbnail": "Constellation_Desperate_Gamble.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Desperate_Gamble"
+        }, {
+            "object_type": "constellation",
+            "name": "Wild Berry Amid the Dust",
+            "level": 4,
+            "thumbnail": "Constellation_Wild_Berry_Amid_the_Dust.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wild_Berry_Amid_the_Dust"
+        }, {
+            "object_type": "constellation",
+            "name": "The Greatest Treasure",
+            "level": 5,
+            "thumbnail": "Constellation_The_Greatest_Treasure.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Greatest_Treasure"
+        }, {
+            "object_type": "constellation",
+            "name": "The Littlest Luck",
+            "level": 6,
+            "thumbnail": "Constellation_The_Littlest_Luck.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Littlest_Luck"
+        }],
+        "thumbnail": "Character_Jahoda_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Jahoda"
     }, {
         "object_type": "character",
         "name": "Jean",

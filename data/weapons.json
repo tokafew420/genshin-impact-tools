@@ -65,6 +65,20 @@
         "link": "https://genshin-impact.fandom.com/wiki/Apprentice's_Notes"
     }, {
         "object_type": "weapon",
+        "name": "Aqua Simulacra",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_Aqua_Simulacra.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Aqua_Simulacra"
+    }, {
+        "object_type": "weapon",
+        "name": "Aquila Favonia",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Aquila_Favonia.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
+    }, {
+        "object_type": "weapon",
         "name": "Ash-Graven Drinking Horn",
         "type": "Catalyst",
         "rarity": 4,
@@ -79,18 +93,11 @@
         "link": "https://genshin-impact.fandom.com/wiki/Astral_Vulture's_Crimson_Plumage"
     }, {
         "object_type": "weapon",
-        "name": "Aqua Simulacra",
-        "type": "Bow",
-        "rarity": 5,
-        "thumbnail": "Weapon_Aqua_Simulacra.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Aqua_Simulacra"
-    }, {
-        "object_type": "weapon",
-        "name": "Aquila Favonia",
+        "name": "Athame Artis",
         "type": "Sword",
         "rarity": 5,
-        "thumbnail": "Weapon_Aquila_Favonia.png",
-        "link": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
+        "thumbnail": "Weapon_Athame_Artis.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Athame_Artis"
     }, {
         "object_type": "weapon",
         "name": "Azurelight",
@@ -919,6 +926,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Prototype_Starglitter"
     }, {
         "object_type": "weapon",
+        "name": "Rainbow Serpent's Rain Bow",
+        "type": "Bow",
+        "rarity": 4,
+        "thumbnail": "Weapon_Rainbow_Serpent's_Rain_Bow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Rainbow_Serpent's_Rain_Bow"
+    }, {
+        "object_type": "weapon",
         "name": "Rainslasher",
         "type": "Claymore",
         "rarity": 4,
@@ -1316,6 +1330,13 @@
         "rarity": 4,
         "thumbnail": "Weapon_The_Black_Sword.png",
         "link": "https://genshin-impact.fandom.com/wiki/The_Black_Sword"
+    }, {
+        "object_type": "weapon",
+        "name": "The Daybreak Chronicles",
+        "type": "Bow",
+        "rarity": 5,
+        "thumbnail": "Weapon_The_Daybreak_Chronicles.png",
+        "link": "https://genshin-impact.fandom.com/wiki/The_Daybreak_Chronicles"
     }, {
         "object_type": "weapon",
         "name": "The Dockhand's Assistant",

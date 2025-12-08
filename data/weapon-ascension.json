@@ -949,6 +949,94 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Aqua Simulacra",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Spectral Husk"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Spectral Heart"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Spectral Nucleus"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Gloomy Statuette"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Dark Statuette"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Deathly Statuette"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Luminous Sands from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Lustrous Stone from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Relic from Guyun"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Divine Body from Guyun"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Aquila Favonia",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Firm Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sharp Arrowhead"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Weathered Arrowhead"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Tile of Decarabian's Tower"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Debris of Decarabian's City"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Fragment of Decarabian's Epic"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Scattered Piece of Decarabian's Dream"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Ash-Graven Drinking Horn",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -1037,75 +1125,31 @@
         }]
     }, {
         "object_type": "ascension-materials",
-        "name": "Aqua Simulacra",
+        "name": "Athame Artis",
         "materials": [{
             "type": "Common Ascension Materials",
             "rarity": 1,
-            "name": "Spectral Husk"
+            "name": "Broken Drive Shaft"
         }, {
             "type": "Common Ascension Materials",
             "rarity": 2,
-            "name": "Spectral Heart"
+            "name": "Reinforced Drive Shaft"
         }, {
             "type": "Common Ascension Materials",
             "rarity": 3,
-            "name": "Spectral Nucleus"
+            "name": "Precision Drive Shaft"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 2,
-            "name": "Gloomy Statuette"
+            "name": "Frostnight's Glimmer"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 3,
-            "name": "Dark Statuette"
+            "name": "Frostnight's Glow"
         }, {
             "type": "Elite Common Ascension Materials",
             "rarity": 4,
-            "name": "Deathly Statuette"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 2,
-            "name": "Luminous Sands from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 3,
-            "name": "Lustrous Stone from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 4,
-            "name": "Relic from Guyun"
-        }, {
-            "type": "Weapon Ascension Materials",
-            "rarity": 5,
-            "name": "Divine Body from Guyun"
-        }]
-    }, {
-        "object_type": "ascension-materials",
-        "name": "Aquila Favonia",
-        "materials": [{
-            "type": "Common Ascension Materials",
-            "rarity": 1,
-            "name": "Firm Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 2,
-            "name": "Sharp Arrowhead"
-        }, {
-            "type": "Common Ascension Materials",
-            "rarity": 3,
-            "name": "Weathered Arrowhead"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 2,
-            "name": "Heavy Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 3,
-            "name": "Black Bronze Horn"
-        }, {
-            "type": "Elite Common Ascension Materials",
-            "rarity": 4,
-            "name": "Black Crystal Horn"
+            "name": "Frostnight's Glory"
         }, {
             "type": "Weapon Ascension Materials",
             "rarity": 2,
@@ -6245,6 +6289,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Rainbow Serpent's Rain Bow",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Refractive Bud"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Bewildering Broadleaf"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Illusory Leafcoil"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Night-Wind's Mystic Consideration"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Night-Wind's Mystic Premonition"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Night-Wind's Mystic Augury"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Night-Wind's Mystic Revelation"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Rainslasher",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -8726,6 +8814,50 @@
             "type": "Weapon Ascension Materials",
             "rarity": 5,
             "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "The Daybreak Chronicles",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Treasure Hoarder Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Silver Raven Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Golden Raven Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Heavy Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Black Bronze Horn"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Black Crystal Horn"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Fetters of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Chains of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Shackles of the Dandelion Gladiator"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Dream of the Dandelion Gladiator"
         }]
     }, {
         "object_type": "ascension-materials",
