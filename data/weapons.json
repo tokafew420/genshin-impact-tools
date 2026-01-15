@@ -807,6 +807,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Nightweaver's_Looking_Glass"
     }, {
         "object_type": "weapon",
+        "name": "Nocturne's Curtain Call",
+        "type": "Catalyst",
+        "rarity": 5,
+        "thumbnail": "Weapon_Nocturne's_Curtain_Call.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Nocturne's_Curtain_Call"
+    }, {
+        "object_type": "weapon",
         "name": "Oathsworn Eye",
         "type": "Catalyst",
         "rarity": 4,

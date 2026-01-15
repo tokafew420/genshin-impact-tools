@@ -1715,6 +1715,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Collei"
     }, {
         "object_type": "character",
+        "name": "Columbina",
+        "type": "Character",
+        "display_name": "Columbina",
+        "rarity": 5,
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Moondew Cascade",
+            "type": "Normal Attack",
+            "thumbnail": "Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Moondew_Cascade"
+        }, {
+            "object_type": "talent",
+            "name": "Eternal Tides",
+            "type": "Elemental Skill",
+            "thumbnail": "Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Eternal_Tides",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Moonlit Melancholy",
+            "type": "Elemental Burst",
+            "thumbnail": "Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Moonlit_Melancholy",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Lunacy's Lure",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lunacy's_Lure"
+        }, {
+            "object_type": "talent",
+            "name": "Law of the New Moon",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Law_of_the_New_Moon"
+        }, {
+            "object_type": "talent",
+            "name": "Moonlight, Lent Unto You",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Moonlight,_Lent_Unto_You"
+        }, {
+            "object_type": "talent",
+            "name": "Lunar Vigil",
+            "type": "Utility Passive",
+            "thumbnail": "Unknown.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Lunar_Vigil"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Radiance Over Blossoms and Peaks",
+            "level": 1,
+            "thumbnail": "Constellation_Radiance_Over_Blossoms_and_Peaks.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Radiance_Over_Blossoms_and_Peaks"
+        }, {
+            "object_type": "constellation",
+            "name": "Not in Lone Splendor",
+            "level": 2,
+            "thumbnail": "Constellation_Not_in_Lone_Splendor.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Not_in_Lone_Splendor"
+        }, {
+            "object_type": "constellation",
+            "name": "Dreamlike Glow Across Tranquil Waters",
+            "level": 3,
+            "thumbnail": "Constellation_Dreamlike_Glow_Across_Tranquil_Waters.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dreamlike_Glow_Across_Tranquil_Waters"
+        }, {
+            "object_type": "constellation",
+            "name": "Cloudveiled Ridges in Floral Mists",
+            "level": 4,
+            "thumbnail": "Constellation_Cloudveiled_Ridges_in_Floral_Mists.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Cloudveiled_Ridges_in_Floral_Mists"
+        }, {
+            "object_type": "constellation",
+            "name": "Silence Tending One Lone Song",
+            "level": 5,
+            "thumbnail": "Constellation_Silence_Tending_One_Lone_Song.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Silence_Tending_One_Lone_Song"
+        }, {
+            "object_type": "constellation",
+            "name": "Through Darkness Led by Moonlight",
+            "level": 6,
+            "thumbnail": "Constellation_Through_Darkness_Led_by_Moonlight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Through_Darkness_Led_by_Moonlight"
+        }],
+        "thumbnail": "Character_Columbina_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Columbina"
+    }, {
+        "object_type": "character",
         "name": "Cyno",
         "type": "Character",
         "display_name": "Cyno",

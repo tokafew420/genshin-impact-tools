@@ -1210,6 +1210,14 @@
         "link": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
     }, {
         "object_type": "item",
+        "name": "Winter Icelea",
+        "type": "Local Specialties",
+        "category": "Materials",
+        "region": "Nod-Krai",
+        "thumbnail": "Item_Winter_Icelea.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Winter_Icelea"
+    }, {
+        "object_type": "item",
         "name": "Wolfhook",
         "type": "Local Specialties",
         "category": "Materials",
@@ -3417,6 +3425,36 @@
         "link": "https://genshin-impact.fandom.com/wiki/Mistshroud_Helmet"
     }, {
         "object_type": "item",
+        "name": "Fractured Eye of the Deep Shadow",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fisher of Hidden Depths",
+        "rarity": 2,
+        "source": ["Fisher of Hidden Depths"],
+        "thumbnail": "Item_Fractured_Eye_of_the_Deep_Shadow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Fractured_Eye_of_the_Deep_Shadow"
+    }, {
+        "object_type": "item",
+        "name": "Aberrant Core of the Deep Shadow",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fisher of Hidden Depths",
+        "rarity": 3,
+        "source": ["Fisher of Hidden Depths"],
+        "thumbnail": "Item_Aberrant_Core_of_the_Deep_Shadow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Aberrant_Core_of_the_Deep_Shadow"
+    }, {
+        "object_type": "item",
+        "name": "Hooked Beak of the Deep Shadow",
+        "type": "Elite Common Ascension Materials",
+        "category": "Character Development Items",
+        "group": "Fisher of Hidden Depths",
+        "rarity": 4,
+        "source": ["Fisher of Hidden Depths"],
+        "thumbnail": "Item_Hooked_Beak_of_the_Deep_Shadow.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Hooked_Beak_of_the_Deep_Shadow"
+    }, {
+        "object_type": "item",
         "group_type": "dvalin-material",
         "name": "Dvalin's Plume",
         "type": "Elite Boss Material",
@@ -3811,6 +3849,39 @@
         "source": ["Lord of Eroded Primal Fire"],
         "thumbnail": "Item_Eroded_Scale-Feather.png",
         "link": "https://genshin-impact.fandom.com/wiki/Eroded_Scale-Feather"
+    }, {
+        "object_type": "item",
+        "group_type": "the-doctor",
+        "name": "Mask of the Virtuous Doctor",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Nod-Krai",
+        "source": ["The Doctor"],
+        "thumbnail": "Item_Mask_of_the_Virtuous_Doctor.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Mask_of_the_Virtuous_Doctor"
+    }, {
+        "object_type": "item",
+        "group_type": "the-doctor",
+        "name": "Madman's Restraint",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Nod-Krai",
+        "source": ["The Doctor"],
+        "thumbnail": "Item_Madman's_Restraint.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Madman's_Restraint"
+    }, {
+        "object_type": "item",
+        "group_type": "the-doctor",
+        "name": "Elixir of the Heretic",
+        "type": "Elite Boss Material",
+        "category": "Character Development Items",
+        "rarity": 5,
+        "region": "Nod-Krai",
+        "source": ["The Doctor"],
+        "thumbnail": "Item_Elixir_of_the_Heretic.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Elixir_of_the_Heretic"
     }, {
         "object_type": "item",
         "name": "The Cornerstone of Stars and Flames",

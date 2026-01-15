@@ -5565,6 +5565,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Nocturne's Curtain Call",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Fractured Eye of the Deep Shadow"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Aberrant Core of the Deep Shadow"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Hooked Beak of the Deep Shadow"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Sundered Glory of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Unyielding Delusion of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Oblation of the Far-North Scions"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Aureate Radiance of the Far-North Scions"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Oathsworn Eye",
         "materials": [{
             "type": "Common Ascension Materials",

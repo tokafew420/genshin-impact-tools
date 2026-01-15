@@ -817,6 +817,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Columbina",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Mask of the Virtuous Doctor"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Moonlight"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Moonlight"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Moonlight"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Cyno",
         "materials": [{
             "type": "Common Ascension Materials",

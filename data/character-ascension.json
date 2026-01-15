@@ -951,6 +951,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Columbina",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Radiant Antler"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Varunada Lazurite Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Varunada Lazurite Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Varunada Lazurite Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Varunada Lazurite Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Slime Condensate"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Slime Secretions"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Slime Concentrate"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Winter Icelea"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Cyno",
         "materials": [{
             "type": "Boss Material",
