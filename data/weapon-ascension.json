@@ -4597,6 +4597,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Lightbearing Moonshard",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Mistshroud Manifestation"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Mistshroud Plate"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Mistshroud Helmet"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Grain of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Piece of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Bit of Aerosiderite"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Chunk of Aerosiderite"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Light of Foliar Incision",
         "materials": [{
             "type": "Common Ascension Materials",

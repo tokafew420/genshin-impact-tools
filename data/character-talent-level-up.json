@@ -1521,6 +1521,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Illuga",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Eroded Horn"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Elysium"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Elysium"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Elysium"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Ineffa",
         "materials": [{
             "type": "Common Ascension Materials",
@@ -4693,6 +4725,38 @@
             "type": "Elite Boss Material",
             "rarity": 5,
             "name": "Tusk of Monoceros Caeli"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Gold"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Gold"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Gold"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
+        "name": "Zibai",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Ascended Sample: Queen"
         }, {
             "type": "Talent Level-Up Material",
             "rarity": 2,

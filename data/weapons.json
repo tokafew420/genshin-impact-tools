@@ -653,6 +653,13 @@
         "link": "https://genshin-impact.fandom.com/wiki/Kitain_Cross_Spear"
     }, {
         "object_type": "weapon",
+        "name": "Lightbearing Moonshard",
+        "type": "Sword",
+        "rarity": 5,
+        "thumbnail": "Weapon_Lightbearing_Moonshard.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Lightbearing_Moonshard"
+    }, {
+        "object_type": "weapon",
         "name": "Light of Foliar Incision",
         "type": "Sword",
         "rarity": 5,

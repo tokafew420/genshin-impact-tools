@@ -3653,6 +3653,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Ifa"
     }, {
         "object_type": "character",
+        "name": "Illuga",
+        "type": "Character",
+        "display_name": "Illuga",
+        "rarity": 4,
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Oathkeeper's Spear",
+            "type": "Normal Attack",
+            "thumbnail": "Polearm_Geo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Oathkeeper's_Spear"
+        }, {
+            "object_type": "talent",
+            "name": "Dawnbearing Songbird",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Dawnbearing_Songbird.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dawnbearing_Songbird",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Shadowless Reflection",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Shadowless_Reflection.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Shadowless_Reflection",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Torchforger's Covenant",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Torchforger's_Covenant.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Torchforger's_Covenant"
+        }, {
+            "object_type": "talent",
+            "name": "Demonhunter's Dusk",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Demonhunter's_Dusk.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Demonhunter's_Dusk"
+        }, {
+            "object_type": "talent",
+            "name": "Unwithering in Winter",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_Unwithering_in_Winter.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Unwithering_in_Winter"
+        }, {
+            "object_type": "talent",
+            "name": "Night Warden's Stride",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Night_Warden's_Stride.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Night_Warden's_Stride"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Vigilant Sentinel",
+            "level": 1,
+            "thumbnail": "Constellation_Vigilant_Sentinel.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Vigilant_Sentinel"
+        }, {
+            "object_type": "constellation",
+            "name": "Elk With Fanged Antlers",
+            "level": 2,
+            "thumbnail": "Constellation_Elk_With_Fanged_Antlers.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Elk_With_Fanged_Antlers"
+        }, {
+            "object_type": "constellation",
+            "name": "Earthshaking Maw",
+            "level": 3,
+            "thumbnail": "Constellation_Earthshaking_Maw.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Earthshaking_Maw"
+        }, {
+            "object_type": "constellation",
+            "name": "Solarhunting Wolf",
+            "level": 4,
+            "thumbnail": "Constellation_Solarhunting_Wolf.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Solarhunting_Wolf"
+        }, {
+            "object_type": "constellation",
+            "name": "Hurricane Steed",
+            "level": 5,
+            "thumbnail": "Constellation_Hurricane_Steed.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Hurricane_Steed"
+        }, {
+            "object_type": "constellation",
+            "name": "Nightmare Orioles",
+            "level": 6,
+            "thumbnail": "Constellation_Nightmare_Orioles.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Nightmare_Orioles"
+        }],
+        "thumbnail": "Character_Illuga_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Illuga"
+    }, {
+        "object_type": "character",
         "name": "Ineffa",
         "type": "Character",
         "display_name": "Ineffa",
@@ -9934,5 +10027,98 @@
         }],
         "thumbnail": "Character_Zhongli_Thumb.png",
         "link": "https://genshin-impact.fandom.com/wiki/Zhongli"
+    }, {
+        "object_type": "character",
+        "name": "Zibai",
+        "type": "Character",
+        "display_name": "Zibai",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Golden Blade's Petaled Touch",
+            "type": "Normal Attack",
+            "thumbnail": "Sword_Geo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Golden_Blade's_Petaled_Touch"
+        }, {
+            "object_type": "talent",
+            "name": "Heaven and Earth Made Manifest",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Heaven_and_Earth_Made_Manifest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Heaven_and_Earth_Made_Manifest",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Tri-Sphere Eminence",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Tri-Sphere_Eminence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tri-Sphere_Eminence",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "The Selenic Adeptus Descends",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_The_Selenic_Adeptus_Descends.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Selenic_Adeptus_Descends"
+        }, {
+            "object_type": "talent",
+            "name": "Layered Peaks Pierce the Clouds",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Layered_Peaks_Pierce_the_Clouds.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Layered_Peaks_Pierce_the_Clouds"
+        }, {
+            "object_type": "talent",
+            "name": "The Coursing Sun and Moon",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_The_Coursing_Sun_and_Moon.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Coursing_Sun_and_Moon"
+        }, {
+            "object_type": "talent",
+            "name": "Moonlit Flower Forest",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Moonlit_Flower_Forest.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Moonlit_Flower_Forest"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Burst Forth With Vigor, But Enter in Silence",
+            "level": 1,
+            "thumbnail": "Constellation_Burst_Forth_With_Vigor,_But_Enter_in_Silence.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Burst_Forth_With_Vigor,_But_Enter_in_Silence"
+        }, {
+            "object_type": "constellation",
+            "name": "At Birth Are Souls Born, and in Death Leave But Husks",
+            "level": 2,
+            "thumbnail": "Constellation_At_Birth_Are_Souls_Born,_and_in_Death_Leave_But_Husks.png",
+            "link": "https://genshin-impact.fandom.com/wiki/At_Birth_Are_Souls_Born,_and_in_Death_Leave_But_Husks"
+        }, {
+            "object_type": "constellation",
+            "name": "Free From Constraints and Worldly Ties",
+            "level": 3,
+            "thumbnail": "Constellation_Free_From_Constraints_and_Worldly_Ties.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Free_From_Constraints_and_Worldly_Ties"
+        }, {
+            "object_type": "constellation",
+            "name": "The Spirit Passes, Then Form Follows",
+            "level": 4,
+            "thumbnail": "Constellation_The_Spirit_Passes,_Then_Form_Follows.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_Spirit_Passes,_Then_Form_Follows"
+        }, {
+            "object_type": "constellation",
+            "name": "Perceive the Worthless and Debate It Not",
+            "level": 5,
+            "thumbnail": "Constellation_Perceive_the_Worthless_and_Debate_It_Not.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Perceive_the_Worthless_and_Debate_It_Not"
+        }, {
+            "object_type": "constellation",
+            "name": "The World, A Journey in Passing",
+            "level": 6,
+            "thumbnail": "Constellation_The_World,_A_Journey_in_Passing.png",
+            "link": "https://genshin-impact.fandom.com/wiki/The_World,_A_Journey_in_Passing"
+        }],
+        "thumbnail": "Character_Zibai_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Zibai"
     }]
 }

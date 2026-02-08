@@ -1831,6 +1831,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Illuga",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Cyclic Military Kuuvahki Core"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Prithiva Topaz Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Prithiva Topaz Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Prithiva Topaz Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Prithiva Topaz Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Pine Amber"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Ineffa",
         "materials": [{
             "type": "Boss Material",
@@ -4504,6 +4544,46 @@
             "type": "Local Specialties",
             "rarity": 1,
             "name": "Cor Lapis"
+        }]
+    }, {
+        "object_type": "ascension-materials",
+        "name": "Zibai",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Remnant of the Dreadwing"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Prithiva Topaz Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Prithiva Topaz Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Prithiva Topaz Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Prithiva Topaz Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Glaze Lily"
         }]
     }]
 }
