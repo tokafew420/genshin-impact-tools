@@ -2129,6 +2129,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Linnea",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Elixir of the Heretic"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Vagrancy"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Vagrancy"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Vagrancy"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Lisa",
         "materials": [{
             "type": "Common Ascension Materials",

@@ -5343,6 +5343,99 @@
         "link": "https://genshin-impact.fandom.com/wiki/Layla"
     }, {
         "object_type": "character",
+        "name": "Linnea",
+        "type": "Character",
+        "display_name": "Linnea",
+        "rarity": 5,
+        "element": "Geo",
+        "weapon": "Bow",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Capture Protocol",
+            "type": "Normal Attack",
+            "thumbnail": "Bow_Geo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Capture_Protocol"
+        }, {
+            "object_type": "talent",
+            "name": "Countermeasure: Lumi's Battle Cry!",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Countermeasure-_Lumi's_Battle_Cry!.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Countermeasure:_Lumi's_Battle_Cry!",
+            "constellation": 3
+        }, {
+            "object_type": "talent",
+            "name": "Memo: Survival Guide in Extreme Conditions",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Memo-_Survival_Guide_in_Extreme_Conditions.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Memo:_Survival_Guide_in_Extreme_Conditions",
+            "constellation": 5
+        }, {
+            "object_type": "talent",
+            "name": "Field Observation Notes",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Field_Observation_Notes.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Field_Observation_Notes"
+        }, {
+            "object_type": "talent",
+            "name": "Universal Naturalist Archive",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Universal_Naturalist_Archive.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Universal_Naturalist_Archive"
+        }, {
+            "object_type": "talent",
+            "name": "Habitat Survey",
+            "type": "Moonsign Benediction Passive",
+            "thumbnail": "Talent_Habitat_Survey.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Habitat_Survey"
+        }, {
+            "object_type": "talent",
+            "name": "Master Adventurer",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Master_Adventurer.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Master_Adventurer"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "Provisional Classification",
+            "level": 1,
+            "thumbnail": "Constellation_Provisional_Classification.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Provisional_Classification"
+        }, {
+            "object_type": "constellation",
+            "name": "Tidings of Joy and Sorrow",
+            "level": 2,
+            "thumbnail": "Constellation_Tidings_of_Joy_and_Sorrow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Tidings_of_Joy_and_Sorrow"
+        }, {
+            "object_type": "constellation",
+            "name": "Eventful Log Page",
+            "level": 3,
+            "thumbnail": "Constellation_Eventful_Log_Page.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Eventful_Log_Page"
+        }, {
+            "object_type": "constellation",
+            "name": "Expert Instinct",
+            "level": 4,
+            "thumbnail": "Constellation_Expert_Instinct.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Expert_Instinct"
+        }, {
+            "object_type": "constellation",
+            "name": "Fairyland's Farewell Gift",
+            "level": 5,
+            "thumbnail": "Constellation_Fairyland's_Farewell_Gift.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Fairyland's_Farewell_Gift"
+        }, {
+            "object_type": "constellation",
+            "name": "Golden Beagle's Dream",
+            "level": 6,
+            "thumbnail": "Constellation_Golden_Beagle's_Dream.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Golden_Beagle's_Dream"
+        }],
+        "thumbnail": "Character_Linnea_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Linnea"
+    }, {
+        "object_type": "character",
         "name": "Lisa",
         "type": "Character",
         "rarity": 4,

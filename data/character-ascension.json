@@ -2591,6 +2591,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Linnea",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Plume of the Fallen Watcher"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Prithiva Topaz Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Prithiva Topaz Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Prithiva Topaz Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Prithiva Topaz Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Etherwing Moth"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Lisa",
         "materials": [{
             "type": "Boss Material",

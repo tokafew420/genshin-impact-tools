@@ -3961,6 +3961,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Golden Frostbound Oath",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Tattered Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Immaculate Warrant"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Frost-Etched Warrant"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Faded Flaming Hilt"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Fractured Flaming Hilt"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Jeweled Flaming Hilt"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Ember of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Afterglow of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Flare of Long Night Flint"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Blaze of Long Night Flint"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Hakushin Ring",
         "materials": [{
             "type": "Common Ascension Materials",
