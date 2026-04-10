@@ -4196,6 +4196,38 @@
         }]
     }, {
         "object_type": "talent-level-up-materials",
+        "name": "Varka",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Elite Boss Material",
+            "rarity": 5,
+            "name": "Ascended Sample: Rook"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 2,
+            "name": "Teachings of Freedom"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 3,
+            "name": "Guide to Freedom"
+        }, {
+            "type": "Talent Level-Up Material",
+            "rarity": 4,
+            "name": "Philosophies of Freedom"
+        }]
+    }, {
+        "object_type": "talent-level-up-materials",
         "name": "Venti",
         "materials": [{
             "type": "Common Ascension Materials",

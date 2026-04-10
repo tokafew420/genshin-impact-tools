@@ -8552,6 +8552,97 @@
         "link": "https://genshin-impact.fandom.com/wiki/Varesa"
     }, {
         "object_type": "character",
+        "name": "Varka",
+        "type": "Character",
+        "display_name": "Varka",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "region": "Region",
+        "talents": [{
+            "object_type": "talent",
+            "name": "Favonius Bladework: Dancing Radiance",
+            "type": "Normal Attack",
+            "thumbnail": "Claymore_Anemo.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Favonius_Bladework:_Dancing_Radiance"
+        }, {
+            "object_type": "talent",
+            "name": "Windbound Execution",
+            "type": "Elemental Skill",
+            "thumbnail": "Talent_Windbound_Execution.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Windbound_Execution"
+        }, {
+            "object_type": "talent",
+            "name": "Northwind Avatar",
+            "type": "Elemental Burst",
+            "thumbnail": "Talent_Northwind_Avatar.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Northwind_Avatar"
+        }, {
+            "object_type": "talent",
+            "name": "Dawn Wind's March",
+            "type": "1st Ascension Passive",
+            "thumbnail": "Talent_Dawn_Wind's_March.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dawn_Wind's_March"
+        }, {
+            "object_type": "talent",
+            "name": "Wind's Vanguard",
+            "type": "4th Ascension Passive",
+            "thumbnail": "Talent_Wind's_Vanguard.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Wind's_Vanguard"
+        }, {
+            "object_type": "talent",
+            "name": "Dawn's Return",
+            "type": "Witch's Eve Rite Passive",
+            "thumbnail": "Talent_Dawn's_Return.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Dawn's_Return"
+        }, {
+            "object_type": "talent",
+            "name": "Homebound Wind's Paean",
+            "type": "Utility Passive",
+            "thumbnail": "Talent_Homebound_Wind's_Paean.png",
+            "link": "https://genshin-impact.fandom.com/wiki/Homebound_Wind's_Paean"
+        }],
+        "constellations": [{
+            "object_type": "constellation",
+            "name": "\"Come, Friend, Let Us Dance Beneath the Moon's Soft Glow\"",
+            "level": 1,
+            "thumbnail": "Constellation_Come,_Friend,_Let_Us_Dance_Beneath_the_Moon's_Soft_Glow.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Come,_Friend,_Let_Us_Dance_Beneath_the_Moon's_Soft_Glow\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"When Dawn Breaks, Our Journey Shall Take Flight\"",
+            "level": 2,
+            "thumbnail": "Constellation_When_Dawn_Breaks,_Our_Journey_Shall_Take_Flight.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"When_Dawn_Breaks,_Our_Journey_Shall_Take_Flight\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"O Friend, Quaff Not the Bitter Wine That Brings Tears of Woe\"",
+            "level": 3,
+            "thumbnail": "Constellation_O_Friend,_Quaff_Not_the_Bitter_Wine_That_Brings_Tears_of_Woe.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"O_Friend,_Quaff_Not_the_Bitter_Wine_That_Brings_Tears_of_Woe\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"For None May Take From Us Our Freedom of Song\"",
+            "level": 4,
+            "thumbnail": "Constellation_For_None_May_Take_From_Us_Our_Freedom_of_Song.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"For_None_May_Take_From_Us_Our_Freedom_of_Song\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Fill High the Cup With Fine Wine, for Tyrants Come and Go\"",
+            "level": 5,
+            "thumbnail": "Constellation_Fill_High_the_Cup_With_Fine_Wine,_for_Tyrants_Come_and_Go.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Fill_High_the_Cup_With_Fine_Wine,_for_Tyrants_Come_and_Go\""
+        }, {
+            "object_type": "constellation",
+            "name": "\"Beloved Mondstadt, Steadfast You Shall Shine\"",
+            "level": 6,
+            "thumbnail": "Constellation_Beloved_Mondstadt,_Steadfast_You_Shall_Shine.png",
+            "link": "https://genshin-impact.fandom.com/wiki/\"Beloved_Mondstadt,_Steadfast_You_Shall_Shine\""
+        }],
+        "thumbnail": "Character_Varka_Thumb.png",
+        "link": "https://genshin-impact.fandom.com/wiki/Varka"
+    }, {
+        "object_type": "character",
         "name": "Venti",
         "type": "Character",
         "rarity": 5,

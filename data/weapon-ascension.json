@@ -3917,6 +3917,50 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Gest of the Mighty Wolf",
+        "materials": [{
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Recruit's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Sergeant's Insignia"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Lieutenant's Insignia"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 2,
+            "name": "Fractured Eye of the Deep Shadow"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 3,
+            "name": "Aberrant Core of the Deep Shadow"
+        }, {
+            "type": "Elite Common Ascension Materials",
+            "rarity": 4,
+            "name": "Hooked Beak of the Deep Shadow"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 2,
+            "name": "Boreal Wolf's Milk Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 3,
+            "name": "Boreal Wolf's Cracked Tooth"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 4,
+            "name": "Boreal Wolf's Broken Fang"
+        }, {
+            "type": "Weapon Ascension Materials",
+            "rarity": 5,
+            "name": "Boreal Wolf's Nostalgia"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Hakushin Ring",
         "materials": [{
             "type": "Common Ascension Materials",

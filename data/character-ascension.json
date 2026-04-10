@@ -3867,6 +3867,46 @@
         }]
     }, {
         "object_type": "ascension-materials",
+        "name": "Varka",
+        "materials": [{
+            "type": "Boss Material",
+            "rarity": 4,
+            "name": "Prismatic Severed Tail"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 2,
+            "name": "Vayuda Turquoise Sliver"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 3,
+            "name": "Vayuda Turquoise Fragment"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 4,
+            "name": "Vayuda Turquoise Chunk"
+        }, {
+            "type": "Character Ascension Materials",
+            "rarity": 5,
+            "name": "Vayuda Turquoise Gemstone"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 1,
+            "name": "Broken Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 2,
+            "name": "Reinforced Drive Shaft"
+        }, {
+            "type": "Common Ascension Materials",
+            "rarity": 3,
+            "name": "Precision Drive Shaft"
+        }, {
+            "type": "Local Specialties",
+            "rarity": 1,
+            "name": "Wolfhook"
+        }]
+    }, {
+        "object_type": "ascension-materials",
         "name": "Venti",
         "materials": [{
             "type": "Boss Material",
